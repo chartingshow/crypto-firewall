@@ -19,12 +19,12 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 
 Then click or import below link into your adblocker:
 
-- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/master/src/lists/nomalware.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/master/src/lists/nomalware.txt&title=NoCoin%20Filter%20List)
+- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/nomalware.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/nomalware.txt&title=NoCoin%20Filter%20List)
 
 ## Hosts based blocking
 
 For the blocking based on the [HOSTS file](https://en.wikipedia.org/wiki/Hosts_(file)) use the below link:
-- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/master/src/lists/hosts.txt)
+- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt)
 
 ### hosts
 
@@ -36,7 +36,7 @@ You can simply copy and paste the contents of above file into your hosts file. T
 Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows). Or you can use command below for linux
 
 ```
-sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/master/src/lists/hosts.txt >> /etc/hosts'
+sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt >> /etc/hosts'
 ```
 
 ### Adblockers
