@@ -1,0 +1,7 @@
+service_name: github-actions
+
+coverage_clover:
+  - runner.xml
+  - phpunit.xml.dist
+
+json_path: coveralls.json

@@ -1,0 +1,10 @@
+preset: laravel
+
+risky: false
+
+enabled:
+  - phpdoc_order
+  - phpdoc_separation
+
+disabled:
+  - length_ordered_imports
