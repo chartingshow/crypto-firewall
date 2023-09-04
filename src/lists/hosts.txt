@@ -63,6 +63,7 @@
 0.0.0.0 cdn.minescripts.info
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdnjs.cloudflane.com
+0.0.0.0 central-cee-doja.ru
 0.0.0.0 cfcdist.gdn
 0.0.0.0 clgserv.pro
 0.0.0.0 cloud-miner.de
