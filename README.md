@@ -29,10 +29,7 @@ This is a filter list to block "browser-based crypto mining and injected malware
 
 ## Table of Contents 📑
 
-
 ..
-
-
 
 ## Installation
 
