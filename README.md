@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
+  <img src="https://github.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/blob/master/images/firewall-icon.png" width="128" height="128"/>
 </p>
 
 <h1 align="center">Summer CMS Crypto Malware Block Lists</h1>
