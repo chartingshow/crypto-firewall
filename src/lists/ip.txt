@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 May 2023
+# Last modified: 8 September 2023
 #
 
 4.201.87.248
@@ -167,6 +167,7 @@
 51.89.187.141
 51.89.187.142
 51.89.187.143
+51.178.39.184
 51.178.195.171
 51.195.115.102
 52.0.217.44

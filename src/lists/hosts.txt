@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/crypto-malware-block-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 May 2023
+# Last modified: 8 September 2023
 #
 
 0.0.0.0 1q2w3.fun
@@ -104,6 +104,7 @@
 0.0.0.0 dreambusweduybcp.onion
 0.0.0.0 dronml.ml
 0.0.0.0 easyhash.de
+0.0.0.0 educu.xyz
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
@@ -113,6 +114,7 @@
 0.0.0.0 ethereum-pocket.com
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
+0.0.0.0 ethermine.org
 0.0.0.0 ethtrader.de
 0.0.0.0 eu.cfcdist.loan
 0.0.0.0 eucsoft.com
@@ -371,6 +373,7 @@
 0.0.0.0 sxcdn4.now.sh
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sxcdn6.now.sh
+0.0.0.0 sysnod.duckdns.org
 0.0.0.0 test.minr.pw
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
