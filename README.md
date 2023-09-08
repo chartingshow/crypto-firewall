@@ -1,6 +1,38 @@
-# Crypto Malware Blocking Filter List
+<p align="center">
+  <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
+</p>
+
+<h1 align="center">Summer CMS Crypto Malware Block Lists</h1>
+
+<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/cover.jpg" /></p>
 
 This is a filter list to block "browser-based crypto mining and injected malware sites". Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
+
+<p align="center">
+    <img src="/assets/images/stars.svg" alt="stars" />
+    <img src="/assets/images/badges/cms.png" height="20" alt="summer cms" />
+    <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
+    <a href="https://github.com/Summer-CMS/Awesome#readme"><img src="https://github.com/Summer-CMS/Ecosystem/blob/master/assets/images/awesome-badge.svg"></a>
+    <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-vendor-packages-parser"><img src="/assets/images/circleci.svg"></a>
+    <img src="/assets/images/code.svg" />
+    <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
+    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-8.0%20to%208.2-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>  
+    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Laravel-9.0%20(LTS)-777bb3.svg?logo=laravel&logoColor=white&labelColor=555555&color=orange" /></a>
+    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Symfony-6.0%20to%206.4-777bb3.svg?logo=symfony&logoColor=white&labelColor=555555&color=yellow" /></a>
+    <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
+    <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
+    <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Modules/sc-vendor-packages-parser?include_prereleases">
+</p>
+
+<br>
+
+## Table of Contents 📑
+
+
+..
+
+
 
 ## Installation
 
