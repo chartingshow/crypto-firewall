@@ -12,14 +12,13 @@ This is a filter list to block browser-based crypto mining, cryptojacking, injec
     <img src="/assets/images/stars.svg" alt="stars" />
     <img src="/assets/images/badges/cms.png" height="20" alt="summer cms" />
     <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
-    <a href="https://github.com/Summer-CMS/Awesome#readme"><img src="https://github.com/Summer-CMS/Ecosystem/blob/master/assets/images/awesome-badge.svg"></a>
     <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
     <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
     <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists?include_prereleases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists?include_prereleases">
 </p>
 
 <br>
