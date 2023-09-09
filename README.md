@@ -122,7 +122,7 @@ Please see [CHANGELOG](https://github.com/Summer-CMS-Vendor-Packages/sc-block-ba
 
 If you like Summer CMS you can support the project's improvements and development of new features with a donation to our collective.
 
- 👉  [https://opencollective.com/summer-cms](https://opencollective.com/summer-cms)
+👉 [https://opencollective.com/summer-cms](https://opencollective.com/summer-cms)
 
 ### Sponsors ✨
 
@@ -130,7 +130,7 @@ Support us by becoming a sponsor. Your logo will show up here with a link to you
 
 <a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/83365462" width="64"></a>
 
- ### Backers ✨
+### Backers ✨
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/summer-cms/contribute/backer-8632/checkout)]
 
@@ -139,7 +139,7 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 ## Contributions, Feature Requests and Feedback ✨
 
 This project exists thanks to all the people who contribute.
-    
+
 <p align="center"><img src="/assets/images/summercms-contributors.jpg" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
