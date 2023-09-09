@@ -40,9 +40,9 @@ You can find external information to avoid cryptocurrency scams in the following
 
 ..
 
-## Installation
+## Installation ❤️
 
-### AdBlock Filter
+### AdBlock Filter 🌟
 
 Make sure you have an adblocker installed in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
 
@@ -53,6 +53,8 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 - ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
 - ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default)
 - ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) (Included by default from Opera 50)
+
+## Basic usage 🔥
 
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
@@ -66,13 +68,13 @@ There are two methods to install into your adblocker:
 
 - https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/nomalware.txt
 
-## Hosts based blocking
+## Hosts based blocking 💢
 
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
 - [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt)
 
-### hosts
+### hosts 💾
 
 You can simply copy and paste the contents of above file into your hosts file. The locations of your hosts file depends on your system:
 
@@ -86,14 +88,14 @@ Whichever OS you use, you will require escalated privileges to edit the file (ei
 sudo -- sh -c 'curl -sS https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/hosts.txt >> /etc/hosts'
 ```
 
-### Adblockers
+### Adblockers ☀️
 
 - ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
 - ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
 - ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 - ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
-### Perimeter blocking
+### Perimeter blocking 🔓
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
 
@@ -103,3 +105,81 @@ You may use the hosts file with below applications to block these miners on whol
 ---
 
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
+
+## Issues 🔨
+
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists">
+
+If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
+
+## Changelog 🏆
+
+Please see [CHANGELOG](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/releases) for more information what has changed recently.
+
+## If you like the Summer CMS project 💗💗💗
+
+<p><a href="https://opencollective.com/summer-cms"><img align="center" src="/assets/images/support-summer-cms.jpg" /></a></p>
+
+If you like Summer CMS you can support the project's improvements and development of new features with a donation to our collective.
+
+ 👉  [https://opencollective.com/summer-cms](https://opencollective.com/summer-cms)
+
+### Sponsors ✨
+
+Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/summer-cms/contribute/sir-8679/checkout)]
+
+<a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/83365462" width="64"></a>
+
+ ### Backers ✨
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/summer-cms/contribute/backer-8632/checkout)]
+
+<p align="center"><a href="https://opencollective.com/summercms#backers" target="_blank"><img src="/assets/images/summercms-backers.jpg"></a></p>
+
+## Contributions, Feature Requests and Feedback ✨
+
+This project exists thanks to all the people who contribute.
+    
+<p align="center"><img src="/assets/images/summercms-contributors.jpg" /></p>
+
+We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
+
+This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
+
+- Read the current content and help us fix any spelling mistakes or grammatical errors.
+- Choose an existing [issue](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues) on GitHub and submit a pull request to fix it.
+- Open a new issue to report an opportunity for improvement.
+
+If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
+
+## Requesting icon 🎁
+
+When you want to request a icon please feel feel to create a issue. See our [contribution guidelines](CONTRIBUTING.md) for more information.
+
+## Security 💥
+
+If you discover any security related issues, please open an issue! We will try and sort it out asap.
+
+## Semantic Versioning 🎁
+
+This package uses: [Semantic Versioning](https://semver.org/).
+
+## Legal 🔨
+
+All logos and trademarks are the property of their respective owners.
+
+## Copyright and License 📄
+
+Copyright (c) Summer CMS. All rights reserved.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Everyone is permitted to copy and distribute copies of Summer CMS, but changing and hard forking are not allowed.
+
+### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+<p align="center"><img src="/assets/images/stargazers.jpg" alt="stars"></p>
+
+[⬆ back to top](#table-of-contents-)
+
+<p align="center">Made with ❤️ for the Decentralized World.</p>
