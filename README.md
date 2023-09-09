@@ -37,7 +37,6 @@ You can find external information to avoid cryptocurrency scams in the following
 - https://www.ic3.gov/Media/Y2023/PSA230309
 - https://www.fca.org.uk/multimedia/fca-and-asa-team-warn-finfluencers-risks-promoting-illegal-get-rich-quick-schemes
 
-
 ## Table of Contents 📑
 
 ..
