@@ -12,9 +12,9 @@ This is a filter list to block browser-based crypto mining, cryptojacking, injec
     <img src="/assets/images/stars.svg" alt="stars" />
     <img src="/assets/images/badges/cms.png" height="20" alt="summer cms" />
     <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
-    <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
+    <a href="https://circleci.com/gh/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
-    <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
+    <a href="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
     <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
@@ -38,25 +38,25 @@ You can find external information to avoid cryptocurrency scams in the following
 
 ## Table of Contents 📑
 
-- [Installation ❤️](#installation---)
-  - [AdBlock Filter 🌟](#adblock-filter---)
-- [Basic usage 🔥](#basic-usage---)
-- [Hosts based blocking 💢](#hosts-based-blocking---)
-  - [Hosts 💾](#hosts---)
-  - [Adblockers ☀️](#adblockers---)
-  - [Perimeter blocking 🔓](#perimeter-blocking---)
-- [Issues 🔨](#issues---)
-- [Changelog 🏆](#changelog---)
-- [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-------)
-  - [Sponsors ✨](#sponsors--)
-  - [Backers ✨](#backers--)
-- [Contributions, Feature Requests and Feedback ✨](#contributions--feature-requests-and-feedback--)
-- [Requesting icon 🎁](#requesting-icon---)
-- [Security 💥](#security---)
-- [Semantic Versioning 🎁](#semantic-versioning---)
-- [Legal 🔨](#legal---)
-- [Copyright and License 📄](#copyright-and-license---)
-  - [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the--stargazers--who-have-supported-this-project-with-stars---)
+- [Installation ❤️](#installation-%EF%B8%8F)
+  - [AdBlock Filter 🌟](#adblock-filter-)
+- [Basic usage 🔥](#basic-usage-)
+- [Hosts based blocking 💢](#hosts-based-blocking-)
+  - [Hosts 💾](#hosts-)
+  - [Adblockers ☀️](#adblockers-%EF%B8%8F)
+  - [Perimeter blocking 🔓](#perimeter-blocking-)
+- [Issues 🔨](#issues-)
+- [Changelog 🏆](#changelog-)
+- [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-)
+  - [Sponsors ✨](#sponsors-)
+  - [Backers ✨](#backers-)
+- [Contributions, Feature Requests and Feedback ✨](#contributions-feature-requests-and-feedback-)
+- [Requesting icon 🎁](#requesting-icon-)
+- [Security 💥](#security-)
+- [Semantic Versioning 🎁](#semantic-versioning-)
+- [Legal 🔨](#legal-)
+- [Copyright and License 📄](#copyright-and-license-)
+  - [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
 
 ## Installation ❤️
 
