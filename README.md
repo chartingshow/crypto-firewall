@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/blob/master/images/firewall-icon.png" width="128" height="128"/>
+  <img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
 </p>
 
 <h1 align="center">Summer CMS Block Bad Crypto Filter Lists</h1>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/cover.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists/blob/master/assets/images/cover.jpg" /></p>
 
 This is a filter list to block "browser-based crypto mining and injected malware sites". Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
 
@@ -13,7 +13,7 @@ This is a filter list to block "browser-based crypto mining and injected malware
     <img src="/assets/images/badges/cms.png" height="20" alt="summer cms" />
     <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
     <a href="https://github.com/Summer-CMS/Awesome#readme"><img src="https://github.com/Summer-CMS/Ecosystem/blob/master/assets/images/awesome-badge.svg"></a>
-    <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-vendor-packages-parser"><img src="/assets/images/circleci.svg"></a>
+    <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
     <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
     <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-8.0%20to%208.2-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>  
@@ -22,7 +22,7 @@ This is a filter list to block "browser-based crypto mining and injected malware
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
     <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Modules/sc-vendor-packages-parser?include_prereleases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists?include_prereleases">
 </p>
 
 <br>
@@ -51,17 +51,17 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/nomalware.txt
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/nomalware.txt
 
 ## Hosts based blocking
 
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
-- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt)
+- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt)
 
 ### hosts
 
