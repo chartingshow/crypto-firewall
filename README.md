@@ -4,7 +4,7 @@
 
 <h1 align="center">Summer CMS Block Bad Crypto Filter Lists</h1>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists/blob/master/assets/images/cover.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/cover.jpg" /></p>
 
 This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites (all trying to steal cryptocurrency from other users). Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or a **Pull request** to add them to the lists.
 
