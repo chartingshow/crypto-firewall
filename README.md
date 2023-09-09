@@ -38,7 +38,25 @@ You can find external information to avoid cryptocurrency scams in the following
 
 ## Table of Contents 📑
 
-..
+- [Installation ❤️](#installation---)
+  * [AdBlock Filter 🌟](#adblock-filter---)
+- [Basic usage 🔥](#basic-usage---)
+- [Hosts based blocking 💢](#hosts-based-blocking---)
+  * [Hosts 💾](#hosts---)
+  * [Adblockers ☀️](#adblockers---)
+  * [Perimeter blocking 🔓](#perimeter-blocking---)
+- [Issues 🔨](#issues---)
+- [Changelog 🏆](#changelog---)
+- [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-------)
+  * [Sponsors ✨](#sponsors--)
+  * [Backers ✨](#backers--)
+- [Contributions, Feature Requests and Feedback ✨](#contributions--feature-requests-and-feedback--)
+- [Requesting icon 🎁](#requesting-icon---)
+- [Security 💥](#security---)
+- [Semantic Versioning 🎁](#semantic-versioning---)
+- [Legal 🔨](#legal---)
+- [Copyright and License 📄](#copyright-and-license---)
+  * [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the--stargazers--who-have-supported-this-project-with-stars---)
 
 ## Installation ❤️
 
@@ -74,7 +92,7 @@ For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_
 
 - [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/hosts.txt)
 
-### hosts 💾
+### Hosts 💾
 
 You can simply copy and paste the contents of above file into your hosts file. The locations of your hosts file depends on your system:
 
