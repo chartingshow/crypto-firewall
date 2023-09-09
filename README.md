@@ -83,7 +83,7 @@ You can simply copy and paste the contents of above file into your hosts file. T
 Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows). Or you can use command below for linux
 
 ```
-sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/master/src/lists/hosts.txt >> /etc/hosts'
+sudo -- sh -c 'curl -sS https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/hosts.txt >> /etc/hosts'
 ```
 
 ### Adblockers
