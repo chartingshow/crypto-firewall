@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists/blob/master/assets/images/cover.jpg" /></p>
 
-This is a filter list to block "browser-based crypto mining and injected malware sites". Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
+This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites (all trying to steal cryptocurrency from other users). Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or a **Pull request** to add them to the lists.
 
 <p align="center">
     <img src="/assets/images/stars.svg" alt="stars" />
@@ -16,9 +16,6 @@ This is a filter list to block "browser-based crypto mining and injected malware
     <a href="https://circleci.com/gh/Summer-CMS-Modules/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
     <a href="https://github.com/Summer-CMS-Modules/sc-module-template" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
-    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-8.0%20to%208.2-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>  
-    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Laravel-9.0%20(LTS)-777bb3.svg?logo=laravel&logoColor=white&labelColor=555555&color=orange" /></a>
-    <a href="https://github.com/Summer-CMS/Welcome#minimum-system-requirements"><img src="https://img.shields.io/badge/Symfony-6.0%20to%206.4-777bb3.svg?logo=symfony&logoColor=white&labelColor=555555&color=yellow" /></a>
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
     <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
@@ -26,6 +23,19 @@ This is a filter list to block "browser-based crypto mining and injected malware
 </p>
 
 <br>
+
+**Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
+
+You can find external information to avoid cryptocurrency scams in the following government agency websites:
+
+- https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams
+- https://www.ic3.gov/
+- https://www.fca.org.uk/investsmart/crypto-basics
+- https://www.fca.org.uk/investsmart/investing-crypto
+- https://www.fca.org.uk/consumers/crypto-investment-scams
+- https://www.ic3.gov/Media/Y2023/PSA230804
+- https://www.ic3.gov/Media/Y2023/PSA230309
+- https://www.fca.org.uk/multimedia/fca-and-asa-team-warn-finfluencers-risks-promoting-illegal-get-rich-quick-schemes
 
 ## Table of Contents 📑
 
