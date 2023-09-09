@@ -45,7 +45,7 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 - ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default)
 - ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) (Included by default from Opera 50)
 
-For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/tree/master/docs
+For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 There are two methods to install into your adblocker:
 
