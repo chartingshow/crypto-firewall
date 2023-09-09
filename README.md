@@ -2,7 +2,7 @@
   <img src="https://github.com/Summer-CMS-Vendor-Packages/sc-crypto-malware-block-lists/blob/master/images/firewall-icon.png" width="128" height="128"/>
 </p>
 
-<h1 align="center">Summer CMS Crypto Malware Block Lists</h1>
+<h1 align="center">Summer CMS Block Bad Crypto Filter Lists</h1>
 
 <p align="center"><img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-parser/blob/master/assets/images/cover.jpg" /></p>
 
