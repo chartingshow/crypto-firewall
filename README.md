@@ -43,7 +43,7 @@ You can find external information to avoid cryptocurrency scams in the following
 - [Basic usage 🔥](#basic-usage-)
 - [Hosts based blocking 💢](#hosts-based-blocking-)
   - [Hosts 💾](#hosts-)
-  - [IP]()
+  - [IP 🌐](#ip-)
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
 - [Issues 🔨](#issues-)
