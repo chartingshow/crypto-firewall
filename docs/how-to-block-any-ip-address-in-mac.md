@@ -4,7 +4,7 @@ The easiest way to block IP addresses on a Mac is to block them for your entire 
 
 1. Find the IP address you want to block from the list found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/ip.txt
 
-2. [Open Terminal](#) and enter the following to open the PacketFilter Configuration file:
+2. [Open Terminal](#how-to-open-terminal-on-mac) and enter the following to open the PacketFilter Configuration file:
 
 ```
 $ sudo vim /etc/pf.conf
@@ -38,18 +38,18 @@ $ pfctl -d
 
 Terminal typically resides on the Dock. The icon resembles a command-line input screen with a white > (greater than) symbol set against a black background.
 
-xxx
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/1.jpg" /></p>
 
 You can also access the Terminal app through the Launchpad.
 
 1. Click the "rocket" icon located on the Dock. This opens the MacOS Launchpad.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/1.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/2.jpg" /></p>
 
 2. Click the **Other** folder.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/2.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/3.jpg" /></p>
 
 3. Click the **Terminal** app.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/3.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/4.jpg" /></p>
