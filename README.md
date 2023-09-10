@@ -45,7 +45,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Hosts 💾](#hosts-)
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
-- [IP 🌐](#ip-)
+- [IP blocking 🌐](#ip-)
 - [Issues 🔨](#issues-)
 - [Changelog 🏆](#changelog-)
 - [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-)
@@ -125,7 +125,7 @@ You may use the hosts file with below applications to block these miners on whol
 
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
 
-## IP 🌐
+## IP blocking 🌐
 
 IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc.
 
