@@ -43,6 +43,7 @@ You can find external information to avoid cryptocurrency scams in the following
 - [Basic usage 🔥](#basic-usage-)
 - [Hosts based blocking 💢](#hosts-based-blocking-)
   - [Hosts 💾](#hosts-)
+  - [IP]()
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
 - [Issues 🔨](#issues-)
@@ -105,6 +106,14 @@ Whichever OS you use, you will require escalated privileges to edit the file (ei
 ```
 sudo -- sh -c 'curl -sS https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/hosts.txt >> /etc/hosts'
 ```
+
+### IP 🌐
+
+IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc.
+
+You can add them to a firewall of your choice.
+
+For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 ### Adblockers ☀️
 
