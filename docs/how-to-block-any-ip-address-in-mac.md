@@ -44,12 +44,12 @@ You can also access the Terminal app through the Launchpad.
 
 1. Click the "rocket" icon located on the Dock. This opens the MacOS Launchpad.
 
-xxx
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/1.jpg" /></p>
 
 2. Click the **Other** folder.
 
-xxx
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/2.jpg" /></p>
 
 3. Click the **Terminal** app.
 
-xxx
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/mac/3.jpg" /></p>
