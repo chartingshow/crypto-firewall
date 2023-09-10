@@ -45,7 +45,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Hosts 💾](#hosts-)
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
-- [IP blocking 🌐](#ip-)
+- [IP blocking 🌐](#ip-blocking-)
 - [Issues 🔨](#issues-)
 - [Changelog 🏆](#changelog-)
 - [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-)
@@ -127,9 +127,7 @@ _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that min
 
 ## IP blocking 🌐
 
-IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc.
-
-You can add them to a firewall of your choice.
+IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc. You can add them to a firewall of your choice.
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
