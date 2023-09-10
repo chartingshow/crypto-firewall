@@ -43,9 +43,9 @@ You can find external information to avoid cryptocurrency scams in the following
 - [Basic usage 🔥](#basic-usage-)
 - [Hosts based blocking 💢](#hosts-based-blocking-)
   - [Hosts 💾](#hosts-)
-  - [IP 🌐](#ip-)
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
+- [IP 🌐](#ip-)
 - [Issues 🔨](#issues-)
 - [Changelog 🏆](#changelog-)
 - [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-)
@@ -107,14 +107,6 @@ Whichever OS you use, you will require escalated privileges to edit the file (ei
 sudo -- sh -c 'curl -sS https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/hosts.txt >> /etc/hosts'
 ```
 
-## IP 🌐
-
-IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc.
-
-You can add them to a firewall of your choice.
-
-For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
-
 ### Adblockers ☀️
 
 - ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
@@ -132,6 +124,14 @@ You may use the hosts file with below applications to block these miners on whol
 ---
 
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
+
+## IP 🌐
+
+IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc.
+
+You can add them to a firewall of your choice.
+
+For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 ## Issues 🔨
 
