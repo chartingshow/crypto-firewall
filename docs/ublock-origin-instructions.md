@@ -18,11 +18,11 @@ This shows you how to add the filter list to [uBlock Origin](https://ublockorigi
 
 - https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware.txt
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/4.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/4b.jpg" /></p>
 
 5. Click on the **Apply Changes** button.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/5.jpg" /></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/5b.jpg" /></p>
 
 6. You should now see the following under a **Custom** section.
 
