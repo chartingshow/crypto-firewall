@@ -2,7 +2,7 @@
 
 The easiest way to block IP addresses on a Mac is to block them for your entire network via your router. If you want to block an IP address on just your Mac, use the Terminal to create a new rule in your PacketFilter Configuration file.
 
-1. Find the IP address you want to block from the list found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/ip.txt
+1. Find the IP address you want to block from the list found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blaklists/ip.txt
 
 2. [Open Terminal](#how-to-open-terminal-on-mac) and enter the following to open the PacketFilter Configuration file:
 
