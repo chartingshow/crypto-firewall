@@ -2,7 +2,7 @@
 
 You can block an IP address on a Windows PC using Windows Firewall:
 
-1. Find the IP address you want to block from the list found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/lists/ip.txt
+1. Find the IP address you want to block from the list found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
 
 2. In Windows Search, type **Windows Firewall** and select **Windows Defender Firewall** to open it.
 
