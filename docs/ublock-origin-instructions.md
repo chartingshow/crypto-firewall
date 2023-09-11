@@ -16,7 +16,7 @@ This shows you how to add the filter list to [uBlock Origin](https://ublockorigi
 
 4. Click on the **Import...** which should then show a box, copy and paste the below url into the box.
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/lists/nomalware.txt
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware.txt
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/4.jpg" /></p>
 
