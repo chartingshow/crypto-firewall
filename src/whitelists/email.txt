@@ -8,6 +8,7 @@ hotmail.com
 hushmail.com
 letskolab.com
 mail.com
+mail.ru
 mailbox.org
 mailchimp.com
 mailfence.com
