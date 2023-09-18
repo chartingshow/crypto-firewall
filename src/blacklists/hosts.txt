@@ -20,6 +20,7 @@
 0.0.0.0 aeros11.tk
 0.0.0.0 aeros12.tk
 0.0.0.0 afminer.com
+0.0.0.0 altgetxio.com
 0.0.0.0 analytics.blue
 0.0.0.0 andlache.com
 0.0.0.0 anybest.pw
@@ -52,6 +53,7 @@
 0.0.0.0 bitcoin-pay.eu
 0.0.0.0 bitcoin-pocket.de
 0.0.0.0 bitcoin-pocket.eu
+0.0.0.0 bitoxies.com
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
@@ -83,6 +85,7 @@
 0.0.0.0 coinpot.co
 0.0.0.0 coinrail.io
 0.0.0.0 contribute.to-support.me
+0.0.0.0 cratopex.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-webminer.com
@@ -192,6 +195,7 @@
 0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 monerominer.rocks
 0.0.0.0 money-maker-default.info
+0.0.0.0 moonexio.com
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
 0.0.0.0 my.domain
