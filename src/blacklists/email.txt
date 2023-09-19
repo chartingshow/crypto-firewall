@@ -1,0 +1,59 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 8 September 2023
+#
+
+abigalejacobson@mg.roma-nonpertutti.com
+augustine.george@rgcirc.org
+Coinqw88@gmail.com
+coraeduards@mail2matthew.com
+cygni@vh270.timeweb.ru
+dalyjj@ruralnetusa.net
+david.jacobson@packetengines.com
+dawsondd@dawsonco.com
+ddgconversational@charleson.co.uk
+dee.swancp@z2pac.com
+dennis-eblasuak@5-61-27-125.nrp.co
+diane.stubbs@server.ibextrex.com
+dominic@ebrarte.com.br
+draperjd@fury.to
+ealucruf1993@digeronimopa.com
+egarusem_1968@covkyps.org
+egt@northstate.net
+elara@700313.cloudwaysapps.com
+esterization@innovationcorp.net
+extrands@hypnos.alastyr.com
+fedrzj@samaha-arch.com
+fgarbe@chelanpud.org
+fitterpz4@offclick.com
+gab-irugire@masacorp.com
+gbader@64.69.180.107.host.secureserver.net
+george@avalonbay.com
+greener@leeondie.net
+greta@700313.cloudwaysapps.com
+hacker@davebert.us
+hacker@lenwweb.nl
+hacker@scandidesignshop.nl
+jmadsen@rue-inc.com
+johnblue@2416.com
+kerrdiana312@gmail.com
+nicolaus@stadeler.de
+noreply-jahan@nestgreekproducts.co.uk
+qikrp@mail.bigpond.com
+quickbooks@notification.intuit.com
+receiver=bernard-yves.cochain@byc.fr
+sbrocard@lorraineairport.com
+sqlrecov4813@proton.me
+stzaudible@mail2create.com
+support@smjgjjmbnr.com
+suρρort@mail.leslie.caiza.com
+updates-6537543@shtyle.fm
+us12-f96bfbd935-6d9b684077@inbound.mailchimp.com
+warnersjeremys@gmail.com
+xr_mani@yahoo.com
+zyvavvhxtl@paigesports.com
