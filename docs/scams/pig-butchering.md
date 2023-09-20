@@ -1,4 +1,4 @@
-## What Is a Pig Butchering Scam?
+## What are Pig Butchering Scams?
 
 A growing scam has hit the cryptocurrency market, which includes extensive contact to gain trust before stealing the victim's investments.
 
