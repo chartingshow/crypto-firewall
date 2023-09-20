@@ -1,4 +1,6 @@
 adf.ly
+amzn.asia
+amzn.com
 amzn.to
 bit.do
 bit.ly
