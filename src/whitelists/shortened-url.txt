@@ -18,6 +18,7 @@ rb.gy
 redd.it
 shorturl.at
 su.pr
+t.co
 t.ly
 t.me
 tiny.one
