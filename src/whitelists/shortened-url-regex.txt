@@ -1,1 +1,1 @@
-https?\:\/\/(www\.|)(adf.ly|amzn.to|bit.do|bit.ly|bl.ink|buff.ly|dai.ly|dis.gd|fb.com|fb.me|goo.gl|is.gd|m.me|mcaf.ee|ow.ly|pin.it|rb.gy|redd.it|shorturl.at|su.pr|t.ly|t.me|tiny.one|tinyurl.com|wa.me|youtu.be)
+https?\:\/\/(www.|)(adf.ly|amzn.to|bit.do|bit.ly|bl.ink|buff.ly|dai.ly|dis.gd|fb.com|fb.me|goo.gl|is.gd|m.me|mcaf.ee|ow.ly|pin.it|rb.gy|redd.it|shorturl.at|su.pr|t.ly|t.me|tiny.one|tinyurl.com|wa.me|youtu.be)
