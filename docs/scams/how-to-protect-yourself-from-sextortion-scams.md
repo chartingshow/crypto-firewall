@@ -8,7 +8,7 @@ Phishes are designed to play on people's emotions so that they will behave in a 
 
 ### Advice what to do in response to a blackmail email
 
-* As with other phishes, our advice is not to engage with the phisher, forward the email to `report@phishing.gov.uk`` which is the NCSC's Suspicious Email Reporting Service (SERS), and then delete it.
+* As with other phishes, our advice is not to engage with the phisher, forward the email to `report@phishing.gov.uk` which is the NCSC's Suspicious Email Reporting Service (SERS), and then delete it.
 * If you are tempted to pay the BitCoin ransom, you should be aware that doing so will likely encourage more scams as the phisher will know they have a 'willing' customer.
 * Do not worry if the phish includes your password; in all likelihood this has been obtained from historic breaches of personal data. You can check if your account has been compromised and get future notifications by visiting: https://haveibeenpwned.com
 * If the phish includes a password you still use then change it immediately, advice on how to create suitable passwords and enable other factors of authentication is available from Cyber Aware: https://www.cyberaware.gov.uk/passwords
