@@ -46,6 +46,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Adblockers ☀️](#adblockers-%EF%B8%8F)
   - [Perimeter blocking 🔓](#perimeter-blocking-)
 - [IP blocking 🌐](#ip-blocking-)
+- [Email blocking](#email-blocking-)
 - [Issues 🔨](#issues-)
 - [Changelog 🏆](#changelog-)
 - [If you like the Summer CMS project 💗💗💗](#if-you-like-the-summer-cms-project-)
