@@ -91,7 +91,7 @@ In many cases, reporting ransomware emails to law enforcement is required by law
 
 **6. Great news! You've won $500!** That's strange - you didn't even enter a competition. This sounds so obvious, yet people still regularly fall for it, or the cyber criminals wouldn't do it. If it's too good to be true, its a scam. Please don't click on the link to the prize page. Delete!
 
-**7. The from: address doesn't add up.** It's easy for wannabe attackers to create fake email addresses that are near-identical to the real deal. Customerhelp@amaz0n.com could easily be misread as a legitimate email address. Delete! [Note: savvier cyber criminals can spoof email addresses so that they look like they DO actually come from a legitimate source. Don't rely on this sign without cross referencing].
+**7. The from: address doesn't add up.** It's easy for wannabe attackers to create fake email addresses that are near-identical to the real deal. `Customerhelp@amaz0n.com` could easily be misread as a legitimate email address. Delete! **Note: savvier cyber criminals can spoof email addresses so that they look like they DO actually come from a legitimate source. Don't rely on this sign without cross referencing**.
 
 **8. Scaremongering tactics.** A common approach used by cyber criminals is to claim something like "your account has been breached!". This creates a sense of urgency and vulnerability, and can prevent people from thinking clearly. If the claims in the email were true, would the sender really tell you in this way? Always check through a different means of communication. Then delete!
 
