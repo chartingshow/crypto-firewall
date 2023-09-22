@@ -144,8 +144,6 @@ How to Identify a Ransomware Email Attack, see here: https://github.com/Summer-C
 
 ....
 
-
-
 ---
 
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
