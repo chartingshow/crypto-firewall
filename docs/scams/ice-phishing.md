@@ -70,7 +70,7 @@ By investigating some of the victim wallets and the complaints on social media, 
 
 ## How to Protect Yourself
 
-The easiest way to prevent yourself from becoming a victim of ice phishing is by going to trusted sites such as Coinmarketcap.com, coingecko.com, and certik.com to verify official sites. Many ice phishing scams can be found on social media such as Twitter, where fake profiles are disguising themselves as legitimate projects and promoting fake airdrops as an example. To gain attention, Twitter accounts are often tagged by bots in these fake accounts posts.
+The easiest way to prevent yourself from becoming a victim of ice phishing is by going to trusted sites such as Coinmarketcap.com, coingecko.com, etc. to verify official sites. Many ice phishing scams can be found on social media such as Twitter, where fake profiles are disguising themselves as legitimate projects and promoting fake airdrops as an example. To gain attention, Twitter accounts are often tagged by bots in these fake accounts posts.
 
 In the below example, we can see a fake Optimism Twitter account promoting a phishing URL. A simple check on CoinMarketCap or Coingecko would display the legitimate site.
 
@@ -79,4 +79,3 @@ In the below example, we can see a fake Optimism Twitter account promoting a phi
 Above: Fake Optimism Twitter account. 
 
 Always take a moment to verify if the URL or dApp that you are interacting with is legitimate. If you are not sure, double check by visiting trusted sources.
-
