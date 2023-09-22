@@ -135,7 +135,7 @@ Email addresses can be blocked, our email block list contains known Crypto scamm
 
 The Email block list can be found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
 
-To learn how to protect yourself from Sextortion emails, see here: x
+To learn how to protect yourself from Sextortion emails, see here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
 
 ---
 
