@@ -79,3 +79,7 @@ In the below example, we can see a fake Optimism Twitter account promoting a phi
 Above: Fake Optimism Twitter account. 
 
 Always take a moment to verify if the URL or dApp that you are interacting with is legitimate. If you are not sure, double check by visiting trusted sources.
+
+## Links
+
+https://www.microsoft.com/en-us/security/blog/2022/02/16/ice-phishing-on-the-blockchain/
