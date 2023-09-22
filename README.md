@@ -47,6 +47,9 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Perimeter blocking](#perimeter-blocking-)
 - [IP blocking](#ip-blocking-)
 - [Email blocking](#email-blocking-)
+- [](#)
+- [OFAC Sanctioned Digital Currency Addresses](#)
+  - [How do we define sanctions data?](#)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [If you like the Summer CMS project](#if-you-like-the-summer-cms-project-)
@@ -143,6 +146,18 @@ How to Identify a Ransomware Email Attack, see here: https://github.com/Summer-C
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
 ....
+
+## OFAC Sanctioned Digital Currency Addresses 🚫
+
+OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups, and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
+
+The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder: x
+
+### How do we define sanctions data?
+
+Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury’s Office of Foreign Assets Control (OFAC).
+
+You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
 
 ---
 
