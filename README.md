@@ -140,6 +140,12 @@ To learn how to protect yourself from Sextortion emails, see here: https://githu
 
 How to Identify a Ransomware Email Attack, see here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
+## Fraudulent cryptocurrency wallet addresses 🕵️
+
+....
+
+
+
 ---
 
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
