@@ -125,7 +125,22 @@ You may use the hosts file with below applications to block these miners on whol
 
 IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc. You can add them to a firewall of your choice.
 
+The IP block list can be found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
+
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+
+## Email blocking 📧
+
+Email addresses can be blocked, our email block list contains known Crypto scammers, Ransomware, Sextortion and Blackmail email addresses.
+
+The Email block list can be found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
+
+To learn how to protect yourself from Sextortion emails, see here: x
+
+
+
+
+
 
 ---
 
