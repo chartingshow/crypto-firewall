@@ -98,4 +98,4 @@ Here's what we recommend:
 
 * Address poisoning involves scammers sending transactions of no value to your account from an address that's very similar to your own.
 * Their hope is that you will then absent-mindedly copy this address from your transaction history in future. You or whoever you're passing your address onto will then send tokens directly to them, and not to the correct address.
-* Develop a habit of thoroughly checking **every single character **of an address before you send a transaction. This is the only way to be completely sure you're sending to the right place.
+* Develop a habit of thoroughly checking **every single character** of an address before you send a transaction. This is the only way to be completely sure you're sending to the right place.
