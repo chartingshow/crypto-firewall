@@ -1,4 +1,4 @@
-## What are 'Address Poisoning' cryptocurrency scams?
+## What is 'Address Poisoning' cryptocurrency scams?
 
 Cryptocurrency wallet provider MetaMask is warning users of a new scam called 'Address Poisoning' used to trick users into sending funds to a scammer rather than an intended recipient.
 
