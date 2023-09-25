@@ -45,7 +45,7 @@ Furthermore, as clicking on the short-form address in MetaMask transactions copi
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/1.jpg" alt="address poisoning"></p>
 
-Above: Copying a "transaction address" by clicking on it.
+<p align="center"><strong>Above: Copying a "transaction address" by clicking on it.</strong></p>
 
 Instead, search your transaction list for a known valid transaction and grab the full address from a blockchain explorer like [EtherScan](https://etherscan.io/).
 
@@ -71,6 +71,8 @@ This is why, supported by most web3 software, you have most likely come to rely 
 3. **The scammer sends you a transaction of negligible value from the dummy account they created** - the 'vanity' address that mimics yours or that of your contact. Usually these are transfers of zero tokens. With this, they've **poisoned **that wallet. (Though, to be clear: this doesn't actually have any negative impacts in itself.)
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/3.jpg" alt="address poisoning"></p>
+
+<p align="center"><strong>Above: The scammers address looks like your Account 1 (when it's shortened).</strong></p>
 
 4. Since their dummy address looks so similar to yours, it's entirely possible that, the next time you need your address, **you might inadvertently copy their address from your transaction history and paste it elsewhere.** Naturally, if you paste their address by accident, you'll send funds to them and not yourself/the intended recipient. And since on-chain transactions like this are immutable (cannot be altered once confirmed), the lost funds will be irretrievable.
 
