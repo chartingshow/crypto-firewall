@@ -45,6 +45,8 @@ Furthermore, as clicking on the short-form address in MetaMask transactions copi
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/1.jpg" alt="address poisoning"></p>
 
+Above: Copying a "transaction address" by clicking on it.
+
 Instead, search your transaction list for a known valid transaction and grab the full address from a blockchain explorer like [EtherScan](https://etherscan.io/).
 
 MetaMask also recommends you use their built-in Address Book feature at 'Settings → Contacts' to save known, valid cryptocurrency addresses for people or services you commonly send transactions.
