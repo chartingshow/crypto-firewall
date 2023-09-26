@@ -453,11 +453,11 @@ There are legitimate ways to invest in crypto and other investments, but scammer
 
 Whether you believe you have spotted a crypto scam or you're already caught up in one, it's your duty to report it. The following contacts can help you put scammers behind bars where they belong:
 
-* Commodity Futures Trading Commission (CFTC) at CFTC.gov/complaint.
+* Commodity Futures Trading Commission (CFTC) at [CFTC complaint](https://www.cftc.gov/complaint).
 * Federal Bureau of Investigation (FBI) at [https://www.fbi.gov/contact-us](https://www.fbi.gov/contact-us).
-* Federal Trade Commission (FTC) at ReportFraud.ftc.gov.
-* Internet Crime Complaint Center (IC3) at ic3.gov/Home/FileComplaint.
-* U.S. Securities and Exchange Commission (SEC) at sec.gov/tcr.
+* Federal Trade Commission (FTC) at [ReportFraud at FTC](https://reportfraud.ftc.gov/#/).
+* Internet Crime Complaint Center (IC3) at [Internet Crime Complaint Center (IC3)](https://www.ic3.gov/Home/FileComplaint).
+* U.S. Securities and Exchange Commission (SEC) at [Report Suspected Securities Fraud or Wrongdoing](https://www.sec.gov/tcr).
 
 ## Getting your money back from a crypto scam
 
