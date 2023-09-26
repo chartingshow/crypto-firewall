@@ -7,6 +7,12 @@
 # Last modified: 8 September 2023
 #
 
+# Extras (comment out if needed)
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+
+# Bad crypto domains
 0.0.0.0 1q2w3.fun
 0.0.0.0 4everland.store
 0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
