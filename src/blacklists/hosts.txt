@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 8 September 2023
+# Last modified: 27 September 2023
 #
 
 # Extras (comment out if needed)
@@ -12,14 +12,31 @@
 255.255.255.255 broadcasthost
 ::1 localhost
 
-# Bad crypto domains
-0.0.0.0 1q2w3.fun
-0.0.0.0 4everland.store
+# Bad I2P domains
+
+# Bad IPFS domains
+0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
+
+# Bad Tor domains
 0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
 0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
+0.0.0.0 bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
+0.0.0.0 dreambusweduybcp.onion
+0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
+0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
+0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
+0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
+0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
+0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
+0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
+
+# Bad Crypto domains
+0.0.0.0 1q2w3.fun
+0.0.0.0 4everland.store
 0.0.0.0 abc.pema.cl
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 ad-miner.com
+0.0.0.0 adaisreal.ddns.net
 0.0.0.0 adminer.com
 0.0.0.0 aeros01.tk
 0.0.0.0 aeros02.tk
@@ -41,7 +58,7 @@
 0.0.0.0 autologica.ga
 0.0.0.0 axoncoho.tk
 0.0.0.0 bablace.com
-0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
+0.0.0.0 backup1212.ddns.net
 0.0.0.0 baiduccdn1.com
 0.0.0.0 becanium.com
 0.0.0.0 berateveng.ru
@@ -50,7 +67,6 @@
 0.0.0.0 besti.ga
 0.0.0.0 bestsrv.de
 0.0.0.0 bewaslac.com
-0.0.0.0 bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
 0.0.0.0 biberukalap.com
 0.0.0.0 binarybusiness.de
 0.0.0.0 bitcoin-cashcard.com
@@ -60,6 +76,7 @@
 0.0.0.0 bitcoin-pocket.de
 0.0.0.0 bitcoin-pocket.eu
 0.0.0.0 bitoxies.com
+0.0.0.0 bluemoon7.duckdns.org
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
@@ -109,7 +126,6 @@
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 dl.browsermine.com
 0.0.0.0 donttbeevils.de
-0.0.0.0 dreambusweduybcp.onion
 0.0.0.0 dronml.ml
 0.0.0.0 easyhash.de
 0.0.0.0 educu.xyz
@@ -149,12 +165,10 @@
 0.0.0.0 hhb123.tk
 0.0.0.0 hide.ovh
 0.0.0.0 hive.tubetitties.com
-0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
 0.0.0.0 igrid.org
-0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 0.0.0.0 ininmacerad.pro
 0.0.0.0 intelserviceupdate.com
-0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
+0.0.0.0 jayurbf.gleeze.com
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
@@ -172,6 +186,7 @@
 0.0.0.0 mail.itseasy.com
 0.0.0.0 mail.shaferglazer.com
 0.0.0.0 mail.techniservinc.com
+0.0.0.0 mcmac.duckdns.org
 0.0.0.0 mebablo.com
 0.0.0.0 mepirtedic.com
 0.0.0.0 mi-de-ner-nis3.info
@@ -222,13 +237,11 @@
 0.0.0.0 nmq.zxnexus.com
 0.0.0.0 node.nimiq.watch
 0.0.0.0 npcdn1.now.sh
-0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
 0.0.0.0 ocean2.authcaptcha.com
 0.0.0.0 offerreality.com
 0.0.0.0 ogrid.org
-0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 p.estream.to
 0.0.0.0 panelsave.com
@@ -261,7 +274,6 @@
 0.0.0.0 proxy-gbr-1.inf.nimiq.network
 0.0.0.0 proxy-pol-1.inf.nimiq.network
 0.0.0.0 proxy-pol-2.inf.nimiq.network
-0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
 0.0.0.0 reauthenticator.com
 0.0.0.0 renhertfo.com
 0.0.0.0 roastedvolt.net
@@ -361,7 +373,6 @@
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serv1swork.com
 0.0.0.0 service4refresh.info
-0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 0.0.0.0 silimbompom.com
 0.0.0.0 site.flashx.cc
 0.0.0.0 srcip.com
@@ -384,6 +395,7 @@
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sysnod.duckdns.org
 0.0.0.0 test.minr.pw
+0.0.0.0 testing1212.ddns.net
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -408,6 +420,7 @@
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 webxmr.com
+0.0.0.0 windnsch.freeddns.org
 0.0.0.0 wordc.ga
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
