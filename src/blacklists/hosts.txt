@@ -251,6 +251,7 @@
 0.0.0.0 bmst.pw
 0.0.0.0 bornovabelediye.com
 0.0.0.0 bpargastasyas.ml
+0.0.0.0 brasdex.com
 0.0.0.0 brokendefff.duckdns.org
 0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
