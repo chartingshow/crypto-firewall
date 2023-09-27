@@ -6,6 +6,7 @@
 *.bravesites.com
 *.business.site
 *.cprapid.com
+*.duckdns.org
 *.easterndns.com
 *.firebaseapp.com
 *.fleek.co
