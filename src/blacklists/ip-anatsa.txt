@@ -1,0 +1,23 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Anatsa Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 September 2023
+#
+
+34.120.195.249
+51.38.166.150
+51.38.166.153
+62.182.81.71
+91.243.34.26
+93.158.209.15
+138.201.166.127
+164.132.201.232
+185.215.113.31
+185.215.113.39
+195.201.70.80
