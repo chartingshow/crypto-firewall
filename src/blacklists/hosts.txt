@@ -349,7 +349,6 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
-0.0.0.0 cloudfront.net
 0.0.0.0 cloudns.nz
 0.0.0.0 cloudns.ph
 0.0.0.0 clsr.ca
