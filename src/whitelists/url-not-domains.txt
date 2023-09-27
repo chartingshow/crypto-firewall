@@ -1,4 +1,5 @@
 *.amazonaws.com
+*.appsflyer.com
 *.azurewebsites.net
 *.blogspot.co.za
 *.blogspot.com
@@ -24,6 +25,7 @@
 *.repl.co
 *.sitebeat.crazydomains.com
 *.translate.goog
+*.urbanairship.com
 *.vercel.app
 *.w3spaces.com
 *.web.app
