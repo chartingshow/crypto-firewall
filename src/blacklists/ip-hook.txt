@@ -1,0 +1,19 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Hook Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 September 2023
+#
+
+5.42.199.22
+91.215.85.23
+91.215.85.37
+91.215.85.223
+94.156.253.67
+185.186.246.69
+193.233.196.2
