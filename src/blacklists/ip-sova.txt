@@ -1,0 +1,26 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: S.O.V.A. Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 September 2023
+#
+
+5.161.16.85
+5.161.22.241
+5.161.105.24
+5.161.116.222
+5.161.189.178
+45.81.243.180
+45.81.243.181
+45.81.243.203
+45.81.243.204
+85.31.45.128
+85.31.45.130
+109.206.240.7
+176.107.160.28
+176.107.160.64
