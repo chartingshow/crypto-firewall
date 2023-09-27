@@ -1,7 +1,7 @@
 ---
 name: '💡 Enhancement Idea'
 about: 'Write and explain the enhancement idea, try to add a checklist'
-labels: 'enhancement'
+labels: 'Code Update 🔔', 'enhancement 👍', 'In-progress', 'Priority: Medium'
 ---
 
 ## Enhancement idea
@@ -10,13 +10,14 @@ labels: 'enhancement'
 
 ## Links
 
-
+n/a
 
 ## IOC
 
 ### Domains
 
-
+n/a
 
 ### IP's
 
+n/a
