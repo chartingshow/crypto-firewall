@@ -145,6 +145,7 @@ chronicle.com
 cia.gov
 cisco.com
 cloudflare.com
+cloudfront.net
 cnbc.com
 cnet.com
 cnn.com
