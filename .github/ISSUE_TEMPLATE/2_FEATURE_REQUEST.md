@@ -1,7 +1,7 @@
 ---
 name: '💡 Enhancement Idea'
 about: 'Write and explain the enhancement idea, try to add a checklist'
-labels: 'Code Update 🔔, enhancement 👍, In-progress, Priority: Medium'
+labels: 'Code Update 🔔, enhancement, enhancement 👍, In-progress, Priority: Medium'
 ---
 
 ## Enhancement idea
