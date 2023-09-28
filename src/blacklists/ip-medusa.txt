@@ -1,0 +1,31 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Medusa Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 September 2023
+#
+
+5.42.78.61
+5.61.49.177
+45.15.157.16
+64.52.80.13
+77.105.146.254
+77.105.147.1
+77.105.147.140
+79.137.199.199
+79.137.202.24
+79.137.207.226
+89.208.103.72
+89.208.107.158
+162.33.179.114
+185.46.46.133
+185.112.83.36
+193.233.133.97
+193.233.133.153
+193.233.133.198
+193.233.133.243
