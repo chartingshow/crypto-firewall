@@ -81,6 +81,7 @@
 0.0.0.0 80cekerbu.ga
 0.0.0.0 87a312e6bb2524d4.xyz
 0.0.0.0 92cf772e294ea095.store
+0.0.0.0 92l.info
 0.0.0.0 431f4c8044b780c4.xyz
 0.0.0.0 614e7cd1c623698a.xyz
 0.0.0.0 827c153abcc78ce2.live
@@ -147,6 +148,7 @@
 0.0.0.0 ahmetabifirarda.tk
 0.0.0.0 ahmetfirarda.xyz
 0.0.0.0 aidatsorgula.net
+0.0.0.0 airlinesimulator.io
 0.0.0.0 akalamordoslarme.shop
 0.0.0.0 akrepbaba323.net
 0.0.0.0 alatbidneassadfa.shop
@@ -361,6 +363,7 @@
 0.0.0.0 cndlogstics.com
 0.0.0.0 cnhv.co
 0.0.0.0 cnt.statistic.date
+0.0.0.0 cofi.hk
 0.0.0.0 coin-have.com
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
@@ -416,6 +419,7 @@
 0.0.0.0 de-mi-nis-ner.info
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 de-nis-ner-mi-5.info
+0.0.0.0 dedeperesere.xyz
 0.0.0.0 dejiwive.org
 0.0.0.0 deluxe-mall.info
 0.0.0.0 demirsporst.com
@@ -516,6 +520,9 @@
 0.0.0.0 flighty.win
 0.0.0.0 flightzy.date
 0.0.0.0 flightzy.win
+0.0.0.0 fobocontentplus.online
+0.0.0.0 fobocontentplus.site
+0.0.0.0 fobocontentplus.top
 0.0.0.0 fordemesgaybetespas.net
 0.0.0.0 formulawire.com
 0.0.0.0 foryoucomeonthendqueen.ml
@@ -573,6 +580,7 @@
 0.0.0.0 habergazetedebizkolu.co.vu
 0.0.0.0 haberleradamollmakgibios.co.vu
 0.0.0.0 hacibaladanbizegelerk.co.vu
+0.0.0.0 had0.live
 0.0.0.0 hahahooho23.net
 0.0.0.0 hannygoesing.net
 0.0.0.0 harmonyshoused.com
@@ -770,6 +778,7 @@
 0.0.0.0 meydanmah36sokak.tk
 0.0.0.0 meydanmah37sokak.tk
 0.0.0.0 meydanmahsokak.tk
+0.0.0.0 mi1kyway.tech
 0.0.0.0 mi-de-ner-nis3.info
 0.0.0.0 miatubtsfa.shop
 0.0.0.0 microdotoffice.shop
@@ -1271,6 +1280,7 @@
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 viewdns.net
 0.0.0.0 vkcdnservice.com
+0.0.0.0 vldeolan.com
 0.0.0.0 vmi503011.contaboserver.net
 0.0.0.0 vurdumguzelsendenbanayaratrik.co.vu
 0.0.0.0 vuryua.ru
