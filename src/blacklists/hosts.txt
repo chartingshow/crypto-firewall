@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 September 2023
+# Last modified: 28 September 2023
 #
 
 # Extras (comment out if needed)
@@ -210,6 +210,7 @@
 0.0.0.0 arti-limit.net
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 asdakasma.digital
+0.0.0.0 asfsafsakjfkjsa.xyz
 0.0.0.0 ashgrrwt.click
 0.0.0.0 aslanhaberlerdengelenbize.co.vu
 0.0.0.0 aslankaplansenn33.co.vu
@@ -475,6 +476,7 @@
 0.0.0.0 esddbbabashadaa.shop
 0.0.0.0 esobabageridonuyor.shop
 0.0.0.0 esoskraadami.shop
+0.0.0.0 essesessssssss.top
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
@@ -517,6 +519,7 @@
 0.0.0.0 fordemesgaybetespas.net
 0.0.0.0 formulawire.com
 0.0.0.0 foryoucomeonthendqueen.ml
+0.0.0.0 fpuacswjcgpcxoe.ru
 0.0.0.0 fredomhunterof.cf
 0.0.0.0 freedomly.top
 0.0.0.0 frenkoftheworldunko.cf
@@ -868,6 +871,7 @@
 0.0.0.0 nimwss-us-shark.lolopool.com
 0.0.0.0 ninaning.com
 0.0.0.0 nitrokod.com
+0.0.0.0 nmnmnmfsamsfan.xyz
 0.0.0.0 nmq.zxnexus.com
 0.0.0.0 nnnxxceolmaz.com
 0.0.0.0 node.nimiq.watch
@@ -924,6 +928,7 @@
 0.0.0.0 pasifikbilisim.ml
 0.0.0.0 pbmtihltdrjcpzvtzkjb.net
 0.0.0.0 pearno.com
+0.0.0.0 pembesir.xyz
 0.0.0.0 peninsula3.com
 0.0.0.0 peregelergulerbizeim.co.vu
 0.0.0.0 perfunctoryltd.com
@@ -1230,12 +1235,15 @@
 0.0.0.0 tuty927834.co.vu
 0.0.0.0 tvalimsatimxalo.tk
 0.0.0.0 ue47emsfujaozfg.gq
+0.0.0.0 ueihtnoujbedjiu.ru
 0.0.0.0 ukalasahne.net
 0.0.0.0 ukalasahnede.com.tr
 0.0.0.0 ukalasahnedebolsanslar.space
 0.0.0.0 ulansennasilbiinsansin.com
 0.0.0.0 umursuzinsanhaberl.co.vu
+0.0.0.0 umxkexskgtctvws.cn
 0.0.0.0 uniquebbs.asia
+0.0.0.0 unknknknnkknkknnk.xyz
 0.0.0.0 unsbslbgdasy.shop
 0.0.0.0 uoldid.ru
 0.0.0.0 uoqpj4em7kkda35.gq
