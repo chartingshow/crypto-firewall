@@ -141,6 +141,7 @@
 0.0.0.0 aeros02.tk
 0.0.0.0 aeros11.tk
 0.0.0.0 aeros12.tk
+0.0.0.0 afhckrfcucjbpln.com
 0.0.0.0 afminer.com
 0.0.0.0 afpaperoapas.co.vu
 0.0.0.0 ahmetabifirarda.tk
@@ -194,6 +195,7 @@
 0.0.0.0 androiddevapi.cf
 0.0.0.0 anonymousfastandcostfree.ml
 0.0.0.0 anybest.pw
+0.0.0.0 aogedvhwqhuokpd.ru
 0.0.0.0 apeoerpafsffs.shop
 0.0.0.0 api.browsermine.com
 0.0.0.0 api.inwemo.com
@@ -292,6 +294,7 @@
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
+0.0.0.0 bmpfkgsottkswfh.com
 0.0.0.0 bmst.pw
 0.0.0.0 bornovabelediye.com
 0.0.0.0 bpargastasyas.ml
@@ -425,6 +428,7 @@
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 directdefense.consulting
 0.0.0.0 dl.browsermine.com
+0.0.0.0 dmkpheoqsfuvwxo.ru
 0.0.0.0 dnsv1.com
 0.0.0.0 dolap.info
 0.0.0.0 donttbeevils.de
@@ -445,6 +449,7 @@
 0.0.0.0 educu.xyz
 0.0.0.0 ee6tcbjn9z4ied4.gq
 0.0.0.0 efd67574d8f47f75.info
+0.0.0.0 egusnkbawrrmqvj.ru
 0.0.0.0 ehealthnutrition.com
 0.0.0.0 ejoartikburada.live
 0.0.0.0 ejobabageldi.co.vu
@@ -711,6 +716,7 @@
 0.0.0.0 liveyuu.com
 0.0.0.0 lkcagar.com
 0.0.0.0 lluxll.digital
+0.0.0.0 lnnrpwtstcbmdhn.com
 0.0.0.0 loboappsec.icu
 0.0.0.0 loboappsec.shop
 0.0.0.0 locf02azxz3g.xyz
@@ -742,6 +748,7 @@
 0.0.0.0 mastrafasdbtcontores.shop
 0.0.0.0 mastrafasdbtcontorxses.shop
 0.0.0.0 matrixtorboterosmx.sbs
+0.0.0.0 mbhpikampombehi.com
 0.0.0.0 mcmac.duckdns.org
 0.0.0.0 mebablo.com
 0.0.0.0 medtechgroups.com
@@ -813,6 +820,7 @@
 0.0.0.0 msmartm.com
 0.0.0.0 mtymall.info
 0.0.0.0 mucasnedalir.shop
+0.0.0.0 muqgllmqtyllhwn.com
 0.0.0.0 muratcengizafyon.tk
 0.0.0.0 murathizlikuryeservis.space
 0.0.0.0 mxcdn1.now.sh
@@ -839,6 +847,8 @@
 0.0.0.0 newadreskayit.cf
 0.0.0.0 nexgenemi.com
 0.0.0.0 nexsuslazim.net
+0.0.0.0 nfiuerwftasnuk.com
+0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 nfwebminer.com
 0.0.0.0 nicetrue.one
 0.0.0.0 nicetv.live
@@ -864,6 +874,7 @@
 0.0.0.0 nsdvirasndevu.net
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
+0.0.0.0 obunryugtpfyssw.ru
 0.0.0.0 ocean2.authcaptcha.com
 0.0.0.0 offerreality.com
 0.0.0.0 ogngelcekxmfia.shop
@@ -1253,6 +1264,7 @@
 0.0.0.0 webpresentsx.duckdns.org
 0.0.0.0 websitemizyeni.space
 0.0.0.0 webxmr.com
+0.0.0.0 wenkgefmpgfumtk.com
 0.0.0.0 wf4sctx9cksg94528o7o.xyz
 0.0.0.0 where9sm532523523523ym8nd.com
 0.0.0.0 where9smym8nd.com
@@ -1304,6 +1316,7 @@
 0.0.0.0 xbxntzr7uoboa8u.gq
 0.0.0.0 xc5s.digital
 0.0.0.0 xevoia.space
+0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
 0.0.0.0 yakupbabafirarda.tk
