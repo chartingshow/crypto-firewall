@@ -1285,6 +1285,7 @@
 0.0.0.0 vurdumguzelsendenbanayaratrik.co.vu
 0.0.0.0 vuryua.ru
 0.0.0.0 vyhaseazaset.shop
+0.0.0.0 wagateway.pro
 0.0.0.0 warwickyouth.com
 0.0.0.0 webapi.salamantex.com
 0.0.0.0 webapi.staging.salamantex.com
