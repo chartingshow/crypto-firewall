@@ -9,6 +9,7 @@
 * We don't do **giveaways promotions**, giving away **free non-fungible tokens (NFT's)** or **cryptocurrencies through airdrops** to promote investing in digital assets is prohibited by the U.K. Financial Conduct Authority's (FCA) new rules!
 * All adverts will be clearly displayed with `#AD` and the details of any sponsorship agreement with fees, commissions or other charges will be disclosed to the public (**currently we do not share any sponsored content**).
 * We do not partake in **refer a friend** crypto bonuses (affiliate marketing schemes) which the FCA has banned under its new advertising rules.
+* Users should be aware that we **own or hold trade positions of the cryptoassets shown in the shared trading charts!** Users should always **Do Your Own Research (DYOR)** before purchasing or copy trading.
 * Advoiding the use of **non-compliant crypto promotion memes images**. Memes seen as promoting crypto assets may need to add disclaimers in order to comply with advertising regulations. The FCA gives an example of a non-compliant crypto meme: "It consisted of a split picture, showing a person having difficulty spending money in the supermarket, compared with a person buying crypto with ease".
 * There are plenty of scams in the crypto space and we have listed [what are the most common cryptocurrency scams](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/what-are-the-most-common-cryptocurrency-scams.md) and suggest you get familiar with them in order to protect your assets.
 * We have also created a crypto firewall block list in order to protect our followers from scammers, which can be found here: [Block Bad Crypto Filter Lists](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists)
@@ -63,6 +64,6 @@ For further information about cryptoassets, visit the FCA's website https://www.
 
 > Remember, not all cryptoassets are alike. Before investing, you should ensure you understand the specific risks involved.
 
-Last reviewed: 29th Sep 2023.
+Last reviewed: 30th Sep 2023.
 
 Content is subject to copyright laws found in the [LICENSE](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/LICENSE)
