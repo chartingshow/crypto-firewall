@@ -11,6 +11,8 @@
 * We do not partake in **refer a friend** crypto bonuses or affiliate marketing schemes, which the FCA has banned under its new advertising rules.
 * We do not provide any **incentives to invest** mentioned in the FCA's COBS 4.12A rules! These include the following a wide range of offers, new or existing customer bonuses, discounts or similar, ongoing or new rewards, perks or other incentives to invest in cryptocurrencies.
 * We are not responsible for unauthorized people sharing and modifying your content!
+* We do not use affiliates suspected of operating illegally or engaging in poor conduct to market our content, products or services.
+* We avoid implementing any form of practice that aims at incentivising, inducing or pressuring a prospective investor to request to be treated as professional client.  
 * Users should be aware that we **own or hold trade positions of the cryptoassets shown in the shared trading charts!** Users should always **Do Your Own Research (DYOR)** before purchasing or copy trading.
 * We don't trade, share or suggest any **scam projects, meme coins, low marketcap cryptocurrencies, NFT's** etc. to protect our followers from increased risk factors!
 * We do not promote Proof of Stake (PoS) **staking** products to retail traders as the FCA has labelled them as a `complex yield arrangement` which can pose real risk and harm to consumers. Users should be aware that staking protocol's can get hacked, the value of the staked token's price can go down, fees to withdraw can be larger than their staking amounts and protocol smart contracts can get updated, requiring users to pay more fees!
