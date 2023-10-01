@@ -8,7 +8,8 @@
 * We don't do **direct message** (DM) to our followers in our social media accounts, if you receive a message claiming to be from us, it's a fake and most likely from a scammer!
 * We don't do **giveaways promotions**, giving away **free non-fungible tokens (NFT's)** or **cryptocurrencies through airdrops** to promote investing in digital assets is prohibited by the U.K. Financial Conduct Authority's (FCA) new rules!
 * All adverts will be clearly displayed with `#AD` and the details of any sponsorship agreement with fees, commissions or other charges will be disclosed to the public (**currently we do not share any sponsored content**).
-* We do not partake in **refer a friend** crypto bonuses (affiliate marketing schemes) which the FCA has banned under its new advertising rules.
+* We do not partake in **refer a friend** crypto bonuses or affiliate marketing schemes, which the FCA has banned under its new advertising rules.
+* We do not provide any **incentives to invest** mentioned in the FCA's COBS 4.12A rules! These include the following a wide range of offers, new or existing customer bonuses, discounts or similar, ongoing or new rewards, perks or other incentives to invest in cryptocurrencies.
 * Users should be aware that we **own or hold trade positions of the cryptoassets shown in the shared trading charts!** Users should always **Do Your Own Research (DYOR)** before purchasing or copy trading.
 * We don't trade, share or suggest any **scam projects, meme coins, low marketcap cryptocurrencies, NFT's** etc. to protect our followers from increased risk factors!
 * We do not promote Proof of Stake (PoS) **staking** products to retail traders as the FCA has labelled them as a `complex yield arrangement` which can pose real risk and harm to consumers. Users should be aware that staking protocol's can get hacked, the value of the staked token's price can go down, fees to withdraw can be larger than their staking amounts and protocol smart contracts can get updated, requiring users to pay more fees!
@@ -66,6 +67,6 @@ For further information about cryptoassets, visit the FCA's website https://www.
 
 > Remember, not all cryptoassets are alike. Before investing, you should ensure you understand the specific risks involved.
 
-Last reviewed: 30th Sep 2023.
+Last reviewed: 1st October 2023.
 
 Content is subject to copyright laws found in the [LICENSE](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/LICENSE)
