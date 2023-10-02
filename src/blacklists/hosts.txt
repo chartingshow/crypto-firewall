@@ -460,6 +460,7 @@
 0.0.0.0 dns04.com
 0.0.0.0 dns05.com
 0.0.0.0 dns2.us
+0.0.0.0 dns.army
 0.0.0.0 dnsrd.com
 0.0.0.0 dnsv1.com
 0.0.0.0 dolap.info
@@ -479,6 +480,7 @@
 0.0.0.0 duia.ro
 0.0.0.0 duyuru-market-com.tk
 0.0.0.0 dybsyasfasgsd.shop
+0.0.0.0 dynamic-dns.net
 0.0.0.0 e91d4ba9a1864c7d.live
 0.0.0.0 easyhash.de
 0.0.0.0 eco-mall.info
@@ -1233,6 +1235,7 @@
 0.0.0.0 service4refresh.info
 0.0.0.0 servicedesk-solutions.net
 0.0.0.0 shangri3.com
+0.0.0.0 shivfurnishings.com
 0.0.0.0 sigortacinni190.net
 0.0.0.0 sigortacinni191.net
 0.0.0.0 sigortacinni193.net
@@ -1269,6 +1272,7 @@
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
+0.0.0.0 str-master.pw
 0.0.0.0 stress.wtf
 0.0.0.0 stripchat15.com
 0.0.0.0 stripchat70.com
@@ -1509,6 +1513,7 @@
 0.0.0.0 yasysfseifsda.ml
 0.0.0.0 yawyawvaryyaaaa.com
 0.0.0.0 ydfym8f6erifpvk.gq
+0.0.0.0 ydns.eu
 0.0.0.0 yektkedecaedem.shop
 0.0.0.0 yemebeniartik.ml
 0.0.0.0 yenicebelediyesikonya.xyz
