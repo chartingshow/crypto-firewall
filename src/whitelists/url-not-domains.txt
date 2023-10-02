@@ -37,6 +37,7 @@
 *.wordpress.com
 *.workers.dev
 *.x10.bz
+*.ydns.eu
 *.yolasite.com
 *.zendesk.com
 https://docs.google.com/forms/*
