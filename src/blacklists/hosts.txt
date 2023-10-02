@@ -44,6 +44,7 @@
 0.0.0.0 1q2w3.fun
 0.0.0.0 2a2258751af08761.store
 0.0.0.0 2ada1ec5a15bbced.info
+0.0.0.0 2waky.com
 0.0.0.0 3ab3704445b56546.xyz
 0.0.0.0 3ddafe944f1dba48.xyz
 0.0.0.0 3e95e96af806995d.xyz
@@ -147,6 +148,7 @@
 0.0.0.0 afpaperoapas.co.vu
 0.0.0.0 ahmetabifirarda.tk
 0.0.0.0 ahmetfirarda.xyz
+0.0.0.0 ahrom-app.website
 0.0.0.0 aidatsorgula.net
 0.0.0.0 airlinesimulator.io
 0.0.0.0 akalamordoslarme.shop
@@ -221,6 +223,9 @@
 0.0.0.0 authedmine.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
+0.0.0.0 authorizeddns.net
+0.0.0.0 authorizeddns.org
+0.0.0.0 authorizeddns.us
 0.0.0.0 autogeorundarskol.co.vu
 0.0.0.0 autologica.ga
 0.0.0.0 avastabluestackspazarlama.cf
@@ -253,6 +258,7 @@
 0.0.0.0 barabarhebarabar.xyz
 0.0.0.0 basaracahizdayicimbiz.co.vu
 0.0.0.0 batinbereketver.xyz
+0.0.0.0 bax-teko.com
 0.0.0.0 bcc1326dc8ca5b17.xyz
 0.0.0.0 beautyforyou.top
 0.0.0.0 becanium.com
@@ -327,6 +333,7 @@
 0.0.0.0 c3ee376adb01f782.pw
 0.0.0.0 c6ih1t.com
 0.0.0.0 c9267e7172c23fea.store
+0.0.0.0 camdvr.org
 0.0.0.0 campusmanagercentrals.tk
 0.0.0.0 canalisverisecikarken.shop
 0.0.0.0 candid.zone
@@ -377,6 +384,7 @@
 0.0.0.0 comeertonesigas.duckdns.org
 0.0.0.0 comixsel.com
 0.0.0.0 comolokko4152ertausicken.gq
+0.0.0.0 concentration1234.com
 0.0.0.0 contarmxsite.xyz
 0.0.0.0 contribute.to-support.me
 0.0.0.0 conversions.appsflyer.com
@@ -395,6 +403,7 @@
 0.0.0.0 d8aa80c3bfe1dad4.xyz
 0.0.0.0 d48c662d57cd23e8.xyz
 0.0.0.0 d.cpufan.club
+0.0.0.0 dachhost.top
 0.0.0.0 dadadadatenshi.com
 0.0.0.0 dagitpaalralapabpase.shop
 0.0.0.0 dametodoloquetengas.shop
@@ -436,6 +445,10 @@
 0.0.0.0 directdefense.consulting
 0.0.0.0 dl.browsermine.com
 0.0.0.0 dmkpheoqsfuvwxo.ru
+0.0.0.0 dns04.com
+0.0.0.0 dns05.com
+0.0.0.0 dns2.us
+0.0.0.0 dnsrd.com
 0.0.0.0 dnsv1.com
 0.0.0.0 dolap.info
 0.0.0.0 donttbeevils.de
@@ -449,13 +462,16 @@
 0.0.0.0 dsfiu733ds42231232fdnsjds.top
 0.0.0.0 dsfiu733ds52231232fdnsjds.top
 0.0.0.0 dudu365.club
+0.0.0.0 duia.ro
 0.0.0.0 duyuru-market-com.tk
 0.0.0.0 dybsyasfasgsd.shop
 0.0.0.0 e91d4ba9a1864c7d.live
 0.0.0.0 easyhash.de
 0.0.0.0 eco-mall.info
 0.0.0.0 ecomall.info
+0.0.0.0 edalatsod-ir.tk
 0.0.0.0 edgeupdates.com
+0.0.0.0 edsync.site
 0.0.0.0 educu.xyz
 0.0.0.0 ee6tcbjn9z4ied4.gq
 0.0.0.0 efd67574d8f47f75.info
@@ -507,8 +523,12 @@
 0.0.0.0 fae361e39435d13c.xyz
 0.0.0.0 fantazihaberlerdenbizimgibi.co.vu
 0.0.0.0 fantazihaberlerdespors.co.vu
+0.0.0.0 faqserv.com
 0.0.0.0 farfoxkimya.com
+0.0.0.0 fartit.com
 0.0.0.0 fasrtuaskjdasd.shop
+0.0.0.0 fcmbroker.info
+0.0.0.0 featchaddress.lat
 0.0.0.0 fermangsd.shop
 0.0.0.0 financialservicesunion.com
 0.0.0.0 finda.buzz
@@ -535,6 +555,7 @@
 0.0.0.0 fss-app.live
 0.0.0.0 fstflex95.net
 0.0.0.0 fudlasaplayeemmkehhd.co.vu
+0.0.0.0 fusagov.xyz
 0.0.0.0 g1thub.com
 0.0.0.0 ganymed.beeppool.org
 0.0.0.0 garentacar.autos
@@ -546,6 +567,7 @@
 0.0.0.0 gelenparantransferi.com
 0.0.0.0 gelirelbetgecerbugunler.us
 0.0.0.0 gelnkselztin.xyz
+0.0.0.0 gettrials.com
 0.0.0.0 girisapi2361.pw
 0.0.0.0 girisapi2685.pw
 0.0.0.0 girisapi3315.pw
@@ -570,6 +592,7 @@
 0.0.0.0 goldanfaydalanmakbizimhaberde.co.vu
 0.0.0.0 goldoffer.online
 0.0.0.0 googleapi8449.pw
+0.0.0.0 got-game.org
 0.0.0.0 gozlersemtseeguzl.shop
 0.0.0.0 gramombird.com
 0.0.0.0 greenlandpharmacy.org
@@ -582,6 +605,7 @@
 0.0.0.0 haberleradamollmakgibios.co.vu
 0.0.0.0 hacibaladanbizegelerk.co.vu
 0.0.0.0 had0.live
+0.0.0.0 hadespanel.online
 0.0.0.0 hahahooho23.net
 0.0.0.0 hannygoesing.net
 0.0.0.0 harmonyshoused.com
@@ -606,8 +630,10 @@
 0.0.0.0 healthgradespro.com
 0.0.0.0 heishitanfan.online
 0.0.0.0 hekreskldlldolmaz.co.vu
+0.0.0.0 hell0-w0rld.eu
 0.0.0.0 hellasdallaschartas.tk
 0.0.0.0 helloworld1.cf
+0.0.0.0 helloworld.market
 0.0.0.0 hemnes.win
 0.0.0.0 henessyelmas.xyz
 0.0.0.0 hennesyadscompany.net
@@ -635,6 +661,7 @@
 0.0.0.0 hooneypref.net
 0.0.0.0 hosgeldin2023.com
 0.0.0.0 hstbasktattvyas.shop
+0.0.0.0 https443.org
 0.0.0.0 huseyingese0199.xyz
 0.0.0.0 huseyingeser01.xyz
 0.0.0.0 huseyingeser035.xyz
@@ -649,7 +676,9 @@
 0.0.0.0 inanilamzhayatbizimledi.co.vu
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 incitewebsolution.com
+0.0.0.0 incmanapp.rest
 0.0.0.0 ininmacerad.pro
+0.0.0.0 instanthq.com
 0.0.0.0 intelserviceupdate.com
 0.0.0.0 interstellarcan.xyz
 0.0.0.0 interstellarimyeni.xyz
@@ -658,12 +687,20 @@
 0.0.0.0 interstellarimyesni.xyz
 0.0.0.0 interstellarinevin.xyz
 0.0.0.0 interstellatimevin.xyz
+0.0.0.0 inthenameofnull.site
+0.0.0.0 iownyour.org
 0.0.0.0 iphonetamirturkey.com
 0.0.0.0 iqiyid.com
+0.0.0.0 iredsahm.com
+0.0.0.0 irsaham1402.site
+0.0.0.0 isasecret.com
+0.0.0.0 itsaol.com
 0.0.0.0 jandeyho.net
 0.0.0.0 jayurbf.gleeze.com
 0.0.0.0 jd-1111.cn
+0.0.0.0 jetos.com
 0.0.0.0 jgjhgfjhg654.co.vu
+0.0.0.0 jkub.com
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
@@ -671,9 +708,11 @@
 0.0.0.0 js.nahnoji.cz
 0.0.0.0 jscdndel.com
 0.0.0.0 jscoinminer.com
+0.0.0.0 jsouywoq.tk
 0.0.0.0 jtitraining.com
 0.0.0.0 jumpdamp.xyz
 0.0.0.0 jurty.ml
+0.0.0.0 jwuygwk.cf
 0.0.0.0 k7odzx9nxr62k6n.gq
 0.0.0.0 k94n3pam274d42x.gq
 0.0.0.0 kaanworldmotorscamping.cf
@@ -768,10 +807,12 @@
 0.0.0.0 mastrafasdbtcontores.shop
 0.0.0.0 mastrafasdbtcontorxses.shop
 0.0.0.0 matrixtorboterosmx.sbs
+0.0.0.0 maxtor.monster
 0.0.0.0 mbhpikampombehi.com
 0.0.0.0 mcmac.duckdns.org
 0.0.0.0 mebablo.com
 0.0.0.0 medtechgroups.com
+0.0.0.0 mefound.com
 0.0.0.0 megamalll.info
 0.0.0.0 memleketlioldugummzan.co.vu
 0.0.0.0 menegoresencand.club
@@ -827,7 +868,13 @@
 0.0.0.0 morukisbasinda8000.xyz
 0.0.0.0 morukleethv1.cf
 0.0.0.0 motuzieasasas.shop
+0.0.0.0 mowuqn.ga
+0.0.0.0 mowuqn.ml
+0.0.0.0 mrbasic.com
 0.0.0.0 mrbenlale.net
+0.0.0.0 mrbonus.com
+0.0.0.0 mrface.com
+0.0.0.0 mrkorosh.site
 0.0.0.0 ms-endpoint.com
 0.0.0.0 msmartb.com
 0.0.0.0 msmartc.com
@@ -847,9 +894,11 @@
 0.0.0.0 murathizlikuryeservis.space
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
+0.0.0.0 my03.com
 0.0.0.0 my.domain
 0.0.0.0 mylinkedln.com
 0.0.0.0 mynameisonderlandto666onderland.xyz
+0.0.0.0 mynetav.org
 0.0.0.0 mysqlnet.org
 0.0.0.0 myutopyaworldvs.cf
 0.0.0.0 n3bvakjjouxir0zkzmd.xyz
@@ -865,6 +914,7 @@
 0.0.0.0 neolrlnneleolmuyu.com
 0.0.0.0 nerdebualisverisciler.shop
 0.0.0.0 nerohut.com
+0.0.0.0 nestbirdie.site
 0.0.0.0 new.minr.pw
 0.0.0.0 newadreskayit.cf
 0.0.0.0 nexgenemi.com
@@ -922,6 +972,7 @@
 0.0.0.0 ordanbizegelirgelmez.com
 0.0.0.0 ordanbizehgeleceki.co.vu
 0.0.0.0 orgulama.xyz
+0.0.0.0 otzo.com
 0.0.0.0 ouroboros32132.site
 0.0.0.0 oyuncakhesapositebizimle.co.vu
 0.0.0.0 oyunsporhaberlerindenyaklas.co.vu
@@ -999,7 +1050,10 @@
 0.0.0.0 proxy-pol-2.inf.nimiq.network
 0.0.0.0 pugbsatisbayisi.tk
 0.0.0.0 puppy13.ru
+0.0.0.0 puyejqj.ml
+0.0.0.0 qhigh.com
 0.0.0.0 qocmkassa.store
+0.0.0.0 qpoe.com
 0.0.0.0 ramosahneleri.net
 0.0.0.0 ratbudur.xyz
 0.0.0.0 readyqrscanner.club
@@ -1012,6 +1066,7 @@
 0.0.0.0 reklamruyasibursa.com.tr
 0.0.0.0 reklamzamani69.net
 0.0.0.0 reklamzamanisivas.com.tr
+0.0.0.0 remotemake.xyz
 0.0.0.0 renhertfo.com
 0.0.0.0 roastedvolt.net
 0.0.0.0 rock2.authcaptcha.com
@@ -1038,6 +1093,7 @@
 0.0.0.0 sadokankim22.space
 0.0.0.0 sadyaonemaneking.shop
 0.0.0.0 sagssaolyyksamay.shop
+0.0.0.0 sahameli1402.site
 0.0.0.0 sahibindenparanguvende.net
 0.0.0.0 sakgaibiaqfasda.shop
 0.0.0.0 salhasduaras.shop
@@ -1170,6 +1226,7 @@
 0.0.0.0 sponsoredmami.com
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
+0.0.0.0 ssd-vip.website
 0.0.0.0 statdynamic.com
 0.0.0.0 stathere.me
 0.0.0.0 static.sparechange.io
@@ -1230,13 +1287,16 @@
 0.0.0.0 tllaheasog.shop
 0.0.0.0 toorroot.net
 0.0.0.0 toptansanatisleri.gq
+0.0.0.0 toythieves.com
 0.0.0.0 tr2500forms.xyz
 0.0.0.0 tradesedesdomones.net
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 trafficesapket.icu
 0.0.0.0 tramerdesnomates.net
+0.0.0.0 trickip.org
 0.0.0.0 trioppe.top
 0.0.0.0 trip2health.com
+0.0.0.0 trpihgram.space
 0.0.0.0 truegym.at
 0.0.0.0 trustaproiam.de
 0.0.0.0 trusteverything.de
@@ -1250,6 +1310,7 @@
 0.0.0.0 tvalimsatimxalo.tk
 0.0.0.0 ue47emsfujaozfg.gq
 0.0.0.0 ueihtnoujbedjiu.ru
+0.0.0.0 uilscvnzdds.shop
 0.0.0.0 ukalasahne.net
 0.0.0.0 ukalasahnede.com.tr
 0.0.0.0 ukalasahnedebolsanslar.space
@@ -1284,6 +1345,7 @@
 0.0.0.0 video.streaming.estream.to
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 viewdns.net
+0.0.0.0 vizvaz.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vldeolan.com
 0.0.0.0 vmi503011.contaboserver.net
@@ -1311,7 +1373,10 @@
 0.0.0.0 whereisyourf4ckingtar3e425.tk
 0.0.0.0 whereisyourf4ckingtarer425.tk
 0.0.0.0 whereisyourf4ckingtarer.tk
+0.0.0.0 whi.ir
+0.0.0.0 wikaba.com
 0.0.0.0 windnsch.freeddns.org
+0.0.0.0 witheveryregistration.click
 0.0.0.0 wordc.ga
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
@@ -1351,6 +1416,7 @@
 0.0.0.0 www.webmine.cz
 0.0.0.0 www.yakarimpanelimizi.ga
 0.0.0.0 www.yakarimpanelimizi.ml
+0.0.0.0 wwwhost.biz
 0.0.0.0 x0xs00sx0xsa0xsakksxak.net
 0.0.0.0 x00xs0xs0sssqq.net
 0.0.0.0 xbxntzr7uoboa8u.gq
@@ -1360,6 +1426,7 @@
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
+0.0.0.0 xstarv2.store
 0.0.0.0 yakupbabafirarda.tk
 0.0.0.0 yakupozsoytadilat.ml
 0.0.0.0 yalafix.com
@@ -1422,6 +1489,7 @@
 0.0.0.0 ymekeyemehaldisyhj.co.vu
 0.0.0.0 yolalmazlaryolbilmezler.tk
 0.0.0.0 yoluculukmetro.xyz
+0.0.0.0 yourtrap.com
 0.0.0.0 ysssamachy4.xyz
 0.0.0.0 yummyads.net
 0.0.0.0 yusufagafirada.tk
@@ -1430,8 +1498,10 @@
 0.0.0.0 zamanmakineilaclari.shop
 0.0.0.0 zenyatirim.org
 0.0.0.0 zer0-dust.com
+0.0.0.0 zlc.ir
 0.0.0.0 zoneclaps.xyz
 0.0.0.0 zonesbayim666.fun
 0.0.0.0 zonstdns.xyz
 0.0.0.0 zymerget.win
 0.0.0.0 zzerxc.com
+0.0.0.0 zzux.com
