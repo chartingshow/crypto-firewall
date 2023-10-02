@@ -1,0 +1,21 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Irata Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 October 2023
+#
+
+5.144.130.58
+5.161.202.99
+5.255.117.149
+5.255.126.184
+23.94.28.187
+46.4.98.104
+49.12.8.157
+172.172.236.36
+185.206.95.12
