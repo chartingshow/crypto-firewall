@@ -74,6 +74,7 @@
 0.0.0.0 9ac0dbea6cd369e3.xyz
 0.0.0.0 9akg45d9azdfyuq.gq
 0.0.0.0 9c8b601990eacf18.live
+0.0.0.0 9sta9rt4.store
 0.0.0.0 9xkcaayaagvr1p2.top
 0.0.0.0 12d6363d1d12242d.live
 0.0.0.0 16clouds.com
@@ -94,9 +95,14 @@
 0.0.0.0 98ygdjhdvuhj.com
 0.0.0.0 431f4c8044b780c4.xyz
 0.0.0.0 614e7cd1c623698a.xyz
+0.0.0.0 623start.site
+0.0.0.0 682start.store
 0.0.0.0 827c153abcc78ce2.live
 0.0.0.0 871d9314bb8bf8da.xyz
 0.0.0.0 921hapudyqwdvy.com
+0.0.0.0 994safeweb.store
+0.0.0.0 994super.site
+0.0.0.0 2478dotfarm.site
 0.0.0.0 3463forum.cf
 0.0.0.0 8659design.se
 0.0.0.0 81041b70fdc3a8d2.xyz
@@ -162,6 +168,7 @@
 0.0.0.0 adnankara1.ddns.net
 0.0.0.0 adneedads.com
 0.0.0.0 adriaticdeluxeapartments.com
+0.0.0.0 ads-info.ru
 0.0.0.0 adshennesyltd.net
 0.0.0.0 adsparkdev.com
 0.0.0.0 aeros01.tk
@@ -179,6 +186,7 @@
 0.0.0.0 ahrom-app.website
 0.0.0.0 aidatsorgula.net
 0.0.0.0 aidemy.net
+0.0.0.0 aipanelnew.ru
 0.0.0.0 airlinesimulator.io
 0.0.0.0 airtechsystem.co.jp
 0.0.0.0 aiys71ubj6cbeqg.com
@@ -463,6 +471,7 @@
 0.0.0.0 cd306c22c6332008.xyz
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn-new-dwnl.site
+0.0.0.0 cdn-prok.site
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.minescripts.info
@@ -484,6 +493,10 @@
 0.0.0.0 cildrmammeklkedesf.shop
 0.0.0.0 cilgindayi34.xyz
 0.0.0.0 clgserv.pro
+0.0.0.0 clk-brom.site
+0.0.0.0 clk-brood.top
+0.0.0.0 clk-info.ru
+0.0.0.0 clk-info.site
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
@@ -514,6 +527,7 @@
 0.0.0.0 contribute.to-support.me
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 corh.cf
+0.0.0.0 cornbascet.site
 0.0.0.0 corporateupdates.info
 0.0.0.0 cpbrandindia.com
 0.0.0.0 cratopex.com
@@ -744,6 +758,8 @@
 0.0.0.0 freeintalk.co
 0.0.0.0 freeintalk.com
 0.0.0.0 frenkoftheworldunko.cf
+0.0.0.0 fresh-prok.ru
+0.0.0.0 fresh-prok.site
 0.0.0.0 freshcreative.com.au
 0.0.0.0 freudeundheilung.de
 0.0.0.0 friendsofthefolsomlibrary.org
@@ -1129,6 +1145,7 @@
 0.0.0.0 mebablo.com
 0.0.0.0 medtechgroups.com
 0.0.0.0 mefound.com
+0.0.0.0 mega378-fon.site
 0.0.0.0 megamalll.info
 0.0.0.0 memleketlioldugummzan.co.vu
 0.0.0.0 menegoresencand.club
@@ -1243,11 +1260,14 @@
 0.0.0.0 nerdebualisverisciler.shop
 0.0.0.0 nerohut.com
 0.0.0.0 nestbirdie.site
+0.0.0.0 new-prok.ru
 0.0.0.0 new.minr.pw
 0.0.0.0 newadreskayit.cf
 0.0.0.0 neworderspath.org
+0.0.0.0 newvision682.store
 0.0.0.0 nexgenemi.com
 0.0.0.0 nexsuslazim.net
+0.0.0.0 next-traf623.site
 0.0.0.0 nfiuerwftasnuk.com
 0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 nfwebminer.com
@@ -1397,6 +1417,8 @@
 0.0.0.0 prangadayi.com
 0.0.0.0 prangaweb.co.vu
 0.0.0.0 premiumstats.xyz
+0.0.0.0 prkl-ads.ru
+0.0.0.0 prkl-ads.site
 0.0.0.0 proofly.win
 0.0.0.0 propertytax4less.com
 0.0.0.0 protectionguardapp.club
@@ -1626,6 +1648,7 @@
 0.0.0.0 srcips.com
 0.0.0.0 srdemolition.com
 0.0.0.0 ssd-vip.website
+0.0.0.0 start-up-plus.site
 0.0.0.0 statdynamic.com
 0.0.0.0 stathere.me
 0.0.0.0 static.sparechange.io
@@ -1648,6 +1671,7 @@
 0.0.0.0 sunnimiq5.cf
 0.0.0.0 sunnimiq6.cf
 0.0.0.0 sunnimiq.cf
+0.0.0.0 super56fall.online
 0.0.0.0 surelytheme.org
 0.0.0.0 svcregsvr.com
 0.0.0.0 swiftmining.win
@@ -1704,6 +1728,7 @@
 0.0.0.0 timestop.online
 0.0.0.0 tllaheasog.shop
 0.0.0.0 toorroot.net
+0.0.0.0 top789market.online
 0.0.0.0 toptansanatisleri.gq
 0.0.0.0 toythieves.com
 0.0.0.0 tr2500forms.xyz
@@ -1714,11 +1739,14 @@
 0.0.0.0 transversallearning.com
 0.0.0.0 tre100.in
 0.0.0.0 trickip.org
+0.0.0.0 trill-gone123.site
 0.0.0.0 trioppe.top
 0.0.0.0 trip2health.com
 0.0.0.0 tropipackfood.com
 0.0.0.0 trpihgram.space
 0.0.0.0 truegym.at
+0.0.0.0 trust-flare.ru
+0.0.0.0 trust-flare.site
 0.0.0.0 trustaproiam.de
 0.0.0.0 trusteverything.de
 0.0.0.0 tsvsnjv.com
