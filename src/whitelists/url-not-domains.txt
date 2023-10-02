@@ -36,6 +36,7 @@
 *.wixsite.com
 *.wordpress.com
 *.workers.dev
+*.x10.bz
 *.yolasite.com
 *.zendesk.com
 https://docs.google.com/forms/*
