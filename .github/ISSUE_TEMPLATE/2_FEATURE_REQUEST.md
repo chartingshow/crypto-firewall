@@ -8,11 +8,19 @@ labels: 'enhancement 👍, enhancement :+1:, Code Update 🔔, In-progress, Prio
 
 - [ ] e.g. Add this to firewall or virus definitions
 
+## Description
+
+n/a
+
 ## Links
 
 n/a
 
 ## IOC
+
+### URL's
+
+n/a
 
 ### Domains
 
