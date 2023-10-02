@@ -520,6 +520,7 @@
 0.0.0.0 flighty.win
 0.0.0.0 flightzy.date
 0.0.0.0 flightzy.win
+0.0.0.0 flowdivison.club
 0.0.0.0 fobocontentplus.online
 0.0.0.0 fobocontentplus.site
 0.0.0.0 fobocontentplus.top
@@ -840,6 +841,7 @@
 0.0.0.0 msmartm.com
 0.0.0.0 mtymall.info
 0.0.0.0 mucasnedalir.shop
+0.0.0.0 multifuctionscanner.club
 0.0.0.0 muqgllmqtyllhwn.com
 0.0.0.0 muratcengizafyon.tk
 0.0.0.0 murathizlikuryeservis.space
@@ -914,6 +916,7 @@
 0.0.0.0 olusuzhaberlerdengheldik.co.vu
 0.0.0.0 ondenbanahabervergel.co.vu
 0.0.0.0 onetwothreezones.xyz
+0.0.0.0 onlinefitnessanalysis.com
 0.0.0.0 onlinetechdesk.com
 0.0.0.0 opusmedical.info
 0.0.0.0 ordanbizegelirgelmez.com
@@ -986,6 +989,7 @@
 0.0.0.0 prangaweb.co.vu
 0.0.0.0 premiumstats.xyz
 0.0.0.0 proofly.win
+0.0.0.0 protectionguardapp.club
 0.0.0.0 proxy-can-1.inf.nimiq.network
 0.0.0.0 proxy-deu-1.inf.nimiq.network
 0.0.0.0 proxy-deu-2.inf.nimiq.network
@@ -998,6 +1002,7 @@
 0.0.0.0 qocmkassa.store
 0.0.0.0 ramosahneleri.net
 0.0.0.0 ratbudur.xyz
+0.0.0.0 readyqrscanner.club
 0.0.0.0 reauthenticator.com
 0.0.0.0 recruitment59.com
 0.0.0.0 recruitment60.com
