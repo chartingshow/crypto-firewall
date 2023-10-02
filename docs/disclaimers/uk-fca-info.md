@@ -2,9 +2,15 @@
 
 **Due to the potential for losses, the Financial Conduct Authority (FCA) considers cryptocurrency investment to be high risk!**
 
+**General Disclosure:** The content material shared is not intended to be relied upon as a forecast or investment advice and is not a recommendation, offer or solicitation to buy or sell any securities, cryptocurrencies, cryptoassets or to adopt any investment strategy. The use of terminology and the views expressed are intended to promote understanding and the responsible development of the sector and should not be interpreted as definitive legal views or those of content providers. Reliance upon information in this material is at the sole discretion of the reader.
+
 ### Steps to protect our followers
 
-* The information contained herein is for informational purposes only. Nothing herein shall be construed to be financial, legal or tax advice.
+* This content has been prepared solely for informative purposes and should not be the basis for making investment decisions or be construed as a recommendation to engage in investment transactions or be taken to suggest an investment strategy in respect of any financial instruments or the issuers thereof.
+* The content shared is not related to the provision of advisory services regarding investment, tax, legal, financial, accounting, consulting or any other related services and are not recommendations to buy, sell or hold any asset.
+* The information shared is based on sources considered to be reliable, but not guaranteed, to be accurate or complete.
+* Any opinions or estimates expressed herein reflect a judgment made as of this date and are subject to change without notice.
+* We will not be liable whatsoever for any direct or consequential loss arising from the use of this publication/communication or its contents.
 * We don't do **direct message** (DM) to our followers in our social media accounts, if you receive a message claiming to be from us, it's a fake and most likely from a scammer!
 * We don't do **giveaways promotions**, giving away **free non-fungible tokens (NFT's)** or **cryptocurrencies through airdrops** to promote investing in digital assets is prohibited by the U.K. Financial Conduct Authority's (FCA) new rules!
 * All adverts will be clearly displayed with `#AD` and the details of any sponsorship agreement with fees, commissions or other charges will be disclosed to the public (**currently we do not share any sponsored content**).
@@ -70,6 +76,6 @@ For further information about cryptoassets, visit the FCA's website https://www.
 
 > Remember, not all cryptoassets are alike. Before investing, you should ensure you understand the specific risks involved.
 
-Last reviewed: 1st October 2023.
+Last reviewed: 2nd October 2023.
 
 Content is subject to copyright laws found in the [LICENSE](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/LICENSE)
