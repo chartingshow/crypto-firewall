@@ -28,6 +28,7 @@
 0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
 0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
 0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
+0.0.0.0 ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
 0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 
 # Bad Crypto domains
@@ -244,6 +245,7 @@
 0.0.0.0 bablace.com
 0.0.0.0 bablrfirrarrr.shop
 0.0.0.0 backup1212.ddns.net
+0.0.0.0 badworldgama.top
 0.0.0.0 baggshdyfsdp.shop
 0.0.0.0 bagirmabana55.co.vu
 0.0.0.0 bagisyapsendehadi.xyz
@@ -339,10 +341,12 @@
 0.0.0.0 candid.zone
 0.0.0.0 canimsinolacak.duckdns.org
 0.0.0.0 cansanbabapazarlamancas.tk
+0.0.0.0 cantdown.space
 0.0.0.0 caponuserv1.cf
 0.0.0.0 carlaarrabitoarchitetto.com
 0.0.0.0 cashbeet.com
 0.0.0.0 cashingeveryday.com
+0.0.0.0 catnetwork.online
 0.0.0.0 cc4d3debe7c33d08.live
 0.0.0.0 cd306c22c6332008.xyz
 0.0.0.0 cdn1.pebx.pl
@@ -356,7 +360,10 @@
 0.0.0.0 central-cee-doja.ru
 0.0.0.0 cerberdomain.de
 0.0.0.0 cfcdist.gdn
+0.0.0.0 chalntz.top
 0.0.0.0 charge-web.info
+0.0.0.0 chatgenie.co.uk
+0.0.0.0 chipbf.com
 0.0.0.0 chtcom.tw
 0.0.0.0 cildrmammeklkedesf.shop
 0.0.0.0 cilgindayi34.xyz
@@ -385,9 +392,11 @@
 0.0.0.0 comixsel.com
 0.0.0.0 comolokko4152ertausicken.gq
 0.0.0.0 concentration1234.com
+0.0.0.0 condi.network
 0.0.0.0 contarmxsite.xyz
 0.0.0.0 contribute.to-support.me
 0.0.0.0 conversions.appsflyer.com
+0.0.0.0 corh.cf
 0.0.0.0 corporateupdates.info
 0.0.0.0 cratopex.com
 0.0.0.0 cryptaloot.pro
@@ -424,6 +433,7 @@
 0.0.0.0 dayilemutlugunler.co.vu
 0.0.0.0 dayininyemeklerinden.co.vu
 0.0.0.0 dayionline.xyz
+0.0.0.0 ddns.net
 0.0.0.0 de3dea888febbf08.xyz
 0.0.0.0 de-mi-nis-ner.info
 0.0.0.0 de-ner-mi-nis4.info
@@ -441,6 +451,8 @@
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 devopspdx.com
 0.0.0.0 devopszone.org
+0.0.0.0 dfgy.shop
+0.0.0.0 dfvzfvd.help
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 directdefense.consulting
 0.0.0.0 dl.browsermine.com
@@ -457,10 +469,12 @@
 0.0.0.0 dormutcont.xyz
 0.0.0.0 dostvillam.com
 0.0.0.0 douosadgaadonline.org
+0.0.0.0 doved.top
 0.0.0.0 dronml.ml
 0.0.0.0 dsfiu133ds52231232fdnsjds.top
 0.0.0.0 dsfiu733ds42231232fdnsjds.top
 0.0.0.0 dsfiu733ds52231232fdnsjds.top
+0.0.0.0 duc3k.com
 0.0.0.0 dudu365.club
 0.0.0.0 duia.ro
 0.0.0.0 duyuru-market-com.tk
@@ -562,12 +576,14 @@
 0.0.0.0 gariplerdenaldigimizhaber.co.vu
 0.0.0.0 garrtfarcds.shop
 0.0.0.0 gasolina.ml
+0.0.0.0 gay.energy
 0.0.0.0 gdstictk.buzz
 0.0.0.0 gecegundfuzsenilked.com
 0.0.0.0 gelenparantransferi.com
 0.0.0.0 gelirelbetgecerbugunler.us
 0.0.0.0 gelnkselztin.xyz
 0.0.0.0 gettrials.com
+0.0.0.0 ggm.pw
 0.0.0.0 girisapi2361.pw
 0.0.0.0 girisapi2685.pw
 0.0.0.0 girisapi3315.pw
@@ -607,6 +623,7 @@
 0.0.0.0 had0.live
 0.0.0.0 hadespanel.online
 0.0.0.0 hahahooho23.net
+0.0.0.0 hamsterrace.space
 0.0.0.0 hannygoesing.net
 0.0.0.0 harmonyshoused.com
 0.0.0.0 harry0101.co.vu
@@ -677,6 +694,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 incitewebsolution.com
 0.0.0.0 incmanapp.rest
+0.0.0.0 infectedchink.cat
 0.0.0.0 ininmacerad.pro
 0.0.0.0 instanthq.com
 0.0.0.0 intelserviceupdate.com
@@ -700,6 +718,7 @@
 0.0.0.0 jd-1111.cn
 0.0.0.0 jetos.com
 0.0.0.0 jgjhgfjhg654.co.vu
+0.0.0.0 jiggaboojones.tech
 0.0.0.0 jkub.com
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
@@ -739,6 +758,7 @@
 0.0.0.0 kelenemmkhgg.ml
 0.0.0.0 kendinegelaklinialirim.duckdns.org
 0.0.0.0 kerizlersokak31.xyz
+0.0.0.0 kintaro.cc
 0.0.0.0 kozmetikakisyenileme.tk
 0.0.0.0 kradkeskkemtnsa.cf
 0.0.0.0 kraledemensdpamu.net
@@ -760,6 +780,7 @@
 0.0.0.0 latsgetd0x3.co.vu
 0.0.0.0 latsgetd0xx4covu.co.vu
 0.0.0.0 latsgetd0xxx5covucovu.co.vu
+0.0.0.0 layer7.fun
 0.0.0.0 ledhenone.com
 0.0.0.0 letscall.39nat.com
 0.0.0.0 letscall.fyi
@@ -794,6 +815,7 @@
 0.0.0.0 mail.itseasy.com
 0.0.0.0 mail.shaferglazer.com
 0.0.0.0 mail.techniservinc.com
+0.0.0.0 maizhangyu.top
 0.0.0.0 makephone.net
 0.0.0.0 makkgg.fyi
 0.0.0.0 malmisinfree.tk
@@ -851,6 +873,7 @@
 0.0.0.0 mjayoxbvakjjouxir0z.xyz
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 mmaddisena.shop
+0.0.0.0 mmone.online
 0.0.0.0 mmsmk83ud3vuhzs.gq
 0.0.0.0 mon-deu-1.inf.nimiq.network
 0.0.0.0 mon-deu-2.inf.nimiq.network
@@ -908,6 +931,7 @@
 0.0.0.0 nasipdiyipgececez.co.vu
 0.0.0.0 nathetsof.com
 0.0.0.0 nch-software.info
+0.0.0.0 nekololis.wtf
 0.0.0.0 neobbbeolmaz.com
 0.0.0.0 neolrlnneleolkkaz.com
 0.0.0.0 neolrlnneleolmaz.com
@@ -922,6 +946,7 @@
 0.0.0.0 nfiuerwftasnuk.com
 0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 nfwebminer.com
+0.0.0.0 nguyentatthanh.ml
 0.0.0.0 nicetrue.one
 0.0.0.0 nicetv.live
 0.0.0.0 niematego.tk
@@ -945,6 +970,7 @@
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 nsdvirasndevu2.net
 0.0.0.0 nsdvirasndevu.net
+0.0.0.0 nulling.to
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
 0.0.0.0 obunryugtpfyssw.ru
@@ -968,10 +994,12 @@
 0.0.0.0 onetwothreezones.xyz
 0.0.0.0 onlinefitnessanalysis.com
 0.0.0.0 onlinetechdesk.com
+0.0.0.0 opewu.homes
 0.0.0.0 opusmedical.info
 0.0.0.0 ordanbizegelirgelmez.com
 0.0.0.0 ordanbizehgeleceki.co.vu
 0.0.0.0 orgulama.xyz
+0.0.0.0 orxy.space
 0.0.0.0 otzo.com
 0.0.0.0 ouroboros32132.site
 0.0.0.0 oyuncakhesapositebizimle.co.vu
@@ -1034,7 +1062,9 @@
 0.0.0.0 posngoappx.com
 0.0.0.0 posngovipappa.com
 0.0.0.0 powellfamilydentist.com
+0.0.0.0 powerfull-skid.com
 0.0.0.0 ppmgjzg54e24jk5.gq
+0.0.0.0 pqahzam.ink
 0.0.0.0 pr0gram.org
 0.0.0.0 prangadayi.com
 0.0.0.0 prangaweb.co.vu
@@ -1054,6 +1084,7 @@
 0.0.0.0 qhigh.com
 0.0.0.0 qocmkassa.store
 0.0.0.0 qpoe.com
+0.0.0.0 quanxx.site
 0.0.0.0 ramosahneleri.net
 0.0.0.0 ratbudur.xyz
 0.0.0.0 readyqrscanner.club
@@ -1218,10 +1249,13 @@
 0.0.0.0 siqortem.net
 0.0.0.0 site.flashx.cc
 0.0.0.0 sizdenbaskakimgelecekyardim.co.vu
+0.0.0.0 sjyddos4.top
 0.0.0.0 skararilokali.tk
 0.0.0.0 skeptictyson.com
+0.0.0.0 skyline2006.xyz
 0.0.0.0 smartcontractlicense.info
 0.0.0.0 soabhasq.shop
+0.0.0.0 softdetails.in
 0.0.0.0 sparrawx.net
 0.0.0.0 sponsoredmami.com
 0.0.0.0 srcip.com
@@ -1235,6 +1269,7 @@
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
+0.0.0.0 stress.wtf
 0.0.0.0 stripchat15.com
 0.0.0.0 stripchat70.com
 0.0.0.0 strmbaselib.com
@@ -1260,6 +1295,7 @@
 0.0.0.0 tahaberservisi.net
 0.0.0.0 talatlarholdngltd.net
 0.0.0.0 tanertaner.store
+0.0.0.0 tcprestt.top
 0.0.0.0 tdef49qzbomqmac.gq
 0.0.0.0 tekbasinaalalhsk.shop
 0.0.0.0 teksemaddsaen.shop
@@ -1284,6 +1320,7 @@
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
 0.0.0.0 ti-instruments.com
+0.0.0.0 timestop.online
 0.0.0.0 tllaheasog.shop
 0.0.0.0 toorroot.net
 0.0.0.0 toptansanatisleri.gq
@@ -1380,6 +1417,7 @@
 0.0.0.0 wordc.ga
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
+0.0.0.0 wq.gy
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 wtm.monitoringservice.co
@@ -1422,6 +1460,7 @@
 0.0.0.0 xbxntzr7uoboa8u.gq
 0.0.0.0 xc5s.digital
 0.0.0.0 xevoia.space
+0.0.0.0 xiaojue02.top
 0.0.0.0 xipxesip.design
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xmr.2miners.com
@@ -1502,6 +1541,8 @@
 0.0.0.0 zoneclaps.xyz
 0.0.0.0 zonesbayim666.fun
 0.0.0.0 zonstdns.xyz
+0.0.0.0 zu0x.com
+0.0.0.0 zvub.us
 0.0.0.0 zymerget.win
 0.0.0.0 zzerxc.com
 0.0.0.0 zzux.com
