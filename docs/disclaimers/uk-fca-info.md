@@ -2,10 +2,11 @@
 
 **Due to the potential for losses, the Financial Conduct Authority (FCA) considers cryptocurrency investment to be high risk!**
 
-**General Disclosure:** The content material shared is not intended to be relied upon as a forecast or investment advice and is not a recommendation, offer or solicitation to buy or sell any securities, cryptocurrencies, cryptoassets or to adopt any investment strategy. The use of terminology and the views expressed are intended to promote understanding and the responsible development of the sector and should not be interpreted as definitive legal views or those of content providers. Reliance upon information in this material is at the sole discretion of the reader.
+> **General Disclosure:** The content material shared is not intended to be relied upon as a forecast or investment advice and is not a recommendation, offer or solicitation to buy or sell any securities, cryptocurrencies, cryptoassets or to adopt any investment strategy. The use of terminology and the views expressed are intended to promote understanding and the responsible development of the sector and should not be interpreted as definitive legal views or those of content providers. Reliance upon information in this material is at the sole discretion of the reader.
 
 ### Steps to protect our followers
 
+* All `financial` content posted on our social media accounts, will contain a disclaimer and risk information.
 * This content has been prepared solely for informative purposes and should not be the basis for making investment decisions or be construed as a recommendation to engage in investment transactions or be taken to suggest an investment strategy in respect of any financial instruments or the issuers thereof.
 * The content shared is not related to the provision of advisory services regarding investment, tax, legal, financial, accounting, consulting or any other related services and are not recommendations to buy, sell or hold any asset.
 * The information shared is based on sources considered to be reliable, but not guaranteed, to be accurate or complete.
@@ -26,11 +27,7 @@
 * There are plenty of scams in the crypto space and we have listed [what are the most common cryptocurrency scams](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/what-are-the-most-common-cryptocurrency-scams.md) and suggest you get familiar with them in order to protect your assets.
 * We have also created a crypto firewall block list in order to protect our followers from scammers, which can be found here: [Block Bad Crypto Filter Lists](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists)
 
-> All cryptoasset financial promotion images (e.g. Trading Charts, Crypto Memes etc) on Twitter account(s) to carry the warning message:
-> 
-> "Don't invest unless you're prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. Take 2 mins to learn more, see the Pinned Tweet."
-
-WARNING: There are many impersonators of crypto projects, persons and companies. Please be aware of phishing sites and other online scams, and always make sure you are visiting our official [to be added] website.
+**WARNING:** There are many impersonators of crypto projects, persons and companies. Please be aware of phishing sites and other online scams, and always make sure you are visiting our official [to be added] website.
 
 **Purchasing cryptocurrencies poses considerable risk of loss. The use of any and all dapps, protocols and information at your own risk. The content shared does not guarantee any particular outcome. Past performance does not indicate future results.**
 
