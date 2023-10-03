@@ -188,6 +188,7 @@
 0.0.0.0 aidemy.net
 0.0.0.0 aipanelnew.ru
 0.0.0.0 airlinesimulator.io
+0.0.0.0 airnicoltd.biz
 0.0.0.0 airtechsystem.co.jp
 0.0.0.0 aiys71ubj6cbeqg.com
 0.0.0.0 aiys71ubj6cbeqg.fun
@@ -232,6 +233,7 @@
 0.0.0.0 alliantlaw.us
 0.0.0.0 almazova.space
 0.0.0.0 alpaosaatsat.shop
+0.0.0.0 alpatrik.com
 0.0.0.0 alsalamatryon.com
 0.0.0.0 alteronreit.com
 0.0.0.0 altgetxio.com
@@ -465,6 +467,7 @@
 0.0.0.0 carlaarrabitoarchitetto.com
 0.0.0.0 cashbeet.com
 0.0.0.0 cashingeveryday.com
+0.0.0.0 catknock.com
 0.0.0.0 catnetwork.online
 0.0.0.0 cc4d3debe7c33d08.live
 0.0.0.0 cczqyvuy812jdy.com
@@ -486,12 +489,16 @@
 0.0.0.0 cfcdist.gdn
 0.0.0.0 chalntz.top
 0.0.0.0 charge-web.info
+0.0.0.0 chasamloriger.su
 0.0.0.0 chatgenie.co.uk
 0.0.0.0 chestedband.org
+0.0.0.0 chestermachinetools.me
 0.0.0.0 chipbf.com
 0.0.0.0 chtcom.tw
 0.0.0.0 cildrmammeklkedesf.shop
 0.0.0.0 cilgindayi34.xyz
+0.0.0.0 clamprite.ga
+0.0.0.0 cletonmy.com
 0.0.0.0 clgserv.pro
 0.0.0.0 clk-brom.site
 0.0.0.0 clk-brood.top
@@ -532,6 +539,7 @@
 0.0.0.0 cpbrandindia.com
 0.0.0.0 cratopex.com
 0.0.0.0 credit-volta.com
+0.0.0.0 cretenom.ga
 0.0.0.0 cristinaamaro.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 crypto-loot.com
@@ -778,6 +786,7 @@
 0.0.0.0 garrtfarcds.shop
 0.0.0.0 gasolina.ml
 0.0.0.0 gasperinieps.it
+0.0.0.0 gatchweekly.com
 0.0.0.0 gay.energy
 0.0.0.0 gbgrid.com
 0.0.0.0 gctatick.com
@@ -790,6 +799,7 @@
 0.0.0.0 gelnkselztin.xyz
 0.0.0.0 getquery.org
 0.0.0.0 gettrials.com
+0.0.0.0 gfbags.co
 0.0.0.0 gghengineers.com
 0.0.0.0 ggm.pw
 0.0.0.0 ggse.us
@@ -910,6 +920,7 @@
 0.0.0.0 hockeycorner.net
 0.0.0.0 hooneypref.net
 0.0.0.0 hosgeldin2023.com
+0.0.0.0 houseandhoundcare.com
 0.0.0.0 hslawcorp.com
 0.0.0.0 hstbasktattvyas.shop
 0.0.0.0 https443.org
@@ -1092,6 +1103,7 @@
 0.0.0.0 liveyuu.com
 0.0.0.0 livinginthenowbook.info
 0.0.0.0 lkcagar.com
+0.0.0.0 lku7.tk
 0.0.0.0 lluxll.digital
 0.0.0.0 lminoeubybyvq.com
 0.0.0.0 lnnrpwtstcbmdhn.com
@@ -1101,6 +1113,7 @@
 0.0.0.0 lockediettimanihassirtti.com
 0.0.0.0 loloalexander.com
 0.0.0.0 losital.ru
+0.0.0.0 lostheaven.com.cn
 0.0.0.0 lryuxoqak84d.xyz
 0.0.0.0 ltdhennesyads.net
 0.0.0.0 luneraspotx.co.vu
@@ -1162,6 +1175,7 @@
 0.0.0.0 microsoft2888.top
 0.0.0.0 micrusroft.com
 0.0.0.0 miira.live
+0.0.0.0 miklinhotels.com
 0.0.0.0 mine.blank.drawpad.org
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.terorie.com
@@ -1187,6 +1201,7 @@
 0.0.0.0 mmaddisena.shop
 0.0.0.0 mmone.online
 0.0.0.0 mmsmk83ud3vuhzs.gq
+0.0.0.0 mnbvcxzus.com
 0.0.0.0 mnnoiuiuyttczchgv265d.com
 0.0.0.0 mobileautorepairmechanic.com
 0.0.0.0 mon-deu-1.inf.nimiq.network
@@ -1199,7 +1214,9 @@
 0.0.0.0 money-maker-default.info
 0.0.0.0 moneypickupped.co
 0.0.0.0 monkey192341283784432.click
+0.0.0.0 montanapremiersenggigi.com
 0.0.0.0 moonexio.com
+0.0.0.0 morabitur.com
 0.0.0.0 moraver.com
 0.0.0.0 morderlaplatagordamarter18.shop
 0.0.0.0 mortgagetf.com
@@ -1287,6 +1304,7 @@
 0.0.0.0 nmnmnmfsamsfan.xyz
 0.0.0.0 nmq.zxnexus.com
 0.0.0.0 nnnxxceolmaz.com
+0.0.0.0 noctorships.ga
 0.0.0.0 node.nimiq.watch
 0.0.0.0 nodirtyelectricity.com
 0.0.0.0 nomegiasnadaquemecabreo.shop
@@ -1304,6 +1322,7 @@
 0.0.0.0 nvize.com
 0.0.0.0 o1gpxolsxcnfz4y.top
 0.0.0.0 obunryugtpfyssw.ru
+0.0.0.0 obynnehhhan.com
 0.0.0.0 ocean2.authcaptcha.com
 0.0.0.0 odrtechinc.com
 0.0.0.0 oekofkkfkoeefkefbnhgtrq.space
@@ -1339,7 +1358,9 @@
 0.0.0.0 ordanbizegelirgelmez.com
 0.0.0.0 ordanbizehgeleceki.co.vu
 0.0.0.0 orgulama.xyz
+0.0.0.0 originweb.ga
 0.0.0.0 orxy.space
+0.0.0.0 oshi.at
 0.0.0.0 otzo.com
 0.0.0.0 ouroboros32132.site
 0.0.0.0 owkdzodqzodqjefjnnejenefe.site
@@ -1353,6 +1374,7 @@
 0.0.0.0 pagyubsaty.shop
 0.0.0.0 pain.capetown
 0.0.0.0 pandemidestek.xyz
+0.0.0.0 panelone.xyz
 0.0.0.0 panelsave.com
 0.0.0.0 panger-top.click
 0.0.0.0 papoto.com
@@ -1429,6 +1451,7 @@
 0.0.0.0 proxy-gbr-1.inf.nimiq.network
 0.0.0.0 proxy-pol-1.inf.nimiq.network
 0.0.0.0 proxy-pol-2.inf.nimiq.network
+0.0.0.0 publicvm.com
 0.0.0.0 pugbsatisbayisi.tk
 0.0.0.0 puppy13.ru
 0.0.0.0 puyejqj.ml
@@ -1442,6 +1465,7 @@
 0.0.0.0 quaryget.org
 0.0.0.0 r89kq6esetljq7r.fun
 0.0.0.0 r89kq6esetljq7r.top
+0.0.0.0 rakishev.org
 0.0.0.0 ramosahneleri.net
 0.0.0.0 rankinfiles.com
 0.0.0.0 ratbudur.xyz
@@ -1496,6 +1520,7 @@
 0.0.0.0 salhasduaras.shop
 0.0.0.0 saltlrrrmemles.co.vu
 0.0.0.0 saltminecomics.com
+0.0.0.0 samberii.com
 0.0.0.0 sammyhallam.com
 0.0.0.0 sanagosterecem1.gleeze.com
 0.0.0.0 sanagosterecem6.gleeze.com
@@ -1644,6 +1669,7 @@
 0.0.0.0 sparrawx.net
 0.0.0.0 sponsoredmami.com
 0.0.0.0 spyadviser.com
+0.0.0.0 sqsendy.shop
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
 0.0.0.0 srdemolition.com
@@ -1664,6 +1690,7 @@
 0.0.0.0 stripchat70.com
 0.0.0.0 strmbaselib.com
 0.0.0.0 studiolegalebasili.com
+0.0.0.0 suchitanandanmahavidyalaya.org
 0.0.0.0 sucuortpaseeettim.shop
 0.0.0.0 sui-pepe.xyz
 0.0.0.0 sulopanel.com
@@ -1705,6 +1732,7 @@
 0.0.0.0 tencentcs.com
 0.0.0.0 tencentopenapi.xyz
 0.0.0.0 terpdpfk6i2rdhzokzh0.com
+0.0.0.0 terrazzaitaliana.mx
 0.0.0.0 test9977.tk
 0.0.0.0 test.minr.pw
 0.0.0.0 testing1212.ddns.net
@@ -1724,6 +1752,7 @@
 0.0.0.0 thexroadz.com
 0.0.0.0 throatpills.org
 0.0.0.0 ti-instruments.com
+0.0.0.0 tijunaitiene.lt
 0.0.0.0 tillit-hjarta.se
 0.0.0.0 timestop.online
 0.0.0.0 tllaheasog.shop
@@ -1736,6 +1765,7 @@
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 trafficesapket.icu
 0.0.0.0 tramerdesnomates.net
+0.0.0.0 transfer.sh
 0.0.0.0 transversallearning.com
 0.0.0.0 tre100.in
 0.0.0.0 trickip.org
@@ -1757,6 +1787,7 @@
 0.0.0.0 tuafgasgfespas.shop
 0.0.0.0 tulip18.com
 0.0.0.0 tumbabalarmsada.shop
+0.0.0.0 tunamusavirlik.com
 0.0.0.0 tuty927334covucovu.co.vu
 0.0.0.0 tuty927834.co.vu
 0.0.0.0 tvalimsatimxalo.tk
@@ -1772,12 +1803,14 @@
 0.0.0.0 ulansennasilbiinsansin.com
 0.0.0.0 umursuzinsanhaberl.co.vu
 0.0.0.0 umxkexskgtctvws.cn
+0.0.0.0 unclebobsbears.com
 0.0.0.0 uniquebbs.asia
 0.0.0.0 univisuo.com
 0.0.0.0 unknknknnkknkknnk.xyz
 0.0.0.0 unsbslbgdasy.shop
 0.0.0.0 uoldid.ru
 0.0.0.0 uoqpj4em7kkda35.gq
+0.0.0.0 upadte-reviewer-online.live
 0.0.0.0 upbetanetworks.org
 0.0.0.0 upcloudser.online
 0.0.0.0 updateadobeflash.website
@@ -1791,6 +1824,8 @@
 0.0.0.0 valaprime.com.ng
 0.0.0.0 valenius.space
 0.0.0.0 valentinhenning.de
+0.0.0.0 valerehandstand.com
+0.0.0.0 valvulasthermovalve.cl
 0.0.0.0 vamosaporlafiestaguapaconmir.shop
 0.0.0.0 vamosaversisalealgodeaqui1762.shop
 0.0.0.0 vanquicktech.com
