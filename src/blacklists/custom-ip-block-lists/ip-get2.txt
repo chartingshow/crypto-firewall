@@ -1,0 +1,32 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Get2 Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 October 2023
+#
+
+27.101.221.227
+101.78.26.130
+110.15.243.148
+124.243.53.149
+125.141.144.228
+125.141.145.164
+125.141.145.165
+125.141.145.174
+125.141.145.175
+125.141.145.241
+125.141.145.252
+133.186.222.87
+180.210.112.158
+188.160.7.36
+202.211.4.65
+203.252.173.121
+210.90.168.17610
+220.69.33.44
+220.69.33.51
+220.69.33.111
