@@ -45,6 +45,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Hosts](#hosts-)
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
+- [Free DNS / Hosting blocking](#)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
@@ -127,6 +128,12 @@ You may use the hosts file with below applications to block these miners on whol
 
 - ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 - ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
+
+## Free DNS / Hosting blocking 🆓
+
+This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found here:
+
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting.txt
 
 ## IP blocking 🌐
 
