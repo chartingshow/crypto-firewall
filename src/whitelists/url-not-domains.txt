@@ -7,7 +7,6 @@
 *.bravesites.com
 *.business.site
 *.cprapid.com
-*.duckdns.org
 *.easterndns.com
 *.firebaseapp.com
 *.fleek.co
@@ -36,8 +35,6 @@
 *.wixsite.com
 *.wordpress.com
 *.workers.dev
-*.x10.bz
-*.ydns.eu
 *.yolasite.com
 *.zendesk.com
 https://docs.google.com/forms/*

@@ -149,10 +149,10 @@
 0.0.0.0 aboveandbeyondmovers.com
 0.0.0.0 abt.hu
 0.0.0.0 acbp0020171456.page.tl
+0.0.0.0 accesscam.org
 0.0.0.0 ackopek.tk
 0.0.0.0 ad-miner.com
 0.0.0.0 adadaerrasfsf.co.vu
-0.0.0.0 adaisreal.ddns.net
 0.0.0.0 adamolam.co.il
 0.0.0.0 adamsarhan.com
 0.0.0.0 adanademirspor.xyz
@@ -165,7 +165,6 @@
 0.0.0.0 admfor.me
 0.0.0.0 admforall.xyz
 0.0.0.0 adminer.com
-0.0.0.0 adnankara1.ddns.net
 0.0.0.0 adneedads.com
 0.0.0.0 adriaticdeluxeapartments.com
 0.0.0.0 ads-info.ru
@@ -238,6 +237,7 @@
 0.0.0.0 alteronreit.com
 0.0.0.0 altgetxio.com
 0.0.0.0 alumbramento.com.br
+0.0.0.0 amafo.cc
 0.0.0.0 amaracentralworldsanal.tk
 0.0.0.0 amaseon.com
 0.0.0.0 amatosport.pl
@@ -318,6 +318,7 @@
 0.0.0.0 avvmain.online
 0.0.0.0 awesomepotions.com
 0.0.0.0 awsliveec.com
+0.0.0.0 awsmppl.com
 0.0.0.0 axoncoho.tk
 0.0.0.0 ayitiexpo.com
 0.0.0.0 azitgroup.com.au
@@ -328,7 +329,6 @@
 0.0.0.0 babamrbads.net
 0.0.0.0 bablace.com
 0.0.0.0 bablrfirrarrr.shop
-0.0.0.0 backup1212.ddns.net
 0.0.0.0 badworldgama.top
 0.0.0.0 bagat24.de
 0.0.0.0 baggshdyfsdp.shop
@@ -414,7 +414,6 @@
 0.0.0.0 blueecho88.com
 0.0.0.0 bluefrontmagnetics.com
 0.0.0.0 bluegaslamp.org
-0.0.0.0 bluemoon7.duckdns.org
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
@@ -429,7 +428,6 @@
 0.0.0.0 bpargastasyas.ml
 0.0.0.0 bpjoieohzmhegwegmmuew.online
 0.0.0.0 brasdex.com
-0.0.0.0 brokendefff.duckdns.org
 0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
 0.0.0.0 btcc.host
@@ -460,9 +458,9 @@
 0.0.0.0 canalisverisecikarken.shop
 0.0.0.0 cancelledfirestarter.org
 0.0.0.0 candid.zone
-0.0.0.0 canimsinolacak.duckdns.org
 0.0.0.0 cansanbabapazarlamancas.tk
 0.0.0.0 cantdown.space
+0.0.0.0 capitalizerutc.com
 0.0.0.0 caponuserv1.cf
 0.0.0.0 carlaarrabitoarchitetto.com
 0.0.0.0 cashbeet.com
@@ -525,9 +523,9 @@
 0.0.0.0 coinpot.co
 0.0.0.0 coinrail.io
 0.0.0.0 comcunesgom.net
-0.0.0.0 comeertonesigas.duckdns.org
 0.0.0.0 comixsel.com
 0.0.0.0 comolokko4152ertausicken.gq
+0.0.0.0 con-ip.com
 0.0.0.0 concentration1234.com
 0.0.0.0 condi.network
 0.0.0.0 contarmxsite.xyz
@@ -635,6 +633,7 @@
 0.0.0.0 dsfiu733ds42231232fdnsjds.top
 0.0.0.0 dsfiu733ds52231232fdnsjds.top
 0.0.0.0 duc3k.com
+0.0.0.0 duckdns.org
 0.0.0.0 dudu365.club
 0.0.0.0 duia.ro
 0.0.0.0 duinbehoud.nl
@@ -642,6 +641,7 @@
 0.0.0.0 dwe.amaseon.com
 0.0.0.0 dybsyasfasgsd.shop
 0.0.0.0 dynamic-dns.net
+0.0.0.0 dynv6.net
 0.0.0.0 e91d4ba9a1864c7d.live
 0.0.0.0 easiestbatteryrepair.com
 0.0.0.0 eastcoastmotorhomes.co.uk
@@ -710,6 +710,7 @@
 0.0.0.0 evlezetlerin.net
 0.0.0.0 evs4ufqbmgnfmhy.ml
 0.0.0.0 ewkekezmwzfevwvwvvmmmmmmwfwf.site
+0.0.0.0 ewoiutz9dt9bzo89tz.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 existeraboutdeplume.fr
 0.0.0.0 expoteam.ro
@@ -718,6 +719,7 @@
 0.0.0.0 f1tbit.com
 0.0.0.0 f15d584827297704.xyz
 0.0.0.0 f20ae55adaaf797f.xyz
+0.0.0.0 f88vbv8b8erht8baos.com
 0.0.0.0 f176cf5598f68448.live
 0.0.0.0 f5289864v8j5g23.gq
 0.0.0.0 fae361e39435d13c.xyz
@@ -822,7 +824,6 @@
 0.0.0.0 girisapi9492.pw
 0.0.0.0 girisapi9952.pw
 0.0.0.0 gitmedurneolur.tk
-0.0.0.0 gizcansingiz.duckdns.org
 0.0.0.0 Gizemlibizimle.co.vu
 0.0.0.0 gkrokbmrkmrxtmxrxr.space
 0.0.0.0 glaudio.com.au
@@ -875,7 +876,6 @@
 0.0.0.0 hatozurdlme.shop
 0.0.0.0 hayannsidfmosa.shop
 0.0.0.0 hayatbilgisigibihaberlerinolmaziyok.co.vu
-0.0.0.0 hayatbuolsagerek.duckdns.org
 0.0.0.0 hayatolantekinsanlaradan.com
 0.0.0.0 hayatsuyusinavgunu.com.tr
 0.0.0.0 haydiellerasada.digital
@@ -919,6 +919,7 @@
 0.0.0.0 hizlisan.xyz
 0.0.0.0 hockeycorner.net
 0.0.0.0 hooneypref.net
+0.0.0.0 hopto.org
 0.0.0.0 hosgeldin2023.com
 0.0.0.0 houseandhoundcare.com
 0.0.0.0 hslawcorp.com
@@ -1041,7 +1042,6 @@
 0.0.0.0 kelenemmkhgg.ml
 0.0.0.0 keltek.co.uk
 0.0.0.0 kendalwills.co.uk
-0.0.0.0 kendinegelaklinialirim.duckdns.org
 0.0.0.0 kerizlersokak31.xyz
 0.0.0.0 kiezradler.de
 0.0.0.0 kinchcorp.com
@@ -1049,6 +1049,7 @@
 0.0.0.0 kizys.net
 0.0.0.0 kjniuby621edoo.com
 0.0.0.0 kozmetikakisyenileme.tk
+0.0.0.0 kozow.com
 0.0.0.0 kradkeskkemtnsa.cf
 0.0.0.0 krafttopia.net
 0.0.0.0 kraledemensdpamu.net
@@ -1109,6 +1110,7 @@
 0.0.0.0 lnnrpwtstcbmdhn.com
 0.0.0.0 loboappsec.icu
 0.0.0.0 loboappsec.shop
+0.0.0.0 localto.net
 0.0.0.0 locf02azxz3g.xyz
 0.0.0.0 lockediettimanihassirtti.com
 0.0.0.0 loloalexander.com
@@ -1154,7 +1156,6 @@
 0.0.0.0 maxguenter.de
 0.0.0.0 maxtor.monster
 0.0.0.0 mbhpikampombehi.com
-0.0.0.0 mcmac.duckdns.org
 0.0.0.0 mebablo.com
 0.0.0.0 medtechgroups.com
 0.0.0.0 mefound.com
@@ -1253,12 +1254,17 @@
 0.0.0.0 my03.com
 0.0.0.0 my-game.biz
 0.0.0.0 my.domain
+0.0.0.0 myftp.biz
+0.0.0.0 myiphost.com
 0.0.0.0 myjesusloves.me
 0.0.0.0 mylinkedln.com
 0.0.0.0 mynameisonderlandto666onderland.xyz
 0.0.0.0 mynetav.org
 0.0.0.0 mysqlnet.org
+0.0.0.0 mysynology.net
 0.0.0.0 myutopyaworldvs.cf
+0.0.0.0 myvnc.com
+0.0.0.0 mywire.org
 0.0.0.0 n3bvakjjouxir0zkzmd.xyz
 0.0.0.0 n58r7he6mxamd2u.gq
 0.0.0.0 nametraff.com
@@ -1266,6 +1272,7 @@
 0.0.0.0 nasipdiyipgececez.co.vu
 0.0.0.0 nathetsof.com
 0.0.0.0 nbjhllilknbjldk.top
+0.0.0.0 nbnf43456httpshost.online
 0.0.0.0 nbvyrxry216vy.com
 0.0.0.0 nch-software.info
 0.0.0.0 needeepindesign.com.au
@@ -1278,7 +1285,6 @@
 0.0.0.0 nerohut.com
 0.0.0.0 nestbirdie.site
 0.0.0.0 new-prok.ru
-0.0.0.0 new.minr.pw
 0.0.0.0 newadreskayit.cf
 0.0.0.0 neworderspath.org
 0.0.0.0 newvision682.store
@@ -1290,6 +1296,7 @@
 0.0.0.0 nfwebminer.com
 0.0.0.0 nguyentatthanh.ml
 0.0.0.0 ngvcfrttgyu512vgv.net
+0.0.0.0 niceone20.cn
 0.0.0.0 nicetrue.one
 0.0.0.0 nicetv.live
 0.0.0.0 niematego.tk
@@ -1307,6 +1314,7 @@
 0.0.0.0 noctorships.ga
 0.0.0.0 node.nimiq.watch
 0.0.0.0 nodirtyelectricity.com
+0.0.0.0 noip.com
 0.0.0.0 nomegiasnadaquemecabreo.shop
 0.0.0.0 noreply-alert.cloud
 0.0.0.0 norriscras.online
@@ -1352,6 +1360,7 @@
 0.0.0.0 onetwothreezones.xyz
 0.0.0.0 onlinefitnessanalysis.com
 0.0.0.0 onlinetechdesk.com
+0.0.0.0 ooguy.com
 0.0.0.0 opewu.homes
 0.0.0.0 opkfijuifbuyynyny.com
 0.0.0.0 opusmedical.info
@@ -1413,6 +1422,7 @@
 0.0.0.0 playboymutfak1.cloudns.ph
 0.0.0.0 playboymutfakgibi.com
 0.0.0.0 playstorevip.co.vu
+0.0.0.0 ply.gg
 0.0.0.0 pnrplakatanimasistemleri.com
 0.0.0.0 poletio.space
 0.0.0.0 pooaperadas.co.vu
@@ -1513,6 +1523,7 @@
 0.0.0.0 sadeceguldiyebe.shop
 0.0.0.0 sadokankim22.space
 0.0.0.0 sadyaonemaneking.shop
+0.0.0.0 saefigozower.fun
 0.0.0.0 sagssaolyyksamay.shop
 0.0.0.0 sahameli1402.site
 0.0.0.0 sahibindenparanguvende.net
@@ -1533,6 +1544,7 @@
 0.0.0.0 satilbmeersds.shop
 0.0.0.0 satoyamasafu.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 sdfubuzoeoeiv.top
 0.0.0.0 sea2.authcaptcha.com
 0.0.0.0 secora.cl
 0.0.0.0 sectorzerosecurity.com
@@ -1615,6 +1627,7 @@
 0.0.0.0 seed.nimiqpool.com
 0.0.0.0 seektobe.com.au
 0.0.0.0 selamhayirliolsun.ml
+0.0.0.0 selfip.biz
 0.0.0.0 selimabifirarda.tk
 0.0.0.0 selimfirarda.xyz
 0.0.0.0 sendenbizegeldiyinde.co.vu
@@ -1625,10 +1638,12 @@
 0.0.0.0 sennguzlsititnbul.ml
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serv1swork.com
+0.0.0.0 servebbs.net
 0.0.0.0 server.aztecvds.com
 0.0.0.0 service4refresh.info
 0.0.0.0 servicedesk-solutions.net
 0.0.0.0 setman.es
+0.0.0.0 seuriouhvhusr.cn
 0.0.0.0 sevenpunches.org
 0.0.0.0 seyhanaluminyum.com
 0.0.0.0 shangri3.com
@@ -1667,6 +1682,7 @@
 0.0.0.0 soabhasq.shop
 0.0.0.0 softdetails.in
 0.0.0.0 sparrawx.net
+0.0.0.0 spdns.de
 0.0.0.0 sponsoredmami.com
 0.0.0.0 spyadviser.com
 0.0.0.0 sqsendy.shop
@@ -1708,7 +1724,6 @@
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 symposiumhaiti.com
-0.0.0.0 sysnod.duckdns.org
 0.0.0.0 system-updatefrm-com.tk
 0.0.0.0 systembuilder.com.tr
 0.0.0.0 sytes.net
@@ -1716,6 +1731,7 @@
 0.0.0.0 tahaberservisi.net
 0.0.0.0 talatlarholdngltd.net
 0.0.0.0 talentree.fi
+0.0.0.0 tamera.ug
 0.0.0.0 tanertaner.store
 0.0.0.0 tavernelentrepot.be
 0.0.0.0 tcprestt.top
@@ -1727,6 +1743,7 @@
 0.0.0.0 tektasakcilar33.tk
 0.0.0.0 tektekmutfak.dns.army
 0.0.0.0 tekyzutsuneadyn.shop
+0.0.0.0 telachapesu.com
 0.0.0.0 telsimads.net
 0.0.0.0 telsmmadss.net
 0.0.0.0 tencentcs.com
@@ -1734,8 +1751,6 @@
 0.0.0.0 terpdpfk6i2rdhzokzh0.com
 0.0.0.0 terrazzaitaliana.mx
 0.0.0.0 test9977.tk
-0.0.0.0 test.minr.pw
-0.0.0.0 testing1212.ddns.net
 0.0.0.0 teyyardenmadnezdomones.net
 0.0.0.0 tframe.de
 0.0.0.0 thatsal32ouyccc.com
@@ -1751,6 +1766,7 @@
 0.0.0.0 thewise.com
 0.0.0.0 thexroadz.com
 0.0.0.0 throatpills.org
+0.0.0.0 thruhere.net
 0.0.0.0 ti-instruments.com
 0.0.0.0 tijunaitiene.lt
 0.0.0.0 tillit-hjarta.se
@@ -1819,6 +1835,7 @@
 0.0.0.0 utilityupdate.com
 0.0.0.0 uxqwyikqwn5mbdd559fr.xyz
 0.0.0.0 uygftdrvtygnyuhi8.com
+0.0.0.0 v6.rocks
 0.0.0.0 vacanzenelmediterraneo.com
 0.0.0.0 vahyavrumvah.net
 0.0.0.0 valaprime.com.ng
@@ -1865,13 +1882,14 @@
 0.0.0.0 webappclick.net
 0.0.0.0 webassembly.stream
 0.0.0.0 webdesignbrabant.net
+0.0.0.0 webhop.net
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
-0.0.0.0 webpresentsx.duckdns.org
 0.0.0.0 websitemizyeni.space
+0.0.0.0 webwhatsapp.cc
 0.0.0.0 webxmr.com
 0.0.0.0 welcometothepub.com
 0.0.0.0 wenkgefmpgfumtk.com
@@ -1892,6 +1910,7 @@
 0.0.0.0 wo365.com
 0.0.0.0 wonderfulegypttours.com
 0.0.0.0 wordc.ga
+0.0.0.0 work.gd
 0.0.0.0 worpswede-blog.de
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
