@@ -8,6 +8,7 @@
 # Last modified: 3 October 2023
 #
 
+beget.tech
 con-ip.com
 ddns.net
 duckdns.org
@@ -17,6 +18,10 @@ myvnc.com
 mywire.org
 noip.com
 servebbs.net
+servegame.com
+servemp3.com
+swtest.ru
+sytes.net
 thruhere.net
 x10.bz
 ydns.eu

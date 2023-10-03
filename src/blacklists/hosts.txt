@@ -194,6 +194,7 @@
 0.0.0.0 aiys71ubj6cbeqg.top
 0.0.0.0 akademos.com.ar
 0.0.0.0 akalamordoslarme.shop
+0.0.0.0 akamaitechcdns.com
 0.0.0.0 akrepbaba323.net
 0.0.0.0 aktoto.eu
 0.0.0.0 alabuscnc.com
@@ -293,6 +294,7 @@
 0.0.0.0 aslanhaberlerdengelenbize.co.vu
 0.0.0.0 aslankaplansenn33.co.vu
 0.0.0.0 aslaolmazdenemyardim.co.vu
+0.0.0.0 asyx.ru
 0.0.0.0 atabeybkmevler.net
 0.0.0.0 atelierceline.fr
 0.0.0.0 atlantacreditrepair.info
@@ -345,6 +347,7 @@
 0.0.0.0 baltimorecreditrepair.info
 0.0.0.0 bamosapportodassonparar1726.shop
 0.0.0.0 bams.co
+0.0.0.0 banjaro.de
 0.0.0.0 bannisterministry.org
 0.0.0.0 baohomnay365.com
 0.0.0.0 barabarhebarabar.xyz
@@ -361,6 +364,7 @@
 0.0.0.0 bddlandscaping.com
 0.0.0.0 beautyforyou.top
 0.0.0.0 becanium.com
+0.0.0.0 beget.tech
 0.0.0.0 bellevue-tourtour.com
 0.0.0.0 benettonrugby.it
 0.0.0.0 benlloc.es
@@ -424,6 +428,7 @@
 0.0.0.0 bodyguardchicago.com
 0.0.0.0 boka-rem.com
 0.0.0.0 bookchrono8273.com
+0.0.0.0 bookintosh.com
 0.0.0.0 bornovabelediye.com
 0.0.0.0 boyarskymurphy.com
 0.0.0.0 bpargastasyas.ml
@@ -466,6 +471,7 @@
 0.0.0.0 carlaarrabitoarchitetto.com
 0.0.0.0 cashbeet.com
 0.0.0.0 cashingeveryday.com
+0.0.0.0 castlehost.ru
 0.0.0.0 catknock.com
 0.0.0.0 catnetwork.online
 0.0.0.0 cc4d3debe7c33d08.live
@@ -490,6 +496,7 @@
 0.0.0.0 charge-web.info
 0.0.0.0 chasamloriger.su
 0.0.0.0 chatgenie.co.uk
+0.0.0.0 chernobyl-hack.online
 0.0.0.0 chestedband.org
 0.0.0.0 chestermachinetools.me
 0.0.0.0 chipbf.com
@@ -536,6 +543,7 @@
 0.0.0.0 cornbascet.site
 0.0.0.0 corporateupdates.info
 0.0.0.0 cpbrandindia.com
+0.0.0.0 craft-host.ru
 0.0.0.0 cratopex.com
 0.0.0.0 credit-volta.com
 0.0.0.0 cretenom.ga
@@ -576,6 +584,10 @@
 0.0.0.0 dayilemutlugunler.co.vu
 0.0.0.0 dayininyemeklerinden.co.vu
 0.0.0.0 dayionline.xyz
+0.0.0.0 dcbiorlov.shop
+0.0.0.0 dccr.ru
+0.0.0.0 dccrk.top
+0.0.0.0 dcrack.ru
 0.0.0.0 ddns.net
 0.0.0.0 ddpipreview.nl
 0.0.0.0 de3dea888febbf08.xyz
@@ -600,6 +612,7 @@
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 devalcc103.xyz
 0.0.0.0 device-api.urbanairship.com
+0.0.0.0 devil137.ru
 0.0.0.0 devopspdx.com
 0.0.0.0 devopszone.org
 0.0.0.0 dfgy.shop
@@ -626,6 +639,7 @@
 0.0.0.0 dozecomunicacao.com.br
 0.0.0.0 draggedline.org
 0.0.0.0 drammensadvokatene.no
+0.0.0.0 dreadhack.ru
 0.0.0.0 drewhuddleston.com
 0.0.0.0 drilledgas.org
 0.0.0.0 dronml.ml
@@ -864,6 +878,7 @@
 0.0.0.0 hadleymothersclub.org
 0.0.0.0 hahahooho23.net
 0.0.0.0 hair-med-krakow.pl
+0.0.0.0 haivo.co.zw
 0.0.0.0 hamsterrace.space
 0.0.0.0 hannygoesing.net
 0.0.0.0 harmonyshoused.com
@@ -873,6 +888,7 @@
 0.0.0.0 hasangfelmezbizimlerdiir.co.vu
 0.0.0.0 hasanhaberlerdengelenlerden.co.vu
 0.0.0.0 hashing.win
+0.0.0.0 haskers.ru
 0.0.0.0 hatlarhaberlerdenilerigeli.co.vu
 0.0.0.0 hatozurdlme.shop
 0.0.0.0 hayannsidfmosa.shop
@@ -922,6 +938,7 @@
 0.0.0.0 hooneypref.net
 0.0.0.0 hopto.org
 0.0.0.0 hosgeldin2023.com
+0.0.0.0 hostland.pro
 0.0.0.0 houseandhoundcare.com
 0.0.0.0 hslawcorp.com
 0.0.0.0 hstbasktattvyas.shop
@@ -1010,6 +1027,7 @@
 0.0.0.0 jumpdamp.xyz
 0.0.0.0 junk-bros.com
 0.0.0.0 jurty.ml
+0.0.0.0 justns.ru
 0.0.0.0 jvasky.com
 0.0.0.0 jwuygwk.cf
 0.0.0.0 k7odzx9nxr62k6n.gq
@@ -1049,6 +1067,7 @@
 0.0.0.0 kintaro.cc
 0.0.0.0 kizys.net
 0.0.0.0 kjniuby621edoo.com
+0.0.0.0 klopware.space
 0.0.0.0 kozmetikakisyenileme.tk
 0.0.0.0 kozow.com
 0.0.0.0 kradkeskkemtnsa.cf
@@ -1057,6 +1076,8 @@
 0.0.0.0 krallarsahada.co.vu
 0.0.0.0 kralyolmazyap33.co.vu
 0.0.0.0 krb.devphp.org.ua
+0.0.0.0 kriptnhosting.ru
+0.0.0.0 kriptonhosting.store
 0.0.0.0 kundurafabrikamdasenlik.net
 0.0.0.0 kunlunca.com
 0.0.0.0 kurbanetme.online
@@ -1095,6 +1116,7 @@
 0.0.0.0 libertader.org
 0.0.0.0 lightminer.co
 0.0.0.0 limbus-holding.de
+0.0.0.0 limfunsto.site
 0.0.0.0 limit-tanimlama.net
 0.0.0.0 limitbilgi.org
 0.0.0.0 limonpart.org
@@ -1267,6 +1289,7 @@
 0.0.0.0 myvnc.com
 0.0.0.0 mywire.org
 0.0.0.0 n3bvakjjouxir0zkzmd.xyz
+0.0.0.0 n9shteam1.top
 0.0.0.0 n58r7he6mxamd2u.gq
 0.0.0.0 nametraff.com
 0.0.0.0 nanetendurl.com
@@ -1286,8 +1309,10 @@
 0.0.0.0 nerdebualisverisciler.shop
 0.0.0.0 nerohut.com
 0.0.0.0 nestbirdie.site
+0.0.0.0 neverchurka.ml
 0.0.0.0 new-prok.ru
 0.0.0.0 newadreskayit.cf
+0.0.0.0 newdfhfgdjmfgjm.store
 0.0.0.0 neworderspath.org
 0.0.0.0 newvision682.store
 0.0.0.0 nexgenemi.com
@@ -1295,6 +1320,7 @@
 0.0.0.0 next-traf623.site
 0.0.0.0 nfiuerwftasnuk.com
 0.0.0.0 nfiuerwtftasnuk.com
+0.0.0.0 nftbanger.ru
 0.0.0.0 nfwebminer.com
 0.0.0.0 nguyentatthanh.ml
 0.0.0.0 ngvcfrttgyu512vgv.net
@@ -1330,6 +1356,13 @@
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvize.com
+0.0.0.0 nyashkoon.top
+0.0.0.0 nyashnyash.top
+0.0.0.0 nyasht.ml
+0.0.0.0 nyashteam.ru
+0.0.0.0 nyashteam.top
+0.0.0.0 nyashtop.top
+0.0.0.0 nyashtyan.top
 0.0.0.0 o1gpxolsxcnfz4y.top
 0.0.0.0 obunryugtpfyssw.ru
 0.0.0.0 obynnehhhan.com
@@ -1426,6 +1459,7 @@
 0.0.0.0 playstorevip.co.vu
 0.0.0.0 ply.gg
 0.0.0.0 pnrplakatanimasistemleri.com
+0.0.0.0 pococox.cc
 0.0.0.0 poletio.space
 0.0.0.0 pooaperadas.co.vu
 0.0.0.0 pool.hws.ru
@@ -1490,6 +1524,7 @@
 0.0.0.0 recruitment62.com
 0.0.0.0 redsnowynose.org
 0.0.0.0 reedx51mut.com
+0.0.0.0 regruhosting.ru
 0.0.0.0 regsvrsvc.com
 0.0.0.0 reklamruyasibursa.com.tr
 0.0.0.0 reklamzamani69.net
@@ -1497,11 +1532,13 @@
 0.0.0.0 remotemake.xyz
 0.0.0.0 renhertfo.com
 0.0.0.0 resourcehost.net
+0.0.0.0 rfewkfnr234.cf
 0.0.0.0 rfstaging.co.uk
 0.0.0.0 roadmap.jufp.com
 0.0.0.0 roastedvolt.net
 0.0.0.0 rock2.authcaptcha.com
 0.0.0.0 rock.reauthenticator.com
+0.0.0.0 rocketchange.xyz
 0.0.0.0 rocks.io
 0.0.0.0 rokllofrold29.com
 0.0.0.0 rokllold279.com
@@ -1535,6 +1572,7 @@
 0.0.0.0 saltminecomics.com
 0.0.0.0 samberii.com
 0.0.0.0 sammyhallam.com
+0.0.0.0 samp-loader.ru
 0.0.0.0 sanagosterecem1.gleeze.com
 0.0.0.0 sanagosterecem6.gleeze.com
 0.0.0.0 sanagosterecem.gleeze.com
@@ -1546,6 +1584,7 @@
 0.0.0.0 satilbmeersds.shop
 0.0.0.0 satoyamasafu.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 sclad.network
 0.0.0.0 sdfubuzoeoeiv.top
 0.0.0.0 sea2.authcaptcha.com
 0.0.0.0 secora.cl
@@ -1642,6 +1681,8 @@
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serv1swork.com
 0.0.0.0 servebbs.net
+0.0.0.0 servegame.com
+0.0.0.0 servemp3.com
 0.0.0.0 server.aztecvds.com
 0.0.0.0 service4refresh.info
 0.0.0.0 servicedesk-solutions.net
@@ -1684,6 +1725,7 @@
 0.0.0.0 smartmetereducationnetwork.com
 0.0.0.0 soabhasq.shop
 0.0.0.0 softdetails.in
+0.0.0.0 softportal.tk
 0.0.0.0 sparrawx.net
 0.0.0.0 spdns.de
 0.0.0.0 sponsoredmami.com
@@ -1720,7 +1762,9 @@
 0.0.0.0 super56fall.online
 0.0.0.0 surelytheme.org
 0.0.0.0 svcregsvr.com
+0.0.0.0 svinlasf.ru
 0.0.0.0 swiftmining.win
+0.0.0.0 swtest.ru
 0.0.0.0 sxcdn02.now.sh
 0.0.0.0 sxcdn1.herokuapp.com
 0.0.0.0 sxcdn4.now.sh
@@ -1757,6 +1801,7 @@
 0.0.0.0 terpdpfk6i2rdhzokzh0.com
 0.0.0.0 terrazzaitaliana.mx
 0.0.0.0 test9977.tk
+0.0.0.0 test-hf.su
 0.0.0.0 teyyardenmadnezdomones.net
 0.0.0.0 tframe.de
 0.0.0.0 thatsal32ouyccc.com
@@ -1770,6 +1815,7 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
+0.0.0.0 theworkpc.com
 0.0.0.0 thexroadz.com
 0.0.0.0 throatpills.org
 0.0.0.0 thruhere.net
@@ -1778,6 +1824,7 @@
 0.0.0.0 tillit-hjarta.se
 0.0.0.0 timestop.online
 0.0.0.0 tllaheasog.shop
+0.0.0.0 tmweb.ru
 0.0.0.0 toorroot.net
 0.0.0.0 top789market.online
 0.0.0.0 toptansanatisleri.gq
@@ -1814,6 +1861,7 @@
 0.0.0.0 tuty927834.co.vu
 0.0.0.0 tvalimsatimxalo.tk
 0.0.0.0 tvsguides.com
+0.0.0.0 tw1.ru
 0.0.0.0 twoviewsmovies.com
 0.0.0.0 ue47emsfujaozfg.gq
 0.0.0.0 ueihtnoujbedjiu.ru
@@ -1858,6 +1906,7 @@
 0.0.0.0 vayanasinisunucuyab.co.vu
 0.0.0.0 vaybciniavitas.shop
 0.0.0.0 vayhaksksi.net
+0.0.0.0 vbhfghgfjjfgd.online
 0.0.0.0 vceilinichego.ru
 0.0.0.0 vcrwtttywuuidqioppn1.com
 0.0.0.0 vdcasio137.com
@@ -1873,6 +1922,7 @@
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vldeolan.com
 0.0.0.0 vmi503011.contaboserver.net
+0.0.0.0 vnh.wtf
 0.0.0.0 vojens-trailerudlejning.dk
 0.0.0.0 vrouwenversierentips.org
 0.0.0.0 vurdumguzelsendenbanayaratrik.co.vu
@@ -1883,6 +1933,7 @@
 0.0.0.0 wagateway.pro
 0.0.0.0 warwickyouth.com
 0.0.0.0 waterlinesheet.org
+0.0.0.0 webaitech.xyz
 0.0.0.0 webapi.salamantex.com
 0.0.0.0 webapi.staging.salamantex.com
 0.0.0.0 webappclick.net
@@ -1901,6 +1952,7 @@
 0.0.0.0 wenkgefmpgfumtk.com
 0.0.0.0 werbefirma.hamburg
 0.0.0.0 wf4sctx9cksg94528o7o.xyz
+0.0.0.0 whatipedia.org
 0.0.0.0 where9sm532523523523ym8nd.com
 0.0.0.0 where9smym8nd.com
 0.0.0.0 whereisyourf4ckingtar3e425.tk
@@ -1908,6 +1960,7 @@
 0.0.0.0 whereisyourf4ckingtarer.tk
 0.0.0.0 whi.ir
 0.0.0.0 whitedrill.org
+0.0.0.0 whiteproducts.ru
 0.0.0.0 wiccinigeria.org
 0.0.0.0 wikaba.com
 0.0.0.0 windnsch.freeddns.org
@@ -1972,7 +2025,9 @@
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
+0.0.0.0 xsph.ru
 0.0.0.0 xstarv2.store
+0.0.0.0 xxhdftgjftgkjfgk.site
 0.0.0.0 yakupbabafirarda.tk
 0.0.0.0 yakupozsoytadilat.ml
 0.0.0.0 yalafix.com
