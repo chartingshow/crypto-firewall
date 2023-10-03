@@ -45,7 +45,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Hosts](#hosts-)
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
-- [Free DNS / Hosting blocking](#)
+- [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
