@@ -18,7 +18,27 @@ n/a
 
 ## IOC
 
+### I2P websites
+
+n/a
+
+### IPFS websites
+
+n/a
+
+### TOR websites
+
+n/a
+
 ### URL's
+
+n/a
+
+### Folders
+
+n/a
+
+### Sub-Domains
 
 n/a
 
@@ -27,5 +47,13 @@ n/a
 n/a
 
 ### IP's
+
+n/a
+
+### Emails
+
+n/a
+
+### Wallet Addresses
 
 n/a
