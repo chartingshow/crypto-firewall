@@ -80,7 +80,9 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 
 ## Basic usage 🔥
 
-For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
+
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 There are two methods to install into your adblocker:
 
@@ -150,11 +152,17 @@ These custom IP address filter lists block specific malware and can be found in 
 
 Email addresses can be blocked, our email block list contains known Crypto scammers, Ransomware, Sextortion and Blackmail email addresses.
 
-The Email block list can be found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
+The Email block list can be found here:
 
-To learn how to protect yourself from Sextortion emails, see here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
 
-How to Identify a Ransomware Email Attack, see here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
+To learn how to protect yourself from Sextortion emails, see here:
+
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
+
+How to Identify a Ransomware Email Attack, see here:
+
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
