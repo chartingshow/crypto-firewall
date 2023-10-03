@@ -627,6 +627,7 @@
 0.0.0.0 dns.army
 0.0.0.0 dnsrd.com
 0.0.0.0 dnsv1.com
+0.0.0.0 docs-downloading.com
 0.0.0.0 dogsfun.net
 0.0.0.0 dolap.info
 0.0.0.0 donttbeevils.de
@@ -1255,7 +1256,9 @@
 0.0.0.0 mrbonus.com
 0.0.0.0 mrface.com
 0.0.0.0 mrkorosh.site
+0.0.0.0 ms-debug-services.com
 0.0.0.0 ms-endpoint.com
+0.0.0.0 ms-pipes-service.com
 0.0.0.0 msmartb.com
 0.0.0.0 msmartc.com
 0.0.0.0 msmartd.com
