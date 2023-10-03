@@ -46,6 +46,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [IP blocking](#ip-blocking-)
+  - [Custom IP Block Lists](#hosts-)
 - [Email blocking](#email-blocking-)
 - [Fraudulent cryptocurrency wallet addresses](#)
 - [OFAC Sanctioned Digital Currency Addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
@@ -132,6 +133,12 @@ IP Addresses can also be blocked, these contain things such as command-and-contr
 The IP block list can be found here: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+
+### Custom IP Block Lists 📋
+
+These custom IP address filter lists block specific malware and can be found in the folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/custom-ip-block-lists
+
+> The reason why these custom lists aren't in the main IP filter list is because these IP addresses maybe shared and used for public access or hosting multiple domains! These custom IP address filter lists are for advanced users who can customize them in order to not block their access or applications.
 
 ## Email blocking 📧
 
