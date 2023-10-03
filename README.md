@@ -83,7 +83,7 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 There are two methods to install into your adblocker:
 
@@ -133,7 +133,7 @@ You may use the hosts file with below applications to block these miners on whol
 
 This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found here:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting.txt
 
 ## IP blocking 🌐
 
@@ -141,17 +141,17 @@ IP Addresses can also be blocked, these contain things such as command-and-contr
 
 The IP block list can be found here:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
 ### Custom IP Block Lists 📋
 
 These custom IP address filter lists block specific malware and can be found in the folder:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/custom-ip-block-lists
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/custom-ip-block-lists
 
 > The reason why these custom lists aren't in the main IP filter list is because these IP addresses maybe shared and used for public access or hosting multiple domains! These custom IP address filter lists are for advanced users who can customize them in order to not block their access or applications.
 
@@ -161,15 +161,15 @@ Email addresses can be blocked, our email block list contains known Crypto scamm
 
 The Email block list can be found here:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
 
 To learn how to protect yourself from Sextortion emails, see here:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
 
 How to Identify a Ransomware Email Attack, see here:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
@@ -181,7 +181,7 @@ OFAC publishes lists of individuals and companies owned or controlled by, or act
 
 The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
 
-* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
 
 ### How do we define sanctions data?
 
