@@ -172,7 +172,9 @@ How to Identify a Ransomware Email Attack, see here:
 
 OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups, and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
 
-The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
+The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
+
+* https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
 
 ### How do we define sanctions data?
 
