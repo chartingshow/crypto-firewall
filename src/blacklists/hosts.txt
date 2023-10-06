@@ -52,6 +52,7 @@
 0.0.0.0 3ddafe944f1dba48.xyz
 0.0.0.0 3e95e96af806995d.xyz
 0.0.0.0 3e98c5e2e712f2fc.xyz
+0.0.0.0 3utilities.com
 0.0.0.0 4everland.store
 0.0.0.0 4f581a978fe0eadf.live
 0.0.0.0 4fun.wiki
@@ -589,6 +590,7 @@
 0.0.0.0 dccrk.top
 0.0.0.0 dcrack.ru
 0.0.0.0 ddns.net
+0.0.0.0 ddnsfree.com
 0.0.0.0 ddpipreview.nl
 0.0.0.0 de3dea888febbf08.xyz
 0.0.0.0 de-mi-nis-ner.info
@@ -824,6 +826,7 @@
 0.0.0.0 ghandchifamily.com
 0.0.0.0 ghostapp.co.uk
 0.0.0.0 giccmedical.com
+0.0.0.0 giize.com
 0.0.0.0 girisapi2361.pw
 0.0.0.0 girisapi2685.pw
 0.0.0.0 girisapi3315.pw
@@ -936,6 +939,7 @@
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 hizlisan.xyz
 0.0.0.0 hockeycorner.net
+0.0.0.0 home-webserver.de
 0.0.0.0 hooneypref.net
 0.0.0.0 hopto.org
 0.0.0.0 hosgeldin2023.com
@@ -945,6 +949,7 @@
 0.0.0.0 hstbasktattvyas.shop
 0.0.0.0 https443.org
 0.0.0.0 humandesigns.com
+0.0.0.0 huntebez.xyz
 0.0.0.0 huseyingese0199.xyz
 0.0.0.0 huseyingeser01.xyz
 0.0.0.0 huseyingeser035.xyz
@@ -1052,6 +1057,7 @@
 0.0.0.0 karlshamnsfotoklubb.se
 0.0.0.0 karmenedenmartin.co.vu
 0.0.0.0 kasfeasefaesda.shop
+0.0.0.0 kasowiitz.com
 0.0.0.0 kavoshpos.com
 0.0.0.0 kaygisizbiggy.xyz
 0.0.0.0 kayseribldyespr.xyz
@@ -1064,6 +1070,7 @@
 0.0.0.0 kendalwills.co.uk
 0.0.0.0 kerizlersokak31.xyz
 0.0.0.0 kiezradler.de
+0.0.0.0 killwhenabusing1.xyz
 0.0.0.0 kinchcorp.com
 0.0.0.0 kintaro.cc
 0.0.0.0 kizys.net
@@ -1123,6 +1130,7 @@
 0.0.0.0 limonpart.org
 0.0.0.0 linedgreen.org
 0.0.0.0 linedloop.org
+0.0.0.0 linkpc.net
 0.0.0.0 lintingdaun.com
 0.0.0.0 livesports.co
 0.0.0.0 liveyuu.com
@@ -1138,6 +1146,7 @@
 0.0.0.0 locf02azxz3g.xyz
 0.0.0.0 lockediettimanihassirtti.com
 0.0.0.0 loloalexander.com
+0.0.0.0 longmusic.com
 0.0.0.0 losital.ru
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lryuxoqak84d.xyz
@@ -1220,6 +1229,7 @@
 0.0.0.0 mining8.cc
 0.0.0.0 minr.pw
 0.0.0.0 mirastoris.xyz
+0.0.0.0 misecure.com
 0.0.0.0 mitaoapp.space
 0.0.0.0 mjayoxbvakjjouxir0z.xyz
 0.0.0.0 mm.zubovskaya-banya.ru
@@ -1325,6 +1335,7 @@
 0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 nftbanger.ru
 0.0.0.0 nfwebminer.com
+0.0.0.0 ngrok.io
 0.0.0.0 nguyentatthanh.ml
 0.0.0.0 ngvcfrttgyu512vgv.net
 0.0.0.0 niceone20.cn
@@ -1745,6 +1756,7 @@
 0.0.0.0 staticsfs.host
 0.0.0.0 stats-best.site
 0.0.0.0 statscodicefiscale.xyz
+0.0.0.0 stevenpartners.com
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
