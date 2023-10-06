@@ -12,10 +12,14 @@
 beget.tech
 con-ip.com
 ddns.net
+ddnsfree.com
 duckdns.org
 dynamic-dns.net
+giize.com
 home-webserver.de
 hopto.org
+jetos.com
+misecure.com
 myiphost.com
 myvnc.com
 mywire.org
