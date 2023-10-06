@@ -12,6 +12,7 @@ beget.tech
 con-ip.com
 ddns.net
 duckdns.org
+dynamic-dns.net
 hopto.org
 myiphost.com
 myvnc.com
