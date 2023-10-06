@@ -8,11 +8,13 @@
 # Last modified: 6 October 2023
 #
 
+2waky.com
 beget.tech
 con-ip.com
 ddns.net
 duckdns.org
 dynamic-dns.net
+home-webserver.de
 hopto.org
 myiphost.com
 myvnc.com
