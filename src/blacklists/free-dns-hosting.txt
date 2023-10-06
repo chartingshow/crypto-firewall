@@ -16,6 +16,7 @@ hopto.org
 myiphost.com
 myvnc.com
 mywire.org
+ngrok.io
 noip.com
 servebbs.net
 servegame.com
