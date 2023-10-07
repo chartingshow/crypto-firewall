@@ -6,12 +6,14 @@
 *.bluehosting.cz
 *.bravesites.com
 *.business.site
+*.cloudfront.net
 *.cprapid.com
 *.easterndns.com
 *.firebaseapp.com
 *.fleek.co
 *.github.io
 *.glitch.me
+*.global.ssl.fastly.net
 *.godaddysites.com
 *.host.secureserver.net
 *.infinityfreeapp.com
