@@ -15,6 +15,7 @@ ddns.net
 ddnsfree.com
 duckdns.org
 dynamic-dns.net
+dyndns-at-home.com
 giize.com
 home-webserver.de
 hopto.org
