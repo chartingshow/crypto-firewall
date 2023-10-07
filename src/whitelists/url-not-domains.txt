@@ -1,5 +1,6 @@
 *.amazonaws.com
 *.appsflyer.com
+*.aws-euw2.cloud-ara.tyk.io
 *.azurewebsites.net
 *.blogspot.co.za
 *.blogspot.com
