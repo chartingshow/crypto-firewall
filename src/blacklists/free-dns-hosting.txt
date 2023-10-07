@@ -25,6 +25,7 @@ myvnc.com
 mywire.org
 ngrok.io
 noip.com
+redirectme.net
 servebbs.net
 servegame.com
 servemp3.com
