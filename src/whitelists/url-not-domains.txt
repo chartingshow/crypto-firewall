@@ -1,5 +1,7 @@
 *.amazonaws.com
 *.appsflyer.com
+*.at.playit.gg
+*.auto.playit.gg
 *.aws-euw2.cloud-ara.tyk.io
 *.azurewebsites.net
 *.blogspot.co.za
