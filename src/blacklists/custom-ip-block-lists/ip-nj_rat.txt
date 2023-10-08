@@ -1,0 +1,25 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: NjRAT Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 8 October 2023
+#
+
+3.124.142.205
+3.125.102.39
+3.125.209.94
+3.126.224.214
+18.192.31.165
+18.229.146.63
+18.229.248.167
+20.197.231.178
+46.246.6.7
+46.246.82.16
+147.50.253.101
+147.185.221.16
+193.27.72.137
