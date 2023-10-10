@@ -190,6 +190,7 @@
 0.0.0.0 ads-info.ru
 0.0.0.0 ads-tm-glb.click
 0.0.0.0 adshennesyltd.net
+0.0.0.0 adsometric.com
 0.0.0.0 adsparkdev.com
 0.0.0.0 aeloderton.com
 0.0.0.0 aerilaponawki.com
@@ -716,6 +717,7 @@
 0.0.0.0 clsr.ca
 0.0.0.0 cmbefalcljjblia.top
 0.0.0.0 cndlogstics.com
+0.0.0.0 cngresearch.com
 0.0.0.0 cnhv.co
 0.0.0.0 cnt.statistic.date
 0.0.0.0 codns.com
@@ -2567,6 +2569,7 @@
 0.0.0.0 plintarueza.com
 0.0.0.0 plurescandistika.com
 0.0.0.0 ply.gg
+0.0.0.0 pmdresearch.com
 0.0.0.0 pnrplakatanimasistemleri.com
 0.0.0.0 pococox.cc
 0.0.0.0 podiumstrtss.com
@@ -2840,6 +2843,7 @@
 0.0.0.0 secora.cl
 0.0.0.0 sectorzerosecurity.com
 0.0.0.0 secure-online.site
+0.0.0.0 secures-tool.com
 0.0.0.0 securitymessures.com
 0.0.0.0 sedesadre.cf
 0.0.0.0 sedesadre.ga
