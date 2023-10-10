@@ -183,6 +183,7 @@
 0.0.0.0 adneedads.com
 0.0.0.0 adriaticdeluxeapartments.com
 0.0.0.0 ads-info.ru
+0.0.0.0 ads-tm-glb.click
 0.0.0.0 adshennesyltd.net
 0.0.0.0 adsparkdev.com
 0.0.0.0 aeloderton.com
@@ -1468,6 +1469,7 @@
 0.0.0.0 itshealthpro.com
 0.0.0.0 iuic.de
 0.0.0.0 ix.tc
+0.0.0.0 j2update.cc
 0.0.0.0 jackmoynehan.com
 0.0.0.0 jacksworkspace.com
 0.0.0.0 jandeyho.net
@@ -1769,6 +1771,7 @@
 0.0.0.0 mathgeniusacademy.com
 0.0.0.0 matrixtorboterosmx.sbs
 0.0.0.0 maxguenter.de
+0.0.0.0 maxpatrol.net
 0.0.0.0 maxtor.monster
 0.0.0.0 maylnk.gq
 0.0.0.0 mbhpikampombehi.com
@@ -2037,6 +2040,7 @@
 0.0.0.0 notions-download.com
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 npskudlu.com
+0.0.0.0 nsdps.cc
 0.0.0.0 nsdvirasndevu2.net
 0.0.0.0 nsdvirasndevu.net
 0.0.0.0 nsupdate.info
@@ -2301,6 +2305,7 @@
 0.0.0.0 raws1.net
 0.0.0.0 rbcverif.com
 0.0.0.0 rbcverif.link
+0.0.0.0 rcmsf100.net
 0.0.0.0 readyqrscanner.club
 0.0.0.0 reauthenticator.com
 0.0.0.0 reconphotocolor.xyz
