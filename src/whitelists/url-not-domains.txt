@@ -29,6 +29,7 @@
 *.repl.co
 *.sitebeat.crazydomains.com
 *.translate.goog
+*.ts.net
 *.urbanairship.com
 *.vercel.app
 *.w3spaces.com
