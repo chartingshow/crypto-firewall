@@ -28,6 +28,7 @@ codns.com
 con-ip.com
 crabdance.com
 ddns.com
+ddns.me
 ddns.net
 ddnsfree.com
 ddnsgeek.com
@@ -73,6 +74,7 @@ myddns.rocks
 myftp.biz
 myftp.org
 myiphost.com
+mypsx.net
 myvnc.com
 mywire.org
 n-e.kr
