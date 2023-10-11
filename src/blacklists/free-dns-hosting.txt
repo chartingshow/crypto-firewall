@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 October 2023
+# Last modified: 11 October 2023
 #
 
 2waky.com
@@ -18,6 +18,7 @@ beget.tech
 blogsyte.com
 bo-ip.biz
 bounceme.net
+buyshouses.net
 cable-modem.org
 camdvr.org
 casacam.net
@@ -35,13 +36,18 @@ ddnsgeek.com
 ddnsking.com
 dnsabr.com
 duckdns.org
+dvrlists.com
 dynamic-dns.net
+dyndns1.de
 dyndns-at-home.com
 dyndns-remote.com
 dyndns-server.com
+dyndns-web.com
 dyndns.biz
 dyndns.org
 dynu.com
+dynu.net
+dynuddns.net
 firewall-gateway.com
 freeddns.org
 freemyip.com
@@ -58,6 +64,8 @@ homelinux.net
 hopto.org
 hoptp.org
 ignorelist.com
+ipq.co
+is-a-doctor.com
 ix.tc
 jetos.com
 jumpingcrab.com
@@ -125,6 +133,7 @@ thddns.net
 theworkpc.com
 thruhere.net
 twilightparadox.com
+viewdns.net
 webhop.info
 webhop.me
 webredirect.org
