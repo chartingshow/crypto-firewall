@@ -95,7 +95,6 @@ no-ip.com
 no-ip.info
 no-ip.net
 no-ip.org
-no.ip-biz
 no_ip.biz
 noip.com
 noip.me
