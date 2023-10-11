@@ -723,6 +723,7 @@
 0.0.0.0 cloudns.ph
 0.0.0.0 cloudsaled.xyz
 0.0.0.0 cloudsnike-my.xyz
+0.0.0.0 cloudvn.info
 0.0.0.0 clsr.ca
 0.0.0.0 cmbefalcljjblia.top
 0.0.0.0 cndlogstics.com
@@ -921,6 +922,8 @@
 0.0.0.0 dns.army
 0.0.0.0 dns.net
 0.0.0.0 dnsabr.com
+0.0.0.0 dnsdyn.net
+0.0.0.0 dnset.com
 0.0.0.0 dnsrd.com
 0.0.0.0 dnsv1.com
 0.0.0.0 dnuocc.com
@@ -1048,6 +1051,7 @@
 0.0.0.0 ejoartikburada.live
 0.0.0.0 ejobabageldi.co.vu
 0.0.0.0 ejonunpaneli.co.vu
+0.0.0.0 ekaldhfl.club
 0.0.0.0 ekareldeieei.xyz
 0.0.0.0 ekens.top
 0.0.0.0 ekens.us
@@ -1082,6 +1086,7 @@
 0.0.0.0 ennerinleo.shop
 0.0.0.0 ensten.xyz
 0.0.0.0 entracollc.top
+0.0.0.0 epac.to
 0.0.0.0 epinadana.xyz
 0.0.0.0 equestrianjumpingfrog.fun
 0.0.0.0 equisdeperson.space
@@ -2011,6 +2016,7 @@
 0.0.0.0 lryuxoqak84d.xyz
 0.0.0.0 lsback.com
 0.0.0.0 ltdhennesyads.net
+0.0.0.0 lubni23.com
 0.0.0.0 luchiki.store
 0.0.0.0 luidelyator.xyz
 0.0.0.0 luneraspotx.co.vu
@@ -2230,6 +2236,7 @@
 0.0.0.0 ms-endpoint.com
 0.0.0.0 ms-pipes-service.com
 0.0.0.0 msdncss.com
+0.0.0.0 msglocalmicro.com
 0.0.0.0 msmartb.com
 0.0.0.0 msmartc.com
 0.0.0.0 msmartd.com
@@ -2249,6 +2256,7 @@
 0.0.0.0 muratcengizafyon.tk
 0.0.0.0 murathizlikuryeservis.space
 0.0.0.0 murlakoperre.com
+0.0.0.0 musicweb.xyz
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
 0.0.0.0 my03.com
@@ -2415,6 +2423,7 @@
 0.0.0.0 nsdvirasndevu2.net
 0.0.0.0 nsdvirasndevu.net
 0.0.0.0 nshoreyle.xyz
+0.0.0.0 nslookup.club
 0.0.0.0 nsshtenai.xyz
 0.0.0.0 nsupdate.info
 0.0.0.0 ntydeohavetr.xyz
@@ -2811,6 +2820,7 @@
 0.0.0.0 rododondast.xyz
 0.0.0.0 rokllofrold29.com
 0.0.0.0 rokllold279.com
+0.0.0.0 rolesnews.com
 0.0.0.0 rollbeamone.fun
 0.0.0.0 romashkin.top
 0.0.0.0 romasports.xyz
@@ -3254,6 +3264,7 @@
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sydlarremedies.com
+0.0.0.0 symantecupd.com
 0.0.0.0 symantecuptimehost.com
 0.0.0.0 symposiumhaiti.com
 0.0.0.0 synchbrokers.asia
@@ -3558,6 +3569,7 @@
 0.0.0.0 videdoshin.xyz
 0.0.0.0 video01.dorila.top
 0.0.0.0 video.streaming.estream.to
+0.0.0.0 videocenter.org
 0.0.0.0 videolan-web.org
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 viemon.xyz
@@ -3671,6 +3683,7 @@
 0.0.0.0 wiekel.site
 0.0.0.0 wifynnn.xyz
 0.0.0.0 wikaba.com
+0.0.0.0 wikimedia.vip
 0.0.0.0 wimuawzice.xyz
 0.0.0.0 windnsch.freeddns.org
 0.0.0.0 windowlight.org

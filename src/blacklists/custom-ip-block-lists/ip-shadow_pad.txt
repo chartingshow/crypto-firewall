@@ -1,0 +1,24 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: ShadowPad Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 11 October 2023
+#
+
+5.188.33.106
+47.56.228.89
+47.94.196.131
+103.255.179.186
+120.25.0.139
+139.180.141.16
+154.202.198.246
+172.197.18.30
+172.200.21.190
+193.36.117.21
+207.148.98.61
+219.141.161.65
