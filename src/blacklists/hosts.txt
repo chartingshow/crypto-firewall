@@ -1304,6 +1304,7 @@
 0.0.0.0 gadanaycens.xyz
 0.0.0.0 galiso.top
 0.0.0.0 gamallastu.xyz
+0.0.0.0 gamefilescript.com
 0.0.0.0 gamefoods.xyz
 0.0.0.0 gamelabpro.club
 0.0.0.0 gamesmetaa.com
@@ -2098,6 +2099,7 @@
 0.0.0.0 mebablo.com
 0.0.0.0 mechanikal.top
 0.0.0.0 mecharnise.ir
+0.0.0.0 mediaskollsoft.com
 0.0.0.0 medtechgroups.com
 0.0.0.0 meelaylesa.xyz
 0.0.0.0 mefound.com
@@ -2312,6 +2314,7 @@
 0.0.0.0 nekololis.wtf
 0.0.0.0 nemchaprues.com
 0.0.0.0 nentanalld.xyz
+0.0.0.0 neo-files.com
 0.0.0.0 neobbbeolmaz.com
 0.0.0.0 neolrlnneleolkkaz.com
 0.0.0.0 neolrlnneleolmaz.com
@@ -2515,6 +2518,7 @@
 0.0.0.0 oyunsporhaberlerindenyaklas.co.vu
 0.0.0.0 ozamanbizdensizegelsinde.co.vu
 0.0.0.0 p-e.kr
+0.0.0.0 p-rise.online
 0.0.0.0 p.estream.to
 0.0.0.0 paesoitalon.com
 0.0.0.0 paffagsydfsds.shop
