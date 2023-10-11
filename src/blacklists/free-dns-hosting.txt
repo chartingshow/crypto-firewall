@@ -35,6 +35,7 @@ ddnsfree.com
 ddnsgeek.com
 ddnsking.com
 dnsabr.com
+dnsdyn.net
 duckdns.org
 dvrlists.com
 dynamic-dns.net
