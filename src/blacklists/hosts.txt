@@ -2336,7 +2336,6 @@
 0.0.0.0 no-ip.info
 0.0.0.0 no-ip.net
 0.0.0.0 no-ip.org
-0.0.0.0 no.ip-biz
 0.0.0.0 no_ip.biz
 0.0.0.0 noanvaruncorekumar.cf
 0.0.0.0 noctorships.ga
