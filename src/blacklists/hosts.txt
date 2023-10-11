@@ -159,6 +159,7 @@
 0.0.0.0 abigelofraj.com
 0.0.0.0 abilerolmuskurbayiaq.shop
 0.0.0.0 abjkad.com
+0.0.0.0 ableoil.net
 0.0.0.0 abogados.services
 0.0.0.0 aboveandbeyondmovers.com
 0.0.0.0 abt.hu
@@ -2138,6 +2139,7 @@
 0.0.0.0 microsoflschedule.com
 0.0.0.0 microsoft2888.top
 0.0.0.0 microsoft-webpage-auth.ml
+0.0.0.0 microsoftapi.net
 0.0.0.0 microsofteamsus.top
 0.0.0.0 micrrosoft.net
 0.0.0.0 micrusroft.com
@@ -2577,6 +2579,7 @@
 0.0.0.0 petsgamess.xyz
 0.0.0.0 peusharner.xyz
 0.0.0.0 pewylicha.xyz
+0.0.0.0 pezimap.com
 0.0.0.0 phaldeshas.xyz
 0.0.0.0 phelammi.xyz
 0.0.0.0 phereramila.xyz
