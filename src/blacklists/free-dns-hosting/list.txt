@@ -10,6 +10,7 @@
 # Last modified: 12 October 2023
 #
 
+# Domains
 2waky.com
 3utilities.com
 access.ly
@@ -53,6 +54,7 @@ dynu.net
 dynuddns.net
 firewall-gateway.com
 freeddns.org
+freedynamicdns.org
 freemyip.com
 from-de.com
 from-ms.com
@@ -101,7 +103,9 @@ no-ip.org
 no_ip.biz
 noip.com
 noip.me
+noip.pl
 nsupdate.info
+onthewifi.com
 ooguy.com
 p-e.kr
 portmap.host
@@ -122,6 +126,7 @@ servegame.org
 servehalflife.com
 servehttp.com
 serveirc.com
+serveminecraft.net
 servemp3.com
 servep2p.com
 servepics.com
@@ -143,3 +148,6 @@ x10.bz
 ydns.eu
 zapto.org
 zz.am
+
+# Sub-Domains
+at.ply.gg

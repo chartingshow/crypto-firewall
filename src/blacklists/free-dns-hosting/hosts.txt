@@ -53,6 +53,7 @@
 0.0.0.0 dynuddns.net
 0.0.0.0 firewall-gateway.com
 0.0.0.0 freeddns.org
+0.0.0.0 freedynamicdns.org
 0.0.0.0 freemyip.com
 0.0.0.0 from-de.com
 0.0.0.0 from-ms.com
@@ -101,7 +102,9 @@
 0.0.0.0 no_ip.biz
 0.0.0.0 noip.com
 0.0.0.0 noip.me
+0.0.0.0 noip.pl
 0.0.0.0 nsupdate.info
+0.0.0.0 onthewifi.com
 0.0.0.0 ooguy.com
 0.0.0.0 p-e.kr
 0.0.0.0 portmap.host
@@ -122,6 +125,7 @@
 0.0.0.0 servehalflife.com
 0.0.0.0 servehttp.com
 0.0.0.0 serveirc.com
+0.0.0.0 serveminecraft.net
 0.0.0.0 servemp3.com
 0.0.0.0 servep2p.com
 0.0.0.0 servepics.com
