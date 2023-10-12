@@ -119,6 +119,7 @@
 0.0.0.0 95555cmbchina.com
 0.0.0.0 124261b08c52b166.xyz
 0.0.0.0 437435a4cce520bc.xyz
+0.0.0.0 548848.xyz
 0.0.0.0 778899aabb.ml
 0.0.0.0 808080.ml
 0.0.0.0 1105181.com
@@ -189,6 +190,7 @@
 0.0.0.0 adanasporr.xyz
 0.0.0.0 adavefrees.xyz
 0.0.0.0 adaytriana.co
+0.0.0.0 adds-only.xyz
 0.0.0.0 adenadimizolsaydi.shop
 0.0.0.0 aderbuild.com.au
 0.0.0.0 admfor.me
@@ -220,6 +222,7 @@
 0.0.0.0 africnouzor.com
 0.0.0.0 afrodizajoy.com
 0.0.0.0 afterburnermsi.info
+0.0.0.0 ag.run
 0.0.0.0 agent47.vip
 0.0.0.0 agentpapple.ac.ug
 0.0.0.0 agustfreeday-my.xyz
@@ -331,6 +334,7 @@
 0.0.0.0 androidapiv5.cf
 0.0.0.0 androidapiv8.cf
 0.0.0.0 androidapiv9.cf
+0.0.0.0 androidapk.ovh
 0.0.0.0 androiddevapi.cf
 0.0.0.0 anee.ee
 0.0.0.0 animalmedicalclinicofbutte.com
@@ -341,6 +345,7 @@
 0.0.0.0 anonymousfastandcostfree.ml
 0.0.0.0 anphatedu.com
 0.0.0.0 anscowerbrut.com
+0.0.0.0 anticriminalonline.ru
 0.0.0.0 antmanspshopsman.com
 0.0.0.0 antmanspshopsman.life
 0.0.0.0 antoun.com.au
@@ -402,6 +407,7 @@
 0.0.0.0 assaggip.tk
 0.0.0.0 astrawwinzo.homes
 0.0.0.0 astrolco.fun
+0.0.0.0 asuscomm.com
 0.0.0.0 asyx.ru
 0.0.0.0 atabeybkmevler.net
 0.0.0.0 ateam-qax-sec.tk
@@ -560,6 +566,7 @@
 0.0.0.0 bizonexpressyet.com
 0.0.0.0 bizsenizhaberlertincomdangel.com
 0.0.0.0 bizsizonlarbizimleberaber.com
+0.0.0.0 black-crystal.net
 0.0.0.0 blacklifestyle.net
 0.0.0.0 blackspiders.top
 0.0.0.0 blakwaveproductions.com
@@ -645,6 +652,7 @@
 0.0.0.0 c3c73sqbsxtwssv.top
 0.0.0.0 c3ee376adb01f782.pw
 0.0.0.0 c6ih1t.com
+0.0.0.0 c9z.in
 0.0.0.0 c9267e7172c23fea.store
 0.0.0.0 cable-modem.org
 0.0.0.0 caesarsgroup.top
@@ -721,6 +729,7 @@
 0.0.0.0 chist.com
 0.0.0.0 chloemario.co
 0.0.0.0 chocomeat.fun
+0.0.0.0 choigo88.us
 0.0.0.0 choserowboatfly.fun
 0.0.0.0 chrome-up.date
 0.0.0.0 chtcom.tw
@@ -792,6 +801,7 @@
 0.0.0.0 coolworks.xyz
 0.0.0.0 coolworkss.xyz
 0.0.0.0 coopdate.com
+0.0.0.0 cordonhomeservices.com
 0.0.0.0 corh.cf
 0.0.0.0 coris-bank.fr
 0.0.0.0 cornbascet.site
@@ -827,6 +837,7 @@
 0.0.0.0 cvadrobox.xyz
 0.0.0.0 cxtfadxbfcsjy4r.gq
 0.0.0.0 cylenceprotect.com
+0.0.0.0 cypher-tech.ca
 0.0.0.0 d3a9f935b1c82ed3.xyz
 0.0.0.0 d4k2qeqb7mpzafi.gq
 0.0.0.0 d4rkn3ss.tk
@@ -930,6 +941,7 @@
 0.0.0.0 dfvzfvd.help
 0.0.0.0 dghidfishfosf.fun
 0.0.0.0 dhabigroup.top
+0.0.0.0 dhlmissed.com
 0.0.0.0 diagnostic.net
 0.0.0.0 diavellipromo-my.xyz
 0.0.0.0 digger.cryptobara.com
@@ -942,6 +954,7 @@
 0.0.0.0 disdoctor.top
 0.0.0.0 dishontesa.xyz
 0.0.0.0 divineservicecity.fun
+0.0.0.0 dixip52.ml
 0.0.0.0 diyndishad.xyz
 0.0.0.0 dkepostnatures.com
 0.0.0.0 dl.browsermine.com
@@ -1048,6 +1061,7 @@
 0.0.0.0 dyndns-web.com
 0.0.0.0 dyndns.biz
 0.0.0.0 dyndns.org
+0.0.0.0 dynnds.org
 0.0.0.0 dynu.com
 0.0.0.0 dynu.net
 0.0.0.0 dynuddns.net
@@ -1315,6 +1329,7 @@
 0.0.0.0 freeddns.org
 0.0.0.0 freedomly.top
 0.0.0.0 freedomsepter.com
+0.0.0.0 freedynamicdns.org
 0.0.0.0 freeintalk.co
 0.0.0.0 freeintalk.com
 0.0.0.0 freemyip.com
@@ -1438,6 +1453,7 @@
 0.0.0.0 gishaobera.xyz
 0.0.0.0 gitarlessonfinger.xyz
 0.0.0.0 gitmedurneolur.tk
+0.0.0.0 gize.com
 0.0.0.0 Gizemlibizimle.co.vu
 0.0.0.0 gk-stst.ru
 0.0.0.0 gkrokbmrkmrxtmxrxr.space
@@ -2007,6 +2023,7 @@
 0.0.0.0 liezaphare.xyz
 0.0.0.0 lightminer.co
 0.0.0.0 liguspotforsit.com
+0.0.0.0 likeboostingsrebulity.ru
 0.0.0.0 limbus-holding.de
 0.0.0.0 limfunsto.site
 0.0.0.0 limit-tanimlama.net
@@ -2020,6 +2037,7 @@
 0.0.0.0 link234-33.com
 0.0.0.0 link5467.com
 0.0.0.0 link43897.com
+0.0.0.0 linkadrum.nl
 0.0.0.0 linked-42.com
 0.0.0.0 linked-66.com
 0.0.0.0 linked-88.com
@@ -2044,6 +2062,7 @@
 0.0.0.0 lizriandinc.xyz
 0.0.0.0 lkcagar.com
 0.0.0.0 lku7.tk
+0.0.0.0 llcdn.eu
 0.0.0.0 lleliedinkss.xyz
 0.0.0.0 llenerelme.xyz
 0.0.0.0 lllwyerxedo.xyz
@@ -2124,6 +2143,7 @@
 0.0.0.0 makephone.net
 0.0.0.0 makinasi.top
 0.0.0.0 makkgg.fyi
+0.0.0.0 malatifs.com
 0.0.0.0 malenursenect.fun
 0.0.0.0 malli.su
 0.0.0.0 malmisinfree.tk
@@ -2194,6 +2214,7 @@
 0.0.0.0 menegoresencand.club
 0.0.0.0 menelinn.xyz
 0.0.0.0 mensmoment.xyz
+0.0.0.0 mentality.cloud
 0.0.0.0 mepirtedic.com
 0.0.0.0 merceariadobenedito.store
 0.0.0.0 merkuriusz.pl
@@ -2401,6 +2422,7 @@
 0.0.0.0 neelsmagofter.com
 0.0.0.0 neelsquelo.com
 0.0.0.0 negerotar.com
+0.0.0.0 negro.systems
 0.0.0.0 nehanaishial.xyz
 0.0.0.0 nekololis.wtf
 0.0.0.0 nemchaprues.com
@@ -2484,6 +2506,7 @@
 0.0.0.0 nodirtyelectricity.com
 0.0.0.0 noip.com
 0.0.0.0 noip.me
+0.0.0.0 noip.pl
 0.0.0.0 noisemakjelly.fun
 0.0.0.0 nomegiasnadaquemecabreo.shop
 0.0.0.0 nonileshos.xyz
@@ -2514,6 +2537,7 @@
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvize.com
+0.0.0.0 nvpn.so
 0.0.0.0 nyashkoon.top
 0.0.0.0 nyashnyash.top
 0.0.0.0 nyasht.ml
@@ -2618,6 +2642,7 @@
 0.0.0.0 p-e.kr
 0.0.0.0 p-rise.online
 0.0.0.0 p.estream.to
+0.0.0.0 packetriot.net
 0.0.0.0 paesoitalon.com
 0.0.0.0 paffagsydfsds.shop
 0.0.0.0 paflcaseyaqastaset.shop
@@ -2718,6 +2743,7 @@
 0.0.0.0 playboymutfak1.cloudns.ph
 0.0.0.0 playboymutfakgibi.com
 0.0.0.0 playertinid.com
+0.0.0.0 playgo88.fun
 0.0.0.0 playstorevip.co.vu
 0.0.0.0 pleaz.top
 0.0.0.0 plehvioda.com
@@ -3247,6 +3273,7 @@
 0.0.0.0 smartcontracts.nl
 0.0.0.0 smartmetereducationnetwork.com
 0.0.0.0 smplemente.net
+0.0.0.0 smplt210smlprt.com
 0.0.0.0 smrtp.ru
 0.0.0.0 snapservarior.com
 0.0.0.0 snaptikt.com
@@ -3361,6 +3388,7 @@
 0.0.0.0 sunnimiq5.cf
 0.0.0.0 sunnimiq6.cf
 0.0.0.0 sunnimiq.cf
+0.0.0.0 sunvn.net
 0.0.0.0 super56fall.online
 0.0.0.0 superbanifabused2.xyz
 0.0.0.0 superdreadiswag.com
@@ -3399,6 +3427,7 @@
 0.0.0.0 taeedakaron.xyz
 0.0.0.0 tahaberservisi.net
 0.0.0.0 taisaautodorf.com
+0.0.0.0 taisunwin.club
 0.0.0.0 talatlarholdngltd.net
 0.0.0.0 talentree.fi
 0.0.0.0 talkinwhitepod.fun
@@ -3429,6 +3458,7 @@
 0.0.0.0 tektekmutfak.dns.army
 0.0.0.0 tekyzutsuneadyn.shop
 0.0.0.0 telachapesu.com
+0.0.0.0 telebit.cloud
 0.0.0.0 teleportstation.gq
 0.0.0.0 teleportstation.tk
 0.0.0.0 telexmint.me
@@ -3509,6 +3539,7 @@
 0.0.0.0 topendpower.top
 0.0.0.0 topservicebooster.com
 0.0.0.0 toptansanatisleri.gq
+0.0.0.0 toptoptop1.site
 0.0.0.0 torget.top
 0.0.0.0 tourdeworldsport.com
 0.0.0.0 toysforchild.fun
@@ -3562,6 +3593,7 @@
 0.0.0.0 trustamsty.com
 0.0.0.0 trustaproiam.de
 0.0.0.0 trustdwnl.site
+0.0.0.0 trustedvpnservices.com
 0.0.0.0 trustedwicky.com
 0.0.0.0 trusteverything.de
 0.0.0.0 trustyox.cloud
@@ -3591,6 +3623,7 @@
 0.0.0.0 twoviewsmovies.com
 0.0.0.0 tyastazirowi.xyz
 0.0.0.0 tytsoftikor.com
+0.0.0.0 u4wqbjlplzi5hdx.ru
 0.0.0.0 u864246.tk
 0.0.0.0 uchannas.xyz
 0.0.0.0 ue47emsfujaozfg.gq
@@ -3643,6 +3676,7 @@
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 us.to
 0.0.0.0 usa.cc
+0.0.0.0 usacupid.org
 0.0.0.0 usdseancer.fun
 0.0.0.0 usdseancer.xyz
 0.0.0.0 userauto.space
@@ -3810,6 +3844,8 @@
 0.0.0.0 whitegarden.top
 0.0.0.0 whiteproducts.ru
 0.0.0.0 whmfix009.cf
+0.0.0.0 whoamis.info
+0.0.0.0 whoru222.xyz
 0.0.0.0 wialadyar.xyz
 0.0.0.0 wiccinigeria.org
 0.0.0.0 wickleymorgan.com
@@ -3923,6 +3959,7 @@
 0.0.0.0 xhvbzueifhdbjdfywete4y8va.cf
 0.0.0.0 xiaojue02.top
 0.0.0.0 xietharria.xyz
+0.0.0.0 xinbiquge.net
 0.0.0.0 xinchen.space
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xiplisineld.xyz
@@ -4000,6 +4037,7 @@
 0.0.0.0 ydfym8f6erifpvk.gq
 0.0.0.0 ydmau.xyz
 0.0.0.0 ydns.eu
+0.0.0.0 ydzh.ltd
 0.0.0.0 yec.edu.mm
 0.0.0.0 yektkedecaedem.shop
 0.0.0.0 yelkafeelind.com
@@ -4041,6 +4079,7 @@
 0.0.0.0 yoshelona.xyz
 0.0.0.0 younamebit.info
 0.0.0.0 yourtrap.com
+0.0.0.0 yoworldservices.space
 0.0.0.0 yozadading.com
 0.0.0.0 ypdvqxh5qie08md.top
 0.0.0.0 ysdong.top
@@ -4052,6 +4091,7 @@
 0.0.0.0 yusufagafirada.tk
 0.0.0.0 yusufturanv3.cf
 0.0.0.0 z3vc8a62zf2omuo.gq
+0.0.0.0 z100.vip
 0.0.0.0 z652.com
 0.0.0.0 za-co-za.co.za
 0.0.0.0 zahalode.xyz
