@@ -1,0 +1,53 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: DarkGate Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 12 October 2023
+#
+
+5.2.68.68
+5.2.68.77
+5.34.178.21
+5.42.76.197
+5.42.77.33
+5.188.87.58
+45.141.87.89
+54.39.198.245
+65.20.75.41
+66.42.63.27
+80.66.88.14
+80.66.88.145
+81.19.135.17
+81.19.135.139
+84.246.85.121
+84.246.85.138
+89.248.193.66
+94.228.169.123
+94.228.169.143
+95.179.164.94
+95.179.241.172
+107.181.161.20
+107.181.161.200
+111.90.143.221
+136.244.92.148
+148.113.1.180
+149.248.0.82
+162.19.130.45
+162.33.178.63
+162.33.179.65
+162.33.179.119
+178.33.94.35
+178.63.53.44
+178.236.247.73
+178.236.247.102
+179.60.149.3
+185.130.226.95
+185.143.223.64
+185.173.36.98
+195.211.98.105
+207.228.17.37
