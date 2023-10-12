@@ -1,11 +1,13 @@
 # Block Bad Crypto Filter Lists
 # Blocking Web Browser Crypto Malware and Phishing Websites
 #
+# Block free dns and hosting websites saturated with malware
+#
 # Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 October 2023
+# Last modified: 12 October 2023
 #
 
 2waky.com

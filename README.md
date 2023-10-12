@@ -131,9 +131,9 @@ You may use the hosts file with below applications to block these miners on whol
 
 ## Free DNS / Hosting blocking 🆓
 
-This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found here:
+This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting/
 
 ## IP blocking 🌐
 
