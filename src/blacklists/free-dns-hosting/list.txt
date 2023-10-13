@@ -7,7 +7,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 12 October 2023
+# Last modified: 13 October 2023
 #
 
 # Domains
@@ -25,6 +25,7 @@ buyshouses.net
 cable-modem.org
 camdvr.org
 casacam.net
+cew.hu
 changeip.net
 chickenkiller.com
 chiguserver.ml
