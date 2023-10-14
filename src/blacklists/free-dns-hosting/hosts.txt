@@ -6,7 +6,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 October 2023
+# Last modified: 14 October 2023
 #
 
 # Block Free dns and hosting
@@ -40,6 +40,7 @@
 0.0.0.0 dnsabr.com
 0.0.0.0 dnsdyn.net
 0.0.0.0 duckdns.org
+0.0.0.0 duia.ro
 0.0.0.0 dvrlists.com
 0.0.0.0 dynamic-dns.net
 0.0.0.0 dyndns1.de
@@ -80,6 +81,7 @@
 0.0.0.0 linkpc.net
 0.0.0.0 loca.lt
 0.0.0.0 loseyourip.com
+0.0.0.0 mefound.com
 0.0.0.0 misecure.com
 0.0.0.0 mooo.com
 0.0.0.0 myddns.me
@@ -104,6 +106,7 @@
 0.0.0.0 noip.com
 0.0.0.0 noip.me
 0.0.0.0 noip.pl
+0.0.0.0 ns01.info
 0.0.0.0 nsupdate.info
 0.0.0.0 onthewifi.com
 0.0.0.0 ooguy.com

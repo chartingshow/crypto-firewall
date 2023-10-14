@@ -122,6 +122,7 @@
 0.0.0.0 3463forum.cf
 0.0.0.0 3635optical.ga
 0.0.0.0 8659design.se
+0.0.0.0 8723yuoistzkk.xyz
 0.0.0.0 40031.co
 0.0.0.0 81041b70fdc3a8d2.xyz
 0.0.0.0 95555cmbchina.com
@@ -166,6 +167,7 @@
 0.0.0.0 aandjaudhali.com
 0.0.0.0 aarzu.com.pk
 0.0.0.0 aasasadadolkaas.co.vu
+0.0.0.0 aash.com.pk
 0.0.0.0 ab-services.ma
 0.0.0.0 ababiil.com
 0.0.0.0 abatrdfsat.ml
@@ -281,6 +283,7 @@
 0.0.0.0 aifoundation.in
 0.0.0.0 aigfa.org
 0.0.0.0 aiimtvns.com
+0.0.0.0 ailsakwaoukeil.xyz
 0.0.0.0 aioeuqo.ru
 0.0.0.0 aipanelnew.ru
 0.0.0.0 aips.com.au
@@ -2405,6 +2408,7 @@
 0.0.0.0 jbeaef.ga
 0.0.0.0 jbeaef.ml
 0.0.0.0 jbeaef.tk
+0.0.0.0 jbfrost.live
 0.0.0.0 jcgpropiedades.cl
 0.0.0.0 jchen.tk
 0.0.0.0 jcloud.my
@@ -2706,6 +2710,7 @@
 0.0.0.0 leaseagent.xyz
 0.0.0.0 leathertexbd.com
 0.0.0.0 lecielhotel.com
+0.0.0.0 lecuy.org
 0.0.0.0 ledhenone.com
 0.0.0.0 legend0.ru
 0.0.0.0 lemonicecold.org
@@ -3089,6 +3094,7 @@
 0.0.0.0 moiki.online
 0.0.0.0 mokililsan.com
 0.0.0.0 molerreneta.xyz
+0.0.0.0 molharcharatba.xyz
 0.0.0.0 momsikret.xyz
 0.0.0.0 momtretaskan.com
 0.0.0.0 mon-deu-1.inf.nimiq.network
@@ -3302,6 +3308,7 @@
 0.0.0.0 news-deluhi.cc
 0.0.0.0 news-wellness.com
 0.0.0.0 newsprite.top
+0.0.0.0 newstokora.xyz
 0.0.0.0 newsvks.com
 0.0.0.0 newvision682.store
 0.0.0.0 nexgenemi.com
@@ -3394,6 +3401,7 @@
 0.0.0.0 nppnguyenduc.com
 0.0.0.0 npskudlu.com
 0.0.0.0 nrbexpresstourstravels.in
+0.0.0.0 ns01.info
 0.0.0.0 nsalielel.xyz
 0.0.0.0 nsdps.cc
 0.0.0.0 nsdvirasndevu2.net
@@ -3492,6 +3500,7 @@
 0.0.0.0 onazarlandu.xyz
 0.0.0.0 ondenbanahabervergel.co.vu
 0.0.0.0 onealaskasport.com
+0.0.0.0 onedumb.com
 0.0.0.0 oneglobalcorp.com
 0.0.0.0 onemarketperu.com
 0.0.0.0 onepercentage.org
@@ -4151,6 +4160,7 @@
 0.0.0.0 secure-online.site
 0.0.0.0 secures-tool.com
 0.0.0.0 securitymessures.com
+0.0.0.0 securityscorecard.com
 0.0.0.0 sedesadre.cf
 0.0.0.0 sedesadre.ga
 0.0.0.0 sedesadre.gq
@@ -5288,6 +5298,7 @@
 0.0.0.0 wnishia.xyz
 0.0.0.0 wnoykaaloha.com
 0.0.0.0 wo365.com
+0.0.0.0 wodmainenew.xyz
 0.0.0.0 woldwidesage.fun
 0.0.0.0 wolffunny.fun
 0.0.0.0 woltelorda.xyz
@@ -5303,9 +5314,12 @@
 0.0.0.0 worldofpoetry.xyz
 0.0.0.0 worldsguide.net
 0.0.0.0 worldtopnews.fun
+0.0.0.0 worlpointer.com
 0.0.0.0 wornegmot.top
 0.0.0.0 worpswede-blog.de
 0.0.0.0 worrtekbor.com
+0.0.0.0 woservicewindows10update.xyz
+0.0.0.0 wotousfrcool.xyz
 0.0.0.0 wowohehe.top
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com

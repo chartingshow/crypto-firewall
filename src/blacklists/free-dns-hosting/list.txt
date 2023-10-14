@@ -7,7 +7,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 October 2023
+# Last modified: 14 October 2023
 #
 
 # Domains
@@ -41,6 +41,7 @@ ddnsking.com
 dnsabr.com
 dnsdyn.net
 duckdns.org
+duia.ro
 dvrlists.com
 dynamic-dns.net
 dyndns1.de
@@ -81,6 +82,7 @@ kro.kr
 linkpc.net
 loca.lt
 loseyourip.com
+mefound.com
 misecure.com
 mooo.com
 myddns.me
@@ -105,6 +107,7 @@ no_ip.biz
 noip.com
 noip.me
 noip.pl
+ns01.info
 nsupdate.info
 onthewifi.com
 ooguy.com
