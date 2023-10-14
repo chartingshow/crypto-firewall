@@ -1,0 +1,44 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Tofsee Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 14 October 2023
+#
+
+31.42.189.81
+31.192.237.6
+43.231.4.7
+45.143.201.238
+47.251.38.135
+51.178.207.67
+54.36.100.25
+80.66.75.4
+87.251.71.150
+91.203.5.144
+92.38.171.179
+95.179.157.19
+95.181.178.110
+144.76.108.82
+172.82.190.178
+176.113.115.135
+176.113.115.136
+176.113.115.153
+176.113.115.154
+176.113.115.155
+176.113.115.156
+176.113.115.157
+176.113.115.239
+185.16.40.157
+185.49.70.93
+185.161.248.127
+185.183.162.195
+185.215.113.58
+188.130.209.2
+195.242.110.99
+212.22.87.191
+217.172.179.54

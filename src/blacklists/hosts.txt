@@ -159,6 +159,7 @@
 0.0.0.0 a7b8fa0a1e291cc2.xyz
 0.0.0.0 a41997fcd5e0bd32.xyz
 0.0.0.0 a-1bcdn.com
+0.0.0.0 a-poster.info
 0.0.0.0 aaa-studios.de
 0.0.0.0 aadarshtechnosoft.com
 0.0.0.0 aadesignstudio.it
@@ -225,6 +226,7 @@
 0.0.0.0 adriaticdeluxeapartments.com
 0.0.0.0 ads-info.ru
 0.0.0.0 ads-tm-glb.click
+0.0.0.0 adsco.re
 0.0.0.0 adsens.store
 0.0.0.0 adshennesyltd.net
 0.0.0.0 adsometric.com
@@ -1183,6 +1185,7 @@
 0.0.0.0 deeppoetry.xyz
 0.0.0.0 deeptrickday.org
 0.0.0.0 defcon1.us
+0.0.0.0 defeatwax.ru
 0.0.0.0 defenderdoes.work
 0.0.0.0 defenr.com
 0.0.0.0 defouw.org
@@ -2458,6 +2461,7 @@
 0.0.0.0 jornesfree.xyz
 0.0.0.0 joseallende.net
 0.0.0.0 jossynynari.xyz
+0.0.0.0 jotunheim.name
 0.0.0.0 journeotravel.com
 0.0.0.0 jpacloud.in
 0.0.0.0 jphilippeau.com
@@ -2559,6 +2563,7 @@
 0.0.0.0 kenaridjaja.com
 0.0.0.0 kendalwills.co.uk
 0.0.0.0 kene.us
+0.0.0.0 keniasousa.com.br
 0.0.0.0 kerafill.com
 0.0.0.0 kerizlersokak31.xyz
 0.0.0.0 kevinbrawiewu.com
@@ -2651,6 +2656,7 @@
 0.0.0.0 lahorivelor.xyz
 0.0.0.0 laiamia.co
 0.0.0.0 lakebuck.com
+0.0.0.0 lakeflex.ru
 0.0.0.0 lakelandartassociation.org
 0.0.0.0 lakeside-fishandchips.com
 0.0.0.0 lamansoreus.xyz
@@ -2689,6 +2695,7 @@
 0.0.0.0 lazarovs.tk
 0.0.0.0 lazerprojekt.store
 0.0.0.0 lazyls.co
+0.0.0.0 lazystax.ru
 0.0.0.0 lbcexpress.id
 0.0.0.0 leadindia.org
 0.0.0.0 leafperfect.com
@@ -3158,6 +3165,7 @@
 0.0.0.0 mtwealth.in
 0.0.0.0 mtymall.info
 0.0.0.0 mubarikimpex.com.pk
+0.0.0.0 mubrikych.top
 0.0.0.0 mucasnedalir.shop
 0.0.0.0 mueliselan.xyz
 0.0.0.0 multifuctionscanner.club
@@ -3169,6 +3177,7 @@
 0.0.0.0 murathizlikuryeservis.space
 0.0.0.0 murlakoperre.com
 0.0.0.0 musicweb.xyz
+0.0.0.0 muspelheim.be
 0.0.0.0 mustafakhafimsp.af
 0.0.0.0 mvo.co.in
 0.0.0.0 mxcdn1.now.sh
@@ -3318,8 +3327,10 @@
 0.0.0.0 niceone20.cn
 0.0.0.0 nicetrue.one
 0.0.0.0 nicetv.live
+0.0.0.0 nidavellir.top
 0.0.0.0 nidhigranites.com
 0.0.0.0 niematego.tk
+0.0.0.0 niflheimr.cn
 0.0.0.0 nikertimeshaft.com
 0.0.0.0 nilopera.ml
 0.0.0.0 nilselsholz.com
@@ -3535,8 +3546,10 @@
 0.0.0.0 ouroboros32132.site
 0.0.0.0 ovarishean.xyz
 0.0.0.0 overnightvoodoo.com
+0.0.0.0 ovicrush.cn
 0.0.0.0 owe.org.af
 0.0.0.0 owkdzodqzodqjefjnnejenefe.site
+0.0.0.0 oxxyfix.xyz
 0.0.0.0 oystergardener.net
 0.0.0.0 oyuncakhesapositebizimle.co.vu
 0.0.0.0 oyunsporhaberlerindenyaklas.co.vu
@@ -3576,11 +3589,13 @@
 0.0.0.0 parpee.com
 0.0.0.0 parrotorsk.fun
 0.0.0.0 party-vqgdyvoycc.now.sh
+0.0.0.0 parubey.info
 0.0.0.0 pasageverym.com
 0.0.0.0 pasifikbilisim.ml
 0.0.0.0 passareaayso.org
 0.0.0.0 passionstaging.co.uk
 0.0.0.0 patinvietnam.com
+0.0.0.0 patmushta.info
 0.0.0.0 patricammote.com
 0.0.0.0 paulachurra.com
 0.0.0.0 paupabiraftaar.co.in
@@ -3845,6 +3860,7 @@
 0.0.0.0 qpoe.com
 0.0.0.0 qtd8gcdoplav737wretjqmaiy.tk
 0.0.0.0 quacklabs.co.in
+0.0.0.0 quadoil.ru
 0.0.0.0 qualigenspharma.com
 0.0.0.0 qualityone.mx
 0.0.0.0 quanxx.site
@@ -3928,6 +3944,7 @@
 0.0.0.0 redwaveonline.com
 0.0.0.0 redworksite.info
 0.0.0.0 reedx51mut.com
+0.0.0.0 refabyd.info
 0.0.0.0 reflexsys.co.in
 0.0.0.0 regenerationmedicalgroup.com
 0.0.0.0 regruhosting.ru
@@ -3957,6 +3974,7 @@
 0.0.0.0 reymanenergy.com
 0.0.0.0 rfewkfnr234.cf
 0.0.0.0 rfstaging.co.uk
+0.0.0.0 rgtryhbgddtyh.biz
 0.0.0.0 riabrdarvi.xyz
 0.0.0.0 riaranalv.xyz
 0.0.0.0 ride1atv.com
@@ -4592,6 +4610,7 @@
 0.0.0.0 sushi-box.it
 0.0.0.0 suttschenko.com
 0.0.0.0 svaproot.fun
+0.0.0.0 svartalfheim.top
 0.0.0.0 svcregsvr.com
 0.0.0.0 svhost-system-update.net
 0.0.0.0 svinlasf.ru
@@ -5035,6 +5054,7 @@
 0.0.0.0 valvulasthermovalve.cl
 0.0.0.0 vamosaporlafiestaguapaconmir.shop
 0.0.0.0 vamosaversisalealgodeaqui1762.shop
+0.0.0.0 vanaheim.cn
 0.0.0.0 vanaineach.xyz
 0.0.0.0 vanninilep.xyz
 0.0.0.0 vanquicktech.com
@@ -5210,6 +5230,7 @@
 0.0.0.0 werewolves.su
 0.0.0.0 werovegrad.xyz
 0.0.0.0 werqy66.top
+0.0.0.0 wertdghbyrukl.ch
 0.0.0.0 wesleyuni.edu.ng
 0.0.0.0 westacoast.xyz
 0.0.0.0 westcontent.ru
