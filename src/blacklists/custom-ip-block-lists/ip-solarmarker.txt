@@ -1,0 +1,23 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Solarmarker Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 14 October 2023
+#
+
+45.42.201.248
+46.30.188.221
+91.206.178.106
+92.204.160.114
+146.70.86.142
+146.70.125.68
+146.70.149.55
+167.88.15.115
+185.94.191.54
+193.29.56.179
+217.138.215.105
