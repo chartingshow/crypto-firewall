@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 September 2023
+# Last modified: 14 October 2023
 #
 
 # Extras (comment out if needed)
@@ -914,6 +914,7 @@
 0.0.0.0 cfgy8uj.click
 0.0.0.0 ch10th.com
 0.0.0.0 chaitanyamarine.in
+0.0.0.0 chakazi.xyz
 0.0.0.0 chalntz.top
 0.0.0.0 chancerylaw.net
 0.0.0.0 changeip.net
@@ -955,6 +956,7 @@
 0.0.0.0 cirugiabogota.com
 0.0.0.0 cityco.top
 0.0.0.0 civcxs.xyz
+0.0.0.0 ckinbaro.site
 0.0.0.0 clainsrimauto.com
 0.0.0.0 clamprite.ga
 0.0.0.0 clarioaff.co
@@ -1788,6 +1790,7 @@
 0.0.0.0 fullppc.xyz
 0.0.0.0 fullstrap.tech
 0.0.0.0 funnycox.fun
+0.0.0.0 funpet.uk
 0.0.0.0 fusagov.xyz
 0.0.0.0 fussion1.com
 0.0.0.0 fustindor.com
@@ -2681,6 +2684,7 @@
 0.0.0.0 leathertexbd.com
 0.0.0.0 lecielhotel.com
 0.0.0.0 ledhenone.com
+0.0.0.0 legend0.ru
 0.0.0.0 lemonicecold.org
 0.0.0.0 lenovob2bportal.com
 0.0.0.0 lenovskiy.shop
@@ -3071,6 +3075,7 @@
 0.0.0.0 mon-fra-2.inf.nimiq.network
 0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 monelloselect.cl
+0.0.0.0 monerdomen.ru
 0.0.0.0 monerominer.rocks
 0.0.0.0 money-maker-default.info
 0.0.0.0 moneypickupped.co
@@ -3380,6 +3385,7 @@
 0.0.0.0 nusaprimajogja.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 nutritio.news
+0.0.0.0 nvbcloud.com
 0.0.0.0 nvidia-graphics.top
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvize.com
@@ -3921,6 +3927,7 @@
 0.0.0.0 renomesolar.com
 0.0.0.0 rentacarinlahore.com.pk
 0.0.0.0 rentverify.net
+0.0.0.0 reputinodaedo.pw
 0.0.0.0 reraitper.com
 0.0.0.0 research-study.healthcare
 0.0.0.0 researchwritingexperts.com
@@ -4745,6 +4752,7 @@
 0.0.0.0 ti-instruments.com
 0.0.0.0 tiancaii.com
 0.0.0.0 tiendadeperfumesdnk.com
+0.0.0.0 tigercomeback.com
 0.0.0.0 tijunaitiene.lt
 0.0.0.0 tillit-hjarta.se
 0.0.0.0 timefornews.online
