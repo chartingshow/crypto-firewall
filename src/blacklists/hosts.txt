@@ -1342,6 +1342,7 @@
 0.0.0.0 droptop5.com
 0.0.0.0 droptop9.com
 0.0.0.0 druczki.pl
+0.0.0.0 drumlinsecurity.com
 0.0.0.0 dsfiu133ds52231232fdnsjds.top
 0.0.0.0 dsfiu733ds42231232fdnsjds.top
 0.0.0.0 dsfiu733ds52231232fdnsjds.top
@@ -1794,6 +1795,7 @@
 0.0.0.0 fyopavitar.xyz
 0.0.0.0 fysiotherapie-panken.nl
 0.0.0.0 fysolar.tech
+0.0.0.0 fzthemes.site
 0.0.0.0 g1thub.com
 0.0.0.0 gabbyalli.xyz
 0.0.0.0 gabrikxuira.com
@@ -3185,6 +3187,7 @@
 0.0.0.0 n57b30a.info
 0.0.0.0 n58r7he6mxamd2u.gq
 0.0.0.0 n-e.kr
+0.0.0.0 nakamurav.com
 0.0.0.0 naluonague.xyz
 0.0.0.0 namenetmanagecore.com
 0.0.0.0 nametraff.com
@@ -4460,6 +4463,7 @@
 0.0.0.0 srpskiratnik.com
 0.0.0.0 ssanyvede.shop
 0.0.0.0 ssd-vip.website
+0.0.0.0 sseiatca.site
 0.0.0.0 ssfn.site
 0.0.0.0 ssimex.com
 0.0.0.0 staging-demo.com
@@ -5343,6 +5347,7 @@
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
 0.0.0.0 xochimilcolindo.com
+0.0.0.0 xopjirlcom.com
 0.0.0.0 xoyuluilsh.xyz
 0.0.0.0 xpertmarketing.mx
 0.0.0.0 xpznl.click
