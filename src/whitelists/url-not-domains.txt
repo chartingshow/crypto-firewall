@@ -21,6 +21,7 @@
 *.godaddysites.com
 *.host.secureserver.net
 *.infinityfreeapp.com
+*.jetserver.net
 *.liveblog365.com
 *.netlify.app
 *.ngrok-free.app
