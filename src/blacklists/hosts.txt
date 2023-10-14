@@ -273,11 +273,13 @@
 0.0.0.0 ahmetfirarda.xyz
 0.0.0.0 ahmgbgjhdlmmlnf.top
 0.0.0.0 ahrom-app.website
+0.0.0.0 aibyngu.ru
 0.0.0.0 aidatsorgula.net
 0.0.0.0 aidemy.net
 0.0.0.0 aifoundation.in
 0.0.0.0 aigfa.org
 0.0.0.0 aiimtvns.com
+0.0.0.0 aioeuqo.ru
 0.0.0.0 aipanelnew.ru
 0.0.0.0 aips.com.au
 0.0.0.0 airdns.org
@@ -452,6 +454,7 @@
 0.0.0.0 appzpoint.net
 0.0.0.0 apuestagolf.com
 0.0.0.0 aquadec.com.au
+0.0.0.0 aqwxeyo.ru
 0.0.0.0 arabenibulursunancagelicne.co.vu
 0.0.0.0 arbaazkhan.com.np
 0.0.0.0 arboretum-abracaral.com.ar
@@ -880,6 +883,7 @@
 0.0.0.0 cbrealestatecr.xyz
 0.0.0.0 cc4d3debe7c33d08.live
 0.0.0.0 ccfelomvhk.com
+0.0.0.0 ccodoom.net
 0.0.0.0 cczqyvuy812jdy.com
 0.0.0.0 cd306c22c6332008.xyz
 0.0.0.0 cdlto.com.br
@@ -898,6 +902,7 @@
 0.0.0.0 cebajaepuno.edu.pe
 0.0.0.0 cebregh.org
 0.0.0.0 cecati61.com
+0.0.0.0 cegbqbq.net
 0.0.0.0 cel12345.online
 0.0.0.0 celikklczet.com
 0.0.0.0 cellnetmw.com
@@ -1150,6 +1155,7 @@
 0.0.0.0 dccr.ru
 0.0.0.0 dccrk.top
 0.0.0.0 dcrack.ru
+0.0.0.0 ddcedue.info
 0.0.0.0 ddns.com
 0.0.0.0 ddns.me
 0.0.0.0 ddns.net
@@ -1159,6 +1165,7 @@
 0.0.0.0 ddnsw.net
 0.0.0.0 ddockeers.space
 0.0.0.0 ddpipreview.nl
+0.0.0.0 ddpkzaq.info
 0.0.0.0 ddueevi.xyz
 0.0.0.0 de3dea888febbf08.xyz
 0.0.0.0 de-mi-nis-ner.info
@@ -1241,6 +1248,7 @@
 0.0.0.0 digitomuv.host
 0.0.0.0 digsouk.in
 0.0.0.0 digyamonica.xyz
+0.0.0.0 diixuoo.info
 0.0.0.0 dileyteney.xyz
 0.0.0.0 dimenew.com.br
 0.0.0.0 dimoparkhogar.com
@@ -1404,6 +1412,7 @@
 0.0.0.0 easywinscp.xyz
 0.0.0.0 eatrader.org
 0.0.0.0 ebelk.us
+0.0.0.0 ebelkye.ua
 0.0.0.0 ebenezersecurelinks.com
 0.0.0.0 ebnsina.top
 0.0.0.0 eco-mall.info
@@ -1423,8 +1432,11 @@
 0.0.0.0 edulinkr.com
 0.0.0.0 eduvisuo.com
 0.0.0.0 ee6tcbjn9z4ied4.gq
+0.0.0.0 eeepdcn.ua
+0.0.0.0 eeonagf.ua
 0.0.0.0 eezzeagric.com
 0.0.0.0 efd67574d8f47f75.info
+0.0.0.0 efeuhot.ua
 0.0.0.0 efjcfmbnnmnhkdn.top
 0.0.0.0 efvsx.cf
 0.0.0.0 efvsx.ga
@@ -1492,6 +1504,8 @@
 0.0.0.0 ensten.xyz
 0.0.0.0 entracollc.top
 0.0.0.0 entreprises-dynamiques.fr
+0.0.0.0 eodqdlj.ua
+0.0.0.0 eojyaqr.ua
 0.0.0.0 epabd.org
 0.0.0.0 epac.to
 0.0.0.0 epicclothing.ca
@@ -1572,6 +1586,7 @@
 0.0.0.0 existeraboutdeplume.fr
 0.0.0.0 exitfile.xyz
 0.0.0.0 exitlife.xyz
+0.0.0.0 exokckg.ua
 0.0.0.0 exotikcontent.ru
 0.0.0.0 exploreshops.net
 0.0.0.0 expoteam.ro
@@ -2425,6 +2440,7 @@
 0.0.0.0 jkhxcvklsdflujkjhgdfuyter.ru
 0.0.0.0 jkub.com
 0.0.0.0 jlinkjk-6.com
+0.0.0.0 jmai.ink
 0.0.0.0 jobscur.com
 0.0.0.0 jobsvac.xyz
 0.0.0.0 joekairbos.com
