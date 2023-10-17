@@ -1,1 +1,1 @@
-(aol.com|apple.com|countermail.com|fastmail.fm|gmail.com|gmx.com|hotmail.com|hushmail.com|letskolab.com|mail.com|mail.ru|mailbox.org|mailchimp.com|mailfence.com|opera.com|outlook.com|posteo.net|proton.com|proton.me|runbox.com|thebrevo.com|tutanota.com|yahoo.com|yandex.com|zohocorp.com)
+\@(?:countermail\.com|onionmail\.org|(?:mailfence|mailchimp|letskolab|t(?:hebrevo|utanota)|zohocorp|outlook|yandex|runbox|apple|yahoo|opera|gmx)\.com|h(?:ush|ot)mail\.com|mail(?:box\.org|\.ru)|fastmail\.fm|p(?:osteo\.net|roton\.me)|(?:proton|mail)\.com|gmail\.com|aol\.com)$
