@@ -173,7 +173,9 @@ How to Identify a Ransomware Email Attack, see here:
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
-....
+Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here:
+
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/wallet-address.txt
 
 ## OFAC sanctioned digital currency addresses 🚫
 
