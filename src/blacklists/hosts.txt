@@ -2421,6 +2421,8 @@
 0.0.0.0 colonybet372.com
 0.0.0.0 colonybet373.com
 0.0.0.0 colonybet374.com
+0.0.0.0 colormiagi.com
+0.0.0.0 colorpickerdesk.com
 0.0.0.0 com-stake.investments
 0.0.0.0 comadshome.com
 0.0.0.0 comcunesgom.net
@@ -2952,6 +2954,7 @@
 0.0.0.0 digitallyfocus.com
 0.0.0.0 digitallyprachar.com
 0.0.0.0 digitalmarket.exchange
+0.0.0.0 digitalsoundmaker99.com
 0.0.0.0 digitaltrade.asia
 0.0.0.0 digitex.games
 0.0.0.0 digiteyed.co.uk
@@ -3634,6 +3637,7 @@
 0.0.0.0 express-wallet.pro
 0.0.0.0 express-wallet.run
 0.0.0.0 expresscrack.xyz
+0.0.0.0 expressdesign9.com
 0.0.0.0 expresse-finances.com
 0.0.0.0 expressifastdelivery.online
 0.0.0.0 expression.com.do
@@ -3783,6 +3787,7 @@
 0.0.0.0 ffmaill.info
 0.0.0.0 ffrtrs.online
 0.0.0.0 ffsimv.gr
+0.0.0.0 fgfotr.com
 0.0.0.0 fgtransportservice.it
 0.0.0.0 fgxctrade.com
 0.0.0.0 fhgerbugjreqnhfegrb.top
@@ -4775,6 +4780,7 @@
 0.0.0.0 havfy.com
 0.0.0.0 havichostbrasil.com
 0.0.0.0 hawaiibreadcompany.com
+0.0.0.0 hawrickday.com
 0.0.0.0 haxbyq.com
 0.0.0.0 hayannsidfmosa.shop
 0.0.0.0 hayatbilgisigibihaberlerinolmaziyok.co.vu
@@ -4965,6 +4971,7 @@
 0.0.0.0 honantharis.xyz
 0.0.0.0 honbit.com
 0.0.0.0 hondsaves.com
+0.0.0.0 hong-security.com
 0.0.0.0 honghuleather.com
 0.0.0.0 hoodiehiv.com
 0.0.0.0 hoodrichserbia.com
@@ -5851,6 +5858,7 @@
 0.0.0.0 lanaky.xyz
 0.0.0.0 lanalannnal.xyz
 0.0.0.0 lanazavis.xyz
+0.0.0.0 landscapesboxdesign9.com
 0.0.0.0 lankanewschannel.net
 0.0.0.0 lapakbidaracina.com
 0.0.0.0 lapampa.co
@@ -6598,6 +6606,7 @@
 0.0.0.0 mileniuminvestmentllc.com
 0.0.0.0 milestonedestinations.com
 0.0.0.0 militaryautoinsurance.biz
+0.0.0.0 milkmovemoney.com
 0.0.0.0 milkwithlacto.fun
 0.0.0.0 milkyops.com
 0.0.0.0 millenialempowermentgrounds.com
@@ -6917,10 +6926,12 @@
 0.0.0.0 moussokouma.de
 0.0.0.0 moveleiros.com.br
 0.0.0.0 movialfinance.net
+0.0.0.0 moviedvdpower.com
 0.0.0.0 movingupwealthy.com
 0.0.0.0 mowuqn.ga
 0.0.0.0 mowuqn.ml
 0.0.0.0 moxii.com
+0.0.0.0 mozillaupdate.com
 0.0.0.0 mozk.top
 0.0.0.0 mozvipcc.top
 0.0.0.0 mozyw.fun
@@ -7096,6 +7107,7 @@
 0.0.0.0 nationalmenshealth.org
 0.0.0.0 nationslottory23.net
 0.0.0.0 nativpay.com
+0.0.0.0 nattplot.com
 0.0.0.0 naturechese.com
 0.0.0.0 naturetrtwentond.com
 0.0.0.0 natursaker.com
@@ -9440,6 +9452,7 @@
 0.0.0.0 soft-take.com
 0.0.0.0 softdetails.in
 0.0.0.0 softhebale.com
+0.0.0.0 softowii.com
 0.0.0.0 softportal.tk
 0.0.0.0 softswapp.com
 0.0.0.0 softwak.com
@@ -9882,6 +9895,7 @@
 0.0.0.0 t6crypto.com
 0.0.0.0 tabitla.store
 0.0.0.0 tableditermanaging.pro
+0.0.0.0 tableofcolorize.com
 0.0.0.0 taeedakaron.xyz
 0.0.0.0 tahaberservisi.net
 0.0.0.0 tahakasramehr.ir
@@ -10682,7 +10696,9 @@
 0.0.0.0 unq-grphs.com
 0.0.0.0 unsbslbgdasy.shop
 0.0.0.0 unshippi.com
+0.0.0.0 untypicaldesign9.com
 0.0.0.0 uoldid.ru
+0.0.0.0 uoplotr.com
 0.0.0.0 uoqpj4em7kkda35.gq
 0.0.0.0 upadte-reviewer-online.live
 0.0.0.0 upark-inc.com
@@ -10984,6 +11000,7 @@
 0.0.0.0 vlmotori.com
 0.0.0.0 vlps7.xyz
 0.0.0.0 vmi503011.contaboserver.net
+0.0.0.0 vmware-cdn.com
 0.0.0.0 vmware.center
 0.0.0.0 vnex.org
 0.0.0.0 vnh.wtf
