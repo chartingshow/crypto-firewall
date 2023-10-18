@@ -32,7 +32,7 @@
 0.0.0.0 dreambusweduybcp.onion
 0.0.0.0 fndqgtdkj4v6g4aq.onion
 0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
-0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onionpet.
+0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
 0.0.0.0 na47pldl5eoqxt42.onion
 0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
