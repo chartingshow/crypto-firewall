@@ -1,0 +1,53 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: SilverFish Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+104.128.228.76
+130.0.232.194
+130.0.233.178
+130.0.233.91
+130.0.234.134
+130.0.235.213
+130.0.235.92
+130.0.236.147
+130.0.237.176
+130.0.238.192
+130.0.239.178
+141.136.0.4
+141.255.161.180
+146.0.32.16
+149.154.157.248
+173.232.146.12
+176.10.118.136
+178.249.69.35
+179.43.141.188
+179.43.169.30
+179.43.169.31
+179.43.169.32
+185.122.57.238
+185.14.29.246
+185.163.45.150
+185.163.47.211
+185.189.151.178
+185.189.151.182
+185.43.220.214
+185.99.133.129
+188.120.239.154
+188.138.71.62
+37.48.84.156
+38.135.104.189
+79.110.52.138
+79.110.52.139
+79.110.52.140
+81.4.122.101
+84.38.183.45
+91.219.239.43
+91.219.239.54
