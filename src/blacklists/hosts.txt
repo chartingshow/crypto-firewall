@@ -284,7 +284,9 @@
 0.0.0.0 aarhusskw.com
 0.0.0.0 aarzu.com.pk
 0.0.0.0 aasasadadolkaas.co.vu
+0.0.0.0 aasfhhvyyayssa.xyz
 0.0.0.0 aash.com.pk
+0.0.0.0 aasouv636d.cn
 0.0.0.0 aatheaomes.com
 0.0.0.0 aave.markets
 0.0.0.0 aavelimited.com
@@ -447,6 +449,7 @@
 0.0.0.0 affiliosystem03.com
 0.0.0.0 affluencedigital.net
 0.0.0.0 affordablessaysolution.com
+0.0.0.0 afggaiir3a.xyz
 0.0.0.0 afhckrfcucjbpln.com
 0.0.0.0 afinishon.com
 0.0.0.0 aflercoopert.com
@@ -530,6 +533,7 @@
 0.0.0.0 airvpn.org
 0.0.0.0 airwestine.shop
 0.0.0.0 aiselfdrive.live
+0.0.0.0 aisiciciaisxuusuxic.xyz
 0.0.0.0 aismexpro.com
 0.0.0.0 aitechmarkets.com
 0.0.0.0 aitoblelorn.com
@@ -811,6 +815,8 @@
 0.0.0.0 anyhotus.com
 0.0.0.0 aoeusdt.com
 0.0.0.0 aogedvhwqhuokpd.ru
+0.0.0.0 aonvjvisi3949vnao30cv.xyz
+0.0.0.0 aosdnvnauurt.xyz
 0.0.0.0 aoureskindzet.com
 0.0.0.0 aouuoo.com
 0.0.0.0 aoysnakert.com
@@ -946,9 +952,17 @@
 0.0.0.0 ascentsbrands.com
 0.0.0.0 asd.edu.au
 0.0.0.0 asdakasma.digital
+0.0.0.0 asdijoisad87ay3.cn
+0.0.0.0 asdyyauscuauusc.xyz
 0.0.0.0 asffilio01.com
+0.0.0.0 asfggagsa3.xyz
 0.0.0.0 asfgze.fun
+0.0.0.0 asfjjasguasus.xyz
+0.0.0.0 asfjjsdvv33gqrr2fv.cn
+0.0.0.0 asfpihbhbyd.xyz
 0.0.0.0 asfsafsakjfkjsa.xyz
+0.0.0.0 asfuuvhv3083f.xyz
+0.0.0.0 asgyyya6ychcha.xyz
 0.0.0.0 ashgrrwt.click
 0.0.0.0 ashikurrohman.com
 0.0.0.0 asianbistrorestaurant.com
@@ -992,6 +1006,7 @@
 0.0.0.0 astroprohwk.com
 0.0.0.0 astrosavings.com
 0.0.0.0 astxcoin.com
+0.0.0.0 asudjasdusad.xyz
 0.0.0.0 asuscomm.com
 0.0.0.0 asusex.com
 0.0.0.0 asyx.ru
@@ -1790,6 +1805,7 @@
 0.0.0.0 broadearns.com
 0.0.0.0 brockerby.xyz
 0.0.0.0 brokeagetrade.net
+0.0.0.0 bromide.xyz
 0.0.0.0 brominer.com
 0.0.0.0 bronxadoskep.com
 0.0.0.0 bronze-safe.com
@@ -2932,6 +2948,7 @@
 0.0.0.0 dfgdgertdvdf.tech
 0.0.0.0 dfghn.top
 0.0.0.0 dfgy.shop
+0.0.0.0 dfsrakizimoy34ggf.xyz
 0.0.0.0 dft.global
 0.0.0.0 dfvzfvd.help
 0.0.0.0 dghidfishfosf.fun
@@ -3031,6 +3048,7 @@
 0.0.0.0 dixxi.site
 0.0.0.0 diyndishad.xyz
 0.0.0.0 djobs.id
+0.0.0.0 dkaknvizisic.xyz
 0.0.0.0 dkepostnatures.com
 0.0.0.0 dkjshoping.com
 0.0.0.0 dkstocks.com
@@ -4944,6 +4962,7 @@
 0.0.0.0 hitechcrypto.uk
 0.0.0.0 hitechscientific.in
 0.0.0.0 hititbet253.com
+0.0.0.0 hitnaiguat.xyz
 0.0.0.0 hitusd.org
 0.0.0.0 hivcme.com
 0.0.0.0 hive.tubetitties.com
@@ -6115,6 +6134,7 @@
 0.0.0.0 lisongealma.xyz
 0.0.0.0 list-n-eat.com
 0.0.0.0 listfunds.com
+0.0.0.0 listjhueaa.cn
 0.0.0.0 listmadboom.buzz
 0.0.0.0 litechanger.com
 0.0.0.0 litecoinpay.io
@@ -7179,6 +7199,7 @@
 0.0.0.0 neaachar.com
 0.0.0.0 neanderthal-outfits.com
 0.0.0.0 near-org.top
+0.0.0.0 neboley.cn
 0.0.0.0 nebunie.net
 0.0.0.0 necgatinh.com
 0.0.0.0 nechgoper.com
@@ -7440,6 +7461,7 @@
 0.0.0.0 nousassur.fr
 0.0.0.0 nova-fibertohome.com
 0.0.0.0 novabiomedicalsystems.com
+0.0.0.0 novacation.cn
 0.0.0.0 novoapp23.online
 0.0.0.0 novoecarstvo.ru
 0.0.0.0 novohrad.hu
@@ -7975,6 +7997,7 @@
 0.0.0.0 pex-capital.com
 0.0.0.0 pezimap.com
 0.0.0.0 pfm.live
+0.0.0.0 pgf5ga4g4b.cn
 0.0.0.0 pgreq.shop
 0.0.0.0 phaldeshas.xyz
 0.0.0.0 phantomsglobal.org
@@ -8347,6 +8370,7 @@
 0.0.0.0 psiloveyou.co.za
 0.0.0.0 psinformatica.inf.br
 0.0.0.0 psskills.net
+0.0.0.0 pssoduvnzud.xyz
 0.0.0.0 pswrld.store
 0.0.0.0 psychedelicsgurus.com
 0.0.0.0 psychedelicwurld.store
@@ -8865,8 +8889,10 @@
 0.0.0.0 s6k.finance
 0.0.0.0 sabahatscrescent.com
 0.0.0.0 sabitblog.com
+0.0.0.0 sacmmvivuasd.xyz
 0.0.0.0 sacynalale.xyz
 0.0.0.0 sadeceguldiyebe.shop
+0.0.0.0 sadiviai9d9asd.xyz
 0.0.0.0 sadokankim22.space
 0.0.0.0 sadyaonemaneking.shop
 0.0.0.0 saefigozower.fun
@@ -8877,11 +8903,16 @@
 0.0.0.0 safewayinvestment.com
 0.0.0.0 safewaylimited.net
 0.0.0.0 safrat-alriyadh.com
+0.0.0.0 sagbbrrww2.cn
+0.0.0.0 sagiai3agar.cn
 0.0.0.0 sagssaolyyksamay.shop
 0.0.0.0 sahabet963.com
 0.0.0.0 sahameli1402.site
 0.0.0.0 sahibindenparanguvende.net
 0.0.0.0 sahityaclasses.com
+0.0.0.0 saidifufaysydas.cn
+0.0.0.0 saidijfjv9as.xyz
+0.0.0.0 saidiviaiisj3.xyz
 0.0.0.0 saifaldin.com
 0.0.0.0 sainsbury-s.com
 0.0.0.0 sajimadurop.com
@@ -8946,6 +8977,8 @@
 0.0.0.0 saraswatiitc.org
 0.0.0.0 sarenmarki.pics
 0.0.0.0 sasaving.com
+0.0.0.0 sasdmvica883fen.xyz
+0.0.0.0 sasf6asf683jfsd.xyz
 0.0.0.0 sasipiaindustries.com
 0.0.0.0 sass2.authcaptcha.com
 0.0.0.0 sassypill.com
@@ -8961,6 +8994,7 @@
 0.0.0.0 saturnonetwork.tech
 0.0.0.0 sauconyindonesia.com
 0.0.0.0 saudehoje.live
+0.0.0.0 saudjyyvv663.xyz
 0.0.0.0 sausagerollraisin.fun
 0.0.0.0 sautibet.co.ke
 0.0.0.0 savefastonline.com
@@ -8999,6 +9033,7 @@
 0.0.0.0 scruffymapleflat.fun
 0.0.0.0 sdaltrz.com
 0.0.0.0 sdfubuzoeoeiv.top
+0.0.0.0 sdgububue3.xyz
 0.0.0.0 sdifferent.com
 0.0.0.0 sdtranspo.com
 0.0.0.0 se1rs.com
@@ -9498,6 +9533,7 @@
 0.0.0.0 so-outfitparis.com
 0.0.0.0 so8y.com
 0.0.0.0 soabhasq.shop
+0.0.0.0 soajfvhv235ua.xyz
 0.0.0.0 soaresdesigner.com.br
 0.0.0.0 soccer-assist.co.uk
 0.0.0.0 soccerfila.com
@@ -10022,6 +10058,7 @@
 0.0.0.0 tdrmng.com
 0.0.0.0 tdsshark.club
 0.0.0.0 teachmemoney.net
+0.0.0.0 teahgiaj3ig.cn
 0.0.0.0 team-viewercom.top
 0.0.0.0 teamlimit.space
 0.0.0.0 teamou.shop
@@ -11289,6 +11326,7 @@
 0.0.0.0 whatup.cloud
 0.0.0.0 where9sm532523523523ym8nd.com
 0.0.0.0 where9smym8nd.com
+0.0.0.0 whereihjeu3.xyz
 0.0.0.0 whereisyourf4ckingtar3e425.tk
 0.0.0.0 whereisyourf4ckingtarer.tk
 0.0.0.0 whereisyourf4ckingtarer425.tk

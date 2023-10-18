@@ -1,0 +1,34 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: TA-505 Group Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+185.163.45.186
+185.163.45.240
+185.163.45.248
+185.163.45.56
+185.163.47.171
+185.163.47.210
+194.180.174.20
+194.180.174.56
+206.188.197.203
+206.188.197.221
+23.227.194.159
+37.1.201.136
+5.181.156.142
+5.181.156.15
+5.181.156.4
+5.181.156.64
+5.61.60.54
+94.158.245.113
+94.158.245.172
+94.158.245.180
+94.158.245.73
+94.158.245.77
