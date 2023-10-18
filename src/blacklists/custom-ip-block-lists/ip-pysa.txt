@@ -1,0 +1,19 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: PYSA (Mespinoza) Ransomware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+193.34.166.165
+193.34.166.181
+193.34.166.189
+193.34.166.214
+193.34.166.92
+193.34.167.230
+193.34.167.240
