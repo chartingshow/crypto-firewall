@@ -1,0 +1,22 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: LockBit Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+104.237.255.254
+167.172.239.68
+185.202.2.121
+51.15.18.180
+51.89.134.150
+52.237.96.13
+54.38.212.197
+62.76.112.121
+82.102.20.219
+82.202.247.81
