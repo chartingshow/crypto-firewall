@@ -338,6 +338,15 @@
 0.0.0.0 acciorv.com
 0.0.0.0 accochainonline.com
 0.0.0.0 accordtrustedfinancial.com
+0.0.0.0 account-login.top
+0.0.0.0 account-noreply.space
+0.0.0.0 account-passports.top
+0.0.0.0 accounts-login.top
+0.0.0.0 accounts-mail.site
+0.0.0.0 accounts-mail.top
+0.0.0.0 accounts-passport.top
+0.0.0.0 accounts-verify.space
+0.0.0.0 accountsverify.top
 0.0.0.0 acecnouwglass.xyz
 0.0.0.0 acecoins.org
 0.0.0.0 aceqinvestment.com
@@ -352,6 +361,8 @@
 0.0.0.0 acktus.store
 0.0.0.0 aconfusiongbq.top
 0.0.0.0 acornstools.com
+0.0.0.0 acount-pasport.site
+0.0.0.0 acount-passport.site
 0.0.0.0 acsfoodthegood.fun
 0.0.0.0 acsshop.biz
 0.0.0.0 action-required.us
@@ -551,6 +562,7 @@
 0.0.0.0 ajshoesuite.com
 0.0.0.0 ajshops.us
 0.0.0.0 ajsneakermen.com
+0.0.0.0 akademia-mil.space
 0.0.0.0 akademos.com.ar
 0.0.0.0 akalamordoslarme.shop
 0.0.0.0 akamaitechcdns.com
@@ -1403,6 +1415,7 @@
 0.0.0.0 bewiin.com
 0.0.0.0 bexvis.com
 0.0.0.0 beyondhair.store
+0.0.0.0 bezpieczenstwo-danych.website
 0.0.0.0 bfasa.co.za
 0.0.0.0 bflcex.com
 0.0.0.0 bftcbitsfactor.io
@@ -1436,6 +1449,7 @@
 0.0.0.0 bigionlinegiris.net
 0.0.0.0 biglygirle.com
 0.0.0.0 bigmefactoryoutlet.shop
+0.0.0.0 bigmir.space
 0.0.0.0 bigmkfactoryoutlet.shop
 0.0.0.0 bigmvfactoryoutlet.shop
 0.0.0.0 bigsales-storeus.com
@@ -2461,7 +2475,13 @@
 0.0.0.0 coloradospringsroofing.info
 0.0.0.0 colormiagi.com
 0.0.0.0 colorpickerdesk.com
+0.0.0.0 com-check.online
+0.0.0.0 com-firewall.online
+0.0.0.0 com-login.space
+0.0.0.0 com-pastas.top
 0.0.0.0 com-stake.investments
+0.0.0.0 com-verificate.top
+0.0.0.0 com-verification.online
 0.0.0.0 comadshome.com
 0.0.0.0 comcunesgom.net
 0.0.0.0 comforamsale.com
@@ -2584,6 +2604,7 @@
 0.0.0.0 creatorsagahub.com
 0.0.0.0 credencewaybank.com
 0.0.0.0 credit-volta.com
+0.0.0.0 creditals-email.space
 0.0.0.0 creditflares.com
 0.0.0.0 credomched.ru
 0.0.0.0 creking.top
@@ -2905,6 +2926,7 @@
 0.0.0.0 deocoins.com
 0.0.0.0 deoragroup.com
 0.0.0.0 deoxeno.com
+0.0.0.0 departament-bezpieczenstwa.space
 0.0.0.0 depttake.ga
 0.0.0.0 depz.top
 0.0.0.0 derchic.com
@@ -3244,6 +3266,7 @@
 0.0.0.0 dynv6.net
 0.0.0.0 dzatrx.icu
 0.0.0.0 dzfuat.com
+0.0.0.0 dzial-bezpieczenstwa.space
 0.0.0.0 dzmanga.com
 0.0.0.0 e-auction.my.id
 0.0.0.0 e-change7.com
@@ -3680,6 +3703,7 @@
 0.0.0.0 expoteam.ro
 0.0.0.0 expoview.ru
 0.0.0.0 exprean.shop
+0.0.0.0 exprentis.com
 0.0.0.0 expresdrill.com.mx
 0.0.0.0 express-wallet.com
 0.0.0.0 express-wallet.pro
@@ -4691,6 +4715,7 @@
 0.0.0.0 grossvp.xyz
 0.0.0.0 groulye.com
 0.0.0.0 group-adfinances.site
+0.0.0.0 group-rambler.site
 0.0.0.0 groupbzs.com
 0.0.0.0 groupprivatevcs.my.id
 0.0.0.0 growersfunds.com
@@ -4702,6 +4727,7 @@
 0.0.0.0 grozilur.com
 0.0.0.0 grpsoundcenter.com
 0.0.0.0 grunge-aesthetics.com
+0.0.0.0 grupa-pocztowa.online
 0.0.0.0 grupoconstructivocr.com
 0.0.0.0 gruppefico.com
 0.0.0.0 grxbit.com
@@ -5114,7 +5140,10 @@
 0.0.0.0 hyundaidaklak-3s.com
 0.0.0.0 hzgoodar.live
 0.0.0.0 hzqkmp.cyou
+0.0.0.0 i-ua.ml
+0.0.0.0 i-ua.space
 0.0.0.0 i-washi.com
+0.0.0.0 iat.com.ua
 0.0.0.0 ibc003spin.xyz
 0.0.0.0 ibcrti198.com
 0.0.0.0 ibcvp.com
@@ -5135,12 +5164,17 @@
 0.0.0.0 iconpeak.shop
 0.0.0.0 icryptoissmining.online
 0.0.0.0 id-9855.info
+0.0.0.0 id-bigmir.site
+0.0.0.0 id-mail.site
+0.0.0.0 id-mail.tech
 0.0.0.0 idealfirstaid.com
 0.0.0.0 idealoffice.in
 0.0.0.0 idealsjob.com
 0.0.0.0 idealwayinvestmentlimited.com
 0.0.0.0 ideamenuhand.live
 0.0.0.0 ideasaccounting.com
+0.0.0.0 identyfikacja-uzytkownika.link
+0.0.0.0 identyfikacja-uzytkownika.space
 0.0.0.0 idmining.cc
 0.0.0.0 idsexpo.com
 0.0.0.0 idyllicventures.com
@@ -5708,6 +5742,7 @@
 0.0.0.0 kellmda.click
 0.0.0.0 keloroppel.com
 0.0.0.0 keltek.co.uk
+0.0.0.0 kemda.eu
 0.0.0.0 kenaridjaja.com
 0.0.0.0 kendalwills.co.uk
 0.0.0.0 kene.us
@@ -5809,6 +5844,18 @@
 0.0.0.0 kongak.com
 0.0.0.0 kongent.com
 0.0.0.0 konngotharie.xyz
+0.0.0.0 konto-onet.site
+0.0.0.0 konto-verify.space
+0.0.0.0 kontrola-bezpieczenstwa.link
+0.0.0.0 kontrola-bezpieczenstwa.pw
+0.0.0.0 kontrola-bezpieczenstwa.site
+0.0.0.0 kontrola-bezpieczenstwa.top
+0.0.0.0 kontrola-konta.online
+0.0.0.0 kontrola-mailowa.top
+0.0.0.0 kontrola-poczty.link
+0.0.0.0 kontrola-poczty.pw
+0.0.0.0 kontrola-poczty.space
+0.0.0.0 kontrola-poczty.top
 0.0.0.0 kookmin-financial.com
 0.0.0.0 koonty.shop
 0.0.0.0 kopekler.xyz
@@ -5829,6 +5876,7 @@
 0.0.0.0 krashiyantra.com
 0.0.0.0 kraushop.com
 0.0.0.0 krb.devphp.org.ua
+0.0.0.0 krebas.lt
 0.0.0.0 krederic.com
 0.0.0.0 kredit-365.com
 0.0.0.0 kreditgrun.com
@@ -6196,6 +6244,7 @@
 0.0.0.0 lofvingshop.com
 0.0.0.0 loganqua.com
 0.0.0.0 login-secure-nvestec.com
+0.0.0.0 login-verify.top
 0.0.0.0 logscorp.org
 0.0.0.0 lohmotarufos.com
 0.0.0.0 lojapumpkin.store
@@ -6354,6 +6403,9 @@
 0.0.0.0 mahobadhi2601.online
 0.0.0.0 maiatelan.xyz
 0.0.0.0 maidenmercury.com
+0.0.0.0 mail-accounts.site
+0.0.0.0 mail-accounts.space
+0.0.0.0 mail-profiles.space
 0.0.0.0 mail-verification.ml
 0.0.0.0 mail.ghmproperties.com
 0.0.0.0 mail.itseasy.com
@@ -6591,6 +6643,9 @@
 0.0.0.0 merrellcevlji.com
 0.0.0.0 merrill-org.com
 0.0.0.0 messalasix.com
+0.0.0.0 meta-log.site
+0.0.0.0 meta-ua.space
+0.0.0.0 meta-ua.top
 0.0.0.0 meta1trader.com
 0.0.0.0 metabaltrades.com
 0.0.0.0 metacrowd.co
@@ -6663,6 +6718,7 @@
 0.0.0.0 miira.live
 0.0.0.0 mikallv.eu
 0.0.0.0 miklinhotels.com
+0.0.0.0 mil-gov.space
 0.0.0.0 milanarshop.com
 0.0.0.0 mileniuminvestmentllc.com
 0.0.0.0 milestonedestinations.com
@@ -6722,6 +6778,7 @@
 0.0.0.0 mirantedosgolfinhos.com.br
 0.0.0.0 mirastoris.xyz
 0.0.0.0 mirlaza.com
+0.0.0.0 mirrohost.space
 0.0.0.0 mirror.directory
 0.0.0.0 misecure.com
 0.0.0.0 misegurossoat.com
@@ -7398,6 +7455,10 @@
 0.0.0.0 no-ip.info
 0.0.0.0 no-ip.net
 0.0.0.0 no-ip.org
+0.0.0.0 no-replay.space
+0.0.0.0 no-reply.space
+0.0.0.0 no-response.site
+0.0.0.0 no-response.website
 0.0.0.0 no_ip.biz
 0.0.0.0 noanvaruncorekumar.cf
 0.0.0.0 noblecapitals.net
@@ -7880,6 +7941,10 @@
 0.0.0.0 passengerclothingnorge.com
 0.0.0.0 passionlend.com
 0.0.0.0 passionstaging.co.uk
+0.0.0.0 passport-login.top
+0.0.0.0 passport-verify.top
+0.0.0.0 passportlogin.top
+0.0.0.0 pastas.top
 0.0.0.0 pathwayfvvm.com
 0.0.0.0 patinvietnam.com
 0.0.0.0 patiobuyer.com
@@ -8084,6 +8149,8 @@
 0.0.0.0 pklkknj89bygvczvi.com
 0.0.0.0 pktriot.net
 0.0.0.0 pl-exhibition.com
+0.0.0.0 pl-identyfikacja-uzytkownika.pw
+0.0.0.0 pl-kontrola-bezpieczenstwa.space
 0.0.0.0 placespuregolden.com
 0.0.0.0 placetowin.net
 0.0.0.0 plannedjump.com
@@ -8126,6 +8193,7 @@
 0.0.0.0 plethorafinance.org
 0.0.0.0 pleylqox.com
 0.0.0.0 plintarueza.com
+0.0.0.0 plklll.site
 0.0.0.0 plogadventure.com
 0.0.0.0 plokoto.cf
 0.0.0.0 plorod.com
@@ -8148,6 +8216,7 @@
 0.0.0.0 poashoppersug.com
 0.0.0.0 pocketstay.com
 0.0.0.0 pococox.cc
+0.0.0.0 poczta-mailowa.top
 0.0.0.0 podderzhivaeshsya.fun
 0.0.0.0 poderdemineria.com
 0.0.0.0 podiumstrtss.com
@@ -8316,6 +8385,7 @@
 0.0.0.0 profesionalendigitaciona.com
 0.0.0.0 professionalkeepalive.online
 0.0.0.0 proffsystemminig.top
+0.0.0.0 profiles-login.top
 0.0.0.0 profileses.com
 0.0.0.0 profirst.com.vn
 0.0.0.0 profitbot.net
@@ -8538,6 +8608,9 @@
 0.0.0.0 rallydeinnovacion.org
 0.0.0.0 ralph-laurenakcija.co
 0.0.0.0 ramamortgageloans.com
+0.0.0.0 rambler-account.top
+0.0.0.0 rambler-profile.site
+0.0.0.0 rambler-verify.top
 0.0.0.0 ramirezperezabogados.com
 0.0.0.0 ramorex.com
 0.0.0.0 ramosahneleri.net
@@ -8789,6 +8862,7 @@
 0.0.0.0 romashkin.top
 0.0.0.0 romasports.xyz
 0.0.0.0 rominternational.org
+0.0.0.0 ron-mil.space
 0.0.0.0 ronicaheen.xyz
 0.0.0.0 roobecoins.com
 0.0.0.0 rooeshoes.com
@@ -8839,6 +8913,7 @@
 0.0.0.0 rtp-kapuas88.com
 0.0.0.0 rtr-auto.ru
 0.0.0.0 rtrkolada.xyz
+0.0.0.0 rtrrsfgsfg.site
 0.0.0.0 rtxelectronics.com
 0.0.0.0 rty777casinojoker.com
 0.0.0.0 rubclick.ru
@@ -8860,6 +8935,7 @@
 0.0.0.0 ruycoin.com
 0.0.0.0 rveildns.top
 0.0.0.0 rw-invest-north.com
+0.0.0.0 rwegfwfe.site
 0.0.0.0 rwthoard.com
 0.0.0.0 rxcoordinator.com
 0.0.0.0 rxp.com
@@ -8898,6 +8974,8 @@
 0.0.0.0 saefigozower.fun
 0.0.0.0 saenedowaiss.xyz
 0.0.0.0 saesha.store
+0.0.0.0 safe-mail.space
+0.0.0.0 safe-onet.space
 0.0.0.0 safebot.pro
 0.0.0.0 safewayintltransfer.com
 0.0.0.0 safewayinvestment.com
@@ -9032,6 +9110,7 @@
 0.0.0.0 scriptsplatform.com
 0.0.0.0 scruffymapleflat.fun
 0.0.0.0 sdaltrz.com
+0.0.0.0 sdfavavvvv.site
 0.0.0.0 sdfubuzoeoeiv.top
 0.0.0.0 sdgububue3.xyz
 0.0.0.0 sdifferent.com
@@ -9059,6 +9138,9 @@
 0.0.0.0 secretformulameals.com
 0.0.0.0 sectorzerosecurity.com
 0.0.0.0 secure-online.site
+0.0.0.0 secure-ua.pw
+0.0.0.0 secure-ua.site
+0.0.0.0 secure-ua.space
 0.0.0.0 securebankamerica.com
 0.0.0.0 securecryptotrades.com
 0.0.0.0 securedsmcd.com
@@ -9659,6 +9741,7 @@
 0.0.0.0 sportssgoat.com
 0.0.0.0 sportwearcanget.cfd
 0.0.0.0 sporzz.com
+0.0.0.0 sprawdzanie-zabezpieczen.space
 0.0.0.0 spreetradetech.com
 0.0.0.0 springbankinc.com
 0.0.0.0 springlobby.com
@@ -9978,6 +10061,7 @@
 0.0.0.0 synthex.finance
 0.0.0.0 syquheuheu.live
 0.0.0.0 system-ns.net
+0.0.0.0 system-pocztowy.space
 0.0.0.0 system-updatefrm-com.tk
 0.0.0.0 systembuilder.com.tr
 0.0.0.0 systemdata.club
@@ -10045,6 +10129,7 @@
 0.0.0.0 tawseq.net
 0.0.0.0 taxresolve.org
 0.0.0.0 taybo.top
+0.0.0.0 taysbb.ru
 0.0.0.0 tbhdtf.com
 0.0.0.0 tbit88.com
 0.0.0.0 tbwtshop.com
@@ -10690,8 +10775,14 @@
 0.0.0.0 u-senders.site
 0.0.0.0 u4wqbjlplzi5hdx.ru
 0.0.0.0 u864246.tk
+0.0.0.0 ua-login.top
+0.0.0.0 ua-passport.pw
+0.0.0.0 ua-passport.site
+0.0.0.0 ua-passport.space
+0.0.0.0 ua-passport.top
 0.0.0.0 uagcp-guinee.org
 0.0.0.0 ublisyoga.com
+0.0.0.0 ubsbha.ru
 0.0.0.0 ubuddy.in
 0.0.0.0 uchannas.xyz
 0.0.0.0 uctcb.com
@@ -10969,6 +11060,7 @@
 0.0.0.0 vedolevyle.xyz
 0.0.0.0 vegaxbit.com
 0.0.0.0 veinsmoter.fun
+0.0.0.0 veirfy-ua.space
 0.0.0.0 vejagreece.com.gr
 0.0.0.0 vejaisrael.net
 0.0.0.0 vejaoutlet.net
@@ -10989,7 +11081,13 @@
 0.0.0.0 vercelokaca.net
 0.0.0.0 verecalina.xyz
 0.0.0.0 vergecoffee.com
+0.0.0.0 verification-email.space
+0.0.0.0 verification-email.website
 0.0.0.0 verificationta.top
+0.0.0.0 verify-email.space
+0.0.0.0 verify-mail.space
+0.0.0.0 verifyprofiles.space
+0.0.0.0 verifyprofiles.top
 0.0.0.0 verifyurl.me
 0.0.0.0 verlaghausundmarkt.de
 0.0.0.0 vernbank.com
@@ -11157,6 +11255,12 @@
 0.0.0.0 wailanyrrere.xyz
 0.0.0.0 wait-download.com
 0.0.0.0 wakors.com
+0.0.0.0 walidacja-konta.link
+0.0.0.0 walidacja-konta.pw
+0.0.0.0 walidacja-konta.site
+0.0.0.0 walidacja-poczty.space
+0.0.0.0 walidacja-uzytkownika.pw
+0.0.0.0 walidacja-uzytkownika.space
 0.0.0.0 walinstitute.com
 0.0.0.0 walknotice.com
 0.0.0.0 walletmultiverse.com
@@ -11253,6 +11357,7 @@
 0.0.0.0 webxmr.com
 0.0.0.0 webytebr.com
 0.0.0.0 weco.fi
+0.0.0.0 wecwe.com
 0.0.0.0 wedding-city.com
 0.0.0.0 wedhstinwell.online
 0.0.0.0 wedvisa.co.uk
@@ -11291,6 +11396,17 @@
 0.0.0.0 werovegrad.xyz
 0.0.0.0 werqy66.top
 0.0.0.0 wertdghbyrukl.ch
+0.0.0.0 weryfikacja-konta.link
+0.0.0.0 weryfikacja-konta.pw
+0.0.0.0 weryfikacja-konta.space
+0.0.0.0 weryfikacja-okonto.online
+0.0.0.0 weryfikacja-okonto.site
+0.0.0.0 weryfikacja-poczty.space
+0.0.0.0 weryfikacja-uzytkownika.link
+0.0.0.0 weryfikacja-uzytkownika.online
+0.0.0.0 weryfikacja-uzytkownika.pw
+0.0.0.0 weryfikacja-uzytkownika.site
+0.0.0.0 weryfikacja-uzytkownika.top
 0.0.0.0 wesleyuni.edu.ng
 0.0.0.0 westacoast.xyz
 0.0.0.0 westcontent.ru
@@ -11465,6 +11581,7 @@
 0.0.0.0 wothy.shop
 0.0.0.0 wotousfrcool.xyz
 0.0.0.0 wowohehe.top
+0.0.0.0 wp-firewall.website
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpconversionking.com
