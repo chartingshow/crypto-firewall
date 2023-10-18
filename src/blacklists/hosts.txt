@@ -18,18 +18,32 @@
 0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 
 # Bad Tor domains
-0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
+0.0.0.0 225ppqutwykx2or3.onion
 0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
+0.0.0.0 2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
+0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
+0.0.0.0 4ktbtv54flfhs6ea.onion
+0.0.0.0 4r7hlqzkxl5xtjxn.onion
+0.0.0.0 ba2xy52xrtagkrh3.onion
 0.0.0.0 bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
+0.0.0.0 bgumuduxnkkecg3b.onion
+0.0.0.0 contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion
+0.0.0.0 dppnmjep33rf6ct3.onion
 0.0.0.0 dreambusweduybcp.onion
+0.0.0.0 fndqgtdkj4v6g4aq.onion
 0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
-0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
+0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onionpet.
 0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
+0.0.0.0 na47pldl5eoqxt42.onion
 0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
 0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
+0.0.0.0 pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion
 0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
+0.0.0.0 red6djrs7fbkchy3.onion
 0.0.0.0 ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
 0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
+0.0.0.0 wqmfzni2nvbbpk25.onion
+0.0.0.0 xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 
 # Bad Crypto domains
 0.0.0.0 000faucet.xyz
