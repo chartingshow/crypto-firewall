@@ -2922,6 +2922,7 @@
 0.0.0.0 dhhs-grants.online
 0.0.0.0 dhl-tracklng.com
 0.0.0.0 dhlmissed.com
+0.0.0.0 dhsyy.com
 0.0.0.0 diagnostic.net
 0.0.0.0 diagrammed.top
 0.0.0.0 diamonddoors.net.au
@@ -2940,6 +2941,7 @@
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 digiadvmedia.com
 0.0.0.0 digibioinfo.com
+0.0.0.0 digilugu.net
 0.0.0.0 digital-apps.id
 0.0.0.0 digital-century.net
 0.0.0.0 digital-edge.dev
@@ -3275,6 +3277,7 @@
 0.0.0.0 edalatsod-ir.tk
 0.0.0.0 edaycamanel.xyz
 0.0.0.0 edc34rd.cfd
+0.0.0.0 eddiejackson.net
 0.0.0.0 edfi.io
 0.0.0.0 edgeblockmining.com
 0.0.0.0 edgeupdates.com
@@ -3853,6 +3856,7 @@
 0.0.0.0 fingazelle.com
 0.0.0.0 fingerstile.xyz
 0.0.0.0 fingusti.club
+0.0.0.0 finikomoneyback.ru
 0.0.0.0 finiofinance.uk
 0.0.0.0 finishupworld.com
 0.0.0.0 finlandmc.com
@@ -10477,6 +10481,7 @@
 0.0.0.0 trpihgram.space
 0.0.0.0 trubzeom.top
 0.0.0.0 trudied.com
+0.0.0.0 true-version.com
 0.0.0.0 truegym.at
 0.0.0.0 trueinvestment.cc
 0.0.0.0 trunghodesign.com
@@ -10487,6 +10492,7 @@
 0.0.0.0 trust-flare.ru
 0.0.0.0 trust-flare.site
 0.0.0.0 trust-pepe.online
+0.0.0.0 trust.gemoltest.ru
 0.0.0.0 trustamsty.com
 0.0.0.0 trustandsav.com
 0.0.0.0 trustaproiam.de
