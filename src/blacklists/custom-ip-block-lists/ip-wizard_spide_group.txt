@@ -1,0 +1,54 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: WizardSpider Group Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+103.195.101.254
+104.171.123.110
+104.194.11.220
+104.194.9.196
+104.243.32.108
+104.243.33.253
+104.243.34.234
+104.243.37.150
+104.243.38.69
+104.243.40.150
+104.243.40.249
+104.243.41.56
+104.243.42.138
+104.243.42.187
+104.243.46.66
+141.94.143.79
+141.94.162.156
+162.241.225.192
+162.248.246.186
+162.248.246.214
+172.93.101.26
+172.93.103.50
+185.150.191.44
+185.253.96.117
+192.111.154.58
+192.198.86.130
+192.198.88.110
+199.127.61.113
+199.127.63.16
+199.127.63.194
+206.221.180.186
+209.222.97.162
+23.106.215.66
+23.82.140.32
+45.147.160.196
+45.147.160.5
+45.58.124.98
+46.148.235.93
+5.199.162.14
+51.178.131.228
+51.91.7.70
+85.25.246.169
