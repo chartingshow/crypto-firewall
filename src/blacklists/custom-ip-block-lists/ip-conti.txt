@@ -1,0 +1,37 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Conti Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+1.177.172.158
+104.244.76.44
+107.189.31.241
+122.51.149.86
+176.9.1.211
+176.9.98.228
+18.27.197.252
+185.130.44.108
+185.220.103.4
+185.220.103.5
+192.42.116.25
+2.82.175.32
+217.12.204.135
+217.160.251.63
+218.92.0.211
+45.153.160.134
+46.101.236.25
+49.234.143.71
+51.75.171.136
+54.36.108.162
+6.11.76.81
+61.177.172.158
+64.113.32.29
+66.211.197.38
+89.163.249.244

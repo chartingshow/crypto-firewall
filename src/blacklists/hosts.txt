@@ -32,7 +32,6 @@
 0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 
 # Bad Crypto domains
-0.0.0.0 .resmii.my.id
 0.0.0.0 000faucet.xyz
 0.0.0.0 0067080.com
 0.0.0.0 007mall.live
@@ -2460,6 +2459,7 @@
 0.0.0.0 consultoresenseguridad.com
 0.0.0.0 contamed.com.br
 0.0.0.0 contarmxsite.xyz
+0.0.0.0 contirecovery.ws
 0.0.0.0 contribute.to-support.me
 0.0.0.0 control-scanning.com
 0.0.0.0 controlkeys.co.uk
@@ -8592,6 +8592,7 @@
 0.0.0.0 resital.gr
 0.0.0.0 resmi95.biz.id
 0.0.0.0 resmii.cloud
+0.0.0.0 resmii.my.id
 0.0.0.0 resource-trades.com
 0.0.0.0 resourcehost.net
 0.0.0.0 respondao.com
