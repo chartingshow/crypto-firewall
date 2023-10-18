@@ -1,0 +1,22 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Paperbug Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+185.32.126.102
+188.241.58.142
+194.180.174.154
+199.188.200.245
+44.227.65.245
+44.227.76.166
+54.36.185.101
+91.208.184.79
+91.219.238.239
+94.140.114.20
