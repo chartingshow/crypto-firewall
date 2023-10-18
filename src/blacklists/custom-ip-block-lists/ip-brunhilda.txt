@@ -1,0 +1,25 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Brunhilda Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+185.177.92.213
+185.177.93.105
+185.177.93.111
+185.177.93.120
+185.177.93.145
+185.177.93.242
+185.177.93.32
+185.177.93.44
+185.177.93.72
+185.177.93.73
+198.54.125.121
+45.142.212.216
+95.142.40.68
