@@ -1,0 +1,46 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: PTI 257 Group Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 October 2023
+#
+
+138.99.216.146
+147.78.47.240
+147.78.47.243
+147.78.47.245
+179.60.146.51
+179.60.150.150
+193.29.13.152
+193.29.13.166
+45.227.252.236
+45.227.252.237
+45.227.252.241
+45.227.252.252
+45.227.255.213
+46.161.27.123
+46.161.27.155
+5.188.206.83
+5.188.206.84
+5.188.206.88
+5.188.206.92
+5.188.206.93
+5.8.18.116
+5.8.18.117
+5.8.18.236
+5.8.18.242
+78.128.112.137
+78.128.112.138
+78.128.112.141
+78.128.112.195
+78.128.112.202
+78.128.112.211
+88.214.26.27
+88.214.26.37
+92.118.36.201
+92.118.36.213
