@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 October 2023
+# Last modified: 20 October 2023
 #
 
 100.116.67.89
@@ -548,6 +548,8 @@
 23.225.71.250
 23.227.38.65
 23.83.114.131
+31.41.244.231
+31.41.244.235
 34.102.136.180
 34.120.89.66
 34.149.46.224
@@ -596,6 +598,8 @@
 52.20.131.174
 52.4.209.250
 62.122.171.6
+62.204.41.192
+62.204.41.71
 62.204.41.98
 64.227.133.159
 64.227.163.217
