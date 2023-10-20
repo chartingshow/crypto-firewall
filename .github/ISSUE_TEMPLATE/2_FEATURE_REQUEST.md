@@ -57,3 +57,7 @@ n/a
 ### Wallet Addresses
 
 n/a
+
+### Mining pool address
+
+n/a
