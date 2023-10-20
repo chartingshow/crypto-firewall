@@ -50,6 +50,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
 - [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
+- [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
 - [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
 - [Issues](#issues-)
@@ -176,6 +177,12 @@ How to Identify a Ransomware Email Attack, see here:
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here:
 
 - https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/wallet-address.txt
+
+## Fraudulent cryptocurrency mining pool addresses 🦈
+
+Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here:
+
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pool-address.txt
 
 ## OFAC sanctioned digital currency addresses 🚫
 
