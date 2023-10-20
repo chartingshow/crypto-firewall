@@ -50,7 +50,7 @@ You can find external information to avoid cryptocurrency scams in the following
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
 - [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
-- [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
+- [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
 - [Issues](#issues-)
