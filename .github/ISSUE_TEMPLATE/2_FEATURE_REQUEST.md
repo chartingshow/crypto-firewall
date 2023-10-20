@@ -54,10 +54,10 @@ n/a
 
 n/a
 
-### Wallet Addresses
+### Wallet addresses
 
 n/a
 
-### Mining pool address
+### Mining pool addresses
 
 n/a
