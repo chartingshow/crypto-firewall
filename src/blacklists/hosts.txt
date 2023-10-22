@@ -5448,6 +5448,7 @@
 0.0.0.0 itemregistry.com
 0.0.0.0 itemvending.com
 0.0.0.0 itgusl.com
+0.0.0.0 itosha.top
 0.0.0.0 itron.live
 0.0.0.0 itsaol.com
 0.0.0.0 itshealthpro.com
@@ -5993,6 +5994,7 @@
 0.0.0.0 lanazavis.xyz
 0.0.0.0 landscapesboxdesign9.com
 0.0.0.0 lankanewschannel.net
+0.0.0.0 laomao.run
 0.0.0.0 lapakbidaracina.com
 0.0.0.0 lapampa.co
 0.0.0.0 lapassover.site
@@ -6462,6 +6464,7 @@
 0.0.0.0 makkelijklenen.com
 0.0.0.0 makkgg.fyi
 0.0.0.0 maklis.com.mx
+0.0.0.0 malaji.top
 0.0.0.0 malatifs.com
 0.0.0.0 malay.app
 0.0.0.0 malaycassia.com
@@ -10493,6 +10496,7 @@
 0.0.0.0 todaynewsbuz.com
 0.0.0.0 todaywebetter.com
 0.0.0.0 todixbit.com
+0.0.0.0 tofu77.top
 0.0.0.0 tofuchart.com
 0.0.0.0 tokaxtoken.com
 0.0.0.0 token-binance.com
@@ -10889,6 +10893,7 @@
 0.0.0.0 umbrelladownload.host
 0.0.0.0 umbromalaysia.com
 0.0.0.0 umoxlopator.com
+0.0.0.0 umpteen.top
 0.0.0.0 umsulaym.com
 0.0.0.0 umulok.us
 0.0.0.0 umursuzinsanhaberl.co.vu
@@ -12051,6 +12056,7 @@
 0.0.0.0 zexaneny.xyz
 0.0.0.0 zfderrek.shop
 0.0.0.0 zgsushop.top
+0.0.0.0 zhedwe.top
 0.0.0.0 zheping.net
 0.0.0.0 zhongguotese.net
 0.0.0.0 zhujason.net
