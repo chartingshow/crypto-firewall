@@ -19,6 +19,7 @@
 *.glitch.me
 *.global.ssl.fastly.net
 *.godaddysites.com
+*.herokuapp.com
 *.host.secureserver.net
 *.infinityfreeapp.com
 *.jetserver.net
