@@ -48,6 +48,8 @@
 *.workers.dev
 *.yolasite.com
 *.zendesk.com
+https://bitbucket.org/*
 https://docs.google.com/forms/*
 https://github.com/*
+https://gitlab.com/*
 https://translated.turbopages.org/*
