@@ -28,6 +28,7 @@
 *.nimbusweb.me
 *.pages.dev
 *.pantheonsite.io
+*.plesk.page
 *.repl.co
 *.sglwebs.com
 *.sitebeat.crazydomains.com
