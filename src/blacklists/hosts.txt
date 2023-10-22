@@ -716,6 +716,7 @@
 0.0.0.0 amafo.cc
 0.0.0.0 amaoshop.com
 0.0.0.0 amaracentralworldsanal.tk
+0.0.0.0 amarte.store
 0.0.0.0 amaseon.com
 0.0.0.0 amatosport.pl
 0.0.0.0 amazcreator.com
@@ -2287,6 +2288,7 @@
 0.0.0.0 cjarlnls.cc
 0.0.0.0 ckinbaro.site
 0.0.0.0 ckleup.com
+0.0.0.0 ckws.info
 0.0.0.0 claimperks.org
 0.0.0.0 clainsrimauto.com
 0.0.0.0 clamprite.ga
@@ -3763,6 +3765,7 @@
 0.0.0.0 factch.top
 0.0.0.0 factorysale2023.com
 0.0.0.0 factumlimited.com
+0.0.0.0 facturacionmarzo.cloud
 0.0.0.0 fae361e39435d13c.xyz
 0.0.0.0 faeram.com
 0.0.0.0 fahrschulethomas.com
@@ -6410,6 +6413,7 @@
 0.0.0.0 m1fdte.xyz
 0.0.0.0 m360li.info
 0.0.0.0 m440ixe.info
+0.0.0.0 m9b4s2.site 
 0.0.0.0 maatjjari.com
 0.0.0.0 macafeedoesnt.work
 0.0.0.0 macayafoundation.org
@@ -10692,6 +10696,7 @@
 0.0.0.0 treylercompandium.com
 0.0.0.0 trezor.im
 0.0.0.0 triangles.top
+0.0.0.0 tributaria.website
 0.0.0.0 trickip.org
 0.0.0.0 trill-gone123.site
 0.0.0.0 trilobe.lc
@@ -11576,6 +11581,7 @@
 0.0.0.0 wintipsports.com
 0.0.0.0 wintlimited.online
 0.0.0.0 wintrustarvest.com
+0.0.0.0 wiqp.xyz
 0.0.0.0 wirkaleufu.cl
 0.0.0.0 wiseroniee.xyz
 0.0.0.0 wishceng.icu
