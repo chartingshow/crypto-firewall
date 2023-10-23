@@ -840,7 +840,9 @@
 0.0.0.0 akademos.com.ar
 0.0.0.0 akailko.global
 0.0.0.0 akalamordoslarme.shop
+0.0.0.0 akamaicontainer.com
 0.0.0.0 akamaitechcdns.com
+0.0.0.0 akamaitechcloudservices.com
 0.0.0.0 akamaitechnologies.info
 0.0.0.0 akamtechnologies.com
 0.0.0.0 akedhorrorr.com
@@ -1488,7 +1490,10 @@
 0.0.0.0 azqks.shop
 0.0.0.0 aztecup.com
 0.0.0.0 azurcredit.ca
+0.0.0.0 azuredeploystore.com
 0.0.0.0 azureedge.net
+0.0.0.0 azureonlinecloud.com
+0.0.0.0 azureonlinestorage.com
 0.0.0.0 azuretradefx.com
 0.0.0.0 azwebview.com
 0.0.0.0 b-kex.com
@@ -3774,6 +3779,7 @@
 0.0.0.0 duinbehoud.nl
 0.0.0.0 dukul.com
 0.0.0.0 dumuzid.top
+0.0.0.0 dunamistrd.com
 0.0.0.0 dunkoffer.com
 0.0.0.0 dunkstock.com
 0.0.0.0 dunkstocks.com
@@ -5142,6 +5148,7 @@
 0.0.0.0 gladdistribuidora.com.br
 0.0.0.0 glaudio.com.au
 0.0.0.0 glaziercarde.fun
+0.0.0.0 glcloudservice.com
 0.0.0.0 gleeze.com
 0.0.0.0 glendonlee.com
 0.0.0.0 gliinjoyae.com
@@ -6353,6 +6360,7 @@
 0.0.0.0 josuecosmetic.com.ec
 0.0.0.0 jotunheim.name
 0.0.0.0 joulesclearance.store
+0.0.0.0 journalide.org
 0.0.0.0 journeotravel.com
 0.0.0.0 jovial7.net
 0.0.0.0 joyashoescanada.com
@@ -7972,6 +7980,7 @@
 0.0.0.0 msas.ws
 0.0.0.0 msdncss.com
 0.0.0.0 msdocumentsall.com
+0.0.0.0 msedgepackageinfo.com
 0.0.0.0 msglocalmicro.com
 0.0.0.0 mshowshop.com
 0.0.0.0 msmartb.com
@@ -7986,6 +7995,8 @@
 0.0.0.0 msmartm.com
 0.0.0.0 mssdlc.pw
 0.0.0.0 mssouthpolnte.com
+0.0.0.0 msstorageazure.com
+0.0.0.0 msstorageboxes.com
 0.0.0.0 msteamseyeappstore.com
 0.0.0.0 mstransportuae.com
 0.0.0.0 mtechthesis.com
@@ -8560,7 +8571,9 @@
 0.0.0.0 offetknauzhad.com
 0.0.0.0 office-update.net
 0.0.0.0 office-webpage-auth.ml
+0.0.0.0 officeaddons.com
 0.0.0.0 officeee.tk
+0.0.0.0 officestoragebox.com
 0.0.0.0 official-expert.org
 0.0.0.0 officialdirection.com
 0.0.0.0 officiall.online
@@ -8953,6 +8966,9 @@
 0.0.0.0 pbexosa.com
 0.0.0.0 pbmtihltdrjcpzvtzkjb.net
 0.0.0.0 pbozsub.com
+0.0.0.0 pbxcloudeservices.com
+0.0.0.0 pbxphonenetwork.com
+0.0.0.0 pbxsources.com
 0.0.0.0 pccomponentes.pt
 0.0.0.0 pccracking.click
 0.0.0.0 pcoute.com
@@ -9598,6 +9614,7 @@
 0.0.0.0 qutjuvanus.xyz
 0.0.0.0 qvcdealmall.com
 0.0.0.0 qwazzy.biz
+0.0.0.0 qwepoi123098.com
 0.0.0.0 qwert.xyz
 0.0.0.0 qwxzyl.com
 0.0.0.0 qxxq.wcrashtdm.top
@@ -10162,6 +10179,7 @@
 0.0.0.0 saywix.com
 0.0.0.0 sbcglobalss.net
 0.0.0.0 sbdetails805.com
+0.0.0.0 sbmsa.wiki
 0.0.0.0 sbonus.site
 0.0.0.0 sc414ip.com
 0.0.0.0 scajyt.com
@@ -10815,6 +10833,7 @@
 0.0.0.0 soubtalk.com
 0.0.0.0 soundbeats.co
 0.0.0.0 source-pc.com
+0.0.0.0 sourceslabs.com
 0.0.0.0 sousa.pb.gov.br
 0.0.0.0 souschefs.shop
 0.0.0.0 souterpairslimited.com
@@ -12458,6 +12477,7 @@
 0.0.0.0 viskocompetr.com
 0.0.0.0 vistolham.xyz
 0.0.0.0 visual-technology-global.com
+0.0.0.0 visualstudiofactory.com
 0.0.0.0 vitalityremedy.com
 0.0.0.0 vitaloras.com
 0.0.0.0 vitanigoldtravelandtours.com
@@ -14377,6 +14397,7 @@
 0.0.0.0 z652.com
 0.0.0.0 za-co-za.co.za
 0.0.0.0 za.com
+0.0.0.0 zacharryblogs.com
 0.0.0.0 zacherymicahdemers.com
 0.0.0.0 zadehgallery.com
 0.0.0.0 zaenababa.com
