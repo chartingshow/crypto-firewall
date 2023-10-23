@@ -1,0 +1,37 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: YoroTrooper Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 23 October 2023
+#
+
+143.198.80.235
+162.33.177.195
+168.100.11.137
+172.105.215.208
+172.86.75.220
+178.20.45.52
+192.153.57.67
+193.149.129.133
+193.149.176.254
+206.188.196.86
+212.24.106.218
+45.227.252.247
+45.61.136.175
+45.61.136.64
+45.61.137.32
+45.61.138.243
+45.61.139.224
+46.161.40.164
+46.175.148.147
+64.190.113.57
+64.227.24.240
+89.22.232.145
+89.22.233.149
+94.103.86.38
+94.20.72.7

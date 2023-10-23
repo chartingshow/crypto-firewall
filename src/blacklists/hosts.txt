@@ -845,6 +845,7 @@
 0.0.0.0 akamtechnologies.com
 0.0.0.0 akedhorrorr.com
 0.0.0.0 akincareers.com
+0.0.0.0 akipress.news
 0.0.0.0 akrepbaba323.net
 0.0.0.0 aktoto.eu
 0.0.0.0 akurt100.com
@@ -1229,6 +1230,7 @@
 0.0.0.0 architech3.com
 0.0.0.0 architrinm.com
 0.0.0.0 archive-blockchain.net
+0.0.0.0 archive-downloader.com
 0.0.0.0 archiworks.net
 0.0.0.0 arcnime.com
 0.0.0.0 arcteryx-southafrica.com
@@ -1375,6 +1377,7 @@
 0.0.0.0 atopicschool.co.il
 0.0.0.0 atostransformadores.com.br
 0.0.0.0 atozprint.tech
+0.0.0.0 attachment-posts.cc
 0.0.0.0 attats.cl
 0.0.0.0 attmospherewards.com
 0.0.0.0 auburnexcellbrady.com
@@ -1405,6 +1408,7 @@
 0.0.0.0 authorizeddns.org
 0.0.0.0 authorizeddns.us
 0.0.0.0 authtrade.site
+0.0.0.0 autn.tech
 0.0.0.0 autoeneuropa.com
 0.0.0.0 autogeorundarskol.co.vu
 0.0.0.0 autohouzepick.com
@@ -1469,6 +1473,7 @@
 0.0.0.0 ayitiexpo.com
 0.0.0.0 aylikeet.life
 0.0.0.0 aytomerilnaz.com
+0.0.0.0 az-link.email
 0.0.0.0 azeezmedia.tech
 0.0.0.0 azimihotel.in
 0.0.0.0 azimute4.com.br
@@ -1666,6 +1671,8 @@
 0.0.0.0 bebrex.com
 0.0.0.0 becanium.com
 0.0.0.0 becaszone.com
+0.0.0.0 becloud.cc
+0.0.0.0 becloud.website
 0.0.0.0 bectrades.com
 0.0.0.0 bedliy.com
 0.0.0.0 beefortune.com
@@ -2413,6 +2420,7 @@
 0.0.0.0 capitalmidlands.com
 0.0.0.0 capitalpeak.net
 0.0.0.0 capitalsxchain.com
+0.0.0.0 capitaltrust.uz
 0.0.0.0 capitalwhale.pro
 0.0.0.0 caponuserv1.cf
 0.0.0.0 cappymarketplace.com
@@ -3807,6 +3815,7 @@
 0.0.0.0 dzfuat.com
 0.0.0.0 dzial-bezpieczenstwa.space
 0.0.0.0 dzmanga.com
+0.0.0.0 e-aks.uz
 0.0.0.0 e-auction.my.id
 0.0.0.0 e-change7.com
 0.0.0.0 e-inv.pro
@@ -5524,6 +5533,7 @@
 0.0.0.0 hazirlimitim.net
 0.0.0.0 hazonchurch.org
 0.0.0.0 hazretissd.shop
+0.0.0.0 hbfyewtuvfbhsbdjhjwebfy.net
 0.0.0.0 hbg07i.cyou
 0.0.0.0 hbkyojpu76xz2an.gq
 0.0.0.0 hboukui.com
@@ -5744,6 +5754,7 @@
 0.0.0.0 horizoncapital.site
 0.0.0.0 horizonfinanceorg.com
 0.0.0.0 horlicberjaya.online
+0.0.0.0 horme.info
 0.0.0.0 hornybunnyhub.com
 0.0.0.0 horrid.site
 0.0.0.0 hosgeldin2023.com
@@ -5828,6 +5839,7 @@
 0.0.0.0 i-ua.space
 0.0.0.0 i-washi.com
 0.0.0.0 i1nch.io
+0.0.0.0 iacis.ru
 0.0.0.0 iat.com.ua
 0.0.0.0 ibc003spin.xyz
 0.0.0.0 ibcrti198.com
@@ -5923,6 +5935,7 @@
 0.0.0.0 iludacorsl.xyz
 0.0.0.0 im-tokens.store
 0.0.0.0 imaltoken.com
+0.0.0.0 imbox.link
 0.0.0.0 imbspa.org
 0.0.0.0 iml-bank.info
 0.0.0.0 immediatebi.com
@@ -6023,6 +6036,7 @@
 0.0.0.0 inoxhoaphat.vn
 0.0.0.0 inprojexautomotive.com
 0.0.0.0 inputfinancialservices.com
+0.0.0.0 inro.link
 0.0.0.0 inselvic.com
 0.0.0.0 inservices.digital
 0.0.0.0 insidedns.com
@@ -7238,6 +7252,7 @@
 0.0.0.0 mail-accounts.site
 0.0.0.0 mail-accounts.space
 0.0.0.0 mail-profiles.space
+0.0.0.0 mail-ru.link
 0.0.0.0 mail-verification.ml
 0.0.0.0 mail.ghmproperties.com
 0.0.0.0 mail.itseasy.com
@@ -7543,6 +7558,7 @@
 0.0.0.0 meydanmah37sokak.tk
 0.0.0.0 meydanmahsokak.tk
 0.0.0.0 meyervanderwalt.top
+0.0.0.0 mfa-tj.download
 0.0.0.0 mi-de-ner-nis3.info
 0.0.0.0 mi1kyway.tech
 0.0.0.0 miatubtsfa.shop
@@ -8068,6 +8084,7 @@
 0.0.0.0 myounassons.store
 0.0.0.0 myp4ge.xyz
 0.0.0.0 mypict1.com
+0.0.0.0 mypolicy.top
 0.0.0.0 mypsx.net
 0.0.0.0 myq-see.com
 0.0.0.0 myrange.ru
@@ -8711,6 +8728,7 @@
 0.0.0.0 opealleven.com
 0.0.0.0 open-artsnfts.com
 0.0.0.0 opendesa.id
+0.0.0.0 openingfile.net
 0.0.0.0 openinterbnk.online
 0.0.0.0 opensof.com
 0.0.0.0 opescinofilia.it
@@ -8804,6 +8822,7 @@
 0.0.0.0 ovaryes.online
 0.0.0.0 overnightvoodoo.com
 0.0.0.0 ovicrush.cn
+0.0.0.0 owaut.ru
 0.0.0.0 owe.org.af
 0.0.0.0 owkdzodqzodqjefjnnejenefe.site
 0.0.0.0 owlacidity.com
@@ -9252,6 +9271,7 @@
 0.0.0.0 port0.org
 0.0.0.0 portal-1inch.io
 0.0.0.0 portal-flare.network
+0.0.0.0 portal-inbox.com
 0.0.0.0 portal1inch.io
 0.0.0.0 portalevolucao.com
 0.0.0.0 portamericaweb.com
@@ -10550,6 +10570,7 @@
 0.0.0.0 sigortacinni202.net
 0.0.0.0 sigortacinni205.net
 0.0.0.0 sigortatekliflerix.net
+0.0.0.0 sigriup.site
 0.0.0.0 sigweb.co.uk
 0.0.0.0 siiigroup.com
 0.0.0.0 sikerlermumdikerler.tk
@@ -12224,6 +12245,7 @@
 0.0.0.0 uwwow.com
 0.0.0.0 uxqwyikqwn5mbdd559fr.xyz
 0.0.0.0 uygftdrvtygnyuhi8.com
+0.0.0.0 uzdaily.news
 0.0.0.0 uzher.top
 0.0.0.0 uzibets.com
 0.0.0.0 uzsgame.com
