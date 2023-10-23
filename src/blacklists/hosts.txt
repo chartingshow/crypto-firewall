@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 October 2023
+# Last modified: 23 October 2023
 #
 
 # Extras (comment out if needed)
@@ -101,6 +101,7 @@
 0.0.0.0 17475872967.pw
 0.0.0.0 1800petmeds.icu
 0.0.0.0 18247343188.pw
+0.0.0.0 189dom.com
 0.0.0.0 18inch.io
 0.0.0.0 18nch.io
 0.0.0.0 18wingbola.xyz
@@ -3513,6 +3514,7 @@
 0.0.0.0 diamondnotary.net
 0.0.0.0 diamondshiny.shop
 0.0.0.0 dianamarc.com
+0.0.0.0 diasgallery.com
 0.0.0.0 diavellipromo-my.xyz
 0.0.0.0 dickersonad.com
 0.0.0.0 didianacozinha.com.br
