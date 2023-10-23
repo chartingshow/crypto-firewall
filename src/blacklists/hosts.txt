@@ -13,6 +13,7 @@
 ::1 localhost
 
 # Bad I2P domains
+0.0.0.0 mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.b32.i2p
 
 # Bad IPFS domains
 0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
@@ -31,6 +32,7 @@
 0.0.0.0 dppnmjep33rf6ct3.onion
 0.0.0.0 dreambusweduybcp.onion
 0.0.0.0 fndqgtdkj4v6g4aq.onion
+0.0.0.0 gb7ni5rgeexdcncj.onion
 0.0.0.0 hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion
 0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
 0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
@@ -4418,6 +4420,7 @@
 0.0.0.0 fedugig.com
 0.0.0.0 feedmethewordtoday.com
 0.0.0.0 feedsiguelolatinoappss.online
+0.0.0.0 feefreepool.net
 0.0.0.0 feekstokandy.com
 0.0.0.0 feelacity.com
 0.0.0.0 feeltravelstok.com
@@ -7660,6 +7663,7 @@
 0.0.0.0 mjayoxbvakjjouxir0z.xyz
 0.0.0.0 mjesafar.com
 0.0.0.0 mkccr.com
+0.0.0.0 mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.zero
 0.0.0.0 mkocom.com
 0.0.0.0 mlbdiscounts.com
 0.0.0.0 mlinks.ws

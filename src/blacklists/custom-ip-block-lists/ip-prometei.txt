@@ -1,0 +1,23 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Prometei Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 23 October 2023
+#
+
+103.126.6.233
+103.184.128.180
+103.184.128.244
+103.40.123.34
+103.65.236.53
+177.73.237.55
+194.195.213.62
+211.232.48.65
+221.120.144.101
+23.148.145.237
+69.84.240.57
