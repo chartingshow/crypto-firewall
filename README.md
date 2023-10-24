@@ -174,15 +174,15 @@ How to Identify a Ransomware Email Attack, see here:
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
-Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here:
+Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/wallet-address.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/
 
 ## Fraudulent cryptocurrency mining pool addresses 🦈
 
-Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here:
+Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pool-address.txt
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pools-addresses/
 
 ## OFAC sanctioned digital currency addresses 🚫
 

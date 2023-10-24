@@ -1,0 +1,28 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 October 2023
+#
+
+TAAV97EsHFM9BPLce34a86ETzG1vh59KuD
+TAGrrbSNpPeBTishW15ufzS4UdjZXSWchk
+TCsCxPKAVWjQAo1iV5F3k3mzEKfTzNoBbZ
+TE9w8fHriT1v6hXJEMPtBUQMtZhrS3qxTL
+TF6krJLYjwt7sWhtwWeBLCoMQ8fyNoX536
+TGg6AxL1cftQShPbfM7GXUjvSvsTGHFsvB
+TGK57wyysbZucZEFH94P3xWMAnK3LpUtHx
+TGKykc3A2FD4y7E3WeUtDq36wWvoF31tT6
+TJ6vrDEW4YRio7XPAz3qx8n7yu2X4koNtS
+TMY4fVaDSgh6XgunWTiYqctiG8zjXCSKLD
+TN3UBAUbMKFLYAo14gH4FyoA5MVNg8SWHV
+TPjctTPQfj3Kqw3TzokmJ1gp79si5r1Vtv
+TQT4adx8u5CiRJeB3YyYrqp7UcrDT25QkL
+TRMfocBTW97s8ee5eeWCUB2oZcXqwovR1C
+TS5U4xk79bDnYh4BGsGHdAkpEkQ1nT7yjN
+TTBwb2jPSjXvFEZ25dBBymh7xxkWq9tVuN
+TTH7pNzGyZqbZWciMTAV1vMafyuvD2nssF
+TUa3XB7caw2dcTAbvc3KeDPP51DL86RL83
