@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 October 2023
+# Last modified: 24 October 2023
 #
 
 # Extras (comment out if needed)
@@ -50,6 +50,7 @@
 
 # Bad Crypto domains
 0.0.0.0 000faucet.xyz
+0.0.0.0 000webhostapp.com
 0.0.0.0 0067080.com
 0.0.0.0 007mall.live
 0.0.0.0 0101forum.cf
@@ -3335,6 +3336,7 @@
 0.0.0.0 dashminimaltokens.xyz
 0.0.0.0 dashonlineclub.com
 0.0.0.0 dat-transport.org
+0.0.0.0 data-host-coin-8.com
 0.0.0.0 databoost.ro
 0.0.0.0 dataentrydigital.com
 0.0.0.0 datang.tw
@@ -7649,6 +7651,7 @@
 0.0.0.0 mineskateroff.com
 0.0.0.0 minesotkarpid.com
 0.0.0.0 minetradepeoinvest.com
+0.0.0.0 minexmr.com
 0.0.0.0 minexmr.stream
 0.0.0.0 mingxing.pw
 0.0.0.0 miniiosapps.xyz
@@ -8898,6 +8901,7 @@
 0.0.0.0 panger-top.click
 0.0.0.0 panouk.com
 0.0.0.0 paok-24.com
+0.0.0.0 papa1122.com
 0.0.0.0 papabsc.com
 0.0.0.0 paparock.cl
 0.0.0.0 paperclipslaw.com
@@ -10127,6 +10131,7 @@
 0.0.0.0 sanagosterecem1.gleeze.com
 0.0.0.0 sanagosterecem6.gleeze.com
 0.0.0.0 sanasoz.top
+0.0.0.0 sanctam.net
 0.0.0.0 sandedean.xyz
 0.0.0.0 sandersfin.com
 0.0.0.0 sangfor911.top
