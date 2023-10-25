@@ -1,0 +1,32 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Silence aka Truebot Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 October 2023
+#
+
+179.60.150.120
+179.60.150.34
+179.60.150.53
+185.55..243.110
+193.29.13.157
+45.182.189.103
+45.182.189.118
+45.182.189.119
+45.182.189.120
+45.182.189.200
+45.182.189.71
+45.182.189.91
+45.227.253.102
+46.161.40.128
+46.161.40.92
+62.204.41.69
+88.214.27.100
+88.214.27.101
+92.118.36.210
+92.118.36.252
