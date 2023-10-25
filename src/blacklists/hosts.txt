@@ -1711,6 +1711,7 @@
 0.0.0.0 benefitsearchers.com
 0.0.0.0 benettonrugby.it
 0.0.0.0 benlloc.es
+0.0.0.0 ber6vjyb.com
 0.0.0.0 beranice.com
 0.0.0.0 berateveng.ru
 0.0.0.0 bergenadvokatene.no
@@ -2066,6 +2067,7 @@
 0.0.0.0 blockchainspace.icu
 0.0.0.0 blockcoinsfx.com
 0.0.0.0 blockigro.xyz
+0.0.0.0 blocksdeer.com
 0.0.0.0 blockspam-my.xyz
 0.0.0.0 blocktalks.pro
 0.0.0.0 blocktopiabricks.com
@@ -2091,6 +2093,7 @@
 0.0.0.0 bluesky.info
 0.0.0.0 blueskys.info
 0.0.0.0 blueslimes.com
+0.0.0.0 bluespiredice.com
 0.0.0.0 bluetci.com
 0.0.0.0 bluminiti.com
 0.0.0.0 blupoxy.biz
@@ -2547,6 +2550,7 @@
 0.0.0.0 cd306c22c6332008.xyz
 0.0.0.0 cdlogic.com
 0.0.0.0 cdlto.com.br
+0.0.0.0 cdn-backdl.com
 0.0.0.0 cdn-ext.net
 0.0.0.0 cdn-new-dwnl.site
 0.0.0.0 cdn-prok.site
@@ -2971,6 +2975,7 @@
 0.0.0.0 commdmcuza.com
 0.0.0.0 commdooza.com
 0.0.0.0 communityskinworkshop.com
+0.0.0.0 comnefosferta.com
 0.0.0.0 comocultivarencasa.com
 0.0.0.0 comolokko4152ertausicken.gq
 0.0.0.0 company.com
@@ -3720,6 +3725,7 @@
 0.0.0.0 draddressi.top
 0.0.0.0 draggedline.org
 0.0.0.0 dragonair.xyz
+0.0.0.0 dragonetzone.com
 0.0.0.0 dragonlimb.com
 0.0.0.0 dragonrougeapptop.com
 0.0.0.0 dragonstone-studio.com
@@ -3732,6 +3738,7 @@
 0.0.0.0 dreamstyledesign.com
 0.0.0.0 dreamteamup.shop
 0.0.0.0 dreghody.com
+0.0.0.0 dremmfyttrred.com
 0.0.0.0 drerink.xyz
 0.0.0.0 dressgear.com
 0.0.0.0 drewhuddleston.com
@@ -3747,6 +3754,7 @@
 0.0.0.0 droidtech2.com
 0.0.0.0 dromautocar.xyz
 0.0.0.0 dronml.ml
+0.0.0.0 droogggdhfhf.com
 0.0.0.0 dropfiles-my.xyz
 0.0.0.0 dropmelon.fun
 0.0.0.0 dropshunter.su
@@ -4169,6 +4177,7 @@
 0.0.0.0 esplogem.ga
 0.0.0.0 esprenzaoil.com
 0.0.0.0 esqwr.online
+0.0.0.0 essadonio.com
 0.0.0.0 essesessssssss.top
 0.0.0.0 esskechersoutlet.shop
 0.0.0.0 essperu.com.pe
@@ -4491,6 +4500,7 @@
 0.0.0.0 filashoes.gr
 0.0.0.0 filature.shop
 0.0.0.0 fileforex.xyz
+0.0.0.0 files-gate.com
 0.0.0.0 fimanage.com
 0.0.0.0 fin-bet.net
 0.0.0.0 finallytouch.com
@@ -4982,6 +4992,7 @@
 0.0.0.0 gbay-shop.space
 0.0.0.0 gbbsoft.xyz
 0.0.0.0 gbgrid.com
+0.0.0.0 gbpooolfhbrb.com
 0.0.0.0 gbtrustify.com
 0.0.0.0 gcbskp.edu.pk
 0.0.0.0 gcdrang.in
@@ -5664,6 +5675,7 @@
 0.0.0.0 hilinksapps.com
 0.0.0.0 hindretailuk.co.uk
 0.0.0.0 hinkli-5.com
+0.0.0.0 hiperfdhaus.com
 0.0.0.0 hipopjordan.com
 0.0.0.0 hippy-house.store
 0.0.0.0 hiptably.com
@@ -6316,6 +6328,7 @@
 0.0.0.0 jinowera.com
 0.0.0.0 jinthise.site
 0.0.0.0 jioplustu.pro
+0.0.0.0 jirostrogud.com
 0.0.0.0 jithiadaproperties.com
 0.0.0.0 jiusauiq.com
 0.0.0.0 jiuzuzyew.com
@@ -7021,6 +7034,7 @@
 0.0.0.0 listfunds.com
 0.0.0.0 listjhueaa.cn
 0.0.0.0 listmadboom.buzz
+0.0.0.0 listofword.com
 0.0.0.0 litechanger.com
 0.0.0.0 litecoinpay.io
 0.0.0.0 litrazalilibe.xyz
@@ -7600,6 +7614,7 @@
 0.0.0.0 midcoastsupplies.com.au
 0.0.0.0 midlandpaper.icu
 0.0.0.0 midnightseduct.com
+0.0.0.0 midnigthwaall.com
 0.0.0.0 midwestecomo.com
 0.0.0.0 mifcbook.link
 0.0.0.0 migestiononline.com
@@ -8213,6 +8228,7 @@
 0.0.0.0 neelsmagofter.com
 0.0.0.0 neelsquelo.com
 0.0.0.0 neeyahshub.com
+0.0.0.0 nefosferta.com
 0.0.0.0 negerotar.com
 0.0.0.0 negro.systems
 0.0.0.0 negtechnoloyg.com
@@ -8387,6 +8403,7 @@
 0.0.0.0 nitrokod.com
 0.0.0.0 nitromaxfxpro.com
 0.0.0.0 nitrominefx.com
+0.0.0.0 nitutdra.com
 0.0.0.0 nivimpex.hu
 0.0.0.0 nixbachinga.com
 0.0.0.0 nizanigrola.com
@@ -8441,6 +8458,7 @@
 0.0.0.0 nomadeyo.com
 0.0.0.0 nomegiasnadaquemecabreo.shop
 0.0.0.0 nominaknives.com
+0.0.0.0 nomoresense.com
 0.0.0.0 nomrex.com
 0.0.0.0 noncocotorical.com
 0.0.0.0 nonileshos.xyz
@@ -9854,6 +9872,7 @@
 0.0.0.0 retrievethefile.com
 0.0.0.0 review-park.net
 0.0.0.0 reviewshopusa.com
+0.0.0.0 revisionnumeer.com
 0.0.0.0 revometodos.fun
 0.0.0.0 revx.se
 0.0.0.0 rexpie.com
@@ -9949,9 +9968,11 @@
 0.0.0.0 rollbitrewards.net
 0.0.0.0 romashkin.top
 0.0.0.0 romasports.xyz
+0.0.0.0 romidonionhhgtt.com
 0.0.0.0 rominternational.org
 0.0.0.0 ron-mil.space
 0.0.0.0 ronicaheen.xyz
+0.0.0.0 ronoliffuion.com
 0.0.0.0 roobecoins.com
 0.0.0.0 rooeshoes.com
 0.0.0.0 roofingspecialists.info
@@ -9992,6 +10013,7 @@
 0.0.0.0 rpacxtaxappeal.com
 0.0.0.0 rpassarianaip.com
 0.0.0.0 rpgmagglader.com
+0.0.0.0 rprotecruuio.com
 0.0.0.0 rref.su
 0.0.0.0 rrkimal.xyz
 0.0.0.0 rrshost.in
@@ -11335,6 +11357,7 @@
 0.0.0.0 tcpsessionsconnect.com
 0.0.0.0 td-eurobank.com
 0.0.0.0 td-stake.com
+0.0.0.0 tddshht.com
 0.0.0.0 tdef49qzbomqmac.gq
 0.0.0.0 tdragtaxg.xyz
 0.0.0.0 tdrmng.com
