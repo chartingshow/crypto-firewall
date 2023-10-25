@@ -1,0 +1,24 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Lazarus Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 October 2023
+#
+
+104.155.149.103
+109.248.150.13
+146.4.21.94
+155.94.210.11
+185.29.8.162
+192.186.183.133
+213.180.180.154
+213.32.46.0
+40.121.90.194
+46.183.221.109
+54.68.42.4
+84.38.133.145
