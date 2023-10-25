@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 October 2023
+# Last modified: 25 October 2023
 #
 
 013store@goodwillhunting.org
@@ -539,6 +539,7 @@ contacto@mayakinexp.com.mx
 contacto@premedarica.cl
 coordinador.operaciones2@progestionperu.com
 coraeduards@mail2matthew.com
+costacancordia@protonmail.com
 courtright@aptechafrica.com
 cpinv@curiopack.com.my
 creditoycobranza@grupoelher.com

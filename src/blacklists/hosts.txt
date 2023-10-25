@@ -55,7 +55,9 @@
 0.0.0.0 007mall.live
 0.0.0.0 0101forum.cf
 0.0.0.0 012601.com
+0.0.0.0 0280678.com
 0.0.0.0 028tnt.com
+0.0.0.0 02w65ijjohr1frm.com
 0.0.0.0 075a42f94213a494.live
 0.0.0.0 07umut07basla.net
 0.0.0.0 086df9b3b637e40d.info
@@ -1117,6 +1119,7 @@
 0.0.0.0 anphatedu.com
 0.0.0.0 ans0080.com
 0.0.0.0 anscowerbrut.com
+0.0.0.0 anservusa.com
 0.0.0.0 antbitnetwork.com
 0.0.0.0 antcoinbox.com
 0.0.0.0 antfarm.live
@@ -1201,6 +1204,7 @@
 0.0.0.0 approxresults.xyz
 0.0.0.0 apps-ios.net
 0.0.0.0 appsally.vip
+0.0.0.0 appsoftwareupdate.com
 0.0.0.0 appzpoint.net
 0.0.0.0 apqks.network
 0.0.0.0 aprendeconmireia.com
@@ -1427,6 +1431,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 authtrade.site
 0.0.0.0 autn.tech
+0.0.0.0 auto-service.store
 0.0.0.0 autoeneuropa.com
 0.0.0.0 autogeorundarskol.co.vu
 0.0.0.0 autohouzepick.com
@@ -1739,6 +1744,7 @@
 0.0.0.0 bernacchichambers.xyz
 0.0.0.0 bernksproltd.com
 0.0.0.0 berry.band
+0.0.0.0 beshenayasobaka.com
 0.0.0.0 besocial.online
 0.0.0.0 best-casinos1.fun
 0.0.0.0 best-loans-us.com
@@ -2115,6 +2121,7 @@
 0.0.0.0 blueslimes.com
 0.0.0.0 bluespiredice.com
 0.0.0.0 bluetci.com
+0.0.0.0 blueyonderllc.top
 0.0.0.0 bluminiti.com
 0.0.0.0 blupoxy.biz
 0.0.0.0 blurmarket.io
@@ -2369,6 +2376,7 @@
 0.0.0.0 bybeko.com
 0.0.0.0 bybk.zclasned.top
 0.0.0.0 byeoat.com
+0.0.0.0 byethost17.com
 0.0.0.0 bygomyn.com
 0.0.0.0 byksidncenter.com
 0.0.0.0 bytedesign.net
@@ -2755,6 +2763,11 @@
 0.0.0.0 circleonusdc.com
 0.0.0.0 cirite.com
 0.0.0.0 cirugiabogota.com
+0.0.0.0 cisco-help.cf
+0.0.0.0 cisco-helpdesk.cf
+0.0.0.0 ciscovpn1.com
+0.0.0.0 ciscovpn2.com
+0.0.0.0 ciscovpn3.com
 0.0.0.0 cistateslimited.com
 0.0.0.0 cited.top
 0.0.0.0 citexb2c.com
@@ -3059,6 +3072,7 @@
 0.0.0.0 contirecovery.ws
 0.0.0.0 contribute.to-support.me
 0.0.0.0 control-scanning.com
+0.0.0.0 controlcavi.com
 0.0.0.0 controlkeys.co.uk
 0.0.0.0 controllend.com
 0.0.0.0 controlnetworks.com.au
@@ -3311,6 +3325,7 @@
 0.0.0.0 cxtfadxbfcsjy4r.gq
 0.0.0.0 cyancow.com
 0.0.0.0 cyberjustice.solutions
+0.0.0.0 cyerosishere.site
 0.0.0.0 cylenceprotect.com
 0.0.0.0 cylonave.com
 0.0.0.0 cylwex.com
@@ -3419,6 +3434,7 @@
 0.0.0.0 dayionline.xyz
 0.0.0.0 dazzlecollections.co.za
 0.0.0.0 dbaccess.com
+0.0.0.0 dbapps.top
 0.0.0.0 dbginvestment.org
 0.0.0.0 dbgsymbol.com
 0.0.0.0 dbifinancialconsultancy.com
@@ -3548,6 +3564,8 @@
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 devalcc103.xyz
 0.0.0.0 devbhumiexpress.com
+0.0.0.0 devcisco.com
+0.0.0.0 devciscoprograms.com
 0.0.0.0 developerir.ir
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 devil137.ru
@@ -3794,6 +3812,7 @@
 0.0.0.0 dressgear.com
 0.0.0.0 drewhuddleston.com
 0.0.0.0 drgarerd.eu
+0.0.0.0 drignyaffk.com
 0.0.0.0 drilledgas.org
 0.0.0.0 drinz.us
 0.0.0.0 dripcartel.in
@@ -3945,6 +3964,7 @@
 0.0.0.0 ebelkye.ua
 0.0.0.0 ebenezersecurelinks.com
 0.0.0.0 ebenve.com
+0.0.0.0 eblaguwonmir.cfd
 0.0.0.0 ebnsina.top
 0.0.0.0 eboxbit.com
 0.0.0.0 eccooutletportgual.cc
@@ -4405,6 +4425,7 @@
 0.0.0.0 f3bservice.com
 0.0.0.0 f5289864v8j5g23.gq
 0.0.0.0 f88vbv8b8erht8baos.com
+0.0.0.0 fabbavshopsafabs.com
 0.0.0.0 fabegallardo.com
 0.0.0.0 fabian-cargo.com
 0.0.0.0 facai.im
@@ -4459,6 +4480,8 @@
 0.0.0.0 fartyfun.fun
 0.0.0.0 farvelaxha.xyz
 0.0.0.0 farwestlandscape.net
+0.0.0.0 fas-gov-ru.com
+0.0.0.0 fas-otdel-ru.com
 0.0.0.0 faseries.com
 0.0.0.0 fashiogood.com
 0.0.0.0 fashion-alley.in
@@ -5019,6 +5042,7 @@
 0.0.0.0 gardemeubles-europeen.fr
 0.0.0.0 gardenersdubai.com
 0.0.0.0 garentacar.autos
+0.0.0.0 gargoilsmansge.shop
 0.0.0.0 garikus.com
 0.0.0.0 gariplerdenaldigimizhaber.co.vu
 0.0.0.0 gariserah.xyz
@@ -5664,6 +5688,7 @@
 0.0.0.0 help-people.site
 0.0.0.0 helpinloan.com
 0.0.0.0 helpvalidatepage.com
+0.0.0.0 helpzonecisco.com
 0.0.0.0 helsallacs.top
 0.0.0.0 helthjem-no.refaunded.store
 0.0.0.0 hemnes.win
@@ -6588,6 +6613,7 @@
 0.0.0.0 kaygisizbiggy.xyz
 0.0.0.0 kayseribldyespr.xyz
 0.0.0.0 kayuk.by
+0.0.0.0 kazaboldu.net
 0.0.0.0 kazexportgaz.com
 0.0.0.0 kazinoplai.online
 0.0.0.0 kazuha.store
@@ -6896,6 +6922,7 @@
 0.0.0.0 lazarovs.ml
 0.0.0.0 lazarovs.tk
 0.0.0.0 lazerprojekt.store
+0.0.0.0 lazirusairnaf.com
 0.0.0.0 lazyls.co
 0.0.0.0 lazystax.ru
 0.0.0.0 lbank-ex.com
@@ -7271,6 +7298,7 @@
 0.0.0.0 lumusrmj.com.br
 0.0.0.0 lunamelts23.com
 0.0.0.0 luneraspotx.co.vu
+0.0.0.0 lunnayareka.com
 0.0.0.0 luno.ac
 0.0.0.0 luno4.cc
 0.0.0.0 lusporev.xyz
@@ -7557,6 +7585,7 @@
 0.0.0.0 megared.buzz
 0.0.0.0 megavesting.com
 0.0.0.0 megawin.kz
+0.0.0.0 megaworstqal.com
 0.0.0.0 meghrajimpex.com
 0.0.0.0 meisp-skupina.com
 0.0.0.0 mekaofland.click
@@ -7762,6 +7791,7 @@
 0.0.0.0 mirlaza.com
 0.0.0.0 mirrohost.space
 0.0.0.0 mirror.directory
+0.0.0.0 mirvovsemire.com
 0.0.0.0 misecure.com
 0.0.0.0 misegurossoat.com
 0.0.0.0 misrock.shop
@@ -7770,6 +7800,7 @@
 0.0.0.0 misticview.ru
 0.0.0.0 mistikvideo.ru
 0.0.0.0 mistralsocialgames.com
+0.0.0.0 mistulinno.com
 0.0.0.0 mitaoapp.space
 0.0.0.0 mitedaziko.xyz
 0.0.0.0 mitrapros.com
@@ -7814,6 +7845,7 @@
 0.0.0.0 mobnetlink1.com
 0.0.0.0 mobnetlink2.com
 0.0.0.0 mobnetlink3.com
+0.0.0.0 mociyijame.us
 0.0.0.0 modaable.shop
 0.0.0.0 modabarataonline.shop
 0.0.0.0 modejapon.com
@@ -8152,6 +8184,9 @@
 0.0.0.0 mybrightfund.com
 0.0.0.0 mycallsystem.com
 0.0.0.0 mycapitalcenter.com
+0.0.0.0 mycisco-helpdesk.ml
+0.0.0.0 mycisco.cf
+0.0.0.0 mycisco.gq
 0.0.0.0 mycloudbitmining.online
 0.0.0.0 mycoffeeshop.shop
 0.0.0.0 myddns.me
@@ -8234,6 +8269,7 @@
 0.0.0.0 namsugen.com
 0.0.0.0 nanaya.uk
 0.0.0.0 nanetendurl.com
+0.0.0.0 naninakadyll.site
 0.0.0.0 napeme.com
 0.0.0.0 narbyswap.com
 0.0.0.0 narkasaep.com
@@ -9477,6 +9513,7 @@
 0.0.0.0 priklosta.com
 0.0.0.0 primalharvest.es
 0.0.0.0 prime-xbt.net
+0.0.0.0 primecisco.com
 0.0.0.0 primecitizenscorp.com
 0.0.0.0 primecoinbit.com
 0.0.0.0 primecoininvestors.com
@@ -9623,6 +9660,7 @@
 0.0.0.0 pvcfloorco.com
 0.0.0.0 pviqz.com
 0.0.0.0 pwangroup.com
+0.0.0.0 pwresetcisco.com
 0.0.0.0 pwwqkppwqkezqer.site
 0.0.0.0 pylon-holding.com
 0.0.0.0 pylwex.com
@@ -10235,6 +10273,7 @@
 0.0.0.0 sandedean.xyz
 0.0.0.0 sandersfin.com
 0.0.0.0 sangfor911.top
+0.0.0.0 sangforssl.xyz
 0.0.0.0 saninolece.xyz
 0.0.0.0 sankhnadnidhi.com
 0.0.0.0 sanluisbeltran.edu.co
@@ -10369,6 +10408,7 @@
 0.0.0.0 securitycheckguide.com
 0.0.0.0 securitymessures.com
 0.0.0.0 securityscorecard.com
+0.0.0.0 securitytest.lat
 0.0.0.0 sedesadre.cf
 0.0.0.0 sedesadre.ga
 0.0.0.0 sedesadre.gq
@@ -10538,6 +10578,7 @@
 0.0.0.0 servequake.com
 0.0.0.0 server.aztecvds.com
 0.0.0.0 serverdataorg.xyz
+0.0.0.0 serveroneil.lol
 0.0.0.0 servers-mobile.info
 0.0.0.0 servetly.com
 0.0.0.0 service4refresh.info
@@ -10761,6 +10802,7 @@
 0.0.0.0 sj800.cc
 0.0.0.0 sj804.cc
 0.0.0.0 sjyddos4.top
+0.0.0.0 skachanye-ru.com
 0.0.0.0 skakstore.com
 0.0.0.0 skamusdeadin.com
 0.0.0.0 skanerhavio.com
@@ -11413,6 +11455,7 @@
 0.0.0.0 tango-business.com
 0.0.0.0 tangramgulf.com
 0.0.0.0 tanqa.org
+0.0.0.0 tantsuyushchiykarlik.com
 0.0.0.0 tanzaniafisheries.com
 0.0.0.0 taoaz.store
 0.0.0.0 tapoq.top
@@ -11558,6 +11601,7 @@
 0.0.0.0 teyyardenmadnezdomones.net
 0.0.0.0 tf2cream.com
 0.0.0.0 tfdexcoin3.top
+0.0.0.0 tfestv.fun
 0.0.0.0 tformstitches.store
 0.0.0.0 tframe.de
 0.0.0.0 tfxi3.com
@@ -12622,6 +12666,8 @@
 0.0.0.0 vldeolan.com
 0.0.0.0 vlfinancialagency.com
 0.0.0.0 vlmotori.com
+0.0.0.0 vlozhenye-ru.com
+0.0.0.0 vlozhenye24.com
 0.0.0.0 vlps7.xyz
 0.0.0.0 vmi503011.contaboserver.net
 0.0.0.0 vmware-cdn.com
@@ -13000,6 +13046,7 @@
 0.0.0.0 wordct.top
 0.0.0.0 wordrow.website
 0.0.0.0 wordsbythem.com
+0.0.0.0 wordst7512.net
 0.0.0.0 work.gd
 0.0.0.0 workchpcks.com
 0.0.0.0 workedstarcop.com
