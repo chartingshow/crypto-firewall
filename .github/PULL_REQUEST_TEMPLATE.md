@@ -11,4 +11,8 @@
 
 Please describe your pull request.
 
+### Issue
+
+Please link to the issue, this pull request relates to.
+
 💔Thank you!
