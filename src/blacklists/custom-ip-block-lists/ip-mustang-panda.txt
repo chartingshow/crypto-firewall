@@ -1,0 +1,42 @@
+# Block Bad Crypto Filter Lists
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Mustang Panda Malware Custom List
+#
+# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
+# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 October 2023
+#
+
+101.36.125.203
+103.107.104.19
+103.15.28.145
+103.15.28.208
+103.159.132.70
+103.200.97.150
+103.75.190.50
+103.85.24.158
+103.91.64.134
+107.167.64.4
+107.178.71.211
+110.42.64.64
+123.51.185.75
+155.94.200.206
+155.94.200.209
+155.94.200.211
+155.94.200.212
+176.118.167.36
+18.138.107.235
+185.239.226.17
+202.58.105.38
+45.154.14.235
+45.248.87.162
+45.43.50.197
+46.8.198.134
+5.206.224.167
+61.38.252.166
+86.105.227.115
+92.118.188.78
+95.217.1.81
