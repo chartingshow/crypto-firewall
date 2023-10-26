@@ -5,7 +5,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 October 2023
+# Last modified: 26 October 2023
 #
 
 114REyumCfXvUrg6jkeTCsD8p6d99mNFwQ
@@ -49,6 +49,7 @@
 16eesW3Jom49eYZvFBHUiXbi6AmZYgxD55
 16FdxVRx527h3WD2uTcvvZxALu4ubZiFtc
 16ftYjKCBDpyR2rS1JFbcxzoy6aayjYw5f
+16gbXTmvxtrzieoh2vX3io7FhXK4WJryX2
 16H4nZroerwRn1WyfP1pj2hKMu4JPyYTQj
 16Kn8iHi7qiw84xZPJKJFbdwzB4KGAChXF
 16Ktk691sBmSDH47JfjZAmQBCL7dpReFs8

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 October 2023
+# Last modified: 26 October 2023
 #
 
 # Extras (comment out if needed)
@@ -785,6 +785,7 @@
 0.0.0.0 aidatsorgula.net
 0.0.0.0 aidbilityscooters.com
 0.0.0.0 aidemy.net
+0.0.0.0 aidgaza.xyz
 0.0.0.0 aidtoken.finance
 0.0.0.0 aifoundation.in
 0.0.0.0 aigfa.org
@@ -4049,6 +4050,7 @@
 0.0.0.0 egofit.co.uk
 0.0.0.0 eguidemart.xyz
 0.0.0.0 egusnkbawrrmqvj.ru
+0.0.0.0 egypthelp.online
 0.0.0.0 egyqaz.com
 0.0.0.0 ehaak.top
 0.0.0.0 ehabi.top
