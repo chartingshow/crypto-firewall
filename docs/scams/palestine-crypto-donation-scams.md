@@ -15,7 +15,7 @@ The website's copy, however, has been lifted from the [Islamic Relief's official
 
 It is also worth noting, other than a handful of "press releases" that are syndicated verbatim from news wire agencies reporting on the Israel-Hamas war and images of injured war victims, the website has no information with regards to the people behind it, the organization, or an associated contact number and a physical address.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/21.jpg"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/2.jpg"></p>
 <p align="center"><strong>'AidGaza' website and social media accounts claim that it provides humanitarian aid</strong></p>
 
 The scam operators behind this account have listed their Ethereum, Bitcoin and USDT addresses on its website and social media accounts where funds should be sent.
