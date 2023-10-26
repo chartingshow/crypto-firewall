@@ -59,7 +59,7 @@ In another scam, we observed scammers abusing Twitter by flooding replies with t
 
 The threat actor controlling a burner Twitter account replies to tweets from prominent personalities and businesses with a huge following, such as `Elon Musk` and `@DogeCoin`, to maximize the scam's reach. In these replies, the scammer posts their fraudulent wallet address to dupe donors:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/61.jpg"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/6.jpg"></p>
 <p align="center"><strong>Scammer flooding Twitter replies with illicit crypto addresses</strong></p>
 
 In yet another scam, we saw **individual Twitter users** claiming to raise crypto donations:
