@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 October 2023
+# Last modified: 28 October 2023
 #
 
 # Extras (comment out if needed)
@@ -2084,6 +2084,7 @@
 0.0.0.0 blacktrail.xyz
 0.0.0.0 blakwaveproductions.com
 0.0.0.0 blangkonstudio.com
+0.0.0.0 blastedlevels.com
 0.0.0.0 blastenterprises.com.au
 0.0.0.0 blastrex.com
 0.0.0.0 blaztech.us
@@ -3841,6 +3842,7 @@
 0.0.0.0 dromautocar.xyz
 0.0.0.0 dronerc.it
 0.0.0.0 dronml.ml
+0.0.0.0 droof.kr
 0.0.0.0 droogggdhfhf.com
 0.0.0.0 dropfiles-my.xyz
 0.0.0.0 dropmelon.fun
@@ -4246,6 +4248,7 @@
 0.0.0.0 errorsworld.com
 0.0.0.0 esadbabaherzmn.shop
 0.0.0.0 esadsehrinilahii.shop
+0.0.0.0 esangedu.kr
 0.0.0.0 esatonline.pw
 0.0.0.0 escapiko.com
 0.0.0.0 escrowaccepted.com
@@ -4909,6 +4912,7 @@
 0.0.0.0 frextrustinc.live
 0.0.0.0 frfafc.com
 0.0.0.0 friendly-search.com
+0.0.0.0 friendmc.com
 0.0.0.0 friends-casino.works
 0.0.0.0 friends-cazino.site
 0.0.0.0 friendscazino.sbs
@@ -5608,12 +5612,15 @@
 0.0.0.0 handmadebyzak.co.uk
 0.0.0.0 handsdown.bond
 0.0.0.0 handsinworld.com
+0.0.0.0 hankooktop.com
+0.0.0.0 hanlasangjo.com
 0.0.0.0 hannafoldy.hu
 0.0.0.0 hannygoesing.net
 0.0.0.0 hansairexpress.com
 0.0.0.0 hansarobotics.com
 0.0.0.0 hansview.ru
 0.0.0.0 haopasar.com
+0.0.0.0 happinesscc.com
 0.0.0.0 happy-you.site
 0.0.0.0 happyback.co.kr
 0.0.0.0 happymiracle.site
@@ -5672,6 +5679,7 @@
 0.0.0.0 healthguards.co
 0.0.0.0 healthplanconnections.com
 0.0.0.0 healthpro.ai
+0.0.0.0 healthpro.or.kr
 0.0.0.0 healthydailyroutine.com
 0.0.0.0 healthytrade.tech
 0.0.0.0 healthywaylab.in
@@ -5922,6 +5930,7 @@
 0.0.0.0 hringshark.com
 0.0.0.0 hruripe.com
 0.0.0.0 hslawcorp.com
+0.0.0.0 hspje.com
 0.0.0.0 hssenglish.pw
 0.0.0.0 hssubnsx.xyz
 0.0.0.0 hstbasktattvyas.shop
@@ -5994,6 +6003,7 @@
 0.0.0.0 icon-mining.com
 0.0.0.0 iconpeak.shop
 0.0.0.0 icryptoissmining.online
+0.0.0.0 ictm.or.kr
 0.0.0.0 ictstartech.com
 0.0.0.0 icuberestobar.com
 0.0.0.0 id-9855.info
@@ -6584,6 +6594,7 @@
 0.0.0.0 kalimboosta.com
 0.0.0.0 kalitetesadufdegildir.cf
 0.0.0.0 kalmte.kr
+0.0.0.0 kalo.kr
 0.0.0.0 kamawanai.store
 0.0.0.0 kamik-norge.com
 0.0.0.0 kanakelite.com
@@ -6684,6 +6695,7 @@
 0.0.0.0 khalilhunter.autos
 0.0.0.0 khelodekho.live
 0.0.0.0 khersjci.top
+0.0.0.0 khmcpharm.com
 0.0.0.0 khrwa.shop
 0.0.0.0 kidsneedsbd.com
 0.0.0.0 kidsurology.co.uk
@@ -6823,8 +6835,10 @@
 0.0.0.0 kropnagursa.com
 0.0.0.0 krvskcvs.com
 0.0.0.0 kschauhan.com
+0.0.0.0 kscmfs.or.kr
 0.0.0.0 ksp.co.il
 0.0.0.0 ksprint-premium.com
+0.0.0.0 kstr.radiology.or.kr
 0.0.0.0 kts.group
 0.0.0.0 kuasbit.com
 0.0.0.0 kuckuduk.ru
@@ -7156,6 +7170,7 @@
 0.0.0.0 litechanger.com
 0.0.0.0 litecoinpay.io
 0.0.0.0 litrazalilibe.xyz
+0.0.0.0 little-pet.com
 0.0.0.0 littletikesale.shop
 0.0.0.0 littletikestoy.store
 0.0.0.0 livelogs.xyz
@@ -7411,6 +7426,7 @@
 0.0.0.0 mail1inch.io
 0.0.0.0 mainbitmining.pw
 0.0.0.0 mainbitmining.space
+0.0.0.0 mainbiz.or.kr
 0.0.0.0 mainbtmining.online
 0.0.0.0 mainpage-auth.ml
 0.0.0.0 mainprob.website
@@ -7601,6 +7617,7 @@
 0.0.0.0 mediatil.com
 0.0.0.0 mediavpn.co.uk
 0.0.0.0 medimarketing.com.br
+0.0.0.0 medric.or.kr
 0.0.0.0 medsure.com.br
 0.0.0.0 medtechgroups.com
 0.0.0.0 meelaylesa.xyz
@@ -8164,6 +8181,7 @@
 0.0.0.0 mudeungsan.or.kr
 0.0.0.0 mueliselan.xyz
 0.0.0.0 muellersettlement.com
+0.0.0.0 muijae.com
 0.0.0.0 mujegili.com
 0.0.0.0 multiearningskills.world
 0.0.0.0 multifinancegrowths.ltd
@@ -8419,6 +8437,7 @@
 0.0.0.0 neverknow.xyz
 0.0.0.0 neverlandog-th.com
 0.0.0.0 new-prok.ru
+0.0.0.0 new-q-cells.com
 0.0.0.0 new4chan.xyz
 0.0.0.0 newadreskayit.cf
 0.0.0.0 newageagric.com
@@ -8564,6 +8583,7 @@
 0.0.0.0 nmq.zxnexus.com
 0.0.0.0 nmqwi.com
 0.0.0.0 nnanch.xyz
+0.0.0.0 nninc.co.kr
 0.0.0.0 nnnxxceolmaz.com
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
@@ -8605,6 +8625,7 @@
 0.0.0.0 nonml.top
 0.0.0.0 nonnntyieko.xyz
 0.0.0.0 nonprofitsustainability.com
+0.0.0.0 nonstopexpress.com
 0.0.0.0 nontonlah.site
 0.0.0.0 nonuci.com
 0.0.0.0 nooblu.top
@@ -9155,6 +9176,7 @@
 0.0.0.0 pecdecursos.com
 0.0.0.0 pedagangbibit.shop
 0.0.0.0 pedalize.shop
+0.0.0.0 pediatrics.or.kr
 0.0.0.0 pedigj.eu
 0.0.0.0 pediman.info
 0.0.0.0 peetco.co
@@ -10250,6 +10272,7 @@
 0.0.0.0 safebot.pro
 0.0.0.0 safelyredirecting.com
 0.0.0.0 safelyredirecting.digital
+0.0.0.0 safemotors.co.kr
 0.0.0.0 safewayintltransfer.com
 0.0.0.0 safewayinvestment.com
 0.0.0.0 safewaylimited.net
@@ -10302,6 +10325,7 @@
 0.0.0.0 samsonite-romania.com
 0.0.0.0 samtnpy.org
 0.0.0.0 samuelelena.co
+0.0.0.0 samwoosystem.co.kr
 0.0.0.0 sanagosterecem.gleeze.com
 0.0.0.0 sanagosterecem1.gleeze.com
 0.0.0.0 sanagosterecem6.gleeze.com
@@ -10587,6 +10611,8 @@
 0.0.0.0 seobrokerstv.xyz
 0.0.0.0 seomaterials.com
 0.0.0.0 seorcht.com
+0.0.0.0 seoulanesthesia.or.kr
+0.0.0.0 seouldementia.or.kr
 0.0.0.0 sepatukw.com
 0.0.0.0 sephari.com.au
 0.0.0.0 sephoragroup.com
@@ -10749,6 +10775,7 @@
 0.0.0.0 shtf.pw
 0.0.0.0 shunfengpower.buzz
 0.0.0.0 shurinedn.xyz
+0.0.0.0 shw.kr
 0.0.0.0 siaemily.com
 0.0.0.0 sialid.house
 0.0.0.0 sicilyin.com
@@ -10817,6 +10844,7 @@
 0.0.0.0 siopad.com
 0.0.0.0 siqnal.org
 0.0.0.0 siqortem.net
+0.0.0.0 siriuskorea.co.kr
 0.0.0.0 siriusprotocol.app
 0.0.0.0 sirocds.com
 0.0.0.0 siruia.shop
@@ -11411,6 +11439,7 @@
 0.0.0.0 swissfx.io
 0.0.0.0 swisskn.top
 0.0.0.0 swofficefurniture.com
+0.0.0.0 swt-keystonevalve.com
 0.0.0.0 swtest.ru
 0.0.0.0 sxcdn02.now.sh
 0.0.0.0 sxcdn1.herokuapp.com
@@ -11732,6 +11761,7 @@
 0.0.0.0 themultiversemerch.com
 0.0.0.0 thenorthfacenorge.com
 0.0.0.0 theocharideslabs.com
+0.0.0.0 theorigin.co.kr
 0.0.0.0 thepanavplayground.com
 0.0.0.0 thepaperden.com
 0.0.0.0 theparrotlounge.com
@@ -12247,6 +12277,7 @@
 0.0.0.0 ubuddy.in
 0.0.0.0 uchannas.xyz
 0.0.0.0 uctcb.com
+0.0.0.0 ucware.net
 0.0.0.0 udocassa.store
 0.0.0.0 udodp.com
 0.0.0.0 ue47emsfujaozfg.gq
@@ -12642,6 +12673,7 @@
 0.0.0.0 vidiotiktokviral.my.id
 0.0.0.0 vidpay.org
 0.0.0.0 viemon.xyz
+0.0.0.0 vietjetairkorea.com
 0.0.0.0 viewandsee.info
 0.0.0.0 viewdns.net
 0.0.0.0 viewstarinterior.com
@@ -12719,6 +12751,7 @@
 0.0.0.0 vmware-cdn.com
 0.0.0.0 vmware.center
 0.0.0.0 vnex.org
+0.0.0.0 vnfmal2022.com
 0.0.0.0 vnh.wtf
 0.0.0.0 vocesdelatinoamerica.com
 0.0.0.0 vodafoneegypt.tech
@@ -12798,6 +12831,7 @@
 0.0.0.0 wano-kuni-store.com
 0.0.0.0 wantjoinsince.xyz
 0.0.0.0 waqib.com
+0.0.0.0 warevalley.com
 0.0.0.0 warinneyan.xyz
 0.0.0.0 warnermusicad.com
 0.0.0.0 warnermusicah.com
@@ -14549,6 +14583,7 @@
 0.0.0.0 yomaex.com
 0.0.0.0 yomigt.com
 0.0.0.0 yonicathal.xyz
+0.0.0.0 yoohannet.kr
 0.0.0.0 yootypes.com
 0.0.0.0 yop-usps.shop
 0.0.0.0 yordahouseofknowledge.com
