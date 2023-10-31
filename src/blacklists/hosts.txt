@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 October 2023
+# Last modified: 31 October 2023
 #
 
 # Extras (comment out if needed)
@@ -66,10 +66,14 @@
 0.0.0.0 086df9b3b637e40d.info
 0.0.0.0 08grab.com
 0.0.0.0 0b125b25007220d9.xyz
+0.0.0.0 0cq.us
 0.0.0.0 0d24c9424c2347f9b.pw
 0.0.0.0 0inch.io
 0.0.0.0 0lkoypi8ckkv9e.xyz
+0.0.0.0 0md.us
 0.0.0.0 0nedriveup.com
+0.0.0.0 0qa.us
+0.0.0.0 0ty.us
 0.0.0.0 0v0.games
 0.0.0.0 1-inch.io
 0.0.0.0 1-wincasino-sloty.site
@@ -309,6 +313,7 @@
 0.0.0.0 1irrch.io
 0.0.0.0 1it.fit
 0.0.0.0 1iunch.io
+0.0.0.0 1jb.us
 0.0.0.0 1jinch.io
 0.0.0.0 1jnch.io
 0.0.0.0 1kinch.io
@@ -390,6 +395,7 @@
 0.0.0.0 2ups-update.com
 0.0.0.0 2waky.com
 0.0.0.0 2y4nothing.xyz
+0.0.0.0 2zc.us
 0.0.0.0 321769f.xyz
 0.0.0.0 3313v.com
 0.0.0.0 3463forum.cf
@@ -419,6 +425,7 @@
 0.0.0.0 3partonal.cloud
 0.0.0.0 3qwy8jp1.shop
 0.0.0.0 3utilities.com
+0.0.0.0 3vb.us
 0.0.0.0 40031.co
 0.0.0.0 407minions.com
 0.0.0.0 42fae.com
@@ -430,6 +437,7 @@
 0.0.0.0 49school.ru
 0.0.0.0 4ads.com
 0.0.0.0 4cham.top
+0.0.0.0 4cu.us
 0.0.0.0 4everland.store
 0.0.0.0 4f581a978fe0eadf.live
 0.0.0.0 4fly.su
@@ -469,6 +477,9 @@
 0.0.0.0 69a4e33b882cffaf.xyz
 0.0.0.0 6a00a421e44ead9e.live
 0.0.0.0 6c9fihxdu4qip7d.gq
+0.0.0.0 6dr.us
+0.0.0.0 6fe.us
+0.0.0.0 6or.us
 0.0.0.0 70jili.online
 0.0.0.0 750.credit
 0.0.0.0 75b84d88067cb231.xyz
@@ -483,6 +494,7 @@
 0.0.0.0 7star-profit.online
 0.0.0.0 7stox.com
 0.0.0.0 7thavenue.pl
+0.0.0.0 7tz.us
 0.0.0.0 7x3.jp
 0.0.0.0 7xpjeyf5rz8y6g6.gq
 0.0.0.0 808080.ml
@@ -496,6 +508,7 @@
 0.0.0.0 8723yuoistzkk.xyz
 0.0.0.0 87a312e6bb2524d4.xyz
 0.0.0.0 8d7c621736f6cb25.xyz
+0.0.0.0 8fx.us
 0.0.0.0 921hapudyqwdvy.com
 0.0.0.0 926dm.com
 0.0.0.0 92cf772e294ea095.store
@@ -514,6 +527,8 @@
 0.0.0.0 9akg45d9azdfyuq.gq
 0.0.0.0 9c8b601990eacf18.live
 0.0.0.0 9inch.io
+0.0.0.0 9jw.us
+0.0.0.0 9ow.us
 0.0.0.0 9prefabhouse.com
 0.0.0.0 9sta9rt4.store
 0.0.0.0 9xkcaayaagvr1p2.top
@@ -1317,6 +1332,7 @@
 0.0.0.0 ascentsbrands.com
 0.0.0.0 asd.edu.au
 0.0.0.0 asdakasma.digital
+0.0.0.0 asdboloa.com
 0.0.0.0 asdijoisad87ay3.cn
 0.0.0.0 asdyyauscuauusc.xyz
 0.0.0.0 asesoriasbg.com
@@ -2314,6 +2330,7 @@
 0.0.0.0 btcschanger.com
 0.0.0.0 bthdifi.com
 0.0.0.0 btyex.co
+0.0.0.0 bu9.us
 0.0.0.0 bua591qkf2xx.xyz
 0.0.0.0 bubhcb.com
 0.0.0.0 budabendencomolsun.com
@@ -2381,6 +2398,7 @@
 0.0.0.0 bvnusxt.cc
 0.0.0.0 bvtcionboese.com
 0.0.0.0 bwinph.co
+0.0.0.0 bwkd.me
 0.0.0.0 bwwk.vip
 0.0.0.0 bxcrypt.com
 0.0.0.0 by-the-life.com
@@ -2607,6 +2625,7 @@
 0.0.0.0 cdninternal.cloud
 0.0.0.0 cdnjs.cloudflane.com
 0.0.0.0 cdromcsc.com
+0.0.0.0 ce2.us
 0.0.0.0 ceaelsol.com
 0.0.0.0 ceama.in
 0.0.0.0 cebajaepuno.edu.pe
@@ -3357,6 +3376,7 @@
 0.0.0.0 d4k2qeqb7mpzafi.gq
 0.0.0.0 d4rkn3ss.tk
 0.0.0.0 d6c73e3ea9b2429d.live
+0.0.0.0 d6s.us
 0.0.0.0 d8aa80c3bfe1dad4.xyz
 0.0.0.0 d8asdgrtf.shop
 0.0.0.0 d8hgf1.cyou
@@ -4587,6 +4607,7 @@
 0.0.0.0 fgtransportservice.it
 0.0.0.0 fgudisjk.ga
 0.0.0.0 fgxctrade.com
+0.0.0.0 fh3.us
 0.0.0.0 fhgerbugjreqnhfegrb.top
 0.0.0.0 fiamedanes.xyz
 0.0.0.0 fiancejiveimp.fun
@@ -4940,9 +4961,11 @@
 0.0.0.0 fspy.cf
 0.0.0.0 fss-app.live
 0.0.0.0 fss16.ru
+0.0.0.0 fssu.link
 0.0.0.0 fstflex95.net
 0.0.0.0 ftngucey.com
 0.0.0.0 ftxtwobsc.tech
+0.0.0.0 fubsdgd.com
 0.0.0.0 fubuy.store
 0.0.0.0 fuckthemarket.tech
 0.0.0.0 fudlasaplayeemmkehhd.co.vu
@@ -5039,6 +5062,7 @@
 0.0.0.0 gamble-levos.xyz
 0.0.0.0 gambling-analytics.com
 0.0.0.0 gamdomgiris.com
+0.0.0.0 game.co.za
 0.0.0.0 gameandgo.store
 0.0.0.0 gamefilescript.com
 0.0.0.0 gamefoods.xyz
@@ -5197,6 +5221,7 @@
 0.0.0.0 getway4upgradingnow.click
 0.0.0.0 getxbit.com
 0.0.0.0 gexcontent.biz
+0.0.0.0 gf6.us
 0.0.0.0 gfbags.co
 0.0.0.0 gfer4.xyz
 0.0.0.0 gff116.com
@@ -5237,6 +5262,7 @@
 0.0.0.0 gimpimageeditor.com
 0.0.0.0 ginnalodaned.xyz
 0.0.0.0 giotradingltd.com
+0.0.0.0 giqj.me
 0.0.0.0 girisapi2361.pw
 0.0.0.0 girisapi2685.pw
 0.0.0.0 girisapi3315.pw
@@ -5971,6 +5997,7 @@
 0.0.0.0 hxsgeoxdehzti.net
 0.0.0.0 hyber.network
 0.0.0.0 hydialyidx.com
+0.0.0.0 hygmi.com
 0.0.0.0 hypertorrent.net
 0.0.0.0 hyundaidaklak-3s.com
 0.0.0.0 hzgoodar.live
@@ -6342,6 +6369,7 @@
 0.0.0.0 itvans.shop
 0.0.0.0 iueville.com
 0.0.0.0 iuic.de
+0.0.0.0 iv0.us
 0.0.0.0 ivaily.com
 0.0.0.0 ivative.com
 0.0.0.0 ivatndar.cyou
@@ -6517,6 +6545,7 @@
 0.0.0.0 jquery-updater.xyz
 0.0.0.0 jqueryj.com
 0.0.0.0 jquerys.cf
+0.0.0.0 jrbc.info
 0.0.0.0 jrinternational.xyz
 0.0.0.0 js.nahnoji.cz
 0.0.0.0 jsc-btcmine-sitepro.site
@@ -6655,9 +6684,11 @@
 0.0.0.0 kazinoplai.online
 0.0.0.0 kazuha.store
 0.0.0.0 kazurinews.com
+0.0.0.0 kc0.us
 0.0.0.0 kdaljjjkdalka.info
 0.0.0.0 kdsadgsacgesshop.online
 0.0.0.0 kdtemdetudo.com.br
+0.0.0.0 ke0.us
 0.0.0.0 kebhana.site
 0.0.0.0 kechizlarey.com
 0.0.0.0 kedikopekgibi44.co.vu
@@ -6834,6 +6865,7 @@
 0.0.0.0 kro.kr
 0.0.0.0 kropnagursa.com
 0.0.0.0 krvskcvs.com
+0.0.0.0 ksaguna.com
 0.0.0.0 kschauhan.com
 0.0.0.0 kscmfs.or.kr
 0.0.0.0 ksp.co.il
@@ -8740,6 +8772,7 @@
 0.0.0.0 ocenes.com
 0.0.0.0 ochrelandscapes.com.au
 0.0.0.0 octoprocuring.com
+0.0.0.0 od9.us
 0.0.0.0 odcinema.online
 0.0.0.0 oddprecious.com
 0.0.0.0 oddsnest.com
@@ -9816,6 +9849,7 @@
 0.0.0.0 qxxq.wcrashtdm.top
 0.0.0.0 qzwnxh.uevenumg.top
 0.0.0.0 r0407.xyz
+0.0.0.0 r1u.us
 0.0.0.0 r2728.xyz
 0.0.0.0 r89kq6esetljq7r.fun
 0.0.0.0 r89kq6esetljq7r.top
@@ -9977,6 +10011,7 @@
 0.0.0.0 regruhosting.ru
 0.0.0.0 regsvrsvc.com
 0.0.0.0 regxbit.com
+0.0.0.0 regz.info
 0.0.0.0 rehuwejuf.com
 0.0.0.0 reignofdineste.com
 0.0.0.0 reioutdoorshop.com
@@ -10099,6 +10134,7 @@
 0.0.0.0 riversideinvestment.net
 0.0.0.0 riwaqsharq.com
 0.0.0.0 riyadahalfeker.com
+0.0.0.0 rjvb.link
 0.0.0.0 rkgrup.site
 0.0.0.0 rkynaiaryna.xyz
 0.0.0.0 rllalasyeo.xyz
@@ -10187,6 +10223,7 @@
 0.0.0.0 rpassarianaip.com
 0.0.0.0 rpgmagglader.com
 0.0.0.0 rprotecruuio.com
+0.0.0.0 rpzp.me
 0.0.0.0 rref.su
 0.0.0.0 rrkimal.xyz
 0.0.0.0 rrshost.in
@@ -10669,6 +10706,7 @@
 0.0.0.0 seyhanaluminyum.com
 0.0.0.0 seylanfreight.com
 0.0.0.0 sezanonline.shop
+0.0.0.0 sf8i.us
 0.0.0.0 sfe264.goodscart.live
 0.0.0.0 sfebc.com
 0.0.0.0 sferaoptical.com
@@ -11315,6 +11353,7 @@
 0.0.0.0 studydh.online
 0.0.0.0 stunningmax.com
 0.0.0.0 stvoriti.com
+0.0.0.0 styi.info
 0.0.0.0 styleay.shop
 0.0.0.0 stylehub.website
 0.0.0.0 styonorong.xyz
@@ -11821,6 +11860,7 @@
 0.0.0.0 ti-frit.com
 0.0.0.0 ti-instruments.com
 0.0.0.0 ti2.in
+0.0.0.0 ti7.us
 0.0.0.0 tiancaii.com
 0.0.0.0 ticldx.com
 0.0.0.0 tiendacolumbia.shop
@@ -12262,8 +12302,11 @@
 0.0.0.0 tyt-mall.vip
 0.0.0.0 tytsoftikor.com
 0.0.0.0 u-senders.site
+0.0.0.0 u3q.us
 0.0.0.0 u4wqbjlplzi5hdx.ru
+0.0.0.0 u5s.us
 0.0.0.0 u864246.tk
+0.0.0.0 u8n.us
 0.0.0.0 ua-login.top
 0.0.0.0 ua-passport.pw
 0.0.0.0 ua-passport.site
@@ -12290,6 +12333,7 @@
 0.0.0.0 uggbootsonline.top
 0.0.0.0 ugreens.shop
 0.0.0.0 ugstaging2.com
+0.0.0.0 uhje.me
 0.0.0.0 uilscvnzdds.shop
 0.0.0.0 uipmcenter.net
 0.0.0.0 uixhusck.shop
@@ -12512,8 +12556,10 @@
 0.0.0.0 uzibets.com
 0.0.0.0 uzsgame.com
 0.0.0.0 uzzmi.shop
+0.0.0.0 v1u.us
 0.0.0.0 v5tr6yfr.one
 0.0.0.0 v6.rocks
+0.0.0.0 v8z.us
 0.0.0.0 v9onekapz.cfd
 0.0.0.0 vacanzenelmediterraneo.com
 0.0.0.0 vadtalmandir.org
@@ -12792,6 +12838,7 @@
 0.0.0.0 vytarssilver.com
 0.0.0.0 w4zgt6l5hrxgvlz.top
 0.0.0.0 w5-k.top
+0.0.0.0 w6q.us
 0.0.0.0 w8trades.site
 0.0.0.0 wa-info.com
 0.0.0.0 waadaleemar.com
@@ -12987,6 +13034,7 @@
 0.0.0.0 weyzex.com
 0.0.0.0 wezeriw.com
 0.0.0.0 wf4sctx9cksg94528o7o.xyz
+0.0.0.0 wf6.us
 0.0.0.0 wgamershyh.com
 0.0.0.0 wgastore.com
 0.0.0.0 wgistore.com
@@ -13165,6 +13213,7 @@
 0.0.0.0 wpmanworld.com
 0.0.0.0 wpointwtj.xyz
 0.0.0.0 wq.gy
+0.0.0.0 wqeh.link
 0.0.0.0 wranglerromania.com
 0.0.0.0 wrappixels.com
 0.0.0.0 wrecking.top
@@ -13249,6 +13298,7 @@
 0.0.0.0 xarovaw.com
 0.0.0.0 xavierliras.com
 0.0.0.0 xaydungmtcons.com
+0.0.0.0 xbsf.link
 0.0.0.0 xbtcdubai.com
 0.0.0.0 xbxntzr7uoboa8u.gq
 0.0.0.0 xc5s.digital
@@ -14564,6 +14614,7 @@
 0.0.0.0 ylirtetaim.xyz
 0.0.0.0 ylvroralli.xyz
 0.0.0.0 ymekeyemehaldisyhj.co.vu
+0.0.0.0 ymql.link
 0.0.0.0 ynabrdosmc.xyz
 0.0.0.0 ynanereisana.xyz
 0.0.0.0 yncmodern.top
@@ -14647,6 +14698,7 @@
 0.0.0.0 yxeed.com
 0.0.0.0 yyb227.com
 0.0.0.0 yyb227.net
+0.0.0.0 yyds.is
 0.0.0.0 yykick.top
 0.0.0.0 z100.vip
 0.0.0.0 z2a.digital
@@ -14739,6 +14791,7 @@
 0.0.0.0 ziucsugcbfyfbyccbasy.com
 0.0.0.0 ziuxte.online
 0.0.0.0 ziwuq.com
+0.0.0.0 zj4.us
 0.0.0.0 zjvvymy.com
 0.0.0.0 zk-swap.xyz
 0.0.0.0 zlatararubin.com
@@ -14767,6 +14820,7 @@
 0.0.0.0 zoomenglishlesson.com
 0.0.0.0 zoona.shop
 0.0.0.0 zoroxeku.com
+0.0.0.0 zost.link
 0.0.0.0 zougla.news
 0.0.0.0 zoxa.store
 0.0.0.0 zoykolmena.com
