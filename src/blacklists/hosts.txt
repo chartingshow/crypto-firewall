@@ -3014,6 +3014,7 @@
 0.0.0.0 coinxstax.com
 0.0.0.0 coinxweak.com
 0.0.0.0 coinzeep.com
+0.0.0.0 coinzillatag.com
 0.0.0.0 coinzsvip2.com
 0.0.0.0 coinzvip1.com
 0.0.0.0 coixinh.com
