@@ -580,6 +580,7 @@
 0.0.0.0 ableoil.net
 0.0.0.0 abnormaltrim.online
 0.0.0.0 abogados.services
+0.0.0.0 about.no
 0.0.0.0 aboutamazo.top
 0.0.0.0 aboutinamazon.top
 0.0.0.0 aboveandbeyondmovers.com
@@ -667,6 +668,7 @@
 0.0.0.0 adb007.top
 0.0.0.0 adblocktape.store
 0.0.0.0 adblocktape.wiki
+0.0.0.0 add.to
 0.0.0.0 addiko-ecorp.com
 0.0.0.0 addons.news
 0.0.0.0 adds-only.xyz
@@ -2928,6 +2930,7 @@
 0.0.0.0 coiffurepacitto.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-milady.com
+0.0.0.0 coin.co
 0.0.0.0 coin.su
 0.0.0.0 coinavia.com
 0.0.0.0 coinbapo.com
@@ -2988,6 +2991,7 @@
 0.0.0.0 coinrunex.com
 0.0.0.0 coins-apt.com
 0.0.0.0 coins-capital.com
+0.0.0.0 coins.top
 0.0.0.0 coinsap.com
 0.0.0.0 coinsbax.com
 0.0.0.0 coinserom.com
@@ -3038,6 +3042,8 @@
 0.0.0.0 coloradospringsroofing.info
 0.0.0.0 colormiagi.com
 0.0.0.0 colorpickerdesk.com
+0.0.0.0 columns.name
+0.0.0.0 columns.top
 0.0.0.0 com-check.online
 0.0.0.0 com-firewall.online
 0.0.0.0 com-login.space
@@ -3637,6 +3643,7 @@
 0.0.0.0 diacocr.com
 0.0.0.0 diagnostic.net
 0.0.0.0 diagrammed.top
+0.0.0.0 dialog.top
 0.0.0.0 diamonddoors.net.au
 0.0.0.0 diamondgroupweb.com
 0.0.0.0 diamondheritagecu.com
@@ -4266,6 +4273,7 @@
 0.0.0.0 ericbrandonbeck.com
 0.0.0.0 erideeiles.xyz
 0.0.0.0 erorblackday.xyz
+0.0.0.0 errors.space
 0.0.0.0 errorsworld.com
 0.0.0.0 esadbabaherzmn.shop
 0.0.0.0 esadsehrinilahii.shop
@@ -4566,6 +4574,7 @@
 0.0.0.0 fdyatinv.com
 0.0.0.0 fdyfutures.com
 0.0.0.0 fe100.net
+0.0.0.0 fear-greed-index.no
 0.0.0.0 featchaddress.lat
 0.0.0.0 feathspacesaf.fun
 0.0.0.0 febo.mx
@@ -4623,6 +4632,7 @@
 0.0.0.0 filature.shop
 0.0.0.0 fileforex.xyz
 0.0.0.0 files-gate.com
+0.0.0.0 filters.top
 0.0.0.0 fimanage.com
 0.0.0.0 fin-bet.net
 0.0.0.0 finallytouch.com
@@ -4846,6 +4856,8 @@
 0.0.0.0 forexcapitals.ltd
 0.0.0.0 forhome-beauty.com
 0.0.0.0 forking.store
+0.0.0.0 form.name
+0.0.0.0 form.sh
 0.0.0.0 formasterbio.com
 0.0.0.0 formatica.store
 0.0.0.0 formativa.com.ec
@@ -5307,6 +5319,7 @@
 0.0.0.0 glitchmoon.xyz
 0.0.0.0 glitchpop-valorant.com
 0.0.0.0 global-dis.com
+0.0.0.0 global.to
 0.0.0.0 globalbtcdeal.com
 0.0.0.0 globalbtcwallet.com
 0.0.0.0 globalcapitalsgc.com
@@ -6211,6 +6224,7 @@
 0.0.0.0 inservices.digital
 0.0.0.0 insidedns.com
 0.0.0.0 insider.gr.com
+0.0.0.0 insights.top
 0.0.0.0 insightsforuscitizens.com
 0.0.0.0 insigmarket.com
 0.0.0.0 inslikesk.live
@@ -6273,6 +6287,7 @@
 0.0.0.0 investment-genesis.com
 0.0.0.0 investmentlineup.com
 0.0.0.0 investomenstrade.com
+0.0.0.0 investors.no
 0.0.0.0 investscandi.com
 0.0.0.0 investyly.com
 0.0.0.0 invistajaimoveis.com.br
@@ -7107,6 +7122,7 @@
 0.0.0.0 libivi.com
 0.0.0.0 library-furniture.store
 0.0.0.0 library-pk.com
+0.0.0.0 library.my
 0.0.0.0 librchichelpai.shop
 0.0.0.0 libresiete.com
 0.0.0.0 libya2020.com.ly
@@ -8778,6 +8794,7 @@
 0.0.0.0 oddprecious.com
 0.0.0.0 oddsnest.com
 0.0.0.0 odesclub.com
+0.0.0.0 odrops.com
 0.0.0.0 odrtechinc.com
 0.0.0.0 oekofkkfkoeefkefbnhgtrq.space
 0.0.0.0 oel.tg
@@ -9159,6 +9176,7 @@
 0.0.0.0 passport-login.top
 0.0.0.0 passport-verify.top
 0.0.0.0 passportlogin.top
+0.0.0.0 password-new-confirm.no
 0.0.0.0 pastas.top
 0.0.0.0 pastepast.net
 0.0.0.0 pathwayfvvm.com
@@ -9518,6 +9536,7 @@
 0.0.0.0 portalevolucao.com
 0.0.0.0 portamericaweb.com
 0.0.0.0 portfolio-roman.ml
+0.0.0.0 portfolio.my
 0.0.0.0 portlandcor.fun
 0.0.0.0 portlandshrooms.store
 0.0.0.0 portmap.host
@@ -9900,6 +9919,7 @@
 0.0.0.0 ramureholding.com
 0.0.0.0 randian.com
 0.0.0.0 randomclicks.in
+0.0.0.0 range.to
 0.0.0.0 rangreza.com.pk
 0.0.0.0 ranistore.in
 0.0.0.0 raniyev.com
@@ -10034,6 +10054,7 @@
 0.0.0.0 remprotrades.com
 0.0.0.0 remxbit.com
 0.0.0.0 renaissance-chauffage-climatisation.com
+0.0.0.0 rename.my
 0.0.0.0 renellec.com
 0.0.0.0 renesys.in
 0.0.0.0 renewals4u.xyz
@@ -10049,6 +10070,7 @@
 0.0.0.0 repoterla.com
 0.0.0.0 reputinodaedo.pw
 0.0.0.0 reqcoin.com
+0.0.0.0 required.name
 0.0.0.0 requst03853s0.store
 0.0.0.0 reraitper.com
 0.0.0.0 res-valorant.com
@@ -10441,6 +10463,7 @@
 0.0.0.0 scbh.net
 0.0.0.0 scertaiajvt.top
 0.0.0.0 schaublorenz.su
+0.0.0.0 schemas.name
 0.0.0.0 schiffsinfo.info
 0.0.0.0 schlaukredit.com
 0.0.0.0 schmidtautodetailing.com
@@ -10476,6 +10499,7 @@
 0.0.0.0 seacrossweek.top
 0.0.0.0 seagloballogistic.in
 0.0.0.0 seahloperd.com
+0.0.0.0 search.no
 0.0.0.0 searcher69.de
 0.0.0.0 searlleed.me
 0.0.0.0 searsmall.vip
@@ -12287,6 +12311,8 @@
 0.0.0.0 twinkieshome.com
 0.0.0.0 twinning.top
 0.0.0.0 twit.ng
+0.0.0.0 twitter-followers.no
+0.0.0.0 twitter-perf.top
 0.0.0.0 two-exchange.com
 0.0.0.0 twoviewsmovies.com
 0.0.0.0 twshopifysp.com
@@ -12894,6 +12920,7 @@
 0.0.0.0 wastxcenter.com
 0.0.0.0 watches-jp.com
 0.0.0.0 watchitsre.co
+0.0.0.0 watchlist.name
 0.0.0.0 watchse.icu
 0.0.0.0 watchvideoplayer.com
 0.0.0.0 waterjet.ltd
@@ -13081,6 +13108,7 @@
 0.0.0.0 wiccinigeria.org
 0.0.0.0 wickleymorgan.com
 0.0.0.0 wicott.top
+0.0.0.0 widgets.top
 0.0.0.0 wiekel.site
 0.0.0.0 wifynnn.xyz
 0.0.0.0 wignhairs.com
