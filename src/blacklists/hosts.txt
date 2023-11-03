@@ -4,7 +4,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 31 October 2023
+# Last modified: 3 November 2023
 #
 
 # Extras (comment out if needed)
@@ -3174,6 +3174,7 @@
 0.0.0.0 cosulcudetoate.com
 0.0.0.0 cosyfxtrade.com
 0.0.0.0 cotopaxiaustralia.com
+0.0.0.0 coupang-networks.pics
 0.0.0.0 courageousmefoundation.org
 0.0.0.0 couriertrackingactiivation.site
 0.0.0.0 coursenote.xyz
@@ -9650,6 +9651,7 @@
 0.0.0.0 prmopromo.com
 0.0.0.0 prna.shop
 0.0.0.0 pro-sales-2009.com
+0.0.0.0 pro-tokyo.top
 0.0.0.0 proballshoe.com
 0.0.0.0 probitmin.online
 0.0.0.0 processdownload.com
@@ -10266,6 +10268,7 @@
 0.0.0.0 ruitaiwz.com
 0.0.0.0 ruleofnews.com
 0.0.0.0 run.app
+0.0.0.0 run.place
 0.0.0.0 runayanx.com
 0.0.0.0 runbig.xyz
 0.0.0.0 runicmaster.top
@@ -12048,6 +12051,7 @@
 0.0.0.0 toysonejapan.shop
 0.0.0.0 toythieves.com
 0.0.0.0 toyvoy.com
+0.0.0.0 tp-globa.xyz
 0.0.0.0 tp-imtoken.top
 0.0.0.0 tpb77ohara.lol
 0.0.0.0 tqlgistics.com
