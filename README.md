@@ -209,7 +209,7 @@ This repo contains various filter list modules, which users can check out in the
 - [Malicious Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/malicious-filters)
 - [Phishing Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-filters)
 - [PUP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/pup-filters)
-- [Tracking Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/tracking-filters) **(Note: This filter list may block many websites javascript files and stop things from working correctly)**
+- [Tracking Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
 - [URLhaus Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/urlhaus-filters)
 
 ### How do we define sanctions data?
