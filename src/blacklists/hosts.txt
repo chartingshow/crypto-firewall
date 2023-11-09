@@ -1687,6 +1687,7 @@
 0.0.0.0 bcrvp.com
 0.0.0.0 bctambore.com.br
 0.0.0.0 bddlandscaping.com
+0.0.0.0 bddns.cc
 0.0.0.0 bdnbasecing.top
 0.0.0.0 bdtaka24.com
 0.0.0.0 be-btc.com
@@ -3476,6 +3477,7 @@
 0.0.0.0 databoost.ro
 0.0.0.0 dataentrydigital.com
 0.0.0.0 datang.tw
+0.0.0.0 datasheet.fun
 0.0.0.0 datastor.top
 0.0.0.0 datditec.com
 0.0.0.0 date-windows.com
