@@ -53,6 +53,7 @@ You can find external information to avoid cryptocurrency scams in the following
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
+- [Ad server blocking](#ad-server-blocking-)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [If you like the Summer CMS project](#if-you-like-the-summer-cms-project-)
@@ -191,6 +192,14 @@ OFAC publishes lists of individuals and companies owned or controlled by, or act
 The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
 
 - https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
+
+## Ad server blocking 🇦🇩
+
+The ad banners that you see all over the web are stored on servers. Stopping your computer communicating with another computer can be quite simple. So, if you have a list of the servers used for ad banners, it's easy to stop ad banners even getting to your browser.
+
+These custom ad server filter block lists can be found in the folder:
+
+- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ad-servers
 
 ### How do we define sanctions data?
 
