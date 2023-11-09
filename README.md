@@ -206,6 +206,7 @@ These custom ad server filter block lists can be found in the folder:
 
 This repo contains various filter list modules, which users can check out in the following folders:
 
+- [Annoyances Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/annoyances-filters)
 - [Malicious Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/malicious-filters)
 - [Phishing Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-filters)
 - [PUP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/pup-filters)
