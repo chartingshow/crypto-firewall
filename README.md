@@ -54,6 +54,7 @@ You can find external information to avoid cryptocurrency scams in the following
 - [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
 - [Ad server blocking](#ad-server-blocking-)
+- [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
 - [If you like the Summer CMS project](#if-you-like-the-summer-cms-project-)
@@ -143,7 +144,7 @@ IP Addresses can also be blocked, these contain things such as command-and-contr
 
 The IP block list can be found here:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt
+- [IP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt)
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder:
 
@@ -163,7 +164,7 @@ Email addresses can be blocked, our email block list contains known Crypto scamm
 
 The Email block list can be found here:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt
+- [Email Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt)
 
 To learn how to protect yourself from Sextortion emails, see here:
 
@@ -177,13 +178,13 @@ How to Identify a Ransomware Email Attack, see here:
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/
+- [Bad Wallets Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/)
 
 ## Fraudulent cryptocurrency mining pool addresses 🦈
 
 Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pools-addresses/
+- [Mining Pools Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pools-addresses/)
 
 ## OFAC sanctioned digital currency addresses 🚫
 
@@ -191,7 +192,7 @@ OFAC publishes lists of individuals and companies owned or controlled by, or act
 
 The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses
+- [OFAC Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses)
 
 ## Ad server blocking 🇦🇩
 
@@ -199,7 +200,17 @@ The ad banners that you see all over the web are stored on servers. Stopping you
 
 These custom ad server filter block lists can be found in the folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ad-servers
+- [Ad Server Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ad-servers)
+
+## Modules ⚙️
+
+This repo contains various filter list modules, which users can check out in the following folders:
+
+- [Malicious Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/malicious-filters)
+- [Phishing Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-filters)
+- [PUP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/pup-filters)
+- [Tracking Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/tracking-filters)
+- [URLhaus Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/urlhaus-filters)
 
 ### How do we define sanctions data?
 
