@@ -178,7 +178,7 @@ How to Identify a Ransomware Email Attack, see here:
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
-- [Bad Wallets Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/)
+- [Wallets Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/)
 
 ## Fraudulent cryptocurrency mining pool addresses 🦈
 
