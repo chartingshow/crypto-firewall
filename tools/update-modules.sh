@@ -8,8 +8,6 @@ echo "*** sc-block-bad-crypto-filter-lists: updating remote assets..."
 
 declare -A assets
 assets=(
-    ['src/blacklists/annoyances-filters/annoyances-cookies.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt'
-    ['src/blacklists/annoyances-filters/annoyances-others.txt']='https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt'
     ['src/blacklists/malicious-filters/hosts.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt'
     ['src/blacklists/malicious-filters/nomalware.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt'
     ['src/blacklists/phishing-filters/hosts.txt']='https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt'
