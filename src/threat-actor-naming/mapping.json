@@ -1,257 +1,257 @@
 [
-    {
-        "Previous name": "ACTINIUM",
-        "New name": "Aqua Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["UNC530", "Primitive Bear", "Gamaredon"]
-    },
-    {
-        "Previous name": "AMERICIUM",
-        "New name": "Pink Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["Agrius", "Deadwood", "BlackShadow", "SharpBoys"]
-    },
-    {
-        "Previous name": "BARIUM",
-        "New name": "Brass Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["APT41"]
-    },
-    {
-        "Previous name": "BISMUTH",
-        "New name": "Canvas Cyclone",
-        "Origin/Threat": "Vietnam",
-        "Other names": ["APT32", "OceanLotus"]
-    },
-    {
-        "Previous name": "BOHRIUM",
-        "New name": "Smoke Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": []
-    },
-    {
-        "Previous name": "BROMINE",
-        "New name": "Ghost Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["Energetic Bear", "Crouching Yeti"]
-    },
-    {
-        "Previous name": "CERIUM",
-        "New name": "Ruby Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": []
-    },
-    {
-        "Previous name": "CHIMBORAZO",
-        "New name": "Spandex Tempest",
-        "Origin/Threat": "Financially motivated",
-        "Other names": ["TA505"]
-    },
-    {
-        "Previous name": "CHROMIUM",
-        "New name": "Charcoal Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["ControlX"]
-    },
-    {
-        "Previous name": "COPERNICIUM",
-        "New name": "Sapphire Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": ["Genie Spider", "BlueNoroff"]
-    },
-    {
-        "Previous name": "CURIUM",
-        "New name": "Crimson Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["TA456", "Tortoise Shell"]
-    },
-    {
-        "Previous name": "DUBNIUM",
-        "New name": "Zigzag Hail",
-        "Origin/Threat": "South Korea",
-        "Other names": ["Dark Hotel", "Tapaoux"]
-    },
-    {
-        "Previous name": "ELBRUS",
-        "New name": "Sangria Tempest",
-        "Origin/Threat": "Financially motivated",
-        "Other names": ["Carbon Spider", "FIN7"]
-    },
-    {
-        "Previous name": "EUROPIUM",
-        "New name": "Hazel Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["Cobalt Gypsy", "APT34", "OilRig"]
-    },
-    {
-        "Previous name": "GADOLINIUM",
-        "New name": "Gingham Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["APT40", "Leviathan", "TEMP.Periscope", "Kryptonite Panda"]
-    },
-    {
-        "Previous name": "GALLIUM",
-        "New name": "Granite Typhoon",
-        "Origin/Threat": "China",
-        "Other names": []
-    },
-    {
-        "Previous name": "HAFNIUM",
-        "New name": "Silk Typhoon",
-        "Origin/Threat": "China",
-        "Other names": []
-    },
-    {
-        "Previous name": "HOLMIUM",
-        "New name": "Peach Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["APT33", "Refined Kitten"]
-    },
-        {
-        "Previous name": "IRIDIUM",
-        "New name": "Seashell Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["Sandworm"]
-    },
-    {
-        "Previous name": "KNOTWEED",
-        "New name": "Denim Tsunami",
-        "Origin/Threat": "Private sector offensive actor",
-        "Other names": ["DSIRF"]
-    },
-    {
-        "Previous name": "KRYPTON",
-        "New name": "Secret Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["Venomous Bear", "Turla", "Snake"]
-    },
-    {
-        "Previous name": "LAWRENCIUM",
-        "New name": "Pearl Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": []
-    },
-    {
-        "Previous name": "MANGANESE",
-        "New name": "Mulberry Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["APT5", "Keyhole Panda", "TABCTENG"]
-    },
-    {
-        "Previous name": "MERCURY",
-        "New name": "Mango Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["MuddyWater", "SeedWorm", "Static Kitten", "TEMP.Zagros"]
-    },
-    {
-        "Previous name": "NEPTUNIUM",
-        "New name": "Cotton Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["Vice Leaker"]
-    },
-    {
-        "Previous name": "NICKEL",
-        "New name": "Nylon Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["ke3chang", "APT15", "Vixen Panda"]
-    },
-    {
-        "Previous name": "NOBELIUM",
-        "New name": "Midnight Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["APT29", "Cozy Bear"]
-    },
-    {
-        "Previous name": "OSMIUM",
-        "New name": "Opal Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": ["Konni"]
-    },
-    {
-        "Previous name": "PARINACOTA",
-        "New name": "Wine Tempest",
-        "Origin/Threat": "Financially motivated",
-        "Other names": ["Wadhrama"]
-    },
-    {
-        "Previous name": "PHOSPHORUS",
-        "New name": "Mint Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["APT35", "Charming Kitten"]
-    },
-    {
-        "Previous name": "POLONIUM",
-        "New name": "Plaid Rain",
-        "Origin/Threat": "Lebanon",
-        "Other names": []
-    },
-    {
-        "Previous name": "RADIUM",
-        "New name": "Raspberry Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["APT30", "LotusBlossom"]
-    },
-    {
-        "Previous name": "RUBIDIUM",
-        "New name": "Lemon Sandstorm",
-        "Origin/Threat": "Iran",
-        "Other names": ["Fox Kitten", "UNC757", "PioneerKitten"]
-    },
-    {
-        "Previous name": "SEABORGIUM",
-        "New name": "Star Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["Callisto", "Reuse Team"]
-    },
-    {
-        "Previous name": "SILICON",
-        "New name": "Marbled Dust",
-        "Origin/Threat": "Turkey",
-        "Other names": ["Sea Turtle"]
-    },
-    {
-        "Previous name": "SOURGUM",
-        "New name": "Caramel Tsunami",
-        "Origin/Threat": "Private sector offensive actor",
-        "Other names": ["Candiru"]
-    },
-    {
-        "Previous name": "SPURR",
-        "New name": "Tomato Tempest",
-        "Origin/Threat": "Financially motivated",
-        "Other names": ["Vatet"]
-    },
-    {
-        "Previous name": "STRONTIUM",
-        "New name": "Forest Blizzard",
-        "Origin/Threat": "Russia",
-        "Other names": ["APT28", "Fancy Bear"]
-    },
-    {
-        "Previous name": "TAAL",
-        "New name": "Camouflage Tempest",
-        "Origin/Threat": "Financially motivated",
-        "Other names": ["FIN6", "Skeleton Spider"]
-    },
-    {
-        "Previous name": "THALLIUM",
-        "New name": "Emerald Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": ["Kimsuky", "Velvet Chollima"]
-    },
-    {
-        "Previous name": "ZINC",
-        "New name": "Diamond Sleet",
-        "Origin/Threat": "North Korea",
-        "Other names": ["Labyrinth Chollima", "Lazarus"]
-    },
-    {
-        "Previous name": "ZIRCONIUM",
-        "New name": "Violet Typhoon",
-        "Origin/Threat": "China",
-        "Other names": ["APT31"]
-    },
-      {
+  {
+    "Previous name": "ACTINIUM",
+    "New name": "Aqua Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["UNC530", "Primitive Bear", "Gamaredon"]
+  },
+  {
+    "Previous name": "AMERICIUM",
+    "New name": "Pink Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["Agrius", "Deadwood", "BlackShadow", "SharpBoys"]
+  },
+  {
+    "Previous name": "BARIUM",
+    "New name": "Brass Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["APT41"]
+  },
+  {
+    "Previous name": "BISMUTH",
+    "New name": "Canvas Cyclone",
+    "Origin/Threat": "Vietnam",
+    "Other names": ["APT32", "OceanLotus"]
+  },
+  {
+    "Previous name": "BOHRIUM",
+    "New name": "Smoke Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": []
+  },
+  {
+    "Previous name": "BROMINE",
+    "New name": "Ghost Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["Energetic Bear", "Crouching Yeti"]
+  },
+  {
+    "Previous name": "CERIUM",
+    "New name": "Ruby Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": []
+  },
+  {
+    "Previous name": "CHIMBORAZO",
+    "New name": "Spandex Tempest",
+    "Origin/Threat": "Financially motivated",
+    "Other names": ["TA505"]
+  },
+  {
+    "Previous name": "CHROMIUM",
+    "New name": "Charcoal Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["ControlX"]
+  },
+  {
+    "Previous name": "COPERNICIUM",
+    "New name": "Sapphire Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": ["Genie Spider", "BlueNoroff"]
+  },
+  {
+    "Previous name": "CURIUM",
+    "New name": "Crimson Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["TA456", "Tortoise Shell"]
+  },
+  {
+    "Previous name": "DUBNIUM",
+    "New name": "Zigzag Hail",
+    "Origin/Threat": "South Korea",
+    "Other names": ["Dark Hotel", "Tapaoux"]
+  },
+  {
+    "Previous name": "ELBRUS",
+    "New name": "Sangria Tempest",
+    "Origin/Threat": "Financially motivated",
+    "Other names": ["Carbon Spider", "FIN7"]
+  },
+  {
+    "Previous name": "EUROPIUM",
+    "New name": "Hazel Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["Cobalt Gypsy", "APT34", "OilRig"]
+  },
+  {
+    "Previous name": "GADOLINIUM",
+    "New name": "Gingham Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["APT40", "Leviathan", "TEMP.Periscope", "Kryptonite Panda"]
+  },
+  {
+    "Previous name": "GALLIUM",
+    "New name": "Granite Typhoon",
+    "Origin/Threat": "China",
+    "Other names": []
+  },
+  {
+    "Previous name": "HAFNIUM",
+    "New name": "Silk Typhoon",
+    "Origin/Threat": "China",
+    "Other names": []
+  },
+  {
+    "Previous name": "HOLMIUM",
+    "New name": "Peach Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["APT33", "Refined Kitten"]
+  },
+  {
+    "Previous name": "IRIDIUM",
+    "New name": "Seashell Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["Sandworm"]
+  },
+  {
+    "Previous name": "KNOTWEED",
+    "New name": "Denim Tsunami",
+    "Origin/Threat": "Private sector offensive actor",
+    "Other names": ["DSIRF"]
+  },
+  {
+    "Previous name": "KRYPTON",
+    "New name": "Secret Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["Venomous Bear", "Turla", "Snake"]
+  },
+  {
+    "Previous name": "LAWRENCIUM",
+    "New name": "Pearl Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": []
+  },
+  {
+    "Previous name": "MANGANESE",
+    "New name": "Mulberry Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["APT5", "Keyhole Panda", "TABCTENG"]
+  },
+  {
+    "Previous name": "MERCURY",
+    "New name": "Mango Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["MuddyWater", "SeedWorm", "Static Kitten", "TEMP.Zagros"]
+  },
+  {
+    "Previous name": "NEPTUNIUM",
+    "New name": "Cotton Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["Vice Leaker"]
+  },
+  {
+    "Previous name": "NICKEL",
+    "New name": "Nylon Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["ke3chang", "APT15", "Vixen Panda"]
+  },
+  {
+    "Previous name": "NOBELIUM",
+    "New name": "Midnight Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["APT29", "Cozy Bear"]
+  },
+  {
+    "Previous name": "OSMIUM",
+    "New name": "Opal Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": ["Konni"]
+  },
+  {
+    "Previous name": "PARINACOTA",
+    "New name": "Wine Tempest",
+    "Origin/Threat": "Financially motivated",
+    "Other names": ["Wadhrama"]
+  },
+  {
+    "Previous name": "PHOSPHORUS",
+    "New name": "Mint Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["APT35", "Charming Kitten"]
+  },
+  {
+    "Previous name": "POLONIUM",
+    "New name": "Plaid Rain",
+    "Origin/Threat": "Lebanon",
+    "Other names": []
+  },
+  {
+    "Previous name": "RADIUM",
+    "New name": "Raspberry Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["APT30", "LotusBlossom"]
+  },
+  {
+    "Previous name": "RUBIDIUM",
+    "New name": "Lemon Sandstorm",
+    "Origin/Threat": "Iran",
+    "Other names": ["Fox Kitten", "UNC757", "PioneerKitten"]
+  },
+  {
+    "Previous name": "SEABORGIUM",
+    "New name": "Star Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["Callisto", "Reuse Team"]
+  },
+  {
+    "Previous name": "SILICON",
+    "New name": "Marbled Dust",
+    "Origin/Threat": "Turkey",
+    "Other names": ["Sea Turtle"]
+  },
+  {
+    "Previous name": "SOURGUM",
+    "New name": "Caramel Tsunami",
+    "Origin/Threat": "Private sector offensive actor",
+    "Other names": ["Candiru"]
+  },
+  {
+    "Previous name": "SPURR",
+    "New name": "Tomato Tempest",
+    "Origin/Threat": "Financially motivated",
+    "Other names": ["Vatet"]
+  },
+  {
+    "Previous name": "STRONTIUM",
+    "New name": "Forest Blizzard",
+    "Origin/Threat": "Russia",
+    "Other names": ["APT28", "Fancy Bear"]
+  },
+  {
+    "Previous name": "TAAL",
+    "New name": "Camouflage Tempest",
+    "Origin/Threat": "Financially motivated",
+    "Other names": ["FIN6", "Skeleton Spider"]
+  },
+  {
+    "Previous name": "THALLIUM",
+    "New name": "Emerald Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": ["Kimsuky", "Velvet Chollima"]
+  },
+  {
+    "Previous name": "ZINC",
+    "New name": "Diamond Sleet",
+    "Origin/Threat": "North Korea",
+    "Other names": ["Labyrinth Chollima", "Lazarus"]
+  },
+  {
+    "Previous name": "ZIRCONIUM",
+    "New name": "Violet Typhoon",
+    "Origin/Threat": "China",
+    "Other names": ["APT31"]
+  },
+  {
     "Previous name": "DEV-0146",
     "New name": "Pumpkin Sandstorm",
     "Origin/Threat": "Iran",
