@@ -25,17 +25,6 @@ This is a filter list to block browser-based crypto mining, cryptojacking, injec
 
 **Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
 
-You can find external information to avoid cryptocurrency scams in the following government agency websites:
-
-- https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams
-- https://www.ic3.gov/
-- https://www.fca.org.uk/investsmart/crypto-basics
-- https://www.fca.org.uk/investsmart/investing-crypto
-- https://www.fca.org.uk/consumers/crypto-investment-scams
-- https://www.ic3.gov/Media/Y2023/PSA230804
-- https://www.ic3.gov/Media/Y2023/PSA230309
-- https://www.fca.org.uk/multimedia/fca-and-asa-team-warn-finfluencers-risks-promoting-illegal-get-rich-quick-schemes
-
 ## Table of Contents 📑
 
 - [Installation](#installation-%EF%B8%8F)
