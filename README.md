@@ -204,7 +204,7 @@ This repo contains various filter list modules, which users can check out in the
 - [Phishing Other Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-other-filters)
 - [PUP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/pup-filters)
 - [Ransomware Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ransomware-filters)
-- [Scan Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/scam-filters)
+- [Scam Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/scam-filters)
 - [Tracking Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
 - [URLhaus Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/urlhaus-filters)
 
