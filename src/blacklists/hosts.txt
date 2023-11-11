@@ -18,6 +18,9 @@
 # Bad IPFS domains
 0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 
+# Block Tor2web domains
+0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
+
 # Bad Tor domains
 0.0.0.0 225ppqutwykx2or3.onion
 0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
@@ -38,7 +41,6 @@
 0.0.0.0 gpiekd65jgshwp2p53igifv43aug2adacdebmuuri34hduvijr5pfjad.onion
 0.0.0.0 hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion
 0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
-0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
 0.0.0.0 na47pldl5eoqxt42.onion
 0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
