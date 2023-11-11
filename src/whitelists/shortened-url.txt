@@ -14,6 +14,7 @@ goo.gl
 is.gd
 m.me
 mcaf.ee
+msft.it
 ow.ly
 pin.it
 rb.gy
