@@ -1,1 +1,1 @@
-https?\:\/\/(www.|)(?:(?:tinyurl|fb)\.com|shorturl\.at|amzn\.(?:asia|com)|(?:t(?:iny\.on|\.m)|mcaf\.e|fb\.m|wa\.m|m\.m)e|youtu\.be|(?:amzn\.t|t\.c)o|(?:buff|adf|ow)\.ly|(?:msft|redd)\.it|b(?:it\.do|l\.ink)|(?:bit\.l|rb\.g|t\.l)y|d(?:ai\.ly|is\.gd)|goo\.gl|pin\.it|su\.pr|is\.gd|j\.mp)
+^(https?\:\/\/|)(www\.|)(?:(?:tinyurl|fb)\.com|shorturl\.at|amzn\.(?:asia|com)|(?:t(?:iny\.on|\.m)|mcaf\.e|fb\.m|wa\.m|m\.m)e|youtu\.be|(?:amzn\.t|t\.c)o|(?:buff|adf|ow)\.ly|(?:msft|redd)\.it|b(?:it\.do|l\.ink)|(?:bit\.l|rb\.g|t\.l)y|d(?:ai\.ly|is\.gd)|goo\.gl|pin\.it|su\.pr|is\.gd|j\.mp)
