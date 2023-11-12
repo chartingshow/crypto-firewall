@@ -12,6 +12,7 @@ mail.ru
 mailbox.org
 mailchimp.com
 mailfence.com
+mailhostbox.com
 onionmail.org
 opera.com
 outlook.com
