@@ -12,6 +12,7 @@ fb.com
 fb.me
 goo.gl
 is.gd
+j.mp
 m.me
 mcaf.ee
 msft.it
