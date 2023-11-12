@@ -20,6 +20,7 @@ posteo.net
 proton.com
 proton.me
 runbox.com
+slack.com
 thebrevo.com
 tutanota.com
 yahoo.com
