@@ -28,5 +28,6 @@ t.ly
 t.me
 tiny.one
 tinyurl.com
+url.pm
 wa.me
 youtu.be
