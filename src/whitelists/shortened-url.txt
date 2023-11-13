@@ -6,6 +6,7 @@ bit.do
 bit.ly
 bl.ink
 buff.ly
+cutt.ly
 dai.ly
 dis.gd
 fb.com
