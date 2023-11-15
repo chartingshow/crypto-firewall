@@ -22,7 +22,7 @@ First the scammers impersonate accounts on Twitter belonging to blockchain analy
 
 They then tweet posts on fake crypto security breaches on `Uniswap` or `Opensea`.
 
-<p align="center"><img src="1.jpg" alt="fake crypto hack"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/impersonating-crypto-security-companies/1.jpg" alt="fake crypto hack"></p>
 
 <p align="center"><strong>Fake Twitter accounts promoting the crypto phishing page</strong></p>
 
@@ -34,6 +34,6 @@ The scenario alleges that hackers exploited a signature verification vulnerabili
 
 Once the user clicks on the `Revoke Approvals` button and connect their wallet, **the scammers drains their funds**, which is a non-reversible process.
 
-<p align="center"><img src="2.jpg" alt="draining cryptocurrency wallets"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/impersonating-crypto-security-companies/2.jpg" alt="draining cryptocurrency wallets"></p>
 
 <p align="center"><strong>Phishing page draining cryptocurrency wallets</strong></p>
