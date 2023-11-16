@@ -11,6 +11,8 @@ dai.ly
 dis.gd
 fb.com
 fb.me
+gcko.io
+gg.gg
 goo.gl
 is.gd
 j.mp
@@ -21,6 +23,8 @@ ow.ly
 pin.it
 rb.gy
 redd.it
+short.gy
+short.io
 shorturl.at
 su.pr
 t.co
