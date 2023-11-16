@@ -2,6 +2,7 @@
 aol.com
 apple.com
 countermail.com
+daum.net
 fastmail.fm
 gmail.com
 gmx.com
