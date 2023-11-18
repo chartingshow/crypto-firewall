@@ -1,3 +1,5 @@
+# Protected Domains Names (filter any bad sub-domains, sub-folders or urls)
+
 163.com
 aol.com
 apple.com
