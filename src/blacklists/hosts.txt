@@ -9428,6 +9428,7 @@
 0.0.0.0 mybabyrose.com
 0.0.0.0 mybeautyexchange.com
 0.0.0.0 mybistore.xyz
+0.0.0.0 mybluehost.me
 0.0.0.0 myboxyheadband.com
 0.0.0.0 myboyfornow.pics
 0.0.0.0 mybrightfund.com
@@ -13721,6 +13722,7 @@
 0.0.0.0 sofacomshoe.com
 0.0.0.0 soft-ex.icu
 0.0.0.0 soft-take.com
+0.0.0.0 softcom.net
 0.0.0.0 softdetails.in
 0.0.0.0 softetal.com
 0.0.0.0 softhebale.com
@@ -14722,6 +14724,7 @@
 0.0.0.0 tipshome.xyz
 0.0.0.0 tipstolivebetter.site
 0.0.0.0 tiscali.buzz
+0.0.0.0 tiscali.it
 0.0.0.0 titan-trustees.org
 0.0.0.0 titan2-1.site
 0.0.0.0 titanaquaplus.xyz
@@ -15875,6 +15878,7 @@
 0.0.0.0 weathersite.online
 0.0.0.0 weaves.top
 0.0.0.0 web-1inch.io
+0.0.0.0 web-hosting.com
 0.0.0.0 web-morgan.com
 0.0.0.0 web-revokea.sh
 0.0.0.0 web-revokecash.one

@@ -6,7 +6,7 @@
 # Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 October 2023
+# Last modified: 18 November 2023
 #
 
 # Block Free dns and hosting
@@ -17,6 +17,7 @@
 0.0.0.0 airvpn.org
 0.0.0.0 anondns.net
 0.0.0.0 beget.tech
+0.0.0.0 biz.ua
 0.0.0.0 blogsyte.com
 0.0.0.0 bo-ip.biz
 0.0.0.0 bounceme.net
@@ -84,6 +85,7 @@
 0.0.0.0 mefound.com
 0.0.0.0 misecure.com
 0.0.0.0 mooo.com
+0.0.0.0 mybluehost.me
 0.0.0.0 myddns.me
 0.0.0.0 myddns.rocks
 0.0.0.0 myftp.biz
@@ -136,6 +138,7 @@
 0.0.0.0 servepics.com
 0.0.0.0 servequake.com
 0.0.0.0 sinsincity.com
+0.0.0.0 softcom.net
 0.0.0.0 spdns.eu
 0.0.0.0 strangled.net
 0.0.0.0 swtest.ru
@@ -143,8 +146,10 @@
 0.0.0.0 thddns.net
 0.0.0.0 theworkpc.com
 0.0.0.0 thruhere.net
+0.0.0.0 tiscali.it
 0.0.0.0 twilightparadox.com
 0.0.0.0 viewdns.net
+0.0.0.0 web-hosting.com
 0.0.0.0 webhop.info
 0.0.0.0 webhop.me
 0.0.0.0 webredirect.org
