@@ -40,13 +40,13 @@ The procedure is simple and straightforward. You just need to set up your Python
 - Go to [VirusTotal.com](https://www.virustotal.com/) and create a free account.
 - Navigate to your Profile and note down the API key provided. This will be used for authentication.
 
-<p align="center"><img src="1.jpg" alt="VirusTotal Bulk Scanning"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/1.jpg" alt="VirusTotal Bulk Scanning"></p>
 
 ### Step 2: Download the vtSearch script
 
 Download the Python script from here and place it on your machine. We copied it to the `C:\` Directory on our machine.
 
-<p align="center"><img src="2.jpg" alt="VirusTotal Bulk Scanning"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/2.jpg" alt="VirusTotal Bulk Scanning"></p>
 
 ### Step 3: Install Python interpreter
 
@@ -55,7 +55,7 @@ Download the Python script from here and place it on your machine. We copied it 
 
 To ensure Python interpreter is working on your machine, run this command: `python -V`
 
-<p align="center"><img src="3.jpg" alt="VirusTotal Bulk Scanning"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/3.jpg" alt="VirusTotal Bulk Scanning"></p>
 
 ### Step 4: Run the Python script to Submit bulk IOCs to VirusTotal
 
@@ -82,7 +82,7 @@ We have a file `Sample.txt` in that we saved 10 phishing domains. Let's run the 
 python vtSearch.py -t url Sample.txt
 ```
 
-<p align="center"><img src="4.jpg" alt="VirusTotal Bulk Scanning"></p>
+<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/4.jpg" alt="VirusTotal Bulk Scanning"></p>
 
 The script creates a `csv` file to save the results. Here is the content of the `csv` file.
 
