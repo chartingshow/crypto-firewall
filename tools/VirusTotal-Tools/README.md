@@ -67,7 +67,7 @@ Open the `vtSearch.py` file and go to line 15 and add your API key in the `apiKe
 apiKey = 'bfdaea90d9f4be5cghhrwrtwhtw5h4aa25461c3e8b3d179'
 ```
 
-*Above is a dummy api key and not a real one!*
+_Above is a dummy api key and not a real one!_
 
 ### Step 5: Run the Python script to Submit bulk IOCs to VirusTotal
 
