@@ -6,11 +6,11 @@ import hashlib
 import random
 import re
 import optparse
-import urllib
-import urllib2
+import urllib.request, urllib.parse, urllib.error
+import urllib.request, urllib.error, urllib.parse
 import time
 import sys
-import cPickle
+import pickle
 
 apiKey = ''
 
@@ -36,9 +36,9 @@ def Serialize(filename, object):
     except:
         return False
     try:
-        cPickle.dump(object, fPickle, -1)
+        pickle.dump(object, fPickle, -1)
     except:
-        print sys.exc_info()
+        print(sys.exc_info())
         return False
     finally:
         fPickle.close()
@@ -50,10 +50,10 @@ def SerializeDictionary(filename, dInput):
     except:
         return False
     try:
-        for item in dInput.items():
-            cPickle.dump(item, fPickle, -1)
+        for item in list(dInput.items()):
+            pickle.dump(item, fPickle, -1)
     except:
-        print sys.exc_info()
+        print(sys.exc_info())
         return False
     finally:
         fPickle.close()
@@ -68,7 +68,7 @@ def DeSerialize(filename):
         except:
             return None
         try:
-            object = cPickle.load(fPickle)
+            object = pickle.load(fPickle)
         except:
             return None
         finally:
@@ -88,12 +88,12 @@ def DeSerializeDictionary(filename):
             return None
         try:
             while True:
-                item = cPickle.load(fPickle)
+                item = pickle.load(fPickle)
                 dReturn[item[0]] = item[1]
         except EOFError:
             pass
         except:
-            print sys.exc_info()
+            print(sys.exc_info())
             return None
         finally:
             fPickle.close()
@@ -136,12 +136,12 @@ def VTHTTPReportRequest(searchTerm, type):
     global apiKey
 
     statuscode = 0
-    req = urllib2.Request(vtReportURL[type], urllib.urlencode({'resource': searchTerm, 'apikey': apiKey}))
+    req = urllib.request.Request(vtReportURL[type], urllib.parse.urlencode({'resource': searchTerm, 'apikey': apiKey}))
     try:
         if sys.hexversion >= 0x020601F0:
-            hRequest = urllib2.urlopen(req, timeout=15)
+            hRequest = urllib.request.urlopen(req, timeout=15)
         else:
-            hRequest = urllib2.urlopen(req)
+            hRequest = urllib.request.urlopen(req)
     except:
         return statuscode, None
     try:
@@ -253,7 +253,7 @@ def File2Strings(filename):
     except:
         return None
     try:
-        return map(lambda line:line.rstrip('\n'), f.readlines())
+        return [line.rstrip('\n') for line in f.readlines()]
     except:
         return None
     finally:
@@ -284,37 +284,37 @@ def VirusTotalUpdate(filename, options):
     databaseFilename = GetPickleFile(options.globaldb)
     reports = DeSerializeDictionary(databaseFilename)
     if reports == None:
-        print('No database found: %s' % databaseFilename)
+        print(('No database found: %s' % databaseFilename))
         reports = {}
         return
     else:
-        print('Database loaded: %d elements %s' % (len(reports), databaseFilename))
+        print(('Database loaded: %d elements %s' % (len(reports), databaseFilename)))
 
     reportsToMerge = DeSerializeDictionary(filename)
     if reportsToMerge == None:
-        print('No database found: %s' % filename)
+        print(('No database found: %s' % filename))
         reportsToMerge = {}
     else:
-        print('Database loaded: %d elements %s' % (len(reportsToMerge), filename))
+        print(('Database loaded: %d elements %s' % (len(reportsToMerge), filename)))
 
     countAdded = 0
     countUpdated = 0
-    for key, value in reportsToMerge.items():
+    for key, value in list(reportsToMerge.items()):
         if not key in reports:
             reports[key] = value
             countAdded += 1
         elif value['scan_date'] > reports[key]['scan_date']:
             reports[key] = value
             countUpdated += 1
-    print('Records added: %d' % countAdded)
-    print('Records updated: %d' % countUpdated)
+    print(('Records added: %d' % countAdded))
+    print(('Records updated: %d' % countUpdated))
 
     reportsToMerge = None
     if countAdded > 0 or countUpdated > 0:
         if SerializeDictionary(databaseFilename, reports):
-            print('Database saved: %s' % databaseFilename)
+            print(('Database saved: %s' % databaseFilename))
         else:
-            print('Error saving database: %s' % databaseFilename)
+            print(('Error saving database: %s' % databaseFilename))
 
 def VirusTotalRefresh(options):
     global oLogger
@@ -332,7 +332,7 @@ def VirusTotalRefresh(options):
     if reports == None:
         reports = {}
 
-    dateshashes = sorted([(value['scan_date'], key) for key, value in reports.items()])
+    dateshashes = sorted([(value['scan_date'], key) for key, value in list(reports.items())])
     searchTermsToRequest = [hash for date, hash in dateshashes if date >= options.after]
 
     if options.refreshrandom:
@@ -364,10 +364,10 @@ def VirusTotalSearch(filename, options):
     else:
         searchTerms = File2Strings(filename)
         if searchTerms == None:
-            print('Error reading file %s' % filename)
+            print(('Error reading file %s' % filename))
             return
         elif searchTerms == []:
-            print('No searchterms in file %s' % filename)
+            print(('No searchterms in file %s' % filename))
             return
 
     headers = ('Search Term', 'Requested', 'Response', 'Scan Date', 'Detections', 'Total', 'Permalink', 'AVs', 'CVEs')
@@ -422,7 +422,7 @@ def VirusTotalSearch(filename, options):
             if searchTermsToRequest != []:
                 time.sleep(options.delay)
     if options.notfound:
-        Strings2File(options.notfound, dNotFound.keys())
+        Strings2File(options.notfound, list(dNotFound.keys()))
     if not options.noupdate:
         SerializeDictionary(GetPickleFile(options.globaldb), reports)
 

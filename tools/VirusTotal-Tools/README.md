@@ -44,6 +44,8 @@ The procedure is simple and straightforward. You just need to set up your Python
 
 ### Step 2: Download the vtSearch script
 
+**Note:** The `vtSearch` works on Python 3.x versions only.
+
 Download the Python script from here and place it on your machine. We copied it to the `C:\` Directory on our machine.
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/2.jpg" alt="VirusTotal Bulk Scanning"></p>
@@ -57,15 +59,25 @@ To ensure Python interpreter is working on your machine, run this command: `pyth
 
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/virus-total/3.jpg" alt="VirusTotal Bulk Scanning"></p>
 
-### Step 4: Run the Python script to Submit bulk IOCs to VirusTotal
+### Step 4: Add your VirusTotal API Key
+
+Open the `vtSearch.py` file and go to line 15 and add your API key in the `apiKey = ''` property, for example:
+
+```shell
+apiKey = 'bfdaea90d9f4be5cghhrwrtwhtw5h4aa25461c3e8b3d179'
+```
+
+_Above is a dummy api key and not a real one!_
+
+### Step 5: Run the Python script to Submit bulk IOCs to VirusTotal
 
 Before running the `vtSearch.py` let's learn about a couple of arguments to pass. This script accepts arguments like `-f`, `-t`, `-e` and `-d`.
 
-`-f` = It is a flag used to indicate the file has a list of md5 hash values.
+`-f` = It is a flag used to indicate the file has a list of **md5 hash** values.
 
-`-t` = It is a flag used to indicate the file has a list of IPs, URLs, or Domains.
+`-t` = It is a flag used to indicate the file has a list of **IPs, URLs, or Domains**.
 
-`-e` = It is a flag used to indicate the file has a list of sha256 hash values.
+`-e` = It is a flag used to indicate the file has a list of **sha256 hash** values.
 
 Some examples to Run the script:
 
