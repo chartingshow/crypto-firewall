@@ -1,138 +1,18 @@
 [uBlock Origin]
 # Filter list optimized for uBlock
 
-! Exchange Blocks ------------------------------------------------------
-
-! binance.com
-www.binance.com###global-banner-compliance-check
-
-! General Blocks -------------------------------------------------------
-/sensorsdata.$from=~sensorsdata.cn
-github.com##.Header-link > .js-feature-preview-indicator.feature-preview-indicator
-||abtest-va-tiktok.byteoversea.com^
-||adadvisor.net^
-||ads-api.tiktok.com^
-||ads-service.tiktok.com^
-||ads-sg.tiktok.com^
-||ads-va.tiktok.com^
-||ads.tiktok.com.edgekey.net^
-||ads.tiktok.com^
-||ads.us.tiktok.com^
-||adservice.google.com.sa^
-||adservice.google.com^
-||adservice.google.sn^
-||affiliate-id.tiktok.com^
-||affiliate.tiktok.com^
-||amazon-adsystem.com^
-||ampcid.google.tt^
-||an.facebook.com^
-||analysis.fi^
-||analytics-sg.tiktok.com.edgekey.net^
-||analytics-sg.tiktok.com^
-||analytics.tiktok.com.edgekey.net^
-||analytics.tiktok.com^
-||analytics.us.tiktok.com.edgesuite.net^
-||analytics.us.tiktok.com^
-||analytics.yahoo.com^
-||app-measurement.com^
-||b-graph.facebook.com^
-||badge.facebook.com^
-||badges.instagram.com^
-||business-api.tiktok.com^
-||buysellads.net^
-||choices.trustarc.com^
-||cloudflareinsights.com^
-||collector-cdn.github.com^
-||collector.github.com^
-||connatix.com^
-||connect.facebook.com^
-||cookielaw.org^
-||crashlogs.whatsapp.net^
-||dianomi.com^
-||disqus.com^
-||disquscdn.com^
-||dit.whatsapp.net^
-||dns.facebook.com^
-||doubleclick.net^
-||facebook.com.vn^
-||firstimpression.io^
-||fitanalytics.com^
-||gecko-va.tiktokv.com.edgesuite.net^
-||github.com/_private/browser/stats
-||google-analytics.com^
-||googleadservices.com^
-||googlesyndication.com^
-||googletagmanager.com^
-||googletagservices.com^
-||graph.instagram.com^
-||instagram.fcdg1-1.fna.fbcdn.net^
-||instagram.felp1-1.fna.fbcdn.net^
-||instagramfollowbutton.com^
-||jnn-pa.googleapis.com^
-||log-va.tiktokv.com.edgekey.net^
-||log16-normal-alisg.tiktokv.com.edgekey.net^
-||log16-normal-useast2a.tiktokv.com.edgekey.net^
-||logger.instagram.com^
-||marketo.net^
-||mcs-va.tiktok.com^
-||mon-va.tiktokv.com.edgesuite.net^
-||mqtt-p4.facebook.com^
-||mssdk-va.tiktok.com^
-||nelreports.net^
-||onetrust.com^
-||p16-tiktok-ads-sg.ibyteimg.com^
-||pagead2.googlesyndication.com^
-||parsely.com^
-||pivotal.github.com^
-||pixel.facebook.com^
-||platform.cdninstagram.com^
-||platform.facebook.com^
-||play.google.com/log$xhr,domain=www.youtube.com
-||privatestats.whatsapp.net^
-||pub.network^
-||quantcast.com^
-||quantserve.com^
-||saasexch.com^
-||salesloft.com^
-||scorecardresearch.com^
-||sentry.io^
-||servedby-buysellads.com^
-||stat.github.com^
-||staticxx.facebook.com^
-||stats.github.com^
-||tbstat.com^
-||tiktok-flow.com^
-||tiktok-labs.com^
-||tiktok-searches.com^
-||tiktokv.com^
-||www.dianomi.com^
-||www.googletagmanager.com^
-||www.youtube.com/youtubei/v1/log_event$xhr,domain=www.youtube.com
-||xlog.tiktokv.com.edgesuite.net^
-||yandexmetrica.com^
-||yt3.ggpht.com$image,domain=www.youtube.com
-||z-p3-api.facebook.com^
-
 ! Social Media Blocks --------------------------------------------------
 
 ! twitter.com
-||ads-api-sandbox.twitter.com^
-||ads-api.twitter.com^
-||ads-bidder-api-sandbox7.twitter.com^
-||ads-bidder-api.twitter.com^
-||ads-twitter.com^
-||advertising.twitter.com^
-||analytics.twitter.com^
-||cards.twitter.com^
-||p.twitter.com^
-||spring-chicken-ad.twitter.com^
-||spruce-goose-ad.twitter.com^
-||syndication.twitter.com^
-||urls.api.twitter.com^
 twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(5) > div:nth-of-type(1) > a > span:nth-of-type(1) > span
 twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(5) > div:nth-of-type(2) > a > span:nth-of-type(1) > span
 
 ! -------- Other Socil Media Platforms
+
+! Exchange Blocks ------------------------------------------------------
+
+! binance.com
+www.binance.com###global-banner-compliance-check
 
 ! Crypto Blocks --------------------------------------------------------
 
