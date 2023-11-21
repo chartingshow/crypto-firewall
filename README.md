@@ -30,6 +30,11 @@ This is a filter list to block browser-based crypto mining, cryptojacking, injec
 - [Installation](#installation-%EF%B8%8F)
   - [AdBlock Filter](#adblock-filter-)
 - [Basic usage](#basic-usage-)
+  - [Stable Versions](#stable-versions-)
+    - [Lite Version](#lite-version)
+    - [Full Version](#full-version)
+    - [Mega Version](#mega-version)
+  - [Unstable Beta Version](#unstable-beta-version-%EF%B8%8F)
 - [Hosts based blocking](#hosts-based-blocking-)
   - [Hosts](#hosts-)
   - [Adblockers](#adblockers-%EF%B8%8F)
@@ -77,15 +82,65 @@ For a thorough explanation on how to add the to your adblocker, open one of the 
 
 - https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
 
+### Stable Versions 🏆
+
+#### Lite Version
+
+The `Lite` version **excludes all the modules**.
+
 There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware.txt
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt
+
+#### Full Version
+
+The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/crypto-annoyances-ublock.txt) and [adverts-filters (unstable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/adverts-filters) modules)**.
+
+There are two methods to install into your adblocker:
+
+1. Click the link below:
+
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists)
+
+2. Copy and paste the link in the settings of the ad-blocker:
+
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt
+
+#### Mega Version
+
+The `Mega` version **contains all the modules (except [adverts-filters (unstable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/adverts-filters) module)**.
+
+There are two methods to install into your adblocker:
+
+1. Click the link below:
+
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists)
+
+2. Copy and paste the link in the settings of the ad-blocker:
+
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt
+
+### Unstable Beta Version ⚠️
+
+The `Beta` version **contains all the stable and unstable modules**.
+
+> To help the repo grow, please feel free to **report any bugs!**
+
+There are two methods to install into your adblocker:
+
+1. Click the link below:
+
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists)
+
+2. Copy and paste the link in the settings of the ad-blocker:
+
+- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt
 
 ## Hosts based blocking 💢
 

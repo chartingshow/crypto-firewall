@@ -9,6 +9,33 @@ twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > d
 
 ! -------- Other Socil Media Platforms
 
+
+! TradingView Annoyances -------------------------------------------------------
+tradingview.com###tv-toasts
+tradingview.com##.tv-dialog__modal-body
+tradingview.com##.tv-dialog__modal-container
+tradingview.com##.tv-dialog__modal-wrap
+tradingview.com##.tv-dialog__overlay
+tradingview.com##.tv-header__link
+tradingview.com##.tv-toasts
+tradingview.com##[class^=backdrop]
+tradingview.com##[class^=notifications]
+tradingview.com##[class^=toast-wrapper]
+tradingview.com##[class^=toast]
+tradingview.com##[data-role*="toast-container"]
+||economic-calendar.tradingview.com^$xhr
+||failover-telemetry-as.tradingview.com^
+||failover-telemetry-eu.tradingview.com^
+||failover-telemetry-us.tradingview.com^
+||prod-telemetry-oc.tradingview.com^
+||prod-telemetry-other.tradingview.com^
+||prod-telemetry-us.tradingview.com^
+||snowplow-pixel.tradingview.com^
+||static.tradingview.com/static/bundles/branding-source.*.js$script,1p
+||telemetry-partial.tradingview.com^
+||telemetry.tradingview.com^
+||tradingview.com/ping
+
 ! Exchange Blocks ------------------------------------------------------
 
 ! binance.com
