@@ -40,6 +40,8 @@ https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto
 https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt
 ```
 
+Example:
+
 <p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ublock/4b.jpg" /></p>
 
 5. Click on the **Apply Changes** button.
