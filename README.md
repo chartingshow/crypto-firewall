@@ -2,11 +2,13 @@
   <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
 </p>
 
-<h1 align="center">Charting Show Crypto Firewall</h1>
+<h1 align="center">Charting Show - Crypto Firewall</h1>
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-new.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-2.jpg" /></p>
 
-This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites (all trying to steal cryptocurrency from other users). Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or a **Pull request** to add them to the lists.
+Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers.
+
+If you discover a false positive or need to add a new block, then feel free to raise an **Issue** or a **Pull request** to add/remove them to the lists.
 
 <p align="center">
     <img src="/assets/images/stars.svg" alt="stars" />

@@ -12,19 +12,19 @@ Multiple scams running on Twitter and abusing legitimate platforms like [PayPal'
 
 One of the scams, for example, touts itself to be a "Turkey Earthquake Relief" fundraiser on Twitter. To lend itself some credibility, the account persistently retweets updates from established news outlets and government officials:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/1.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/1.jpg"></p>
 <p align="center"><strong>Fraudulent 'Turkey Relief' Twitter account</strong></p>
 
 Notice the PayPal link in this account's bio, however. This is the ultimate lure - to drive donors to the real `PayPal.com` website which is hosting a fundraiser page:
 
 The fake Twitter account has since been suspended, although the PayPal fundraising page is still up at the time of our analysis.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/2.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/2.jpg"></p>
 <p align="center"><strong>Genuine PayPal.com abused in Turkey relief scam</strong></p>
 
 We further observed the PayPal fundraiser had collected a total of $900 in donations, with the creator of the page "donating" $500 to their own "cause" to make the fundraiser appear authentic:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/3.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/3.jpg"></p>
 <p align="center"><strong>Donation amounts raised by the PayPal 'fundraiser'</strong></p>
 
 We reported this fundraiser to PayPal and approached the company for comment.
@@ -37,14 +37,14 @@ A PayPal spokesperson shared the following statement:
 
 On PayPal alone, there exist multiple fundraisers for the current cause. How do you tell a fraudulent one from the real deal?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/4.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/4.jpg"></p>
 <p align="center"><strong>Multiple PayPal fundraisers for Turkey and Syria</strong></p>
 
 In some other instances, we observed individual Twitter users pointing donors to their personal `PayPal.me` links and claiming to raise funds for the noble cause.
 
 Luckily, some sharp-eyed observers caught an interesting detail: **PayPal has not been operating in Turkey since at least 2016**. As such, Twitter user accounts with "Turkish" sounding names who claim to be _based in Turkey_ but instead urge donors to pay up via PayPal raise a red flag.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/5.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/5.jpg"></p>
 <p align="center"><strong>English translation of PayPal Turkey's notice issued in 2016</strong></p>
 
 Bear in mind though, legitimate charities operating _outside_ of Turkey may very well choose to use PayPal, Venmo and similar payments platforms for genuine fundraising efforts, where applicable.
@@ -59,20 +59,20 @@ In another scam, we observed scammers abusing Twitter by flooding replies with t
 
 The threat actor controlling a burner Twitter account replies to tweets from prominent personalities and businesses with a huge following, such as `Elon Musk` and `@DogeCoin`, to maximize the scam's reach. In these replies, the scammer posts their fraudulent wallet address to dupe donors:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/6.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/6.jpg"></p>
 <p align="center"><strong>Scammer flooding Twitter replies with illicit crypto addresses</strong></p>
 
 In yet another scam, we saw **individual Twitter users** claiming to raise crypto donations:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/7.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/7.jpg"></p>
 <p align="center"><strong>Fake crypto donation addresses</strong></p>
 
 Searching these wallet addresses online quickly revealed that these had been associated with suspicious accounts and webpages (including adult content threads on the Russian social media website, VK. This casts doubts on the veracity of claims made by these "fundraisers."
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/8.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/8.jpg"></p>
 <p align="center"><strong>Same wallet addresses re-purposed elsewhere by other accounts</strong></p>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/9.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/9.jpg"></p>
 <p align="center"><strong>Wallet addresses were earlier listed on `VK.com` threads</strong></p>
 
 We traced similar fraudulent wallet addresses and observed that altogether these crypto wallets were either empty or had no more than a few hundred dollars, given the recency of these scams. That is not to say that this will forever remain the case, should unsuspecting donors start falling for these scams.
@@ -83,19 +83,19 @@ Scammers are sending phishing emails that claim to come from charities. These ch
 
 These emails urge recipients to support earthquake victims by making crypto donations to wallet addresses that are, predictably, not associated with any known government or trustworthy entities:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/10.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/10.jpg"></p>
 <p align="center"><strong>Fake Turkey/Syria fundraiser email claims to originate from a dodgy charity</strong></p>
 
 The domain hosting the so-called Wladimir Charity Foundation was created a few weeks ago and is already blacklisted by our anti-spam and anti-fraud filters.
 
 The 'Wladimir Charity Foundation' website had earlier been claiming to raise funds for Ukraine war victims:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/11.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/11.jpg"></p>
 <p align="center"><strong>Dubious 'Wladimir Foundation' charity website listing crypto address</strong></p>
 
 Also circulating lately are scam emails claiming to originate from 'UNICEF' partners:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/12.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/paypal-and-twitter-abused-crypto-donation-scams/12.jpg"></p>
 <p align="center"><strong>Fake 'Earthquake Relief' emails claim to be associated with UNICEF</strong></p>
 
 Scammers claim they are a world charity organization in collaboration with UNICEF and call for donations in support of the affected children and families in both countries.

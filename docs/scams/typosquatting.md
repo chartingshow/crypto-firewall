@@ -1,6 +1,6 @@
 ## What is Typosquatting?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/1.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/1.jpg" alt="Typosquatting"></p>
 
 Typosquatting goes by many names: URL hijacking, domain mimicry and domain typo-squatting, to name a few. However, they all mean the same thing: malicious attackers register domain names similar to popular websites but with common typos and variations.
 
@@ -115,7 +115,7 @@ Thus, broadly we have domain typosquatting or package typosquatting. In either c
 
 ### Which are some variations or techniques in typosquatting?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/2.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/2.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Some typosquatting techniques.</p>
 
@@ -140,7 +140,7 @@ Here are some advanced typosquatting techniques:
 
 ### What harm can domain typosquatting cause to systems and businesses?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/3.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/3.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Typosquatting and redirection used to inject malware into systems</p>
 
@@ -156,7 +156,7 @@ It's been found that financial services, retail and critical infrastructure are 
 
 ### Which are some best practices to protect against domain typosquatting?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/4.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/4.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Check for HTTPS and domain name before the URL</p>
 
@@ -182,7 +182,7 @@ Algorithms could be knowledge-based where experts identify and apply features. W
 
 ### What are some AI/ML approaches to detecting typosquatting domains?
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/5.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/5.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Detect typosquatting domains via feature selection and bagging ensemble model</p>
 
@@ -238,7 +238,7 @@ As part of [RFC 3490](https://www.rfc-editor.org/rfc/rfc3490), the Internet Engi
 
 ### 2006
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/6.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/6.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Top six domain parking services with typosquatted domains</p>
 
@@ -254,7 +254,7 @@ At the Black Hat 2011 Technical Security Conference, Artem Dinaburg reveals **bi
 
 ### 2014
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/7.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/7.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Framework for detecting typosquatting domains</p>
 
@@ -262,7 +262,7 @@ Szurdi et al. propose a framework to detect typosquatting domains. They start wi
 
 ### Feb 2018
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/8.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/8.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Levenshtein distances among package names on npm</p>
 
@@ -274,7 +274,7 @@ A network of malicious sites ending in ".cm" is discovered. These sites were typ
 
 ### Apr 2020
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/typosquatting/9.jpg" alt="Typosquatting"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/typosquatting/9.jpg" alt="Typosquatting"></p>
 
 <p align="center">Above: Typosquatting names found in RubyGems repository</p>
 

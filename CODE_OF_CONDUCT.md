@@ -1,8 +1,8 @@
-# Summer CMS - Open Source Community Guidelines
+# Charting Show - Open Source Community Guidelines
 
 We recognize and celebrate the creativity and collaboration of open source contributors and the diversity of skills, experiences, cultures and opinions they bring to projects and communities they participate in.
 
-Every one of our open source Summer CMS modules, projects and communities are inclusive environments, based on treating all individuals respectfully, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race,
+Every one of our open source Charting Show modules, projects and communities are inclusive environments, based on treating all individuals respectfully, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race,
 age, religion, or similar personal characteristic.
 
 We value diverse opinions, but we value respectful behavior more!
@@ -15,11 +15,11 @@ Respectful behavior includes:
 
 - Not engaging in unwanted physical contact.
 
-Some Summer CMS open source projects **may adopt** an explicit project code of conduct, which may have additional detailed expectations for participants. Most of those projects will use our **modified Contributor Covenant**.
+Some Charting Show open source projects **may adopt** an explicit project code of conduct, which may have additional detailed expectations for participants. Most of those projects will use our **modified Contributor Covenant**.
 
 ## Our Standards
 
-Summer CMS is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+Charting Show is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -61,7 +61,7 @@ If you are unable to resolve the matter for any reason, or if the behavior is th
 
 ## Reporting problems
 
-Some Summer CMS open source projects may adopt a project-specific code of conduct. In those cases, a project member will be identified as the Project Steward, who will receive and handle reports of code of conduct violations. In the event that a project hasn't identified a Project Steward, you can report problems by contacting us.
+Some Charting Show open source projects may adopt a project-specific code of conduct. In those cases, a project member will be identified as the Project Steward, who will receive and handle reports of code of conduct violations. In the event that a project hasn't identified a Project Steward, you can report problems by contacting us.
 
 We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the project and project-sponsored spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone's safety, we may take action without
 notice.
@@ -72,7 +72,7 @@ Please report all incidents where someone has engaged in behavior that is potent
 
 ### How to Give a Report
 
-To report an individual or a Summer CMS team member, please contact us and we'll discuss it in private.
+To report an individual or a Charting Show team member, please contact us and we'll discuss it in private.
 
 ## What happens after the report is filed
 
@@ -86,8 +86,8 @@ All reports are reviewed and responded to based on the nature of the report and 
 
 ### Redress
 
-When an investigation is complete, to the extent the wrongdoer is subject to Summer CMS's control, appropriate measures will be taken to address the situation.
+When an investigation is complete, to the extent the wrongdoer is subject to Charting Show's control, appropriate measures will be taken to address the situation.
 
 ### No Retaliation
 
-Summer CMS does not tolerate retaliation against people who report concerns under the Community [Participation](PARTICIPATION.md) Guidelines in good faith. Acts of retaliation should be reported in the same process as described above.
+Charting Show does not tolerate retaliation against people who report concerns under the Community [Participation](PARTICIPATION.md) Guidelines in good faith. Acts of retaliation should be reported in the same process as described above.

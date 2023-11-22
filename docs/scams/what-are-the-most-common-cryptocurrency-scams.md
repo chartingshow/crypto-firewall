@@ -241,7 +241,7 @@ In late July, a programmer at Estonia's CoinsPaid, a crypto payment provider, me
 
 A few days later, on July 22, the CoinsPaid security team noticed a series of unusual withdrawals - money was quickly being drained from company accounts. By the time they were able to shut everything down and kick out the hackers four-and-a-half hours later, CoinsPaid had lost $37 million, and both the origin of the stolen crypto and the addresses of the digital wallets that received it had been carefully obscured.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/north-korea-fake-job-posting.jpg" alt="fake crypto job listings"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/north-korea-fake-job-posting.jpg" alt="fake crypto job listings"></p>
 
 ### Lotteries, sweepstakes and contests
 

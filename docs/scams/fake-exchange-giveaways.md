@@ -2,7 +2,7 @@
 
 Threat actors have created fake cryptocurrency giveaways on social media platforms like Instagram, TikTok, Twitter, YouTube etc for years. These scams pretend to be giveaways from celebrities, cryptocurrency exchanges and more commonly impersonating **Elon Musk**, **Tesla** or **SpaceX**.
 
-The scammers set up hundreds of websites that pretend to be **crypto exchanges** or **giveaway sites** that prompt users to register an account to receive free cryptocurrency. However, as expected, **these scams simply steal any deposited crypto, with the users receiving nothing in return**.
+The scammers set up hundreds of websites that pretend to be **crypto exchanges** or **giveaway sites** that prompt users to register an account to receive free cryptocurrency. However, as expected, **these scams simply steal any deposited crypto, with the users receiving nothing in return**.
 
 > While you would think that most people would see through these scams, they have been incredibly successful in the past, with scams stealing millions of dollars in cryptocurrency from unsuspecting social media users.
 
@@ -14,11 +14,11 @@ These videos are posted hourly and contain a deep fake video of Elon Musk being 
 
 Some videos are a bit more amateurish, simply showing how to log in to a listed website and enter a promo code to receive free Bitcoin.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/exchange-giveaway-scams/1.jpg" alt="fake crypto exchanges"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/exchange-giveaway-scams/1.jpg" alt="fake crypto exchanges"></p>
 
 Testing one of these giveaways scams to see how it works, revealed that almost all utilize the same template, which pretends to be a crypto investment platform.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/exchange-giveaway-scams/2.jpg" alt="fake crypto exchanges"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/exchange-giveaway-scams/2.jpg" alt="fake crypto exchanges"></p>
 
 To take part in the giveaway:
 
@@ -28,7 +28,7 @@ To take part in the giveaway:
 
 For example, the scam website below **pretended to deposit 0.34 Bitcoin into my wallet**, worth approximately $9,000.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/exchange-giveaway-scams/3.jpg" alt="fake crypto exchanges"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/exchange-giveaway-scams/3.jpg" alt="fake crypto exchanges"></p>
 
 However, when attempting to withdraw the "Free Bitcoins" you need to do the following:
 
@@ -36,7 +36,7 @@ However, when attempting to withdraw the "Free Bitcoins" you need to do the foll
 
 > As you will never receive any bitcoins from the website, the **scammers generate their revenue by stealing these "activation" deposits**.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/exchange-giveaway-scams/4.jpg" alt="fake crypto exchanges"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/exchange-giveaway-scams/4.jpg" alt="fake crypto exchanges"></p>
 
 > To make matters worse, you will also be prompted to enter KYC information, which can be collected by the threat actors to attempt to breach your other legitimate cryptocurrency accounts.
 

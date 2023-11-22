@@ -6,7 +6,7 @@ However, these accounts, primarily listing crypto wallet addresses, have dubious
 
 An example we came across was a "Gaza Relief Aid" account on X, which uses a website and maintains a presence on Telegram and Instagram:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/1.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/palestine-crypto-donation-scams/1.jpg"></p>
 <p align="center"><strong>Aid Gaza Twitter account</strong></p>
 
 The domain, associated with the account was registered 2 weeks ago and is not endorsed by any established charitable organizations, contrary to its claim of being "An Islamic Relief Initiative" listed on the page's footer.
@@ -15,12 +15,12 @@ The website's copy, however, has been lifted from the [Islamic Relief's official
 
 It is also worth noting, other than a handful of "press releases" that are syndicated verbatim from news wire agencies reporting on the Israel-Hamas war and images of injured war victims, the website has no information with regards to the people behind it, the organization, or an associated contact number and a physical address.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/2.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/palestine-crypto-donation-scams/2.jpg"></p>
 <p align="center"><strong>'AidGaza' website and social media accounts claim that it provides humanitarian aid</strong></p>
 
 The scam operators behind this account have listed their Ethereum, Bitcoin and USDT addresses on its website and social media accounts where funds should be sent.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/3.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/palestine-crypto-donation-scams/3.jpg"></p>
 <p align="center"><strong>'Aid Gaza' support page lists Bitcoin, Ethereum, USDT wallet addresses</strong></p>
 
 Fortunately, the crypto addresses' transaction history and observed no donations have been sent yet to any of these addresses.
@@ -43,10 +43,10 @@ The emotional language and visual aids used in these communications are once aga
 
 The websites support easy money transfer options and accept a wide range of crypto: Bitcoin, Ethereum, Tether and Litecoin. An example is shown below.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/4.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/palestine-crypto-donation-scams/4.jpg"></p>
 <p align="center"><strong>A fake website seeking crypto donations</strong></p>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/palestine-crypto-donation-scams/5.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/palestine-crypto-donation-scams/5.jpg"></p>
 <p align="center"><strong>A suspicious 'Help Palestine Society' website ranking in Google search engine</strong></p>
 
 Using the wallet addresses, experts discovered additional fraudulent web pages claiming to collect aid for various other groups in the conflict area.

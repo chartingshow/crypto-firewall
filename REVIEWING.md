@@ -5,5 +5,5 @@ A reviewer should not tolerate poor behavior and is encouraged to [report any be
 
 ## Review process
 
-The Summer CMS team has a well-defined review process that must be followed by reviewers in all repositories under the Summer CMS organization.
+The Charting Show team has a well-defined review process that must be followed by reviewers in all repositories under the Charting Show organization.
 This process is described in detail in the [what happens after the report is filed](CODE_OF_CONDUCT.md#what-happens-after-the-report-is-filed) section on the code of conduct page.

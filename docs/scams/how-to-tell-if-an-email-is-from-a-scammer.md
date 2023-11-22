@@ -21,7 +21,7 @@ Even if you have the tiniest suspicion that an email is from a scammer, stop wha
 *   It has the same font and styling as PayPal.
 *   It catches you "off-guard" by tricking you into thinking you sent someone money.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/1.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/1.jpg" alt="scam emails"></p>
 
 Above: This is a scam email. Look at the strange sender email address starting with "kp7sx..."
 
@@ -61,7 +61,7 @@ These accounts are free to use and can be customized to look like they're coming
 
 A good example is the IRS tax scam. In these scam emails, hackers pretend to be from the IRS and request your SSN to "verify" your identity before they send you a **tax refund.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/2.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/2.jpg" alt="scam emails"></p>
 
 Above: A screenshot of a scam email claiming to be from the IRS.
 
@@ -71,7 +71,7 @@ Like most established and reputable organizations, the IRS doesn't ask for sensi
 
 ### 2. Urgent or threatening tone ("Someone has access to your account!")
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/3.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/3.jpg" alt="scam emails"></p>
 
 Above: Classic "verify account" phishing scam email example.
 
@@ -83,7 +83,7 @@ One of the most common phishing messages is claiming that your legitimate accoun
 
 The emails will include a link that sends you to a site that prompts you to enter your login credentials in order to ensure your account is safe.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/4.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/4.jpg" alt="scam emails"></p>
 
 These scam emails can be hard to identify, especially if they reference accounts you actually use.
 
@@ -99,7 +99,7 @@ For example, let's say you're living in Michigan and you receive an email saying
 
 Even if they use your full name or a common username, there's a pretty low chance that it's a lucky mistake. Instead, scammers are most likely trying to get you to enter your financial information or download malware on your devices.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/5.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/5.jpg" alt="scam emails"></p>
 
 These scams can happen over social media, website pop-ups, phone calls and even text messages. But remember the golden rule of avoiding fraud: **If an offer, promise or opportunity looks "too good to be true," it almost always is**.
 
@@ -110,7 +110,7 @@ These scams can happen over social media, website pop-ups, phone calls and even 
 *   Even the footer looks real. They even included privacy policy.
 *   The strange sender address clearly gives it away.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/6.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/6.jpg" alt="scam emails"></p>
 
 Above: Fake USPS tracking numbers are also on the rise. If you weren't expecting a delivery, don't fall for this.
 
@@ -120,7 +120,7 @@ The goal of most fake emails is for you to click on a link and go to a website t
 
 Always double-check email links before clicking on them. You can do this by hovering your cursor over the linked text to see where it takes you. If **the link is suspicious or doesn't match up with what you expect** (based on the text or sender's name), be very cautious.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/7.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/7.jpg" alt="scam emails"></p>
 
 > **Pro tip:** Don't automatically trust links from email addresses you know. Scammers will often hack email addresses or use stolen login credentials purchased from the Dark Web to pretend they're someone you know or trust. This scam is a type of identity theft called Account Takeovers (ATO).
 
@@ -148,11 +148,11 @@ Unfortunately, these errors can sometimes go unnoticed as we quickly scan throug
 
 Look at the text in the email below. At first glance, you won't pick up the grammatical errors.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/8.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/8.jpg" alt="scam emails"></p>
 
 But on a second pass, you'll start to see typos and unusual grammar, such as the sentence structure.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/9.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/9.jpg" alt="scam emails"></p>
 
 Poor spelling and grammar don't automatically mean you're looking at a scam email. But it's a warning sign that you should be careful about taking any further action.
 
@@ -164,7 +164,7 @@ Malicious attachments in emails are among the most common phishing attacks from 
 
 Hackers often disguise these viruses as legitimate files, such as invoices or software updates. These emails will even use your real information - name, email address and more (all stolen from the Dark Web).
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/10.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/10.jpg" alt="scam emails"></p>
 
 Another scam is to "hide" malware inside services you know and trust like Google Docs or Microsoft Word. This is called a trojan (after the famous wooden horse).
 
@@ -214,7 +214,7 @@ If you clicked a link or downloaded an attachment, don't panic. Instead, follow 
 7.  **Back up your sensitive files.** A good rule of thumb is to keep copies of all your files in cases of data breach or loss. Back up sensitive information like photos, documents, videos and other important files to an external drive.
 8.  **Scan the Dark Web for your information.** Having your information circulating on the Dark Web constantly opens you up to receiving attacks from hackers. For example, the leaking of sensitive information such as your SSN allows hackers the chance to steal your identity.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/emails/11.jpg" alt="scam emails"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/emails/11.jpg" alt="scam emails"></p>
 
 ## How To Protect Yourself From Email Scammers and Hackers
 

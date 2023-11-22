@@ -1,8 +1,8 @@
-## Summer CMS Community Participation Guidelines
+## Charting Show Community Participation Guidelines
 
 **Version 1.0 – Updated January 1, 2023**
 
-The heart of Summer CMS is it's community. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Summer CMS Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
+The heart of Charting Show is it's community. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Charting Show Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
 
 These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
 
@@ -28,22 +28,22 @@ Openness, collaboration and participation are core aspects of our work, from dev
 
 ### When and How to Use These Guidelines
 
-These guidelines outline our behavior expectations as members of the Summer CMS community in all Summer CMS activities, both offline and online. Your participation is contingent upon following these guidelines in all Summer CMS activities, including but not limited to:
+These guidelines outline our behavior expectations as members of the Charting Show community in all Charting Show activities, both offline and online. Your participation is contingent upon following these guidelines in all Charting Show activities, including but not limited to:
 
-- Working in the Summer CMS software repositories.
-- Working with other Summer CMS team members and other Summer CMS community participants virtually or co-located.
-- Representing Summer CMS at public events.
-- Representing Summer CMS in social media (official accounts, staff accounts, personal accounts, social media pages).
-- Participating in Summer CMS offsites and trainings.
-- Participating in Summer CMS-related forums, mailing lists, wikis, websites, chat channels, bugs, group(s) or person-to-person meetings and Summer CMS-related correspondence.
+- Working in the Charting Show software repositories.
+- Working with other Charting Show team members and other Charting Show community participants virtually or co-located.
+- Representing Charting Show at public events.
+- Representing Charting Show in social media (official accounts, staff accounts, personal accounts, social media pages).
+- Participating in Charting Show offsites and trainings.
+- Participating in Charting Show-related forums, mailing lists, wikis, websites, chat channels, bugs, group(s) or person-to-person meetings and Charting Show-related correspondence.
 
-These guidelines work in conjunction with our [Anti-Harassment/Discrimination Policies](DISCRIMINATION_POLICY.md), which sets out protections for and obligations of Summer CMS team members. The [Anti-Harassment/Discrimination Policy](DISCRIMINATION_POLICY.md) is crafted with specific legal definitions and requirements in mind.
+These guidelines work in conjunction with our [Anti-Harassment/Discrimination Policies](DISCRIMINATION_POLICY.md), which sets out protections for and obligations of Charting Show team members. The [Anti-Harassment/Discrimination Policy](DISCRIMINATION_POLICY.md) is crafted with specific legal definitions and requirements in mind.
 
-While these [code of conduct](CODE_OF_CONDUCT.md) guidelines are specifically aimed at Summer CMS's work and community, we recognize that it is possible for actions taken outside of Summer CMS's online or in person spaces to have a deep impact on community health. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+While these [code of conduct](CODE_OF_CONDUCT.md) guidelines are specifically aimed at Charting Show's work and community, we recognize that it is possible for actions taken outside of Charting Show's online or in person spaces to have a deep impact on community health. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
 
 ## Expected Behavior
 
-The following behaviors are expected from all Summer CMS team members:
+The following behaviors are expected from all Charting Show team members:
 
 ### Be Respectful
 
@@ -78,7 +78,7 @@ Community members come from many cultures and backgrounds. Cultural differences 
 
 ### Lead by Example
 
-By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for Summer CMS's mission.
+By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for Charting Show's mission.
 
 ## Behavior That Will Not Be Tolerated
 
@@ -135,13 +135,13 @@ We will treat influencing or leading such activities the same way we treat the a
 
 ### Consequences of Unacceptable Behavior
 
-Bad behavior from any Summer CMS team member, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from Summer CMS activities are not acceptable and will be dealt with appropriately.
+Bad behavior from any Charting Show team member, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from Charting Show activities are not acceptable and will be dealt with appropriately.
 
 Reports of harassment/discrimination will be promptly and thoroughly investigated by the people responsible for the safety of the space, event or activity. Appropriate measures will be taken to address the situation.
 
 Anyone being asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in anyone being asked to leave an event or online space, either temporarily or for the duration of the event, or being banned from participation in spaces, or future events and activities in perpetuity.
 
-Summer CMS Staff are held accountable, in addition to these guidelines, to Summer CMS's staff [Anti-Harassment/Discrimination Policies](DISCRIMINATION_POLICY.md). Summer CMS staff in violation of these guidelines may be subject to further consequences, such as disciplinary action, up to and including termination of employment. For contractors or vendors, violation of these guidelines may affect continuation or renewal of contract.
+Charting Show Staff are held accountable, in addition to these guidelines, to Charting Show's staff [Anti-Harassment/Discrimination Policies](DISCRIMINATION_POLICY.md). Charting Show staff in violation of these guidelines may be subject to further consequences, such as disciplinary action, up to and including termination of employment. For contractors or vendors, violation of these guidelines may affect continuation or renewal of contract.
 
 In addition, any participants who abuse the reporting process will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.
 
@@ -155,13 +155,13 @@ Please also report to us if you observe a potentially dangerous situation, someo
 
 If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
 
-### Summer CMS Software Repositories
+### Charting Show Software Repositories
 
-Each Summer CMS Software Repository shall be included under this policy.
+Each Charting Show Software Repository shall be included under this policy.
 
-### Summer CMS Events
+### Charting Show Events
 
-All Summer CMS events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
+All Charting Show events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
 
 Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal the decision.
 
@@ -171,4 +171,4 @@ Everyone is encouraged to ask questions about these guidelines. If you are organ
 
 ## Modifications to these Guidelines
 
-Summer CMS may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it.
+Charting Show may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it.

@@ -1,6 +1,6 @@
-﻿# Summer CMS Governance Policy
+﻿# Charting Show Governance Policy
 
-The data governance policy is a documented set of guidelines for ensuring Summer CMS's data and information assets are managed consistently and used properly.
+The data governance policy is a documented set of guidelines for ensuring Charting Show's data and information assets are managed consistently and used properly.
 
 ## Table of Contents 📑
 
@@ -20,17 +20,17 @@ The data governance policy is a documented set of guidelines for ensuring Summer
 
 ## Glossary
 
-- **Advisory Committee (AC)** - A group of people with representation from a variety of Summer CMS's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
+- **Advisory Committee (AC)** - A group of people with representation from a variety of Charting Show's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
 
 - **Facilitator** - A member of a governance body who is responsible for facilitating the consensus-based decision making process and acting as a representative to other governance bodies.
 
 - **Governance body** - Any of the Advisory Committee, Technical Steering Committee and Workings Groups.
 
-- **Users** - Developers and webmasters who use Summer CMS but haven't contributed to it (yet).
+- **Users** - Developers and webmasters who use Charting Show but haven't contributed to it (yet).
 
-- **End Users** - People who consume content distributed using the Summer CMS format.
+- **End Users** - People who consume content distributed using the Charting Show format.
 
-- **Technical Steering Committee (TSC)** - A group of people who set Summer CMS's technical and product direction.
+- **Technical Steering Committee (TSC)** - A group of people who set Charting Show's technical and product direction.
 
 - **Working Groups (WG)** - A group of people who have a familiarity and interest in a given area; may be cross-cutting (e.g. "Documentation") or focused on a given area (e.g. "Monetization" or "Performance"). These are formally recognized by the TSC, but may form informally.
 
@@ -44,7 +44,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Membership
 
-- Membership on the Advisory Committee shall include representatives from major Summer CMS constituencies (Collaborators, Contributors, Users and End-Users) who are committed to fulfilling [Summer CMS's Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md).
+- Membership on the Advisory Committee shall include representatives from major Charting Show constituencies (Collaborators, Contributors, Users and End-Users) who are committed to fulfilling [Charting Show's Design Goals](https://github.com/chartingshow/crypto-firewall/blob/master/DESIGN_GOALS.md).
 - Membership on the Advisory Committee is not time limited.
 - The target size of the Advisory Committee is 6-12 members; but there is no fixed size.
 - Once established the Advisory Committee sets its own membership through the consensus-based process.
@@ -55,26 +55,26 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 
-- Technical leadership of the Summer CMS project is delegated to the TSC in accordance with the [Summer CMS Contributing Policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md).
-- The TSC's primary role is setting Summer CMS's technical and product direction based on the [Summer CMS's Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md).
+- Technical leadership of the Charting Show project is delegated to the TSC in accordance with the [Charting Show Contributing Policy](https://github.com/chartingshow/crypto-firewall/blob/master/CONTRIBUTING.md).
+- The TSC's primary role is setting Charting Show's technical and product direction based on the [Charting Show's Design Goals](https://github.com/chartingshow/crypto-firewall/blob/master/DESIGN_GOALS.md).
 - Creates a product roadmap in consultation with the Working Groups.
 - Creates Working Groups and sets the initial membership and initial Facilitator of the Working Groups. The TSC may initiate the creation of Working Groups or a group of people with a common interest may request recognition as a Working Group.
 - Approves new Collaborators.
 - Sets and maintains the project goals guidelines.
 - Sets and maintains the project's feature and bug fix process.
-- Enforces the [Code of Conduct](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CODE_OF_CONDUCT.md).
-- Approves changes to the Summer CMS Charter and this document as described in the [Summer CMS Contributing Policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md).
-- The TSC may designate entities to perform security and privacy reviews for the Summer CMS code and features.
+- Enforces the [Code of Conduct](https://github.com/chartingshow/crypto-firewall/blob/master/CODE_OF_CONDUCT.md).
+- Approves changes to the Charting Show Charter and this document as described in the [Charting Show Contributing Policy](https://github.com/chartingshow/crypto-firewall/blob/master/CONTRIBUTING.md).
+- The TSC may designate entities to perform security and privacy reviews for the Charting Show code and features.
 - The TSC may escalate legal questions to the Foundation.
-- Decisions within the TSC follow Summer CMS [decision-making policy](https://github.com/Summer-CMS-Modules/sc-main/blob/master/GOVERNANCE.md#decision-making-policy) and are facilitated by the Facilitator or their designate.
+- Decisions within the TSC follow Charting Show [decision-making policy](https://github.com/chartingshow/crypto-firewall/blob/master/GOVERNANCE.md#decision-making-policy) and are facilitated by the Facilitator or their designate.
 
 #### Membership
 
-- The TSC shall be composed of members with significant experience contributing to Summer CMS on a technical and product level.
+- The TSC shall be composed of members with significant experience contributing to Charting Show on a technical and product level.
 - Membership on the TSC is not time-limited.
 - The target size of the TSC is 6-12 members; but there is no fixed size.
 - Once established the TSC sets its own membership through the consensus-based process.
-- The TSC shall have a goal of having no more than third of the TSC from one employer/company. Given the requirement that membership in the TSC requires recognized technical and/or product experience with Summer CMS this may not be feasible at the time the TSC is formed, but the TSC should actively work towards this goal.
+- The TSC shall have a goal of having no more than third of the TSC from one employer/company. Given the requirement that membership in the TSC requires recognized technical and/or product experience with Charting Show this may not be feasible at the time the TSC is formed, but the TSC should actively work towards this goal.
 - Entities (such as a company) may be granted seats on the TSC. In these cases certain conditions may be placed on the seat (such as maintaining committed resources to the project). The entity may designate the individual representing the entity at the TSC and may change this individual at their discretion.
 - The TSC will designate a Facilitator from among its members for the purposes of facilitating the consensus-based decision-making process.
 
@@ -82,8 +82,8 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 
-- A Working Group is a segment of the Summer CMS community with knowledge/interest in specific areas of Summer CMS (e.g. UI, Runtime, Infrastructure, documentation etc.) recognized by the TSC.
-- The TSC defines each Working Group's mandate, which may include responsibility for certain Summer CMS features, systems and/or code. A Working Group generally operates independently on the area(s) in which it has a mandate while adhering to Summer CMS's [Design Goals](https://github.com/Summer-CMS-Modules/sc-main/blob/master/DESIGN_GOALS.md), [Code of Conduct](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CODE_OF_CONDUCT.md), [Contributing](https://github.com/Summer-CMS-Modules/sc-main/blob/master/CONTRIBUTING.md), and [Technical/Product Roadmaps](https://github.com/Summer-CMS/Core/projects).
+- A Working Group is a segment of the Charting Show community with knowledge/interest in specific areas of Charting Show (e.g. UI, Runtime, Infrastructure, documentation etc.) recognized by the TSC.
+- The TSC defines each Working Group's mandate, which may include responsibility for certain Charting Show features, systems and/or code. A Working Group generally operates independently on the area(s) in which it has a mandate while adhering to Charting Show's [Design Goals](https://github.com/chartingshow/crypto-firewall/blob/master/DESIGN_GOALS.md), [Code of Conduct](https://github.com/chartingshow/crypto-firewall/blob/master/CODE_OF_CONDUCT.md), [Contributing](https://github.com/chartingshow/crypto-firewall/blob/master/CONTRIBUTING.md), and [Technical/Product Roadmaps](https://github.com/Summer-CMS/Core/projects).
 - Each Working Group is made up of a set of Collaborators with knowledge/interest in that particular area and other interested parties.
 - Each Working Group's Facilitator is responsible for:
   - Facilitating consensus-based decisions within the Working Group.
@@ -100,7 +100,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 ## Decision making policy
 
-- Decisions in Summer CMS's Advisory Committee, TSC and Working Groups should be made using a [consensus-based approach](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making).
+- Decisions in Charting Show's Advisory Committee, TSC and Working Groups should be made using a [consensus-based approach](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making).
 
   - When discussions have appeared to reach a consensus, the Facilitator will ask if there are any objections to the apparent consensus. A member may call a vote to finalize a decision, but this should only happen as a last resort. With the agreement of two other members of the group the vote will be held, otherwise the consensus-seeking process will continue.
   - When votes are called:
@@ -119,7 +119,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 ## Contributor License Agreement
 
-- The Summer CMS Project requires all Owners, Collaborators and Contributors who open a pull request to either accept the terms of an individual [Contributor License Agreement (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) or be covered by a corporate CLA in order to protect contributors and users in issues of intellectual property.
+- The Charting Show Project requires all Owners, Collaborators and Contributors who open a pull request to either accept the terms of an individual [Contributor License Agreement (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) or be covered by a corporate CLA in order to protect contributors and users in issues of intellectual property.
 
 - TSC members which aren't already covered by an individual or corporate CLA are required to be covered upon joining the TSC.
 

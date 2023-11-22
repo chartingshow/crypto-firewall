@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 $header = <<<'EOF'
-This file is part of Summer CMS.
+This file is part of Charting Show.
 
-(c) Summer CMS
+(c) Charting Show
 
 For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
