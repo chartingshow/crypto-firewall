@@ -11,16 +11,14 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 If you discover a false positive or need to add a new block, then feel free to raise an **Issue** or a **Pull request** to add/remove them to the lists.
 
 <p align="center">
+    <img src="/assets/images/badges/charting-show-badge.png" height="20" alt="Charting Show" />
     <img src="/assets/images/stars.svg" alt="stars" />
-    <img src="/assets/images/badges/cms.png" height="20" alt="Charting Show" />
     <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
     <a href="https://circleci.com/gh/chartingshow/crypto-firewall"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
-    <a href="https://github.com/chartingshow/crypto-firewall" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
-    <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
+    <a href="https://github.com/chartingshow/crypto-firewall/tree/master/docs"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/chartingshow/crypto-firewall?include_prereleases">
 </p>
 
 <br>
