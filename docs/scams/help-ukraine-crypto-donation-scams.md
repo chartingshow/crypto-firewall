@@ -10,27 +10,27 @@ To facilitate this phishing campaign, attackers are using a variety of means, fr
 
 One such phishing email, is shown below:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/1.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/1.jpg"></p>
 <p align="center"><strong>"Help Ukraine" phishing email pretending to come from `npr.org`</strong></p>
 
 Additionally, we came across a forum post shared on one of the forum threads that we have since taken down.
 
 > The scammers posted a forum post says the following: "The attack on Ukraine brings a lot of trouble and death in our families! Fundraising to provide targeted assistance to those in need, regardless of their gender, age, citizenship," reads the forum post. Many people need food and clothes, someone is sleeping on the street!! Remember, every penny and every minute can save a life!"
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/2.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/2.jpg"></p>
 <p align="center"><strong>Counterfeit 'Help Ukraine' forum post</strong></p>
 
 Scammers also created fake `.org` domains to con prospective donors, see below:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/3.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/3.jpg"></p>
 <p align="center"><strong>Counterfeit ukraine-donate[.]org domain set up by scammers</strong></p>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/4.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/4.jpg"></p>
 <p align="center"><strong>More fraudulent donation websites</strong></p>
 
 A dubious donation site that could fool some on a first glance but contains broken links all over:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/5.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/5.jpg"></p>
 <p align="center"><strong>Fraudulent Ukraine fundraising site</strong></p>
 
 **What makes these scams particularly dangerous is their appeal to emotion** that unwary recipients may not be able to resist, especially at a moment of need for Ukraine.
@@ -43,14 +43,14 @@ In what can be described as the first-ever large-scale crypto crowdfunding effor
 
 In a tweet posted by the official Twitter account of Ukraine, government officials shared the authentic Bitcoin and Ethereum addresses where funds could be sent to:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/help-ukraine-crypto-scams/6.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/6.jpg"></p>
 <p align="center"><strong>Official Twitter account by Ukraine government</strong></p>
 
 This may have raised eyebrows among netizens suspecting if Ukraine's official Twitter account had been hacked and for good reason.
 
 In 2020, attackers had hijacked verified Twitter accounts of prominent public figures and companies including Elon Musk, Bill Gates, Kanye West and Apple, to promote "double your cryptocurrency" scams:
 
-<p align="center"><img src="https://www.bleepstatic.com/images/news/u/1109292/2020/Hijacked-Twitter-accounts.png"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/help-ukraine-crypto-scams/7.jpg"></p>
 <p align="center"><strong>Hijacked Twitter accounts of public figures promoting crypto scams in 2020</strong></p>
 
 In 2021, `bitcoin.org` was hacked with attackers having successfully stolen $17,000 from unwary users in a similar scam.

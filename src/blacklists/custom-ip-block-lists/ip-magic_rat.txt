@@ -1,10 +1,10 @@
-# Block Bad Crypto Filter Lists
+# Crypto Firewall
 # Blocking Web Browser Crypto Malware and Phishing Websites
 #
 # Blocking: MagicRAT Malware Custom List
 #
-# Homepage: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists
-# Contribute: https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
 # Last modified: 25 October 2023

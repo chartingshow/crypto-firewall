@@ -103,6 +103,6 @@ In many cases, reporting ransomware emails to law enforcement is required by law
 
 https://www.ic3.gov/Home/Ransomware
 
-https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/pdf/Ransomware_Fact_Sheet.pdf
+https://github.com/chartingshow/crypto-firewall/blob/master/docs/pdf/Ransomware_Fact_Sheet.pdf
 
-https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/pdf/ofac_ransomware_advisory.pdf
+https://github.com/chartingshow/crypto-firewall/blob/master/docs/pdf/ofac_ransomware_advisory.pdf

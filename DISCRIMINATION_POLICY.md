@@ -12,21 +12,21 @@ of sex, race, national origin, ethnic origin, age, disability, sexual orientatio
 gender reassignment, religion or belief. It can involve a single incident or may
 be persistent and may be directed towards one or more individuals.
 
-Summer CMS does not tolerate acts of harassment committed by team members, or by
+Charting Show does not tolerate acts of harassment committed by team members, or by
 third parties against its team members. Please note that harassment can be a
 criminal offence, punishable by fines and even imprisonment. Harassment is
 unacceptable both in the work place and in any work-related setting outside of
 the work place such as business trips or business-related social events.
 
 If you have been subject to, or have witnessed, any acts of harassment on
-and/or off Summer CMS's premises you may use this procedure to make a
+and/or off Charting Show's premises you may use this procedure to make a
 complaint.
 
 ### 2. Scope
 
 This policy applies equally to full time and part time team members on a
 substantive or fixed-term contract and to associated persons who work for
-Summer CMS such as secondees, agency staff, contractors and others employed
+Charting Show such as secondees, agency staff, contractors and others employed
 under a contract of service.
 
 ### 3. Unacceptable behaviour
@@ -48,7 +48,7 @@ All complaints will be dealt with confidentially and promptly and you may seek
 support or advice from your line manager and/or Human Resources at any
 stage.
 
-Summer CMS encourages prompt reporting of complaints or concerns regarding
+Charting Show encourages prompt reporting of complaints or concerns regarding
 harassment because prompt reporting and intervention has proved to be the
 most effective method of resolving actual or perceived incidents of
 harassment. Under normal circumstances, a complaint must be made as soon
@@ -58,7 +58,7 @@ last of such alleged incidents) taking place.
 All individuals involved in any harassment complaint will be asked to maintain
 the confidentiality of the discussions which are held.
 
-Summer CMS will treat all complaints of harassment seriously, however if it is
+Charting Show will treat all complaints of harassment seriously, however if it is
 established during any investigation that you have made a capricious, false or
 malicious accusation or your complaint is without foundation, then you yourself
 may be subject to disciplinary action.
@@ -196,13 +196,15 @@ usually within 14 working days of the date of the appeal meeting, that either:
 
 - No harassment has occurred.
 
-This decision is final and no further appeal within Summer CMS may be made.
+This decision is final and no further appeal within Charting Show may be made.
 
 Where harassment has been proved a report of the stages and outcome of the
-procedure shall remain for up to 18 months at Summer CMS's discretion on the
+procedure shall remain for up to 18 months at Charting Show's discretion on the
 Human Resources file of the person found responsible for causing the
 harassment.
 
 ## Modifications to this Policy
 
-This policy is for guidance only and Summer CMS may amend the policy from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the policy will be deemed agreement to any changes to it.
+This policy is for guidance only and Charting Show may amend the policy from time to
+time and may also vary the procedures it sets out where appropriate in a particular case.
+Your agreement to comply with the policy will be deemed agreement to any changes to it.

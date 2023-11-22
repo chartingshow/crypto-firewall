@@ -43,7 +43,7 @@ Since there's no way to stop these malicious transactions from occurring on the 
 
 Furthermore, as clicking on the short-form address in MetaMask transactions copies it automatically to the keyboard without showing the full address, as shown in the mockup below, it is crucial to be very careful.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/1.jpg" alt="address poisoning"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/address-poisoning/1.jpg" alt="address poisoning"></p>
 
 <p align="center"><strong>Above: Copying a "transaction address" by clicking on it.</strong></p>
 
@@ -66,17 +66,17 @@ This is why, supported by most web3 software, you have most likely come to rely 
 1. You send a regular, everyday, _nothing-to-see-here_ transaction to a friend, or to another account you control.
 2. The scammer, who has software that monitors transfers of certain tokens (usually stablecoins), notices. **They use a 'vanity' address generator (there are many accessible with a quick web search) to create an address that closely matches yours** (sometimes, it'll match your friend's). Since they're so long, crypto wallet addresses are typically shortened. You might see the first lot of characters only, or sometimes you may see the initial 5-10 or so and the final 5-10 or so, skipping the middle. This is how most people recognize addresses: not by knowing every single character, but by becoming familiar with the start and finish. This is the tendency that address poisoning preys on.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/2.jpg" alt="address poisoning"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/address-poisoning/2.jpg" alt="address poisoning"></p>
 
 3. **The scammer sends you a transaction of negligible value from the dummy account they created** - the 'vanity' address that mimics yours or that of your contact. Usually these are transfers of zero tokens. With this, they've **poisoned **that wallet. (Though, to be clear: this doesn't actually have any negative impacts in itself.)
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/3.jpg" alt="address poisoning"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/address-poisoning/3.jpg" alt="address poisoning"></p>
 
 <p align="center"><strong>Above: The scammers address looks like your Account 1 (when it's shortened).</strong></p>
 
 4. Since their dummy address looks so similar to yours, it's entirely possible that, the next time you need your address, **you might inadvertently copy their address from your transaction history and paste it elsewhere.** Naturally, if you paste their address by accident, you'll send funds to them and not yourself/the intended recipient. And since on-chain transactions like this are immutable (cannot be altered once confirmed), the lost funds will be irretrievable.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/address-poisoning/4.jpg" alt="address poisoning"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/address-poisoning/4.jpg" alt="address poisoning"></p>
 
 And that's it: **all they're hoping for is that you copy the wrong address from your transaction history in your wallet**.
 

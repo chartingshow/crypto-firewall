@@ -19,4 +19,4 @@ Phishes are designed to play on people's emotions so that they will behave in a 
 
 https://consumer.ftc.gov/consumer-alerts/2020/04/scam-emails-demand-bitcoin-threaten-blackmail
 
-https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/pdf/sextortion-scams-infographic.pdf
+https://github.com/chartingshow/crypto-firewall/blob/master/docs/pdf/sextortion-scams-infographic.pdf

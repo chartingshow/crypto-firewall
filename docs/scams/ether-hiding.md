@@ -10,12 +10,12 @@ Dive into our analysis to grasp this game-changing technique that might just tra
 
 In the last 2 months or so, we have been facing yet another "fake-update" malware propagation campaign. In the attack flow, a site is defaced with a very believable overlay demanding a browser update before the site can be accessed. The fake "update" turns out to be vicious infostealer malware like RedLine, Amadey, or Lumma.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/1.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/1.jpg" alt="EtherHiding"></p>
 <p align="center"><strong>The compromised Softoniclabs WordPress-based site, defaced to propagate malware</strong></p>
 
 This campaign, named "ClearFake", identified by Randy McEoin, begins its attack on compromised WordPress sites where attackers embed a concealed JS code. This initial "bridgehead" code is injected into article pages and retrieves a second-stage payload from a server controlled by the attackers, which then carries out the rest of the site defacement.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/2.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/2.jpg" alt="EtherHiding"></p>
 
 Using this method, the attacker can remotely and instantly modify the infection process and display any message they want. It can change tactics, update blocked domains, and switch out detected payloads without re-accessing the WordPress sites. In the case of 'ClearFake', the second-stage code was hosted on Cloudflare Workers. This was effective until CloudFlare blocked those accounts, potentially halting the entire campaign.
 
@@ -54,7 +54,7 @@ window.onload = load;
 
 This part of the malicious code queries the [BSC BlockChain](https://www.bnbchain.org/en/smartChain). It creates a new contract instance by initializing it with the provided, attacker-controlled, **blockchain address**. It also provides the **ABI (Application Binary Interface)** that declares the contract's functions and structure. The function that is called is `get()`, and it will basically query the contract to return a specified payload to be later decoded and evaluated as JavaScript code with the `eval()` function.
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/3.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/3.jpg" alt="EtherHiding"></p>
 <p align="center"><strong>The attack flow - from querying the BlockChain to total site defacing and malware download</strong></p>
 
 ### Smart Contracts? Code on the BlockChain?
@@ -117,7 +117,7 @@ This is a simple contract app that uses the storage function of the contract (th
 
 We can see this in the transactions history on the BSC, starting on contract creation on the **9th of September 2023** by another attacker-controlled address. That other address, created in **late June 2022**, was loaded with BNB (The Binance Coin) in an amount just enough to create and update the contract - activities that are not actually payable, yet do cost some minor customary "gas" fees (between 0.02 to 0.60 USD each):
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/4.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/4.jpg" alt="EtherHiding"></p>
 <p align="center"><strong>Attacker - controlled BSC addresses - from funding, contract creation, and ongoing code updates</strong></p>
 
 Only the first update of the contract is clearly a test (as it actually included only the string "test") but all the following are obvious pieces of JavaScript code. When the first entries are quite simple, the latter add more JavaScript obfuscation techniques but keep on doing just the same few simple activities as seen in this first entry (after decoding from Base64):
@@ -169,7 +169,7 @@ The resulting payload is a binary-coded string, exactly the one that was pushed 
 
 Note: **that this second stage domain is hosted on the same Russian-based IP address and follows the attack flow of the earlier ClearFake variant**. The action is of defacing the site with a quite advanced and well-designed deceptive overlay page - localized and customized per almost all popular browsers in use:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/5.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/5.jpg" alt="EtherHiding"></p>
 <p align="center"><strong>ClearFake's deceptive browser update notices</strong></p>
 
 ### Fighting Back? Is It Even Possible?
@@ -178,7 +178,7 @@ Well, there are inherent challenges in mitigating this kind of abuse due to the 
 
 Once a smart contract is deployed on BSC, it operates autonomously. Binance can't just "shut it down". The only thing they can do and currently offer - is the ability of the community and developers to be warned about a contract if identified as malicious or part of an illegal activity. How? Well, it is being tagged on the official BSCScan service as such:
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/ether-hiding/6.jpg" alt="EtherHiding"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ether-hiding/6.jpg" alt="EtherHiding"></p>
 <p align="center"><strong>BscScan - Binance's official BSC explorer showing Fake and Malicious tags</strong></p>
 
 Indeed, the address used to deliver the malicious code was clearly marked as "`Fake_Phishing2561`". Is this enough? Hardly. As this is not an address used in any financial or other activity that victims can be lured to transfer funds or any other kind of Intellectual property to - visitors of compromised WordPress sites have no clue as to what is going on under the hood. This contract, tagged as Fake Malicious or whatnot, is still online and delivers the malicious payload - **apparently, as of today, there is NO WAY TO STOP IT.**

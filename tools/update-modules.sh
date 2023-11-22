@@ -4,7 +4,7 @@
 
 TEMPFILE=$(mktemp)
 
-echo "*** sc-block-bad-crypto-filter-lists: updating remote assets..."
+echo "*** Crypto Firewall: Updating Remote Assets..."
 
 declare -A assets
 assets=(
