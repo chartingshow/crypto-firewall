@@ -4,7 +4,7 @@
 
 <h1 align="center">Charting Show - Crypto Firewall</h1>
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-2.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
 
 Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers.
 
