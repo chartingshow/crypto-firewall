@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
+  <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
 </p>
 
-<h1 align="center">Summer CMS Block Bad Crypto Filter Lists</h1>
+<h1 align="center">Charting Show Crypto Firewall</h1>
 
-<p align="center"><img src="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/assets/images/cover.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-new.jpg" /></p>
 
 This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites (all trying to steal cryptocurrency from other users). Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or a **Pull request** to add them to the lists.
 
 <p align="center">
     <img src="/assets/images/stars.svg" alt="stars" />
-    <img src="/assets/images/badges/cms.png" height="20" alt="summer cms" />
+    <img src="/assets/images/badges/cms.png" height="20" alt="Charting Show" />
     <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
-    <a href="https://circleci.com/gh/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists"><img src="/assets/images/circleci.svg"></a>
+    <a href="https://circleci.com/gh/chartingshow/crypto-firewall"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
-    <a href="https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
+    <a href="https://github.com/chartingshow/crypto-firewall" title="GitHub action to setup PHP"><img alt="GitHub Actions status" src="/assets/images/work-flow.svg"></a>
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
     <a href="https://github.com/Summer-CMS-Modules/sc-documentation"><img src="/assets/images/docs.svg" alt="docs" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists?include_prereleases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/chartingshow/crypto-firewall?include_prereleases">
 </p>
 
 <br>
@@ -51,7 +51,7 @@ This is a filter list to block browser-based crypto mining, cryptojacking, injec
 - [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
-- [If you like the Summer CMS project](#if-you-like-the-summer-cms-project-)
+- [If you like the Charting Show project](#if-you-like-the-summer-cms-project-)
   - [Sponsors](#sponsors-)
   - [Backers](#backers-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
@@ -70,17 +70,17 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 
 - ![AdBlock](https://i.imgur.com/3KbyifF.png) [AdBlock](https://getadblock.com) (Active by default)
 - ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/)
-- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) and [uBlock Origin Instructions Guide](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/help-guides/ublock-origin-instructions.md)
+- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) and [uBlock Origin Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)
 - ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html) (Included by default)
 - ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
-- ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default) and [Brave Browser Instructions Guide](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/help-guides/brave-browser-instructions.md)
+- ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default) and [Brave Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-browser-instructions.md)
 - ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) (Included by default from Opera 50)
 
 ## Basic usage 🔥
 
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+- https://github.com/chartingshow/crypto-firewall/tree/master/docs
 
 ### Stable Versions 🏆
 
@@ -92,39 +92,39 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-lite.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-lite.txt
+- https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-lite.txt
 
 #### Full Version
 
-The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/crypto-annoyances-ublock.txt) and [adverts-filters (unstable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/adverts-filters) modules)**.
+The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/crypto-annoyances-ublock.txt) and [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) modules)**.
 
 There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-full.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-full.txt
+- https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-full.txt
 
 #### Mega Version
 
-The `Mega` version **contains all the modules (except [adverts-filters (unstable)](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/adverts-filters) module)**.
+The `Mega` version **contains all the modules (except [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) module)**.
 
 There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-mega.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-mega.txt
+- https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-mega.txt
 
 ### Unstable Beta Version ⚠️
 
@@ -136,17 +136,17 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-beta.txt&title=Crypto%20Malware%20Block%20Lists)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
-- https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/nomalware-beta.txt
+- https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-beta.txt
 
 ## Hosts based blocking 💢
 
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
-- [https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/hosts.txt](https://raw.githubusercontent.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/master/src/blacklists/hosts.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt)
 
 ### Hosts 💾
 
@@ -159,7 +159,7 @@ You can simply copy and paste the contents of above file into your hosts file. T
 Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows). Or you can use command below for linux
 
 ```
-sudo -- sh -c 'curl -sS https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/hosts.txt >> /etc/hosts'
+sudo -- sh -c 'curl -sS https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/hosts.txt >> /etc/hosts'
 ```
 
 ### Adblockers ☀️
@@ -180,7 +180,7 @@ You may use the hosts file with below applications to block these miners on whol
 
 This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
 
-- [Free DNS/Hosting Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/free-dns-hosting/)
+- [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
 
 ## IP blocking 🌐
 
@@ -188,17 +188,17 @@ IP Addresses can also be blocked, these contain things such as command-and-contr
 
 The IP block list can be found here:
 
-- [IP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/ip.txt)
+- [IP Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt)
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/docs
+- https://github.com/chartingshow/crypto-firewall/tree/master/docs
 
 ### Custom IP Block Lists 📋
 
 These custom IP address filter lists block specific malware and can be found in the folder:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/custom-ip-block-lists
+- https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/custom-ip-block-lists
 
 > The reason why these custom lists aren't in the main IP filter list is because these IP addresses maybe shared and used for public access or hosting multiple domains! These custom IP address filter lists are for advanced users who can customize them in order to not block their access or applications.
 
@@ -208,27 +208,27 @@ Email addresses can be blocked, our email block list contains known Crypto scamm
 
 The Email block list can be found here:
 
-- [Email Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/email.txt)
+- [Email Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/email.txt)
 
 To learn how to protect yourself from Sextortion emails, see here:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
+- https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
 
 How to Identify a Ransomware Email Attack, see here:
 
-- https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
+- https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
-- [Wallets Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/blockchain-wallet-addresses/)
+- [Wallets Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/)
 
 ## Fraudulent cryptocurrency mining pool addresses 🦈
 
 Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here in this folder:
 
-- [Mining Pools Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/blob/master/src/blacklists/mining-pools-addresses/)
+- [Mining Pools Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/mining-pools-addresses/)
 
 ## OFAC sanctioned digital currency addresses 🚫
 
@@ -236,7 +236,7 @@ OFAC publishes lists of individuals and companies owned or controlled by, or act
 
 The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
 
-- [OFAC Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/ofac-sanctioned-digital-currency-addresses)
+- [OFAC Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/ofac-sanctioned-digital-currency-addresses)
 
 ## Ad server blocking 🇦🇩
 
@@ -244,24 +244,24 @@ The ad banners that you see all over the web are stored on servers. Stopping you
 
 These custom ad server filter block lists can be found in the folder:
 
-- [Ad Server Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ad-servers)
+- [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
 
 ## Modules ⚙️
 
 This repo contains various filter list modules, which users can check out in the following folders:
 
-- [Abuse Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/abuse-filters)
-- [Adverts Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/adverts-filters)
-- [Fraud Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/fraud-filters)
-- [Malicious Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/malicious-filters)
-- [Malware Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/malware-filters)
-- [Phishing Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-filters)
-- [Phishing Other Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/phishing-other-filters)
-- [PUP Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/pup-filters)
-- [Ransomware Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/ransomware-filters)
-- [Scam Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/scam-filters)
-- [Tracking Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
-- [URLhaus Filter List](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/tree/master/src/blacklists/urlhaus-filters)
+- [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
+- [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
+- [Fraud Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fraud-filters)
+- [Malicious Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malicious-filters)
+- [Malware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malware-filters)
+- [Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-filters)
+- [Phishing Other Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-other-filters)
+- [PUP Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pup-filters)
+- [Ransomware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ransomware-filters)
+- [Scam Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/scam-filters)
+- [Tracking Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
+- [URLhaus Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/urlhaus-filters)
 
 ### How do we define sanctions data?
 
@@ -275,19 +275,19 @@ _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that min
 
 ## Issues 🔨
 
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/chartingshow/crypto-firewall?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/chartingshow/crypto-firewall">
 
 If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
 ## Changelog 🏆
 
-Please see [CHANGELOG](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/releases) for more information what has changed recently.
+Please see [CHANGELOG](https://github.com/chartingshow/crypto-firewall/releases) for more information what has changed recently.
 
-## If you like the Summer CMS project 💗💗💗
+## If you like the Charting Show project 💗💗💗
 
 <p><a href="https://opencollective.com/summer-cms"><img align="center" src="/assets/images/support-summer-cms.jpg" /></a></p>
 
-If you like Summer CMS you can support the project's improvements and development of new features with a donation to our collective.
+If you like Charting Show you can support the project's improvements and development of new features with a donation to our collective.
 
 👉 [https://opencollective.com/summer-cms](https://opencollective.com/summer-cms)
 
@@ -314,7 +314,7 @@ We are actively inviting new contributors! To start, please read the [contributi
 This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
 
 - Read the current content and help us fix any spelling mistakes or grammatical errors.
-- Choose an existing [issue](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists/issues) on GitHub and submit a pull request to fix it.
+- Choose an existing [issue](https://github.com/chartingshow/crypto-firewall/issues) on GitHub and submit a pull request to fix it.
 - Open a new issue to report an opportunity for improvement.
 
 If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
@@ -337,11 +337,11 @@ All logos and trademarks are the property of their respective owners.
 
 ## Copyright and License 📄
 
-Copyright (c) Summer CMS. All rights reserved.
+Copyright (c) Charting Show. All rights reserved.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Everyone is permitted to copy and distribute copies of Summer CMS, but changing and hard forking are not allowed.
+Everyone is permitted to copy and distribute copies of Charting Show, but changing and hard forking are not allowed.
 
 ### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
 
