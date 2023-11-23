@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 November 2023
+# Last modified: 23 November 2023
 #
 
 # Extras (comment out if needed)
@@ -1978,6 +1978,7 @@
 0.0.0.0 asdboloa.com
 0.0.0.0 asdijoisad87ay3.cn
 0.0.0.0 asdjdoo3vsd.icu
+0.0.0.0 asdjjasdhioasdia.online
 0.0.0.0 asdyg.fun
 0.0.0.0 asdyyauscuauusc.xyz
 0.0.0.0 aseguradosaldia.com
@@ -3436,6 +3437,7 @@
 0.0.0.0 cbasec.com
 0.0.0.0 cbbc01.xyz
 0.0.0.0 cbdfincorp.com
+0.0.0.0 cbdgzy.pirate
 0.0.0.0 cbexjiu02.top
 0.0.0.0 cbiq1neygyp1wno.info
 0.0.0.0 cbrealestatecr.xyz
@@ -3610,6 +3612,8 @@
 0.0.0.0 childhauster.com
 0.0.0.0 chilok.us
 0.0.0.0 chinacarbonfiber.buzz
+0.0.0.0 chinkona.buzz
+0.0.0.0 chinks-eat-dogs.africa
 0.0.0.0 chipbf.com
 0.0.0.0 chipmenot.org
 0.0.0.0 chiquitoschic.com
@@ -3779,6 +3783,7 @@
 0.0.0.0 cmp8.shop
 0.0.0.0 cmpfoods.com
 0.0.0.0 cmubnk.com
+0.0.0.0 cnc.kintaro.cc
 0.0.0.0 cndlogstics.com
 0.0.0.0 cngresearch.com
 0.0.0.0 cngst.com
@@ -4043,6 +4048,7 @@
 0.0.0.0 coolcloths.top
 0.0.0.0 coolcraft.at
 0.0.0.0 cooldatingplace.top
+0.0.0.0 cooldockmantoo.men
 0.0.0.0 coolfingers.xyz
 0.0.0.0 coolget1.xzy
 0.0.0.0 coolmanco.com
@@ -4319,6 +4325,7 @@
 0.0.0.0 cypher-tech.ca
 0.0.0.0 cypto-clearing.com
 0.0.0.0 cyrofx.com
+0.0.0.0 czbrwa.geek
 0.0.0.0 czfloki.com
 0.0.0.0 d.cpufan.club
 0.0.0.0 d2dmotors.com
@@ -4781,6 +4788,8 @@
 0.0.0.0 dofk.shop
 0.0.0.0 dofollowgreenline.com
 0.0.0.0 dog-names-girl.com
+0.0.0.0 dogeating.monster
+0.0.0.0 dogeatingchink.uno
 0.0.0.0 dogexific.top
 0.0.0.0 doggyguffy.fun
 0.0.0.0 dogmasoft.net
@@ -5101,6 +5110,7 @@
 0.0.0.0 edoraseguros.com.br
 0.0.0.0 edraquakwa.xyz
 0.0.0.0 edricsports.com
+0.0.0.0 edrnhe.oss
 0.0.0.0 edshcozpuh.xyz
 0.0.0.0 edsync.site
 0.0.0.0 edtagproducts.buzz
@@ -5707,6 +5717,7 @@
 0.0.0.0 favlends.com
 0.0.0.0 favorite-outdoors.com
 0.0.0.0 favourdio.online
+0.0.0.0 fawzpp.indy
 0.0.0.0 faz0nol.ru
 0.0.0.0 fazebit.com
 0.0.0.0 fbc8213450838f7ae251d4519c195138.xyz
@@ -6178,6 +6189,8 @@
 0.0.0.0 ftxtwobsc.tech
 0.0.0.0 fubsdgd.com
 0.0.0.0 fubuy.store
+0.0.0.0 fuckmy.site
+0.0.0.0 fuckmy.store
 0.0.0.0 fuckthemarket.tech
 0.0.0.0 fudlasaplayeemmkehhd.co.vu
 0.0.0.0 fuexbit.com
@@ -6736,6 +6749,7 @@
 0.0.0.0 gotomoon.app
 0.0.0.0 gototrx.com
 0.0.0.0 gotovacoil.com
+0.0.0.0 gottalovethe.indy
 0.0.0.0 gougeflying.fun
 0.0.0.0 gourmetgear.ca
 0.0.0.0 govatsy.shop
@@ -7026,6 +7040,7 @@
 0.0.0.0 hazirlimitim.net
 0.0.0.0 hazonchurch.org
 0.0.0.0 hazretissd.shop
+0.0.0.0 hbakun.geek
 0.0.0.0 hbfyewtuvfbhsbdjhjwebfy.net
 0.0.0.0 hbg07i.cyou
 0.0.0.0 hbkyojpu76xz2an.gq
@@ -7142,6 +7157,7 @@
 0.0.0.0 hf14788.com
 0.0.0.0 hfcpak.org
 0.0.0.0 hfiepqnsyosb.top
+0.0.0.0 hfoddy.dyn
 0.0.0.0 hghfe.cf
 0.0.0.0 hghfe.tk
 0.0.0.0 hgvqo.com
@@ -7242,6 +7258,7 @@
 0.0.0.0 homedepotdeal.com
 0.0.0.0 homeessentiel.com
 0.0.0.0 homefra.com
+0.0.0.0 homehitter.tk
 0.0.0.0 homelandtraders.com
 0.0.0.0 homelinux.net
 0.0.0.0 homemadetohome.com
@@ -7371,6 +7388,7 @@
 0.0.0.0 hugobosscanada.com
 0.0.0.0 hugosoptions.com
 0.0.0.0 hugrmn.com
+0.0.0.0 hujunxa.cc
 0.0.0.0 humandesigns.com
 0.0.0.0 hunbyx.com
 0.0.0.0 hundreddollarmarketcap.com
@@ -7382,12 +7400,14 @@
 0.0.0.0 huokejinglingvip.com
 0.0.0.0 huorong.cn
 0.0.0.0 hurricanepub.com
+0.0.0.0 husd8uasd9.online
 0.0.0.0 huseyingese0199.xyz
 0.0.0.0 huseyingeser01.xyz
 0.0.0.0 huseyingeser035.xyz
 0.0.0.0 hvthtplt.com
 0.0.0.0 hx4fziucs93zkk4.gq
 0.0.0.0 hxqhre.com
+0.0.0.0 hxqytk.geek
 0.0.0.0 hxsgeoxdehzti.net
 0.0.0.0 hxxps443.org
 0.0.0.0 hyber.network
@@ -7409,6 +7429,7 @@
 0.0.0.0 iamjitenpatel.com
 0.0.0.0 iamopeningup.com
 0.0.0.0 iat.com.ua
+0.0.0.0 iaxtpa.parody
 0.0.0.0 ibc003spin.xyz
 0.0.0.0 ibcrti198.com
 0.0.0.0 ibcvp.com
@@ -7587,6 +7608,7 @@
 0.0.0.0 inexpensiva.com
 0.0.0.0 infanta22.ru
 0.0.0.0 infectedchink.cat
+0.0.0.0 infectedchink.online
 0.0.0.0 inffo.my.id
 0.0.0.0 infidelrio.online
 0.0.0.0 infin8money.com
@@ -8408,6 +8430,7 @@
 0.0.0.0 kropnagursa.com
 0.0.0.0 krvskcvs.com
 0.0.0.0 ksaguna.com
+0.0.0.0 ksarpo.parody
 0.0.0.0 kschauhan.com
 0.0.0.0 kscmfs.or.kr
 0.0.0.0 ksp.co.il
@@ -9391,6 +9414,7 @@
 0.0.0.0 metatrader8pro.com
 0.0.0.0 metatradesproexch.com
 0.0.0.0 metatronvarious.com
+0.0.0.0 metbez.gopher
 0.0.0.0 methosdd.online
 0.0.0.0 metodolucrativonline.com.br
 0.0.0.0 metro-ag.shop
@@ -9416,6 +9440,7 @@
 0.0.0.0 meydanmahsokak.tk
 0.0.0.0 meyervanderwalt.top
 0.0.0.0 mfa-tj.download
+0.0.0.0 mfszki.gopher
 0.0.0.0 mge.sn
 0.0.0.0 mgkanyasangliedu.in
 0.0.0.0 mhanational.org
@@ -9849,6 +9874,7 @@
 0.0.0.0 mpcryptonews.com
 0.0.0.0 mplusseguros.com.br
 0.0.0.0 mpmcomputing.com
+0.0.0.0 mqcgbs.gopher
 0.0.0.0 mr1ubz.cyou
 0.0.0.0 mrassociattes.com
 0.0.0.0 mrbasic.com
@@ -11059,6 +11085,7 @@
 0.0.0.0 peiwei.com
 0.0.0.0 pekar.pt
 0.0.0.0 pekopekopeko.top
+0.0.0.0 pektbo.libre
 0.0.0.0 pelagioinvest.com
 0.0.0.0 pelicanautowash.com
 0.0.0.0 pelowitoye.com
@@ -11685,6 +11712,7 @@
 0.0.0.0 qertoplast.com
 0.0.0.0 qfsassetsbackup.com
 0.0.0.0 qfsassetxledger.com
+0.0.0.0 qhedye.oss
 0.0.0.0 qhigh.com
 0.0.0.0 qikoping.com
 0.0.0.0 qinch.io
@@ -11778,6 +11806,7 @@
 0.0.0.0 qwazzy.biz
 0.0.0.0 qwepoi123098.com
 0.0.0.0 qwert.xyz
+0.0.0.0 qwewu.site
 0.0.0.0 qwxzyl.com
 0.0.0.0 qxxq.wcrashtdm.top
 0.0.0.0 qzwnxh.uevenumg.top
@@ -13194,6 +13223,7 @@
 0.0.0.0 rkynaiaryna.xyz
 0.0.0.0 rllalasyeo.xyz
 0.0.0.0 rlmushahel.xyz
+0.0.0.0 rmdtqq.libre
 0.0.0.0 rmechanicfca.top
 0.0.0.0 rmvokea.sh
 0.0.0.0 rmvokecash.one
@@ -13375,6 +13405,7 @@
 0.0.0.0 rwvokea.sh
 0.0.0.0 rwvokecash.one
 0.0.0.0 rwvoketokens.io
+0.0.0.0 rwziag.pirate
 0.0.0.0 rxcoordinator.com
 0.0.0.0 rxp.com
 0.0.0.0 rxprinters.in
@@ -13618,6 +13649,7 @@
 0.0.0.0 sdfhr.top
 0.0.0.0 sdfkvj4v.top
 0.0.0.0 sdfos.fun
+0.0.0.0 sdfsd.xyz
 0.0.0.0 sdfubuzoeoeiv.top
 0.0.0.0 sdfuvy.top
 0.0.0.0 sdgububue3.xyz
@@ -13938,6 +13970,20 @@
 0.0.0.0 sheparc.com
 0.0.0.0 sherpaassociationusa.org
 0.0.0.0 shethinks.online
+0.0.0.0 shetoldmeshewas12.dyn
+0.0.0.0 shetoldmeshewas12.geek
+0.0.0.0 shetoldmeshewas12.gopher
+0.0.0.0 shetoldmeshewas12.libre
+0.0.0.0 shetoldmeshewas12.oss
+0.0.0.0 shetoldmeshewas12.parody
+0.0.0.0 shetoldmeshewas12.pirate
+0.0.0.0 shetoldmeshewas13.dyn
+0.0.0.0 shetoldmeshewas13.geek
+0.0.0.0 shetoldmeshewas13.gopher
+0.0.0.0 shetoldmeshewas13.libre
+0.0.0.0 shetoldmeshewas13.oss
+0.0.0.0 shetoldmeshewas13.parody
+0.0.0.0 shetoldmeshewas13.pirate
 0.0.0.0 shevag.shop
 0.0.0.0 shewants.online
 0.0.0.0 shihabmian.com
@@ -14156,6 +14202,7 @@
 0.0.0.0 sketiopaag.com
 0.0.0.0 skguarperahu.edu.my
 0.0.0.0 skicloud-my.xyz
+0.0.0.0 skid.uno
 0.0.0.0 skidmark.kr
 0.0.0.0 skillsagilitylab.com
 0.0.0.0 skineclaire.com
@@ -16701,6 +16748,7 @@
 0.0.0.0 wmnwserviceadsmark.com
 0.0.0.0 wmsaude.com.br
 0.0.0.0 wnishia.xyz
+0.0.0.0 wnisyi.libre
 0.0.0.0 wnoykaaloha.com
 0.0.0.0 wnwlf.com
 0.0.0.0 wo365.com
