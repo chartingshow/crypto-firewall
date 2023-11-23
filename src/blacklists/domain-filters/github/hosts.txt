@@ -7,7 +7,9 @@
 # Last modified: 23 November 2023
 #
 
-# Scam github pages
+# Block github sub-domains
+
+# Block github domains
 0.0.0.0 0nlinebot.github.io
 0.0.0.0 0pensae.github.io
 0.0.0.0 1-inch.github.io

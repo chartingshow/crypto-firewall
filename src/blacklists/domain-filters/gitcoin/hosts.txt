@@ -7,7 +7,9 @@
 # Last modified: 23 November 2023
 #
 
-# Scam git coin pages
+# Block git coin sub-domains
+
+# Block git coin domains
 0.0.0.0 account-gitcoin.co
 0.0.0.0 accountgitcoin.co
 0.0.0.0 auth-gitcoin.co
