@@ -1,0 +1,17 @@
+# Crypto Firewall (auto-playit-gg)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 November 2023
+#
+
+# Block auto-playit-gg sub-domains
+0.0.0.0 chivalrous-condition.auto.playit.gg
+0.0.0.0 jumpy-advice.auto.playit.gg
+0.0.0.0 roasted-flag.auto.playit.gg
+0.0.0.0 sparkling-desk.auto.playit.gg
+0.0.0.0 warm-voyage.auto.playit.gg
+0.0.0.0 weak-edge.auto.playit.gg
+0.0.0.0 woebegone-smoke.auto.playit.gg

@@ -1,0 +1,34 @@
+# Crypto Firewall (Blogspot)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 November 2023
+#
+
+# Block blogspot sub-domains
+0.0.0.0 acess-bltkub.blogspot.com
+0.0.0.0 alertnews18.blogspot.com
+0.0.0.0 axosbankfraudprevention.blogspot.com
+0.0.0.0 buzalotr.blogspot.com
+0.0.0.0 carimbo-pote.blogspot.com
+0.0.0.0 cbasep23.blogspot.com
+0.0.0.0 hbrilhobrazzz.blogspot.com
+0.0.0.0 idropbux.blogspot.com
+0.0.0.0 jiofiberconnection.blogspot.com
+0.0.0.0 lojabrinquedo.blogspot.com
+0.0.0.0 metamasklgin.blogspot.com
+0.0.0.0 metamasklogiinn.blogspot.co.za
+0.0.0.0 metamasklogiinn.blogspot.com
+0.0.0.0 metamasklogiinn.blogspot.mx
+0.0.0.0 new-luluhypermarkets.blogspot.com
+0.0.0.0 otherbizzunus.blogspot.com
+0.0.0.0 otherbusinesssep23.blogspot.com
+0.0.0.0 p22erer.blogspot.com
+0.0.0.0 p2qwz.blogspot.com
+0.0.0.0 pancakeswapflnance.blogspot.com
+0.0.0.0 ronaldo7streams.blogspot.com
+0.0.0.0 signin-opensea.blogspot.com
+0.0.0.0 tax-form-docoments.blogspot.com
+0.0.0.0 website2080.blogspot.com

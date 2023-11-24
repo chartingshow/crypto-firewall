@@ -1,0 +1,13 @@
+# Crypto Firewall (at-playit-gg)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 November 2023
+#
+
+# Block at-playit-gg sub-domains
+0.0.0.0 involved-stars.at.playit.gg
+0.0.0.0 tell-academic.at.playit.gg
+0.0.0.0 this-france.at.playit.gg

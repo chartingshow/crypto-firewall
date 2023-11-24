@@ -1,0 +1,16 @@
+# Crypto Firewall (amazonaws-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 November 2023
+#
+
+# Block amazonaws-com sub-domains
+0.0.0.0 ec2-18-222-171-22.us-east-2.compute.amazonaws.com
+0.0.0.0 ec2-3-1-91-70.ap-southeast-1.compute.amazonaws.com
+0.0.0.0 ec2-35-173-202-104.compute-1.amazonaws.com
+0.0.0.0 trezwezxb.s3.us-east-2.amazonaws.com
+0.0.0.0 xrpgive.s3.amazonaws.com
+

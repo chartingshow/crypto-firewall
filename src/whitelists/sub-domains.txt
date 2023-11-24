@@ -5,8 +5,10 @@
 *.auto.playit.gg
 *.aws-euw2.cloud-ara.tyk.io
 *.azurewebsites.net
+*.blogspot.co.uk
 *.blogspot.co.za
 *.blogspot.com
+*.blogspot.mx
 *.bluehosting.cz
 *.bravesites.com
 *.business.site
