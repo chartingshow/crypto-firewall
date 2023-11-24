@@ -40,6 +40,7 @@
 *.w3spaces.com
 *.web.app
 *.webflow.io
+*.weebly.com
 *.weeblysite.com
 *.wikidot.com
 *.windows.net
