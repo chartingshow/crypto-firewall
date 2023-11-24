@@ -100,7 +100,7 @@ There are two methods to install into your adblocker:
 
 #### Full Version
 
-The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/crypto-annoyances-ublock.txt), [crypto fake domains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/domain-filters/) and [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) modules)**.
+The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/crypto-annoyances-ublock.txt), [domains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/domain-filters/), [subdomains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/subdomain-filters/), [urls (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/url-filters/) and [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) modules)**.
 
 There are two methods to install into your adblocker:
 
