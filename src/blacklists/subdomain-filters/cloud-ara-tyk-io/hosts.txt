@@ -1,0 +1,11 @@
+# Crypto Firewall (tyk-io)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 November 2023
+#
+
+# Block tyk-io sub-domains
+0.0.0.0 worried-trigonometry-gw.aws-euw2.cloud-ara.tyk.io
