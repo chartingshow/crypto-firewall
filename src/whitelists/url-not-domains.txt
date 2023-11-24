@@ -26,6 +26,7 @@
 *.liveblog365.com
 *.netlify.app
 *.ngrok-free.app
+*.nicepage.io
 *.nimbusweb.me
 *.pages.dev
 *.pantheonsite.io
@@ -54,4 +55,5 @@
 ^docs.google.com/forms/*
 ^github.com/*
 ^gitlab.com/*
+^sites.google.com/*
 ^translated.turbopages.org/*
