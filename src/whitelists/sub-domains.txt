@@ -51,9 +51,3 @@
 *.workers.dev
 *.yolasite.com
 *.zendesk.com
-^bitbucket.org/*
-^docs.google.com/forms/*
-^github.com/*
-^gitlab.com/*
-^sites.google.com/*
-^translated.turbopages.org/*
