@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 November 2023
+# Last modified: 24 November 2023
 #
 
 # Domains
@@ -157,6 +157,7 @@ webredirect.org
 x10.bz
 ydns.eu
 zapto.org
+zyns.com
 zz.am
 
 # Sub-Domains

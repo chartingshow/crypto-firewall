@@ -1,0 +1,1 @@
+^\^(?:translated\.turbopages\.org|(?:(?:docs\.google\.com/forms|view\.forms\.app|git(?:hu|la)b\.com)|bitbucket\.org))/\*$

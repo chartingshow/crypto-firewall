@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 November 2023
+# Last modified: 24 November 2023
 #
 
 # Block Free dns and hosting
@@ -156,4 +156,5 @@
 0.0.0.0 x10.bz
 0.0.0.0 ydns.eu
 0.0.0.0 zapto.org
+0.0.0.0 zyns.com
 0.0.0.0 zz.am
