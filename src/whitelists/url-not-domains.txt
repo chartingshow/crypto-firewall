@@ -33,6 +33,7 @@
 *.repl.co
 *.sglwebs.com
 *.sitebeat.crazydomains.com
+*.square.site
 *.translate.goog
 *.ts.net
 *.urbanairship.com
