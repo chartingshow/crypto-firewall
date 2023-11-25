@@ -33924,6 +33924,8 @@
 0.0.0.0 xpertmarketing.mx
 0.0.0.0 xploitshield.studio
 0.0.0.0 xplorie.com
+0.0.0.0 xpopup.com
+0.0.0.0 xpopup.pe.kr
 0.0.0.0 xpznl.click
 0.0.0.0 xrayapp.store
 0.0.0.0 xrpco.website
