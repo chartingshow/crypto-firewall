@@ -1,0 +1,36 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: ClearFake Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 December 2023
+#
+
+109.248.206.101
+109.248.206.106
+109.248.206.118
+109.248.206.122
+109.248.206.138
+109.248.206.153
+109.248.206.157
+109.248.206.159
+109.248.206.160
+109.248.206.196
+109.248.206.49
+109.248.206.51
+109.248.206.83
+178.236.246.213
+185.192.111.195
+185.192.111.198
+185.192.111.199
+185.192.111.201
+185.192.111.202
+185.192.111.203
+194.169.175.117
+217.196.96.217
+45.61.128.156
+62.182.156.148
