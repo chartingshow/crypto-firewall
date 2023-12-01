@@ -2,6 +2,7 @@
 # Filter list optimized for uBlock
 
 ! General Blocks --------------------------------------------------
+||cookiebot.com^
 ||onetrust.com^
 ||trustarc.com^
 
