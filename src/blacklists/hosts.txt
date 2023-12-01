@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 November 2023
+# Last modified: 1 December 2023
 #
 
 # Extras (comment out if needed)
@@ -1351,6 +1351,7 @@
 0.0.0.0 auburnexcellbrady.com
 0.0.0.0 audiolinker.shop
 0.0.0.0 audioselec.com
+0.0.0.0 audiosound-visual.com
 0.0.0.0 audiotest.top
 0.0.0.0 audit-pvv.com
 0.0.0.0 auditaxes.com
@@ -5000,6 +5001,7 @@
 0.0.0.0 filature.shop
 0.0.0.0 fileforex.xyz
 0.0.0.0 files-gate.com
+0.0.0.0 filestorage-short.org
 0.0.0.0 filestream.download
 0.0.0.0 fileyourupload.one
 0.0.0.0 filters.top
@@ -11907,6 +11909,7 @@
 0.0.0.0 sharedocs.xyz
 0.0.0.0 sharifah.online
 0.0.0.0 sharing-belge.fr
+0.0.0.0 sharing-u-file.com
 0.0.0.0 sharmtourandguid.com
 0.0.0.0 sharpalgo.com
 0.0.0.0 sharpservicecenterkarachi.com
