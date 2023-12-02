@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 1 December 2023
+# Last modified: 2 December 2023
 #
 
 # Extras (comment out if needed)
@@ -5636,9 +5636,11 @@
 0.0.0.0 geo-news.tv
 0.0.0.0 geodatatool.com
 0.0.0.0 geoenue.com
+0.0.0.0 geoinfocdn.com
 0.0.0.0 geoiptool.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georgesghantous.com
+0.0.0.0 geostatcdn.com
 0.0.0.0 geotrube.top
 0.0.0.0 geowf.ge
 0.0.0.0 geoxoutlet.co.nz
