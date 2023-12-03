@@ -51,7 +51,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
-- [If you like the Charting Show project](#if-you-like-the-summer-cms-project-)
+- [If you like the Charting Show project](#if-you-like-the-charting-show-project-)
   - [Sponsors](#sponsors-)
   - [Backers](#backers-)
 - [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
@@ -238,6 +238,12 @@ The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder
 
 - [OFAC Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/ofac-sanctioned-digital-currency-addresses)
 
+### How do we define sanctions data?
+
+Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury’s Office of Foreign Assets Control (OFAC).
+
+You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
+
 ## Ad server blocking 🇦🇩
 
 The ad banners that you see all over the web are stored on servers. Stopping your computer communicating with another computer can be quite simple. So, if you have a list of the servers used for ad banners, it's easy to stop ad banners even getting to your browser.
@@ -265,12 +271,6 @@ This repo contains various filter list modules, which users can check out in the
 - [Tracking Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
 - [Url Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/url-filters)
 - [URLhaus Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/urlhaus-filters)
-
-### How do we define sanctions data?
-
-Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury’s Office of Foreign Assets Control (OFAC).
-
-You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
 
 ---
 
