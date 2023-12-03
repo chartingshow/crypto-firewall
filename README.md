@@ -304,13 +304,13 @@ Support us by becoming a sponsor. Your logo will show up here with a link to you
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/charting-show/contribute/backer-8632/checkout)]
 
-<p align="center"><a href="https://opencollective.com/charting-show#backers" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/crypto-charting-backers.jpg"></a></p>
+<p align="center"><a href="https://opencollective.com/charting-show#backers" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-backers.jpg"></a></p>
 
 ## Contributions, Feature Requests and Feedback ✨
 
 This project exists thanks to all the people who contribute.
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/crypto-charting-contributors.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-contributors.jpg" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
 
