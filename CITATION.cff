@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Charting"
+  given-names: "Show"
+  orcid: "https://orcid.org/0009-0005-3507-8478"
+title: "Charting Show"
+doi: 10.5281/zenodo.10252536
+url: "https://github.com/chartingshow"
+license: GPL-3
