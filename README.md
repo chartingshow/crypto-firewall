@@ -288,29 +288,29 @@ Please see [CHANGELOG](https://github.com/chartingshow/crypto-firewall/releases)
 
 ## If you like the Charting Show project 💗💗💗
 
-<p><a href="https://opencollective.com/crypto-charting"><img align="center" src="/assets/images/support-crypto-charting.jpg" /></a></p>
+<p><a href="https://opencollective.com/charting-show"><img align="center" src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/support-charting-show.jpg" /></a></p>
 
 If you like Charting Show you can support the project's improvements and development of new features with a donation to our collective.
 
-👉 [https://opencollective.com/crypto-charting](https://opencollective.com/crypto-charting)
+👉 [https://opencollective.com/charting-show](https://opencollective.com/charting-show)
 
 ### Sponsors ✨
 
-Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/crypto-charting/contribute/sir-8679/checkout)]
+Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/charting-show/contribute/sir-8679/checkout)]
 
-<a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/83365462" width="64"></a>
+<a href="#" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/avatars-1.jpg" width="64"></a>
 
 ### Backers ✨
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/crypto-charting/contribute/backer-8632/checkout)]
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/charting-show/contribute/backer-8632/checkout)]
 
-<p align="center"><a href="https://opencollective.com/crypto-charting#backers" target="_blank"><img src="/assets/images/crypto-charting-backers.jpg"></a></p>
+<p align="center"><a href="https://opencollective.com/charting-show#backers" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/crypto-charting-backers.jpg"></a></p>
 
 ## Contributions, Feature Requests and Feedback ✨
 
 This project exists thanks to all the people who contribute.
 
-<p align="center"><img src="/assets/images/crypto-charting-contributors.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/crypto-charting-contributors.jpg" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
 
