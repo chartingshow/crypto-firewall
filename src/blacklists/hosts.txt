@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 December 2023
+# Last modified: 5 December 2023
 #
 
 # Extras (comment out if needed)
@@ -620,6 +620,7 @@
 0.0.0.0 ahmgbgjhdlmmlnf.top
 0.0.0.0 ahorratelaferia.com
 0.0.0.0 ahrom-app.website
+0.0.0.0 ahymvoxxg.com
 0.0.0.0 ai-startup.cc
 0.0.0.0 aibwireless.com
 0.0.0.0 aibyngu.ru
@@ -708,6 +709,7 @@
 0.0.0.0 akhrailway.com
 0.0.0.0 akincareers.com
 0.0.0.0 akipress.news
+0.0.0.0 akredit.in
 0.0.0.0 akrepbaba323.net
 0.0.0.0 aktoto.eu
 0.0.0.0 akurt100.com
@@ -947,6 +949,7 @@
 0.0.0.0 ammaritt.com
 0.0.0.0 ammouriarts.com
 0.0.0.0 amon666.com
+0.0.0.0 amorcash.com
 0.0.0.0 amorecuidados.com.br
 0.0.0.0 amoreiaescuela.com
 0.0.0.0 amountfund.com
@@ -1841,6 +1844,7 @@
 0.0.0.0 bhptrade.com
 0.0.0.0 bhupeshtrivedi.com
 0.0.0.0 bhushankoli.com
+0.0.0.0 bhvbhgvh.space
 0.0.0.0 bi-btc.com
 0.0.0.0 bi3x.org
 0.0.0.0 bialpro.pl
@@ -2636,6 +2640,7 @@
 0.0.0.0 cashtradefx.com
 0.0.0.0 cashtrust.top
 0.0.0.0 cashusd.online
+0.0.0.0 cashwow.club
 0.0.0.0 cashxfarm.com
 0.0.0.0 casihotdealnz.com
 0.0.0.0 casino-en-lineas.com
@@ -3046,6 +3051,7 @@
 0.0.0.0 coadymarine.com
 0.0.0.0 coasdfaco.com
 0.0.0.0 coastalhighschool.com
+0.0.0.0 coccash.com
 0.0.0.0 cocinashogarmobiliario.com
 0.0.0.0 coco-us.shop
 0.0.0.0 cococasserfr.com
@@ -3374,6 +3380,7 @@
 0.0.0.0 creativeadvancer.com
 0.0.0.0 creatorsagahub.com
 0.0.0.0 credencewaybank.com
+0.0.0.0 credibusco.com
 0.0.0.0 credit-volta.com
 0.0.0.0 creditals-email.space
 0.0.0.0 creditflares.com
@@ -4276,6 +4283,7 @@
 0.0.0.0 easybasecl.com
 0.0.0.0 easybulk.top
 0.0.0.0 easycoachkenya.com
+0.0.0.0 easycredit-app.com
 0.0.0.0 easycucina.net
 0.0.0.0 easydownloadvideo.com
 0.0.0.0 easyhash.de
@@ -6097,6 +6105,7 @@
 0.0.0.0 guardnew.live
 0.0.0.0 guardnews.live
 0.0.0.0 guavabits.com
+0.0.0.0 guayabacash.com
 0.0.0.0 guciforest.com
 0.0.0.0 gudangtasorichina.com
 0.0.0.0 gudtrex.com
@@ -7036,6 +7045,7 @@
 0.0.0.0 iueville.com
 0.0.0.0 iuic.de
 0.0.0.0 iurd.pe
+0.0.0.0 iuuaufbt.com
 0.0.0.0 iv0.us
 0.0.0.0 ivaily.com
 0.0.0.0 ivan-li.ru
@@ -9022,6 +9032,7 @@
 0.0.0.0 mpcryptonews.com
 0.0.0.0 mplusseguros.com.br
 0.0.0.0 mpmcomputing.com
+0.0.0.0 mpxoptim.com
 0.0.0.0 mqcgbs.gopher
 0.0.0.0 mr1ubz.cyou
 0.0.0.0 mrassociattes.com
@@ -10033,6 +10044,7 @@
 0.0.0.0 oxprestamos.com
 0.0.0.0 oxstanbic.online
 0.0.0.0 oxxyfix.xyz
+0.0.0.0 oyeqctus.com
 0.0.0.0 oystergardener.net
 0.0.0.0 oyuncakhesapositebizimle.co.vu
 0.0.0.0 oyunsporhaberlerindenyaklas.co.vu
@@ -10849,6 +10861,7 @@
 0.0.0.0 qsweepqxj.xyz
 0.0.0.0 qtd8gcdoplav737wretjqmaiy.ga
 0.0.0.0 qtd8gcdoplav737wretjqmaiy.tk
+0.0.0.0 qtzhreop.com
 0.0.0.0 quacklabs.co.in
 0.0.0.0 quadaec.com
 0.0.0.0 quadoil.ru
@@ -12264,6 +12277,7 @@
 0.0.0.0 softcom.net
 0.0.0.0 softdetails.in
 0.0.0.0 softetal.com
+0.0.0.0 softheartlend2.com
 0.0.0.0 softhebale.com
 0.0.0.0 softowii.com
 0.0.0.0 softportal.tk
@@ -13566,6 +13580,7 @@
 0.0.0.0 true-version.com
 0.0.0.0 truegym.at
 0.0.0.0 trueinvestment.cc
+0.0.0.0 truenaira.co
 0.0.0.0 truityfcu.biz
 0.0.0.0 trunghodesign.com
 0.0.0.0 trungkien.top
@@ -14508,6 +14523,7 @@
 0.0.0.0 whatshewant.online
 0.0.0.0 whatssapp.co
 0.0.0.0 whatup.cloud
+0.0.0.0 whcashph.com
 0.0.0.0 wheatlandfireauthority.com
 0.0.0.0 where9sm532523523523ym8nd.com
 0.0.0.0 where9smym8nd.com
@@ -15095,6 +15111,7 @@
 0.0.0.0 yttornt.shop
 0.0.0.0 yuankuojia.com
 0.0.0.0 yubetech.com
+0.0.0.0 yumicash.com
 0.0.0.0 yummyads.net
 0.0.0.0 yunethosting.rs
 0.0.0.0 yunicefsqs.top

@@ -1,0 +1,29 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: SpyLoan Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 5 December 2023
+#
+
+3.109.98.108
+35.86.179.229
+35.158.118.139
+43.225.143.80
+47.56.128.251
+47.89.159.152
+47.89.211.3
+47.91.110.22
+47.253.49.18
+47.253.175.81
+47.254.33.250
+49.0.193.223
+54.71.70.186
+104.21.19.69
+110.238.85.186
+152.32.140.8
+172.67.131.223
