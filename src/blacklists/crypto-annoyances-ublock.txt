@@ -2,8 +2,10 @@
 # Filter list optimized for uBlock
 
 ! General Blocks --------------------------------------------------
+||adsensecustomsearchads.com^
 ||cookiebot.com^
 ||onetrust.com^
+||syndicatedsearch.goog^
 ||trustarc.com^
 
 ! Social Media Blocks --------------------------------------------------
