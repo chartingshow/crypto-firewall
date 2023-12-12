@@ -46,6 +46,7 @@ tradingview.com##[data-role*="toast-container"]
 ! Exchange Blocks ------------------------------------------------------
 
 ! binance.com
+accounts.binance.com###global-banner-compliance-check
 www.binance.com###global-banner-compliance-check
 
 ! Crypto Blocks --------------------------------------------------------
@@ -59,15 +60,18 @@ www.binance.com###global-banner-compliance-check
 www.coingecko.com###guides
 www.coingecko.com###news
 www.coingecko.com###top-banner
+www.coingecko.com##.gecko-guide-dialog-position
 www.coingecko.com##.lg\:tw-gap-8.lg\:tw-grid-cols-3.lg\:tw-grid.tw-shadow.dark\:tw-bg-opacity-5.dark\:tw-bg-white.lg\:tw-p-6.tw-p-4.tw-rounded-lg.tw-mt-8.tailwind-reset
 www.coingecko.com##.offset-lg-8.mb-md-4.fixed-bottom
 www.coingecko.com##.topfooter
 www.coingecko.com##.tw-animate-ping-slow
+www.coingecko.com##.tw-bg-opacity-75
 www.coingecko.com##.tw-drop-shadow-geckoguide
 www.coingecko.com##.tw-mb-16
 www.coingecko.com##.tw-mb-8.order-lg-3.order-md-3.order-sm-3.tw-order-3.tw-col-span-12 > .tw-mt-8
 www.coingecko.com##.tw-px-0.tw-pb-4.col-lg-12.inner-tab-scroller.tab-content
 www.coingecko.com##.xl\:tw-mt-0.tw-mt-4.tw-gap-1.tw-flex-col.tw-flex.tw-px-4
+www.coingecko.com##body > div > .lg\:tw-block.tw-hidden
 www.coingecko.com##div.tw-border-solid.tw-border-gray-200.tw-border-b.tw-border-0.dark\:tw-border-white.dark\:tw-border-opacity-12:nth-of-type(2)
 www.coingecko.com##div.tw-p-4.tw-rounded-xl.dark\:tw-bg-opacity-5.dark\:tw-bg-white.tw-bg-gray-100 > .tw-mb-1
 www.coingecko.com##main > div > .lg\:tw-block.tw-hidden
@@ -129,6 +133,7 @@ coinlib.io##.tickercontainer > .tickercontainer
 coinlib.io##a.dropdown-item:nth-of-type(1)
 
 ! cryptometer.io
+www.cryptometer.io###gdpr-cookie-message
 www.cryptometer.io##.container-fluid
 www.cryptometer.io##.d-md-block.d-none.navbar-border.footer-light.fixed-bottom.footer.navbar-expand.navbar
 
