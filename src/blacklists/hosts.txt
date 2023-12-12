@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 December 2023
+# Last modified: 12 December 2023
 #
 
 # Extras (comment out if needed)
@@ -8626,6 +8626,8 @@
 0.0.0.0 microstratgey.com
 0.0.0.0 microtreeinc.com
 0.0.0.0 micrrosoft.net
+0.0.0.0 micrsofts.com
+0.0.0.0 micrsofts.tech
 0.0.0.0 micrusroft.com
 0.0.0.0 midanatrust.com
 0.0.0.0 midaspire.org
