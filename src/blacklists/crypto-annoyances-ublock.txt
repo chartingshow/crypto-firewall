@@ -3,8 +3,10 @@
 
 ! General Blocks --------------------------------------------------
 ||adsensecustomsearchads.com^
+||cdn.viafoura.net^
 ||cookiebot.com^
 ||onetrust.com^
+||quantcast.com^
 ||syndicatedsearch.goog^
 ||trustarc.com^
 
