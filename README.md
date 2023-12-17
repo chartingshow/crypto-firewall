@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
 
-Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers.
+Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers. The goal of this project is to help you safe and help you avoid getting scammed and losing your cryptocurrencies.
 
 If you discover a false positive or need to add a new block, then feel free to raise an **Issue** or a **Pull request** to add/remove them to the lists.
 
