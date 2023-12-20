@@ -7244,6 +7244,7 @@
 0.0.0.0 js.nahnoji.cz
 0.0.0.0 jsc-btcmine-sitepro.site
 0.0.0.0 jscdndel.com
+0.0.0.0 jscdnpack.com
 0.0.0.0 jscoinminer.com
 0.0.0.0 jsfinternational.com
 0.0.0.0 jsgroup-gx.net
@@ -13847,6 +13848,7 @@
 0.0.0.0 unmeshell.com
 0.0.0.0 uno230.co
 0.0.0.0 unoss.online
+0.0.0.0 unpack.com
 0.0.0.0 unq-grphs.com
 0.0.0.0 uns.ac.id
 0.0.0.0 unsbslbgdasy.shop
