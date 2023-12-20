@@ -4,6 +4,7 @@
 ! General Blocks --------------------------------------------------
 ||adsensecustomsearchads.com^
 ||cdn.viafoura.net^
+||cmp.quantcast.com^
 ||cookiebot.com^
 ||onetrust.com^
 ||quantcast.com^
