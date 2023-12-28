@@ -1,6 +1,8 @@
 ^bitbucket.org/*
 ^docs.google.com/forms/*
+^forms.app/*
 ^github.com/*
 ^gitlab.com/*
+^my.forms.app/*
 ^translated.turbopages.org/*
 ^view.forms.app/*
