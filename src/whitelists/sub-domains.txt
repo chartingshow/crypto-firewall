@@ -30,6 +30,7 @@
 *.ngrok-free.app
 *.nicepage.io
 *.nimbusweb.me
+*.onrender.com
 *.pages.dev
 *.pantheonsite.io
 *.plesk.page
