@@ -1,0 +1,14 @@
+# Crypto Firewall (BusinessSites)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 30 December 2023
+#
+
+# Block BusinessSites sub-domains
+0.0.0.0 jio-fiber-outlet.business.site
+0.0.0.0 jio-fiber-partner.business.site
+0.0.0.0 jiofiber.business.site
+0.0.0.0 united-airline-booking-customer-service.business.site
