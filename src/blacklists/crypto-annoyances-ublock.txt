@@ -62,6 +62,7 @@ www.binance.com###global-banner-compliance-check
 @@||wss://cable.coingecko.com/cable
 www.coingecko.com###guides
 www.coingecko.com###news
+www.coingecko.com###sponsored-search-desktop
 www.coingecko.com###top-banner
 www.coingecko.com##.gecko-guide-dialog-position
 www.coingecko.com##.lg\:tw-gap-8.lg\:tw-grid-cols-3.lg\:tw-grid.tw-shadow.dark\:tw-bg-opacity-5.dark\:tw-bg-white.lg\:tw-p-6.tw-p-4.tw-rounded-lg.tw-mt-8.tailwind-reset
