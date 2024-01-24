@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 12 December 2023
+# Last modified: 24 January 2024
 #
 
 # Extras (comment out if needed)
@@ -1108,6 +1108,8 @@
 0.0.0.0 appexassets.com
 0.0.0.0 appexpremier.online
 0.0.0.0 appkasnofert.com
+0.0.0.0 apple-analyser.com
+0.0.0.0 apple-health.org
 0.0.0.0 apple-usdt.com
 0.0.0.0 applepps.com
 0.0.0.0 applicatwindomz.com
@@ -6735,6 +6737,7 @@
 0.0.0.0 immoinvest.com.br
 0.0.0.0 immortal-club.com
 0.0.0.0 immsolution.com
+0.0.0.0 imohub.net
 0.0.0.0 imonitorsoft.com
 0.0.0.0 impactmarketingservice.in
 0.0.0.0 impexawards.com
