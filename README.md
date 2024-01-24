@@ -144,6 +144,8 @@ There are two methods to install into your adblocker:
 
 ## Hosts based blocking 💢
 
+For more instructions check out our [Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/hosts-instructions.md)
+
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
 - [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt)
