@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 November 2023
+# Last modified: 8 February 2023
 #
 
 013store@goodwillhunting.org
@@ -2901,6 +2901,7 @@ johannes@incony.de
 johantjan@berca-mp.co.id
 John.Bertocchini@environmentid.org
 John.Bertocchini@smartretailer.com.au
+john.mocally174@40mail.ru
 John.Ramey@macivernews.com
 John.Ramey@ocquickbooks.com
 John.Ramey@yes-mobile.com.au
