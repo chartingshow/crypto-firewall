@@ -30,7 +30,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Installation](#installation-%EF%B8%8F)
   - [AdBlock Filter](#adblock-filter-)
 - [Basic usage](#basic-usage-)
-- [Recommended versions]()
+- [Recommended versions](#recommended-versions-)
   - [Stable Versions](#stable-versions-)
     - [Lite Version](#lite-version)
     - [Full Version](#full-version)
