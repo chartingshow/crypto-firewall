@@ -30,6 +30,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Installation](#installation-%EF%B8%8F)
   - [AdBlock Filter](#adblock-filter-)
 - [Basic usage](#basic-usage-)
+- [Recommended versions]()
   - [Stable Versions](#stable-versions-)
     - [Lite Version](#lite-version)
     - [Full Version](#full-version)
@@ -81,6 +82,15 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
 
 - https://github.com/chartingshow/crypto-firewall/tree/master/docs
+
+## Recommended versions ✅
+
+The firewall is known to reduce performance slightly and this is why we have several **different** versions. Here's a suggested guide based on cpu processors:
+
+- Intel i3 - use `full` version (if you experience bad performance then try `lite` version instead).
+- Intel i5 - use `full` version (if you experience bad performance then try `lite` version instead).
+- Intel i7 - use `mega` version (if you experience bad performance then try `full` version instead).
+- Intel i9 - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
 
 ### Stable Versions 🏆
 
