@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 January 2024
+# Last modified: 17 February 2024
 #
 
 # Extras (comment out if needed)
@@ -308,6 +308,7 @@
 0.0.0.0 871d9314bb8bf8da.xyz
 0.0.0.0 8723yuoistzkk.xyz
 0.0.0.0 87a312e6bb2524d4.xyz
+0.0.0.0 87iavv.com
 0.0.0.0 888score.com
 0.0.0.0 8d7c621736f6cb25.xyz
 0.0.0.0 8fx.us
@@ -5461,6 +5462,7 @@
 0.0.0.0 fuzzypeachbaby.com
 0.0.0.0 fx-cotinskit.top
 0.0.0.0 fxbm.live
+0.0.0.0 fxbulls.ru
 0.0.0.0 fxchemicalplant.com
 0.0.0.0 fxdehui.com
 0.0.0.0 fxderigo.net
@@ -10066,6 +10068,7 @@
 0.0.0.0 p-rise.online
 0.0.0.0 p.estream.to
 0.0.0.0 p1803.ir
+0.0.0.0 p2oaviwt39ui.com
 0.0.0.0 p2p-plus.com
 0.0.0.0 p3environmental.com
 0.0.0.0 packetriot.net
@@ -13806,6 +13809,7 @@
 0.0.0.0 undomasks.website
 0.0.0.0 undress.app
 0.0.0.0 unfamliliardate.net
+0.0.0.0 unfawjelesst322.com
 0.0.0.0 unhchud.com
 0.0.0.0 unhushed.cc
 0.0.0.0 uni-arbitrage.com
