@@ -38,8 +38,11 @@ ddns.me
 ddns.net
 ddnsfree.com
 ddnsgeek.com
+ddnsguru.com
 ddnsking.com
 dnsabr.com
+dnsalias.com
+dnsdojo.com
 dnsdyn.net
 duckdns.org
 duia.ro
@@ -49,6 +52,7 @@ dyndns-at-home.com
 dyndns-remote.com
 dyndns-server.com
 dyndns-web.com
+dyndns-wiki.com
 dyndns.biz
 dyndns.org
 dyndns1.de
@@ -153,6 +157,7 @@ viewdns.net
 web-hosting.com
 webhop.info
 webhop.me
+webhop.org
 webredirect.org
 x10.bz
 ydns.eu
