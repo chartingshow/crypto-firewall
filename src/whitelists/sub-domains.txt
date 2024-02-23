@@ -12,7 +12,9 @@
 *.bluehosting.cz
 *.bravesites.com
 *.business.site
+*.cloudapp.azure.com
 *.cloudfront.net
+*.cloudfunctions.net
 *.cprapid.com
 *.easterndns.com
 *.firebaseapp.com
@@ -21,6 +23,7 @@
 *.glitch.me
 *.global.ssl.fastly.net
 *.godaddysites.com
+*.googleusercontent.com
 *.herokuapp.com
 *.host.secureserver.net
 *.infinityfreeapp.com
