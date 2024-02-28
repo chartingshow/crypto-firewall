@@ -2,6 +2,7 @@
 # Filter list optimized for uBlock
 
 ! General Blocks --------------------------------------------------
+###onetrust-consent-sdk
 ||adsensecustomsearchads.com^
 ||cdn.viafoura.net^
 ||cmp.quantcast.com^
@@ -22,11 +23,6 @@ twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > d
 
 ! TradingView Annoyances -------------------------------------------------------
 tradingview.com###tv-toasts
-tradingview.com##.tv-dialog__modal-body
-tradingview.com##.tv-dialog__modal-container
-tradingview.com##.tv-dialog__modal-wrap
-tradingview.com##.tv-dialog__overlay
-tradingview.com##.tv-header__link
 tradingview.com##.tv-toasts
 tradingview.com##[class^=backdrop]
 tradingview.com##[class^=notifications]
@@ -53,6 +49,14 @@ accounts.binance.com###global-banner-compliance-check
 www.binance.com###global-banner-compliance-check
 
 ! Crypto Blocks --------------------------------------------------------
+
+! coinbase.com
+login.coinbase.com##[class^=ds-backgroundAlternate]
+www.coinbase.com##.cds-backgroundAlternate-b1o0kdmt
+www.coinbase.com##[class^=cds-backgroundAlternate-]
+www.coinbase.com##[class^=cds-backgroundAlternate]
+www.coinbase.com##[class^=cds-borderedBottom]
+www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer-sc]
 
 ! coingecko.com
 @@||widgets.coingecko.com/coingecko-coin-compare-chart-widget.js$script,domain=file-scheme
@@ -381,6 +385,7 @@ register.fca.org.uk##.modal-backdrop.slds-fade-in-open.slds-modal
 app.santiment.net##.cookies
 app.santiment.net##.intercom-lightweight-app
 app.santiment.net##.svelte-iaorz.v-center.row
+app.santiment.net##[class^=intercom]
 app.santiment.net##html > body > div > button:nth-of-type(2)
 app.santiment.net##html > body > div > main > content > div:nth-of-type(1) > share
 app.santiment.net##share-button
