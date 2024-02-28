@@ -1,0 +1,5 @@
+ipfs.io
+infura-ipfs.io
+eth.link 
+cloudflare-ipfs.com
+cf-ipfs.com
