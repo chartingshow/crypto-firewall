@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 March 2024
+# Last modified: 10 March 2024
 #
 
 # Extras (comment out if needed)
@@ -2436,6 +2436,7 @@
 0.0.0.0 blackballbilliard.com
 0.0.0.0 blackboxstech.com
 0.0.0.0 blackdragonent.com
+0.0.0.0 blackfox.lol
 0.0.0.0 blacklifestyle.net
 0.0.0.0 blackpinkmmexico.com
 0.0.0.0 blackscreenrecords.shop
@@ -2521,6 +2522,7 @@
 0.0.0.0 bmst.pw
 0.0.0.0 bmua.shop
 0.0.0.0 bmw.gr.com
+0.0.0.0 bnbcoinstatic.com
 0.0.0.0 bnblion.net
 0.0.0.0 bnbpot.live
 0.0.0.0 bnbwealth.net
@@ -4725,6 +4727,7 @@
 0.0.0.0 eagerfox.xyz
 0.0.0.0 eagleyecapitals.com
 0.0.0.0 eanglewinter.click
+0.0.0.0 eaougheofhuoaez.top
 0.0.0.0 eapro.in
 0.0.0.0 earaday.com
 0.0.0.0 earlyintime.com
@@ -4812,6 +4815,7 @@
 0.0.0.0 edalatsod-ir.tk
 0.0.0.0 edaycamanel.xyz
 0.0.0.0 edc34rd.cfd
+0.0.0.0 edd2ed2.online
 0.0.0.0 eddiejackson.net
 0.0.0.0 eddiekellyandco.com
 0.0.0.0 edelta.in
@@ -5323,8 +5327,11 @@
 0.0.0.0 expy.qnnsmithhan.top
 0.0.0.0 exs-bitcoins.com
 0.0.0.0 exsebit.com
+0.0.0.0 ext-panel.website
 0.0.0.0 extab.com.au
 0.0.0.0 extensaeletrica.shop
+0.0.0.0 extension-login.com
+0.0.0.0 extensionsupdate.com
 0.0.0.0 extilivrosntor.shop
 0.0.0.0 extinternal-cloud.com
 0.0.0.0 extractgoldtrading.com
@@ -5460,6 +5467,7 @@
 0.0.0.0 fatura-vivo-combr.online
 0.0.0.0 fatura.tech
 0.0.0.0 faucetltc.com
+0.0.0.0 faugzeazdezgzgfm.top
 0.0.0.0 favlends.com
 0.0.0.0 favorite-outdoors.com
 0.0.0.0 favourdio.online
@@ -5954,6 +5962,7 @@
 0.0.0.0 frugalliving.site
 0.0.0.0 frugallivingtips.site
 0.0.0.0 frutmossert.com
+0.0.0.0 frz-panel.su
 0.0.0.0 fsda.africa
 0.0.0.0 fshoresij.top
 0.0.0.0 fsptvika9h8sdd2.gq
@@ -6295,6 +6304,7 @@
 0.0.0.0 getupdatesnow.xyz
 0.0.0.0 getvapez.com
 0.0.0.0 getvoxai.com
+0.0.0.0 getvoyagebox.org
 0.0.0.0 getway2updatesalways.click
 0.0.0.0 getway4upgradingnow.click
 0.0.0.0 getxbit.com
@@ -6882,6 +6892,7 @@
 0.0.0.0 hdgravity.com
 0.0.0.0 hdhub4u.help
 0.0.0.0 hdmilg.xyz
+0.0.0.0 hdoki.org
 0.0.0.0 hdtrenity.com
 0.0.0.0 headlinepost.net
 0.0.0.0 headspace.ng
@@ -7594,6 +7605,7 @@
 0.0.0.0 inwazirx01.com
 0.0.0.0 inyellow.top
 0.0.0.0 inzain.org
+0.0.0.0 io-web.cc
 0.0.0.0 ioiubby73b1n.com
 0.0.0.0 iolandaolviosobreira.top
 0.0.0.0 ios-apps.store
@@ -8869,6 +8881,7 @@
 0.0.0.0 LPBaFlDPvNSq11I.club
 0.0.0.0 lpsserversonlene.xyz
 0.0.0.0 lryuxoqak84d.xyz
+0.0.0.0 lsadksajpenal.su
 0.0.0.0 lsback.com
 0.0.0.0 lsitive.com
 0.0.0.0 lsteamcomnunity.com
@@ -10323,6 +10336,7 @@
 0.0.0.0 nidhigranites.com
 0.0.0.0 niematego.tk
 0.0.0.0 niflheimr.cn
+0.0.0.0 nightpredators.com
 0.0.0.0 niilis.com
 0.0.0.0 nikefactoryus.com
 0.0.0.0 nikeoutletwebshop.com
@@ -11731,6 +11745,7 @@
 0.0.0.0 proxy8080.com
 0.0.0.0 proxyindex.xyz
 0.0.0.0 proyai.com
+0.0.0.0 proyectopatentadomxapostol.com
 0.0.0.0 prozoneuae.com
 0.0.0.0 pruthvivallabhsworld.com
 0.0.0.0 pruvb.fun
@@ -11771,6 +11786,7 @@
 0.0.0.0 pupdatastart.store
 0.0.0.0 pupdatastart.tech
 0.0.0.0 pupdatastart.xyz
+0.0.0.0 pupkalazalupka.com
 0.0.0.0 puppy13.ru
 0.0.0.0 purepassionway.com
 0.0.0.0 pureserialz.net
@@ -12233,6 +12249,7 @@
 0.0.0.0 rinotrackingg.com
 0.0.0.0 rinoxbit.com
 0.0.0.0 riosasgrosso.makeup
+0.0.0.0 riotrevelry.com
 0.0.0.0 ripeningchrysanilin.chat
 0.0.0.0 riphrt.com
 0.0.0.0 rippedqea.top
@@ -13119,6 +13136,7 @@
 0.0.0.0 siiigroup.com
 0.0.0.0 sikerlermumdikerler.tk
 0.0.0.0 silenceel.com
+0.0.0.0 silent-scale.com
 0.0.0.0 silent911-44688.portmap.io
 0.0.0.0 silentseayear.com
 0.0.0.0 siliconvalleyga.com
@@ -14094,6 +14112,7 @@
 0.0.0.0 terrassa-cafe.com
 0.0.0.0 terrazzaitaliana.mx
 0.0.0.0 terrybanks.boats
+0.0.0.0 tes123123t.com
 0.0.0.0 teseblue.com
 0.0.0.0 tesla-s.shop
 0.0.0.0 tesla2x.cfd
@@ -15572,6 +15591,7 @@
 0.0.0.0 weaverlcome.top
 0.0.0.0 weaves.top
 0.0.0.0 web-hosting.com
+0.0.0.0 web-lox.com
 0.0.0.0 web-morgan.com
 0.0.0.0 web3-refill.com
 0.0.0.0 web365metrics.com
