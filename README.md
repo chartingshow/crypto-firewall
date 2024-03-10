@@ -41,6 +41,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
+- [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
@@ -193,6 +194,16 @@ You may use the hosts file with below applications to block these miners on whol
 This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
 
 - [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
+
+## Autonomous System Number (ASN) blocking 🗃️
+
+An Autonomous System Number (ASN) is a globally unique 16-digit identification number assigned by the Internet Assigned Numbers Authority (IANA) to Autonomous Systems (AS). ASNs are crucial for routing within networks and exchanging routing information with other Internet Service Providers. Autonomous systems numbered one to 64511 are available by IANA for global use. The 64512 to 65535 series is reserved for private and reserved purposes.
+
+An Autonomous System Number (ASN) can also be blocked, be aware that ASN's contain a load of ip addresses assigned to them. You can add them to a firewall of your choice.
+
+The ASN block list can be found here:
+
+- [ASN Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt)
 
 ## IP blocking 🌐
 
