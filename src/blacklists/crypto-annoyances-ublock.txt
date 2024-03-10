@@ -268,6 +268,7 @@ app.laevitas.ch##.shepherd-content
 
 ! cryptorank.io
 cryptorank.io###__next > div > div:nth-of-type(2)
+cryptorank.io###CookiesPopup
 cryptorank.io###root-container > div:nth-of-type(1) > div:nth-of-type(2)
 cryptorank.io###scroll-up-button
 cryptorank.io##.vertical
