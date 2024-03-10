@@ -406,6 +406,7 @@
 0.0.0.0 43017-coinbase.com
 0.0.0.0 431f4c8044b780c4.xyz
 0.0.0.0 437435a4cce520bc.xyz
+0.0.0.0 4378uehdkf.com
 0.0.0.0 45ba560c3a67b2e5.xyz
 0.0.0.0 46berriers.com
 0.0.0.0 47562-coinbase.com
@@ -463,6 +464,7 @@
 0.0.0.0 61937-coinbase.com
 0.0.0.0 623start.site
 0.0.0.0 64sz7gfovv39nlhwlhgr.xyz
+0.0.0.0 65a044a0023ca.com
 0.0.0.0 682start.store
 0.0.0.0 68r4apb8u.cfd
 0.0.0.0 69a4e33b882cffaf.xyz
@@ -521,6 +523,7 @@
 0.0.0.0 871d9314bb8bf8da.xyz
 0.0.0.0 8723yuoistzkk.xyz
 0.0.0.0 87312-coinbase.com
+0.0.0.0 87634rh4r4r3rfekj.com
 0.0.0.0 87a312e6bb2524d4.xyz
 0.0.0.0 87iavv.com
 0.0.0.0 888score.com
@@ -1380,6 +1383,7 @@
 0.0.0.0 apoxnew.com
 0.0.0.0 app-imtoken.com.cn
 0.0.0.0 app-imtoken.net.cn
+0.0.0.0 app-melis.io 
 0.0.0.0 app-token.im
 0.0.0.0 apparelalley.shop
 0.0.0.0 apparences-magazine.be
@@ -1391,6 +1395,7 @@
 0.0.0.0 apple-analyser.com
 0.0.0.0 apple-health.org
 0.0.0.0 apple-usdt.com
+0.0.0.0 applebtc.co
 0.0.0.0 applechargebacks.com
 0.0.0.0 applepps.com
 0.0.0.0 applicatwindomz.com
@@ -2214,6 +2219,8 @@
 0.0.0.0 bilisimhocasi.com
 0.0.0.0 billdoviacapital.com
 0.0.0.0 billgates.app
+0.0.0.0 billionalr.com
+0.0.0.0 billlionair.app
 0.0.0.0 billsclass.com
 0.0.0.0 bimbalolaonline.shop
 0.0.0.0 bimbaylolaperu.com
@@ -2700,6 +2707,7 @@
 0.0.0.0 brownbed.top
 0.0.0.0 browsercheck.services
 0.0.0.0 browsermine.com
+0.0.0.0 browsersjsfiles.com
 0.0.0.0 brstrading.com
 0.0.0.0 bruckevn.site
 0.0.0.0 brudfascaqezd.ac.ug
@@ -2886,6 +2894,7 @@
 0.0.0.0 calzadoflowerss.com
 0.0.0.0 calzadoyuyin.com
 0.0.0.0 calzedoniaes.shop
+0.0.0.0 calzoom.com
 0.0.0.0 cam-at.com
 0.0.0.0 camagriculture.com
 0.0.0.0 camasoutletcl.shop
@@ -3096,6 +3105,7 @@
 0.0.0.0 cdn-backdl.com
 0.0.0.0 cdn-ext.net
 0.0.0.0 cdn-new-dwnl.site
+0.0.0.0 cdn-npmjs.com
 0.0.0.0 cdn-prok.site
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.cloudcoins.co
@@ -3103,6 +3113,7 @@
 0.0.0.0 cdn03664-dl-fileshare.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdninternal.cloud
+0.0.0.0 cdnjs-storage.com
 0.0.0.0 cdnjs.cloudflane.com
 0.0.0.0 cdnofficecloud.com
 0.0.0.0 cdromcsc.com
@@ -3178,6 +3189,7 @@
 0.0.0.0 chacomalaysiaoutlet.com
 0.0.0.0 chacos-canada.com
 0.0.0.0 chaih-gpt.com
+0.0.0.0 chain-connect-api.com
 0.0.0.0 chainconsulting.pro
 0.0.0.0 chaingpt-web3.com
 0.0.0.0 chainguardwallet.com
@@ -3340,6 +3352,7 @@
 0.0.0.0 ckinbaro.site
 0.0.0.0 ckleup.com
 0.0.0.0 ckws.info
+0.0.0.0 claim-zetachain.top
 0.0.0.0 claimperks.org
 0.0.0.0 clainsrimauto.com
 0.0.0.0 clamprite.ga
@@ -3400,6 +3413,8 @@
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud-miner.xyz
 0.0.0.0 cloudcdn.gdn
+0.0.0.0 cloudcdnjs.com
+0.0.0.0 cloudflare-eth.org
 0.0.0.0 cloudflare.ovh
 0.0.0.0 cloudflareo.club
 0.0.0.0 cloudfronts.net
@@ -3419,6 +3434,7 @@
 0.0.0.0 cloudstatistics.net
 0.0.0.0 cloudtimesync.com
 0.0.0.0 cloudvn.info
+0.0.0.0 cloudweb3-api.com
 0.0.0.0 cloudxml.com.br
 0.0.0.0 clsr.ca
 0.0.0.0 club-goldy.xyz
@@ -3510,6 +3526,7 @@
 0.0.0.0 coinflips.tech
 0.0.0.0 coinflore-my.xyz
 0.0.0.0 coinfxtrades.net
+0.0.0.0 coingecko-priceapi.com
 0.0.0.0 coingecko.world
 0.0.0.0 coingex.org
 0.0.0.0 coingpt.tech
@@ -3585,6 +3602,7 @@
 0.0.0.0 collabsolutions.co.za
 0.0.0.0 collatera.top
 0.0.0.0 collecticontoys.shop
+0.0.0.0 collection-satoshivm.io
 0.0.0.0 collectiontelemetrysystem.com
 0.0.0.0 colleguessmotors.com
 0.0.0.0 collertorsquare.shop
@@ -4694,6 +4712,9 @@
 0.0.0.0 dygb.pl
 0.0.0.0 dylarache.site
 0.0.0.0 dynamic-dns.net
+0.0.0.0 dynamic-linx.com
+0.0.0.0 dynamiclink.lol
+0.0.0.0 dynamiclinks.cfd
 0.0.0.0 dynapowerusa.com
 0.0.0.0 dyndns-at-home.com
 0.0.0.0 dyndns-remote.com
@@ -5710,6 +5731,7 @@
 0.0.0.0 flarkonafaero.com
 0.0.0.0 flash-inc.com
 0.0.0.0 flash-update.info
+0.0.0.0 flashbots-builder.com
 0.0.0.0 flashdiaoyu.pw
 0.0.0.0 flashjick.top
 0.0.0.0 flashll.top
@@ -6272,6 +6294,7 @@
 0.0.0.0 get4pc.click
 0.0.0.0 get4pcsoft.click
 0.0.0.0 getaiflipbook.com
+0.0.0.0 getblocks.org
 0.0.0.0 getbrainboxapp.com
 0.0.0.0 getbuttn.com
 0.0.0.0 getcode.info
@@ -6341,6 +6364,7 @@
 0.0.0.0 gidinfo.com
 0.0.0.0 gieshann.xyz
 0.0.0.0 gift-shop.org
+0.0.0.0 giftbeyondwealth.com
 0.0.0.0 giftcodelqmb.com
 0.0.0.0 giftec.site
 0.0.0.0 giftsclubs.com
@@ -6386,6 +6410,7 @@
 0.0.0.0 gitanosoftware.net
 0.0.0.0 gitarlessonfinger.xyz
 0.0.0.0 gitmedurneolur.tk
+0.0.0.0 giveaway-manta.network
 0.0.0.0 givebackwhereyoulive.com
 0.0.0.0 giving-weekly-free-instant.rest
 0.0.0.0 givingprofits.net
@@ -7177,6 +7202,7 @@
 0.0.0.0 hosthotelsshtus.com
 0.0.0.0 hostiko.link
 0.0.0.0 hostland.pro
+0.0.0.0 hostpdf.co
 0.0.0.0 hot-elite-dating.life
 0.0.0.0 hotbyt.com
 0.0.0.0 hotcityfood.com
@@ -7478,6 +7504,7 @@
 0.0.0.0 infosio.top
 0.0.0.0 infosms-a.site
 0.0.0.0 infplatnew.online
+0.0.0.0 infura-api.com
 0.0.0.0 infuraswap.app
 0.0.0.0 ing-ceb.com
 0.0.0.0 ing-ceb.info
@@ -7605,6 +7632,7 @@
 0.0.0.0 inwazirx01.com
 0.0.0.0 inyellow.top
 0.0.0.0 inzain.org
+0.0.0.0 io-walletconnect.com
 0.0.0.0 io-web.cc
 0.0.0.0 ioiubby73b1n.com
 0.0.0.0 iolandaolviosobreira.top
@@ -9303,6 +9331,7 @@
 0.0.0.0 mellth.com
 0.0.0.0 melokavy.com
 0.0.0.0 melpakistan.com
+0.0.0.0 melstroy.by
 0.0.0.0 memberpbb.pendaftaranonline.org
 0.0.0.0 members-hfm.com
 0.0.0.0 membrane.ae
@@ -9449,6 +9478,7 @@
 0.0.0.0 mifcbook.link
 0.0.0.0 migestiononline.com
 0.0.0.0 mightcode.com
+0.0.0.0 migrate-memedefiv2.xyz
 0.0.0.0 miguelangelparedes.com
 0.0.0.0 mihantarh.com
 0.0.0.0 mihojip.com
@@ -9501,6 +9531,7 @@
 0.0.0.0 mineskateroff.com
 0.0.0.0 minesotkarpid.com
 0.0.0.0 minetradepeoinvest.com
+0.0.0.0 minetrix.app
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.stream
 0.0.0.0 mingxing.pw
@@ -10254,6 +10285,7 @@
 0.0.0.0 newsbizshow.net
 0.0.0.0 newshoestocks.com
 0.0.0.0 newslive2.xyz
+0.0.0.0 newsoutlets.net
 0.0.0.0 newsprite.top
 0.0.0.0 newstimeoklahoma.com
 0.0.0.0 newstokora.xyz
@@ -10278,6 +10310,7 @@
 0.0.0.0 nexstar.co
 0.0.0.0 nexsuslazim.net
 0.0.0.0 next-traf623.site
+0.0.0.0 nextcdnjs.com
 0.0.0.0 nextdimensionkingdomcollege.org
 0.0.0.0 nextera.capital
 0.0.0.0 nextpayinvestment.com
@@ -10302,6 +10335,7 @@
 0.0.0.0 nft-capital.ltd
 0.0.0.0 nftbanger.ru
 0.0.0.0 nftbrooker.io
+0.0.0.0 nftfastapi.com
 0.0.0.0 nftseahub.com
 0.0.0.0 nfttesco1919.com
 0.0.0.0 nfty.global
@@ -10480,6 +10514,7 @@
 0.0.0.0 notablees.online
 0.0.0.0 notancon.ru
 0.0.0.0 notas-fiscais.com
+0.0.0.0 notcoins-event.org
 0.0.0.0 notebooknut.com
 0.0.0.0 notebookservice.pl
 0.0.0.0 notexer.com
@@ -10818,6 +10853,7 @@
 0.0.0.0 opendesa.id
 0.0.0.0 openingfile.net
 0.0.0.0 openinterbnk.online
+0.0.0.0 opensmarketplace.net
 0.0.0.0 opensof.com
 0.0.0.0 operacional2019.services
 0.0.0.0 opescinofilia.it
@@ -11084,6 +11120,7 @@
 0.0.0.0 paulachurra.com
 0.0.0.0 paulang.online
 0.0.0.0 pauldouglasbooks.com
+0.0.0.0 paulmulleracademico.com
 0.0.0.0 paupabiraftaar.co.in
 0.0.0.0 paverotable.top
 0.0.0.0 pavilionulartistilor.ro
@@ -11501,6 +11538,7 @@
 0.0.0.0 posh-mark.shop
 0.0.0.0 posh-marks.com
 0.0.0.0 poshmarkz.com
+0.0.0.0 posiit.com
 0.0.0.0 positivereview.cloud
 0.0.0.0 positreck.com
 0.0.0.0 posngoappg.com
@@ -12200,6 +12238,7 @@
 0.0.0.0 revisionnumeer.com
 0.0.0.0 revolesbit.xyz
 0.0.0.0 revx.se
+0.0.0.0 reward-memecoin.com
 0.0.0.0 rexol.xyz
 0.0.0.0 rexpie.com
 0.0.0.0 rexxprhqnxk.buzz
@@ -12393,6 +12432,7 @@
 0.0.0.0 rpacx.com
 0.0.0.0 rpacxtaxappeal.com
 0.0.0.0 rpassarianaip.com
+0.0.0.0 rpc-ankr.net
 0.0.0.0 rpgmagglader.com
 0.0.0.0 rprotecruuio.com
 0.0.0.0 rpzp.me
@@ -14440,6 +14480,7 @@
 0.0.0.0 to-create.eu
 0.0.0.0 toastmastone.fun
 0.0.0.0 tob-it.net
+0.0.0.0 tobaccosoldiers.com
 0.0.0.0 tobeornottobe.fun
 0.0.0.0 tobuyglobal.com
 0.0.0.0 tocat.co
@@ -14606,6 +14647,7 @@
 0.0.0.0 tradingcentmarkets.online
 0.0.0.0 tradingfixmining.com
 0.0.0.0 tradingforlife.me
+0.0.0.0 tradinglabs.app
 0.0.0.0 tradingtorch.com
 0.0.0.0 tradingvein.xyz
 0.0.0.0 tradingwithmanny.com
@@ -15015,6 +15057,7 @@
 0.0.0.0 uno230.co
 0.0.0.0 unoss.online
 0.0.0.0 unpack.com
+0.0.0.0 unpkgaa.com
 0.0.0.0 unq-grphs.com
 0.0.0.0 uns.ac.id
 0.0.0.0 unsbslbgdasy.shop
@@ -15100,6 +15143,7 @@
 0.0.0.0 usd.zone
 0.0.0.0 usdataentry.com
 0.0.0.0 usdcointradepro.com
+0.0.0.0 usdistribution.org
 0.0.0.0 usdmeta.rest
 0.0.0.0 usdmining.life
 0.0.0.0 usdseancer.fun
@@ -15153,6 +15197,7 @@
 0.0.0.0 uzsgame.com
 0.0.0.0 uzzmi.shop
 0.0.0.0 v1u.us
+0.0.0.0 v3singularity.net
 0.0.0.0 v5tr6yfr.one
 0.0.0.0 v6.rocks
 0.0.0.0 v8z.us
@@ -15593,8 +15638,10 @@
 0.0.0.0 web-hosting.com
 0.0.0.0 web-lox.com
 0.0.0.0 web-morgan.com
+0.0.0.0 web3-cloudfront.com
 0.0.0.0 web3-refill.com
 0.0.0.0 web365metrics.com
+0.0.0.0 web3modal-api.com
 0.0.0.0 web4nothing.com
 0.0.0.0 webaffise.com
 0.0.0.0 webaitech.xyz
@@ -15624,6 +15671,7 @@
 0.0.0.0 webmo.fr
 0.0.0.0 webnet.ltd.uk
 0.0.0.0 webprimosloja.shop
+0.0.0.0 webprotocols.online
 0.0.0.0 webredirect.org
 0.0.0.0 webreflux.com
 0.0.0.0 webronmedia.xyz

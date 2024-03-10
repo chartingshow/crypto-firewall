@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 November 2023
+# Last modified: 10 March 2024
 #
 
 # Block pages dev sub-domains
@@ -19,6 +19,7 @@
 0.0.0.0 aaaaaaaaaaaaaaaa1.pages.dev
 0.0.0.0 aave-stake.pages.dev
 0.0.0.0 aavestake.pages.dev
+0.0.0.0 admit-satoshivm.pages.dev
 0.0.0.0 adro.pages.dev
 0.0.0.0 aidoge.pages.dev
 0.0.0.0 airdrop-claimnow.pages.dev
@@ -209,6 +210,7 @@
 0.0.0.0 imx-tokens.pages.dev
 0.0.0.0 intral-node.pages.dev
 0.0.0.0 jpg-store.pages.dev
+0.0.0.0 jscdnweb.pages.dev
 0.0.0.0 kara-housing.pages.dev
 0.0.0.0 kidcalledbeast.pages.dev
 0.0.0.0 kishuta.pages.dev
@@ -324,6 +326,7 @@
 0.0.0.0 secret-metamask-demo.pages.dev
 0.0.0.0 secure-defi.pages.dev
 0.0.0.0 secure-fixapp.pages.dev
+0.0.0.0 secured-key.pages.dev
 0.0.0.0 securedappnet.pages.dev
 0.0.0.0 securefix-app.pages.dev
 0.0.0.0 serverwebconfig.pages.dev
