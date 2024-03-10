@@ -1,0 +1,11 @@
+# Crypto Firewall (Vercel App)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 10 March 2024
+#
+
+# Block vercel app sub-domains
+0.0.0.0 coinbase-walletconnectv4.vercel.app
