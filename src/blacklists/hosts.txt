@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 March 2024
+# Last modified: 30 March 2024
 #
 
 # Extras (comment out if needed)
@@ -79,11 +79,13 @@
 0.0.0.0 0280678.com
 0.0.0.0 028tnt.com
 0.0.0.0 02w65ijjohr1frm.com
+0.0.0.0 053105.com
 0.0.0.0 07159889-coinbase.com
 0.0.0.0 075a42f94213a494.live
 0.0.0.0 07umut07basla.net
 0.0.0.0 086df9b3b637e40d.info
 0.0.0.0 08grab.com
+0.0.0.0 092877.com
 0.0.0.0 0b125b25007220d9.xyz
 0.0.0.0 0bamandos.ru
 0.0.0.0 0cq.us
@@ -367,6 +369,7 @@
 0.0.0.0 3313v.com
 0.0.0.0 3463forum.cf
 0.0.0.0 352134951-coinbase.com
+0.0.0.0 353934.com
 0.0.0.0 35b98a2504c08951.live
 0.0.0.0 35fbe7fc67cdc20d.top
 0.0.0.0 3635optical.ga
@@ -447,8 +450,12 @@
 0.0.0.0 548848.xyz
 0.0.0.0 56toddhill.com
 0.0.0.0 57197-coinbase.com
+0.0.0.0 581574.com
 0.0.0.0 58176-coinbase.com
+0.0.0.0 582342.com
+0.0.0.0 582630.com
 0.0.0.0 58297-coinbase.com
+0.0.0.0 593942.com
 0.0.0.0 5a8777db35d45d0a.live
 0.0.0.0 5cae.com
 0.0.0.0 5cq.com
@@ -490,6 +497,7 @@
 0.0.0.0 778899aabb.ml
 0.0.0.0 77eb439d6788793e.com
 0.0.0.0 77navi.com
+0.0.0.0 784503.com
 0.0.0.0 7a4edf69ed3d21f9.live
 0.0.0.0 7alangy.com
 0.0.0.0 7c5xek1a1pe7nnn.top
@@ -537,6 +545,7 @@
 0.0.0.0 896pc6x93.gq
 0.0.0.0 8d7c621736f6cb25.xyz
 0.0.0.0 8fx.us
+0.0.0.0 908713.com
 0.0.0.0 909nu3dx3rgk13.com.de
 0.0.0.0 91723-gemini.com
 0.0.0.0 91752-coinbase.com
@@ -550,9 +559,11 @@
 0.0.0.0 92758-coinbase.com
 0.0.0.0 92cf772e294ea095.store
 0.0.0.0 92l.info
+0.0.0.0 930204.com
 0.0.0.0 948122061-coinbase.com
 0.0.0.0 9501dh03.vip
 0.0.0.0 95555cmbchina.com
+0.0.0.0 960232.com
 0.0.0.0 96roafw91vs3hqv.top
 0.0.0.0 97215618426.pw
 0.0.0.0 978941-coinbase.com
@@ -3431,6 +3442,7 @@
 0.0.0.0 cloudivox.info
 0.0.0.0 cloudkknet.pro
 0.0.0.0 cloudmetricsapp.com
+0.0.0.0 cloudmiracle.store
 0.0.0.0 cloudns.nz
 0.0.0.0 cloudns.ph
 0.0.0.0 cloudoption.in
@@ -12574,6 +12586,7 @@
 0.0.0.0 safelyredirecting.com
 0.0.0.0 safelyredirecting.digital
 0.0.0.0 safemotors.co.kr
+0.0.0.0 safetyfactor.online
 0.0.0.0 safewayintltransfer.com
 0.0.0.0 safewayinvestment.com
 0.0.0.0 safewaylimited.net

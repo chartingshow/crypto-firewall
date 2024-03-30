@@ -1,0 +1,13 @@
+# Crypto Firewall (appspot-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 30 March 2024
+#
+
+# Block appspot-com sub-domains
+0.0.0.0 flandria171.appspot.com
+0.0.0.0 incentiveswidget.appspot.com
+0.0.0.0 newyan-1e09d.appspot.com
