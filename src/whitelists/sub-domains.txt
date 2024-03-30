@@ -1,6 +1,7 @@
 *.5v.pl
 *.amazonaws.com
 *.appsflyer.com
+*.appspot.com
 *.at.playit.gg
 *.auto.playit.gg
 *.aws-euw2.cloud-ara.tyk.io
