@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 February 2024
+# Last modified: 10 April 2024
 #
 
 # Block Free dns and hosting
@@ -81,6 +81,7 @@
 0.0.0.0 jetos.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 keenetic.link
+0.0.0.0 keenetic.pro
 0.0.0.0 kozow.com
 0.0.0.0 kro.kr
 0.0.0.0 linkpc.net
