@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 February 2024
+# Last modified: 10 April 2024
 #
 
 # Domains
@@ -82,6 +82,7 @@ ix.tc
 jetos.com
 jumpingcrab.com
 keenetic.link
+keenetic.pro
 kozow.com
 kro.kr
 linkpc.net

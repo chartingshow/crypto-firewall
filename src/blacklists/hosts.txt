@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 March 2024
+# Last modified: 10 April 2024
 #
 
 # Extras (comment out if needed)
@@ -11148,6 +11148,7 @@
 0.0.0.0 passportlogin.top
 0.0.0.0 password-new-confirm.no
 0.0.0.0 pastas.top
+0.0.0.0 paste.fo
 0.0.0.0 pastepast.net
 0.0.0.0 pathwayfvvm.com
 0.0.0.0 patiennerrhe.com
@@ -12230,6 +12231,7 @@
 0.0.0.0 renovatiomarketing.com
 0.0.0.0 rentacarinlahore.com.pk
 0.0.0.0 renthomeflorida.com
+0.0.0.0 rentry.co
 0.0.0.0 rentverify.net
 0.0.0.0 renyoua.com
 0.0.0.0 repairhive.shop
