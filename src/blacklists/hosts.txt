@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 April 2024
+# Last modified: 19 April 2024
 #
 
 # Extras (comment out if needed)
@@ -15841,6 +15841,7 @@
 0.0.0.0 whales-capital.net
 0.0.0.0 whales-investment.net
 0.0.0.0 whalesmining.com
+0.0.0.0 whaless.market
 0.0.0.0 whalestep.net
 0.0.0.0 whatareyousayblog.info
 0.0.0.0 whatipedia.org
