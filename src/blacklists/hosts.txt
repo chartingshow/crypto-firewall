@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 April 2024
+# Last modified: 24 April 2024
 #
 
 # Extras (comment out if needed)
@@ -3373,6 +3373,7 @@
 0.0.0.0 ckleup.com
 0.0.0.0 ckws.info
 0.0.0.0 claim-zetachain.top
+0.0.0.0 claimconcessionrebe.shop
 0.0.0.0 claimperks.org
 0.0.0.0 clainsrimauto.com
 0.0.0.0 clamprite.ga
@@ -4011,6 +4012,7 @@
 0.0.0.0 cullenasset.com
 0.0.0.0 culmenodontologia.cl
 0.0.0.0 culturalevenings.xyz
+0.0.0.0 culturesketchfinanciall.shop
 0.0.0.0 culturevalue.co.za
 0.0.0.0 culunk.com
 0.0.0.0 cuniform.top
@@ -4180,6 +4182,7 @@
 0.0.0.0 dazzlecollections.co.za
 0.0.0.0 dbaccess.com
 0.0.0.0 dbapps.top
+0.0.0.0 dbeight8pt.top
 0.0.0.0 dbginvestment.org
 0.0.0.0 dbgsymbol.com
 0.0.0.0 dbifinancialconsultancy.com
@@ -6262,6 +6265,7 @@
 0.0.0.0 gem-dowzatk.com
 0.0.0.0 gem-skwajo.com
 0.0.0.0 gemall.top
+0.0.0.0 gemcreedarticulateod.shop
 0.0.0.0 gemcu.io
 0.0.0.0 gemiex.com
 0.0.0.0 geminifxtraders.com
@@ -8168,6 +8172,10 @@
 0.0.0.0 kazinoplai.online
 0.0.0.0 kazuha.store
 0.0.0.0 kazurinews.com
+0.0.0.0 kbeight8ht.top
+0.0.0.0 kbeight8pn.top
+0.0.0.0 kbeight8sb.top
+0.0.0.0 kbeight8vs.top
 0.0.0.0 kc0.us
 0.0.0.0 kdaljjjkdalka.info
 0.0.0.0 kdsadgsacgesshop.online
@@ -8423,6 +8431,7 @@
 0.0.0.0 kusure.com
 0.0.0.0 kuyaplay138casino.net
 0.0.0.0 kv7k8isnu4qkcy3.gq
+0.0.0.0 kveight8sb.top
 0.0.0.0 kviacm.com
 0.0.0.0 kvpmall.top
 0.0.0.0 kvq9t8pe7ssjps8p4iqj.xyz
@@ -8432,6 +8441,7 @@
 0.0.0.0 kxsy.vip
 0.0.0.0 kystearlar.xyz
 0.0.0.0 kyzpc.digital
+0.0.0.0 kzeight8ht.top
 0.0.0.0 kzqd6eswp1w90n0mst.com
 0.0.0.0 l-in.co
 0.0.0.0 l0yolufbw5yeabs.com
@@ -8653,6 +8663,7 @@
 0.0.0.0 lha.co.ke
 0.0.0.0 lhex.us
 0.0.0.0 lhmi.net
+0.0.0.0 liabilityarrangemenyit.shop
 0.0.0.0 liacerb.com
 0.0.0.0 liangmaojing.store
 0.0.0.0 liasang-westasia.com
@@ -9665,6 +9676,7 @@
 0.0.0.0 modernbitfx.com
 0.0.0.0 moderninvests.com
 0.0.0.0 modernisation.eu
+0.0.0.0 modestessayevenmilwek.shop
 0.0.0.0 modhub.com.br
 0.0.0.0 modifesistem.xyz
 0.0.0.0 moduleconnector.at
@@ -11201,6 +11213,7 @@
 0.0.0.0 pearlgroup.icu
 0.0.0.0 pearno.com
 0.0.0.0 pearuchemilk.com
+0.0.0.0 peasanthovecapspll.shop
 0.0.0.0 pecdecursos.com
 0.0.0.0 pedagangbibit.shop
 0.0.0.0 pedalize.shop
@@ -12809,6 +12822,7 @@
 0.0.0.0 secora.cl
 0.0.0.0 secretcount.xyz
 0.0.0.0 secretformulameals.com
+0.0.0.0 secretionsuitcasenioise.shop
 0.0.0.0 sectorzerosecurity.com
 0.0.0.0 secure-binance.us
 0.0.0.0 secure-icloud.com
@@ -13445,6 +13459,7 @@
 0.0.0.0 soelines.makeup
 0.0.0.0 sofabestmk.com
 0.0.0.0 sofacomshoe.com
+0.0.0.0 sofahuntingslidedine.shop
 0.0.0.0 soft-ex.icu
 0.0.0.0 soft-take.com
 0.0.0.0 softcom.net
@@ -14782,6 +14797,7 @@
 0.0.0.0 treylercompandium.com
 0.0.0.0 trezor.im
 0.0.0.0 triangles.top
+0.0.0.0 triangleseasonbenchwj.shop
 0.0.0.0 tribune-mg.xyz
 0.0.0.0 tributaria.website
 0.0.0.0 trickip.org

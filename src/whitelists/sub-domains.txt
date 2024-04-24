@@ -6,6 +6,7 @@
 *.auto.playit.gg
 *.aws-euw2.cloud-ara.tyk.io
 *.azurewebsites.net
+*.b-cdn.net
 *.blogspot.co.uk
 *.blogspot.co.za
 *.blogspot.com
