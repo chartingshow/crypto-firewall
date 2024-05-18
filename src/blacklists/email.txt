@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 April 2024
+# Last modified: 18 May 2024
 #
 
 013store@goodwillhunting.org
@@ -587,6 +587,7 @@ asoriano@bartonhealthcare.org
 assist-honten@as-he.com
 assist@assist-pro.co.jp
 assistance@1mxcloud.website
+assistance@gov.za
 assistance@kennedyhamabe.com
 assistance@megabiz.autos
 assistance@tampatravel.lol
@@ -2058,6 +2059,7 @@ greta@700313.cloudwaysapps.com
 grimes.mason@melkeparsa.com
 gritchie@chitralshoppingmall.com
 groupes@bateaux-mouches.fr
+gruposat@gob.mx
 grxengy@ascensionpm.com
 gsdixga@drimalasflowers.com
 gsiesbsinn.e@gilgalglobal.com
@@ -3499,6 +3501,7 @@ manuelorellana@labelsca.com
 maqsood.alam@alimam.biz
 marc.heck@mfinternational.biz
 marc@eosfix.com
+marcasat@gob.mx
 marcel@kpipe.co.uk
 marcin@danstone.pl
 marcm@borcherdingpartsinc.com
@@ -4729,6 +4732,7 @@ root@wawelcrm2.host1.eu
 root@web.obligr.company
 root@web02.0911.info
 root@xylantis.com
+root@zpmbnoxf.crazydocuments.com
 rooyen@palacepp.co.za
 rorozco@vwrivera.com.mx
 rosanaargumedo@gapbroker.com.ar

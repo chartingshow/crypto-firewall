@@ -1,0 +1,15 @@
+# Crypto Firewall (cloudapp-azure-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 May 2024
+#
+
+# Block cloudapp-azure-com sub-domains
+0.0.0.0 hilcfacdigitaelpichipt.norwayeast.cloudapp.azure.com
+0.0.0.0 officebusinessaccount.eastus.cloudapp.azure.com
+0.0.0.0 onwfacttasunslahf.norwayeast.cloudapp.azure.com
+0.0.0.0 redhack.uksouth.cloudapp.azure.com
+0.0.0.0 servicerevenueza.southeastasia.cloudapp.azure.com

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 May 2024
+# Last modified: 18 May 2024
 #
 
 # Extras (comment out if needed)
@@ -3865,6 +3865,7 @@
 0.0.0.0 cratopex.com
 0.0.0.0 crawler.ga
 0.0.0.0 crazydealsf.com
+0.0.0.0 crazydocuments.com
 0.0.0.0 crazypictures.xyz
 0.0.0.0 creamwhitegr4home.com
 0.0.0.0 creatiefmedia.in
@@ -11461,6 +11462,7 @@
 0.0.0.0 pizza-italia.hu
 0.0.0.0 pizzabrampton.com
 0.0.0.0 pizzasison.xyz
+0.0.0.0 pjohconstruccionescpaz.com
 0.0.0.0 pklkknj89bygvczvi.com
 0.0.0.0 pktriot.net
 0.0.0.0 pl-exhibition.com
@@ -12554,6 +12556,7 @@
 0.0.0.0 rubclick.ru
 0.0.0.0 rubjbz.fun
 0.0.0.0 ructin.com
+0.0.0.0 rufnag.com
 0.0.0.0 ruitaiwz.com
 0.0.0.0 ruleofnews.com
 0.0.0.0 run.app

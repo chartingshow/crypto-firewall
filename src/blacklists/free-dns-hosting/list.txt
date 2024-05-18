@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 April 2024
+# Last modified: 18 May 2024
 #
 
 # Domains
@@ -44,6 +44,7 @@ dnsabr.com
 dnsalias.com
 dnsdojo.com
 dnsdyn.net
+dnsfor.me
 duckdns.org
 duia.ro
 dvrlists.com
@@ -101,6 +102,7 @@ mypsx.net
 myvnc.com
 mywire.org
 n-e.kr
+neat-url.com
 nerdpol.ovh
 net-freaks.com
 ngrok.io
