@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 April 2024
+# Last modified: 18 May 2024
 #
 
 # Block Free dns and hosting
@@ -43,6 +43,7 @@
 0.0.0.0 dnsalias.com
 0.0.0.0 dnsdojo.com
 0.0.0.0 dnsdyn.net
+0.0.0.0 dnsfor.me
 0.0.0.0 duckdns.org
 0.0.0.0 duia.ro
 0.0.0.0 dvrlists.com
@@ -100,6 +101,7 @@
 0.0.0.0 myvnc.com
 0.0.0.0 mywire.org
 0.0.0.0 n-e.kr
+0.0.0.0 neat-url.com
 0.0.0.0 nerdpol.ovh
 0.0.0.0 net-freaks.com
 0.0.0.0 ngrok.io
