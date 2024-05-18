@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 April 2024
+# Last modified: 17 May 2024
 #
 
 # Extras (comment out if needed)
@@ -741,6 +741,7 @@
 0.0.0.0 adaysunglasses.com
 0.0.0.0 adaytriana.co
 0.0.0.0 adb007.top
+0.0.0.0 adblockpure.info
 0.0.0.0 adblocktape.store
 0.0.0.0 adblocktape.wiki
 0.0.0.0 adcreators.com.au
@@ -1923,6 +1924,7 @@
 0.0.0.0 barclayledsolutions.com
 0.0.0.0 barclaysbitcoin.ltd
 0.0.0.0 barconia.top
+0.0.0.0 bargainprincess.co.uk
 0.0.0.0 barkstage.es
 0.0.0.0 barm.ml
 0.0.0.0 barnettc.shop
@@ -9376,6 +9378,7 @@
 0.0.0.0 meetonews.xyz
 0.0.0.0 meetsusolutions.com
 0.0.0.0 mefound.com
+0.0.0.0 mega-block.net
 0.0.0.0 mega378-fon.site
 0.0.0.0 megacloutmart.in
 0.0.0.0 megagtech.com
