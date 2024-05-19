@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 May 2024
+# Last modified: 19 May 2024
 #
 
 # Extras (comment out if needed)
@@ -1530,6 +1530,7 @@
 0.0.0.0 artsnentertainments.world
 0.0.0.0 artsquarenft.com
 0.0.0.0 artsynames.store
+0.0.0.0 arvanstorage.ir
 0.0.0.0 arvimon.fun
 0.0.0.0 arxeologiya.az
 0.0.0.0 aryansinghdadiala.com
@@ -4169,11 +4170,16 @@
 0.0.0.0 daujimaharajmandir.org
 0.0.0.0 davantaged.com
 0.0.0.0 daverecimal.top
+0.0.0.0 davialmeida.pics
 0.0.0.0 davidashley.cfd
 0.0.0.0 davidkujawa.com
 0.0.0.0 davidwalkerbass.com
 0.0.0.0 davigoldcolors.com
+0.0.0.0 davilucasmoreira.xyz
+0.0.0.0 davilucassilveira.mom
+0.0.0.0 daviluccadapaz.cfd
 0.0.0.0 davinakitchenoutlet.net
+0.0.0.0 davizuccapires.cfd
 0.0.0.0 dawadi.vip
 0.0.0.0 dawaikorner.com
 0.0.0.0 dawarel3mda.com
@@ -4739,6 +4745,7 @@
 0.0.0.0 duytanne.top
 0.0.0.0 duyuru-market-com.tk
 0.0.0.0 dver5otop.ru
+0.0.0.0 dvrdns.org
 0.0.0.0 dvrlists.com
 0.0.0.0 dwarimlari.xyz
 0.0.0.0 dwaynefarmhouse.com
@@ -4752,6 +4759,7 @@
 0.0.0.0 dybsyasfasgsd.shop
 0.0.0.0 dygb.pl
 0.0.0.0 dylarache.site
+0.0.0.0 dynalias.com
 0.0.0.0 dynamic-dns.net
 0.0.0.0 dynamic-linx.com
 0.0.0.0 dynamiclink.lol
@@ -5054,6 +5062,7 @@
 0.0.0.0 elsu-finance.online
 0.0.0.0 emagrecercomsaude.digital
 0.0.0.0 email026.com
+0.0.0.0 emanuellopes.one
 0.0.0.0 emarketk.shop
 0.0.0.0 ematome.com
 0.0.0.0 emdghouseltd3.pro
@@ -5124,6 +5133,7 @@
 0.0.0.0 entreprises-dynamiques.fr
 0.0.0.0 environmentwi.com
 0.0.0.0 environmentwy.net
+0.0.0.0 enzogabrielpereira.xyz
 0.0.0.0 eocexvxc.one
 0.0.0.0 eodqdlj.ua
 0.0.0.0 eofjdo3zwxvbi57.com
@@ -5589,6 +5599,7 @@
 0.0.0.0 feridolin.com
 0.0.0.0 fermangsd.shop
 0.0.0.0 fernandesx.com.br
+0.0.0.0 fernandocosta.pics
 0.0.0.0 feroza.live
 0.0.0.0 ferozo.net
 0.0.0.0 ferver8.com
@@ -6023,6 +6034,7 @@
 0.0.0.0 from-ms.com
 0.0.0.0 from-mt.com
 0.0.0.0 from-oh.com
+0.0.0.0 from-wi.com
 0.0.0.0 from-wy.com
 0.0.0.0 fromsmash.com
 0.0.0.0 frontlineii.net
@@ -6816,6 +6828,7 @@
 0.0.0.0 guessuk.net
 0.0.0.0 guguchrome.com
 0.0.0.0 guide-gemini.com
+0.0.0.0 guilhermeduarte.xyz
 0.0.0.0 gukjr.com
 0.0.0.0 gukloc.xyz
 0.0.0.0 guldglitter.com
@@ -7966,6 +7979,7 @@
 0.0.0.0 jnhwjq.com
 0.0.0.0 jnsfi.in
 0.0.0.0 joadsupremecreations.com
+0.0.0.0 joaomiguelcunha.one
 0.0.0.0 jobscur.com
 0.0.0.0 jobsterkini.online
 0.0.0.0 jobsvac.xyz
@@ -8105,6 +8119,7 @@
 0.0.0.0 kaikaikiki.pw
 0.0.0.0 kailabs.online
 0.0.0.0 kailashwelfarefoundation.com
+0.0.0.0 kaiquenascimento.one
 0.0.0.0 kairaliagencies.com
 0.0.0.0 kakadu.by
 0.0.0.0 kakebui.com
@@ -8940,6 +8955,7 @@
 0.0.0.0 lordglass.com
 0.0.0.0 lordliness.store
 0.0.0.0 lordoutelt.com
+0.0.0.0 lorenzocardoso.cfd
 0.0.0.0 loribarker.ca
 0.0.0.0 lortyl.com
 0.0.0.0 lorwynx-stox.xyz
@@ -9005,6 +9021,7 @@
 0.0.0.0 luhuu.top
 0.0.0.0 luidelyator.xyz
 0.0.0.0 luindica.ga
+0.0.0.0 luizotaviomoraes.mom
 0.0.0.0 lukehadaj.com.au
 0.0.0.0 lukguide.com
 0.0.0.0 lululemonca.store
@@ -10533,6 +10550,7 @@
 0.0.0.0 no-response.website
 0.0.0.0 no9thecafe.com.au
 0.0.0.0 no_ip.biz
+0.0.0.0 noahdaconceicao.mom
 0.0.0.0 noahsecures.xyz
 0.0.0.0 noanvaruncorekumar.cf
 0.0.0.0 noblecapitals.net
@@ -11208,6 +11226,7 @@
 0.0.0.0 paulang.online
 0.0.0.0 pauldouglasbooks.com
 0.0.0.0 paulmulleracademico.com
+0.0.0.0 pauloramos.mom
 0.0.0.0 paupabiraftaar.co.in
 0.0.0.0 paverotable.top
 0.0.0.0 pavilionulartistilor.ro
@@ -12077,6 +12096,7 @@
 0.0.0.0 radiotransvidafm.com.br
 0.0.0.0 radiozocalo.com.mx
 0.0.0.0 radiusrussia.ru
+0.0.0.0 rafaeldarosa.xyz
 0.0.0.0 raghle.com
 0.0.0.0 ragsistemas.net
 0.0.0.0 ragsonline.shop
@@ -12458,6 +12478,7 @@
 0.0.0.0 rodneygarcia.boats
 0.0.0.0 rododondast.xyz
 0.0.0.0 rodoplanvix.info
+0.0.0.0 rodrigomonteiro.one
 0.0.0.0 rojadirectaenvivo.fr
 0.0.0.0 rokllofrold29.com
 0.0.0.0 rokllold279.com
@@ -12589,6 +12610,7 @@
 0.0.0.0 rxcoordinator.com
 0.0.0.0 rxp.com
 0.0.0.0 rxprinters.in
+0.0.0.0 ryandacunha.pics
 0.0.0.0 ryanmiles.boats
 0.0.0.0 rybchenko.dev
 0.0.0.0 ryeria.com
@@ -14472,6 +14494,7 @@
 0.0.0.0 thinkgeniux.live
 0.0.0.0 thits.org
 0.0.0.0 thoitrangtreemmytho.com
+0.0.0.0 thomassilveira.cfd
 0.0.0.0 thomdock.com
 0.0.0.0 thondorbird.com
 0.0.0.0 thookedaurce.com
@@ -15579,6 +15602,7 @@
 0.0.0.0 vitanigoldtravelandtours.com
 0.0.0.0 vitenetteservice.com
 0.0.0.0 vitolresourcesinvestment.org
+0.0.0.0 vitorhugodaluz.pics
 0.0.0.0 vitubtiagobuffetme.mobi
 0.0.0.0 vivalafocaccia.com
 0.0.0.0 viveirobompastor.com.br
@@ -16243,6 +16267,7 @@
 0.0.0.0 xierentdvg.top
 0.0.0.0 xietharria.xyz
 0.0.0.0 xihumiha.com
+0.0.0.0 ximbocadaparafuseta.com
 0.0.0.0 ximeiwk.vip
 0.0.0.0 ximilap.top
 0.0.0.0 xinbiquge.net

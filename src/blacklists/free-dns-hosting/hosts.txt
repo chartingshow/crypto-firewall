@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 May 2024
+# Last modified: 19 May 2024
 #
 
 # Block Free dns and hosting
@@ -30,6 +30,7 @@
 0.0.0.0 chickenkiller.com
 0.0.0.0 chiguserver.ml
 0.0.0.0 codns.com
+0.0.0.0 collegefan.org
 0.0.0.0 con-ip.com
 0.0.0.0 crabdance.com
 0.0.0.0 ddns.com
@@ -39,6 +40,7 @@
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
+0.0.0.0 ditchyourip.com
 0.0.0.0 dnsabr.com
 0.0.0.0 dnsalias.com
 0.0.0.0 dnsdojo.com
@@ -70,6 +72,7 @@
 0.0.0.0 gleeze.com
 0.0.0.0 gotdns.ch
 0.0.0.0 hacked.jp
+0.0.0.0 her.name
 0.0.0.0 here-for-more.info
 0.0.0.0 home-webserver.de
 0.0.0.0 homelinux.net
@@ -94,6 +97,7 @@
 0.0.0.0 mybluehost.me
 0.0.0.0 myddns.me
 0.0.0.0 myddns.rocks
+0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.org
 0.0.0.0 myiphost.com
