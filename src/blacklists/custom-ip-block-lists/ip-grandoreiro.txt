@@ -1,0 +1,25 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Grandoreiro Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 19 May 2024
+#
+
+15.228.233.242
+15.228.245.103
+15.228.57.146
+15.229.211.175
+15.229.47.198
+172.96.137.108
+18.230.74.51
+18.231.154.55
+18.231.158.159
+18.231.181.227
+185.191.228.227
+192.95.6.196
+51.77.193.20
