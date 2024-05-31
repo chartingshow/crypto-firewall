@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2024
+# Last modified: 31 May 2024
 #
 
 # Extras (comment out if needed)
@@ -2126,6 +2126,7 @@
 0.0.0.0 bestmoneysurvey.top
 0.0.0.0 bestmovie44.my.id
 0.0.0.0 bestmyideas.com
+0.0.0.0 bestonlinefilmstudio.org
 0.0.0.0 bestoopset.live
 0.0.0.0 bestpack.biz
 0.0.0.0 bestporn.vip
@@ -2495,6 +2496,7 @@
 0.0.0.0 bloagster.site
 0.0.0.0 blobfish.com
 0.0.0.0 blockall-my.xyz
+0.0.0.0 blockchain-newtech.com
 0.0.0.0 blockchainargo.com
 0.0.0.0 blockchainminerpool.net
 0.0.0.0 blockchainminnersltd.com
@@ -3123,6 +3125,7 @@
 0.0.0.0 ccfelomvhk.com
 0.0.0.0 ccodoom.net
 0.0.0.0 cct-innovationmarkets.online
+0.0.0.0 ccwaterfall.com
 0.0.0.0 cczqyvuy812jdy.com
 0.0.0.0 cd-coinbase.com
 0.0.0.0 cd306c22c6332008.xyz
@@ -3221,6 +3224,7 @@
 0.0.0.0 chain-connect-api.com
 0.0.0.0 chainconsulting.pro
 0.0.0.0 chaingpt-web3.com
+0.0.0.0 chaingrown.com
 0.0.0.0 chainguardwallet.com
 0.0.0.0 chainmi.top
 0.0.0.0 chainmining.net
@@ -4271,6 +4275,7 @@
 0.0.0.0 defenr.com
 0.0.0.0 defense-arnaque.com
 0.0.0.0 deffnart.com
+0.0.0.0 defitankzone.com
 0.0.0.0 defouw.org
 0.0.0.0 deg0zar.ru
 0.0.0.0 dehhg.xyz
@@ -4343,6 +4348,7 @@
 0.0.0.0 desor.live
 0.0.0.0 destinationglobalpay.com
 0.0.0.0 destteme.com
+0.0.0.0 detankwar.com
 0.0.0.0 detertecnica.com
 0.0.0.0 detoxinfalivel.com
 0.0.0.0 detre.top
@@ -5994,6 +6000,7 @@
 0.0.0.0 freeintalk.com
 0.0.0.0 freemanylaluz.com
 0.0.0.0 freemyip.com
+0.0.0.0 freenet-zhilly.org
 0.0.0.0 freerangestock.makeup
 0.0.0.0 freeresultsguide.com
 0.0.0.0 freesco.xyz
@@ -9304,6 +9311,7 @@
 0.0.0.0 matjiva.top
 0.0.0.0 matrix-network.org
 0.0.0.0 matrix510.com
+0.0.0.0 matrixane.com
 0.0.0.0 matrixtorboterosmx.sbs
 0.0.0.0 matrockdrill.com
 0.0.0.0 matrugrupol.com
@@ -9628,6 +9636,7 @@
 0.0.0.0 minetrix.app
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.stream
+0.0.0.0 mingeloem.com
 0.0.0.0 mingxing.pw
 0.0.0.0 miniiosapps.xyz
 0.0.0.0 mining8.cc
@@ -11580,6 +11589,7 @@
 0.0.0.0 pohul1nk.ru
 0.0.0.0 poibvyctm21e.com
 0.0.0.0 point3.online
+0.0.0.0 pointdnt.com
 0.0.0.0 pointpayment.net
 0.0.0.0 pointsdomer.com
 0.0.0.0 poiuyh.com
@@ -13742,6 +13752,7 @@
 0.0.0.0 stardoors.com.br
 0.0.0.0 stargameresult.com
 0.0.0.0 stargateup.com
+0.0.0.0 starglowventures.com
 0.0.0.0 starhealthconsultancy.com
 0.0.0.0 staringgeipod.com
 0.0.0.0 starluckycentre.com
