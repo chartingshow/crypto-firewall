@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2024
+# Last modified: 31 May 2024
 #
 
 # Extras (comment out if needed)
@@ -2036,6 +2036,7 @@
 0.0.0.0 becaszone.com
 0.0.0.0 becloud.cc
 0.0.0.0 becloud.website
+0.0.0.0 becorist.com
 0.0.0.0 bectrades.com
 0.0.0.0 bedliy.com
 0.0.0.0 beefortune.com
@@ -9444,6 +9445,7 @@
 0.0.0.0 mentality.cloud
 0.0.0.0 mentorip.com
 0.0.0.0 mentseconom.xyz
+0.0.0.0 menusand.com
 0.0.0.0 menvm.com
 0.0.0.0 menztrust.com
 0.0.0.0 mepirtedic.com
