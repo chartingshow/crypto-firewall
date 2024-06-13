@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 31 May 2024
+# Last modified: 13 June 2024
 #
 
 # Extras (comment out if needed)
@@ -11732,6 +11732,7 @@
 0.0.0.0 premiumstats.xyz
 0.0.0.0 premiumswipes.com
 0.0.0.0 premmium.site
+0.0.0.0 presaIe-roaringkitty.com
 0.0.0.0 prescribe.top
 0.0.0.0 presetshs.com
 0.0.0.0 president-office.gov.mm
