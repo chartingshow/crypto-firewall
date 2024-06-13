@@ -639,6 +639,7 @@
 0.0.0.0 abinw.com
 0.0.0.0 abjkad.com
 0.0.0.0 ableoil.net
+0.0.0.0 abn-amro-gobal.com
 0.0.0.0 abncient.za.com
 0.0.0.0 abnormaltrim.online
 0.0.0.0 abogados.services
@@ -1401,6 +1402,7 @@
 0.0.0.0 apoxnew.com
 0.0.0.0 app-imtoken.com.cn
 0.0.0.0 app-imtoken.net.cn
+0.0.0.0 app-lnloggen.online
 0.0.0.0 app-melis.io 
 0.0.0.0 app-token.im
 0.0.0.0 apparelalley.shop
@@ -2058,6 +2060,8 @@
 0.0.0.0 bejafek.com
 0.0.0.0 beksystems.com
 0.0.0.0 belajarngaji.shop
+0.0.0.0 belastingdienst-schuld.nl
+0.0.0.0 belastingoverzicht.info
 0.0.0.0 beldsezas.beauty
 0.0.0.0 belenkaromanla.com
 0.0.0.0 belenkaslovenia.com
@@ -2173,6 +2177,8 @@
 0.0.0.0 beyondhair.store
 0.0.0.0 beyoudcor.com
 0.0.0.0 beysuambalaj.com
+0.0.0.0 bezoeknummer0734859938.info
+0.0.0.0 bezoeknummer48912543221.info
 0.0.0.0 bezpieczenstwo-danych.website
 0.0.0.0 bfasa.co.za
 0.0.0.0 bffr.space
@@ -2465,6 +2471,7 @@
 0.0.0.0 blabud.com
 0.0.0.0 black-beauty-accessories.com
 0.0.0.0 black-crystal.net
+0.0.0.0 black-loans7.shop
 0.0.0.0 blackballbilliard.com
 0.0.0.0 blackboxstech.com
 0.0.0.0 blackdragonent.com
@@ -2810,6 +2817,7 @@
 0.0.0.0 bundangayri.com
 0.0.0.0 bunlarseninanladmiginkon.shop
 0.0.0.0 bunninge.com
+0.0.0.0 bunq-app-nl.net
 0.0.0.0 bunwetwhom.live
 0.0.0.0 buralardakaryacagkimlak.co.vu
 0.0.0.0 buralardanhaberleryagar.co.vu
@@ -2857,6 +2865,7 @@
 0.0.0.0 bvgtt5.gq
 0.0.0.0 bvijuoi.ml
 0.0.0.0 bvnusxt.cc
+0.0.0.0 bvstigveriapp.online
 0.0.0.0 bvtcionboese.com
 0.0.0.0 bwinph.co
 0.0.0.0 bwkd.me
@@ -6309,6 +6318,7 @@
 0.0.0.0 geminifxtraders.com
 0.0.0.0 geminiproj.xyz
 0.0.0.0 geminix.trade
+0.0.0.0 gemiste-aanmaning.com
 0.0.0.0 genantha.com
 0.0.0.0 genccagdas.com.tr
 0.0.0.0 gendoraduragonkgp126.com
@@ -7407,6 +7417,10 @@
 0.0.0.0 icon-mining.com
 0.0.0.0 iconpeak.shop
 0.0.0.0 icryptoissmining.online
+0.0.0.0 ics-beveiligde-verificatie.com
+0.0.0.0 ics-cards.org
+0.0.0.0 icscards-nl.com
+0.0.0.0 icscardsvoorschriften.nl
 0.0.0.0 ictm.or.kr
 0.0.0.0 ictstartech.com
 0.0.0.0 icuberestobar.com
@@ -8392,6 +8406,7 @@
 0.0.0.0 kontacsgo.pl
 0.0.0.0 konto-onet.site
 0.0.0.0 konto-verify.space
+0.0.0.0 kontoaktualisierer-nl.com
 0.0.0.0 kontrola-bezpieczenstwa.link
 0.0.0.0 kontrola-bezpieczenstwa.pw
 0.0.0.0 kontrola-bezpieczenstwa.site
@@ -8465,6 +8480,7 @@
 0.0.0.0 kudoflowers.xyz
 0.0.0.0 kukite.store
 0.0.0.0 kunata.id
+0.0.0.0 kundenaktualisierungen.cc
 0.0.0.0 kundurafabrikamdasenlik.net
 0.0.0.0 kungfupandasa.com
 0.0.0.0 kunkc.com
@@ -8615,6 +8631,7 @@
 0.0.0.0 lbsebusiness.com
 0.0.0.0 lcaconnections.com
 0.0.0.0 lcmstores.com
+0.0.0.0 lcs-valideren.online
 0.0.0.0 lczrb.com
 0.0.0.0 ldsweet.com
 0.0.0.0 ldzey.westline.top
@@ -8891,6 +8908,7 @@
 0.0.0.0 lminoeubybyvq.com
 0.0.0.0 lmlsolutions.lk
 0.0.0.0 lnkedin.org
+0.0.0.0 lnloggen-app.online
 0.0.0.0 lnnrpwtstcbmdhn.com
 0.0.0.0 lnssaless.com
 0.0.0.0 loades-e.site
@@ -10536,6 +10554,9 @@
 0.0.0.0 nknk8.com
 0.0.0.0 nkstoreads.com
 0.0.0.0 nksummaryn.top
+0.0.0.0 nl-appverifi.com
+0.0.0.0 nl-bunq-bijwerkerking.com
+0.0.0.0 nl-csdki.com
 0.0.0.0 nlacbe.com
 0.0.0.0 nlasandbox.com
 0.0.0.0 nm1.me
@@ -10674,6 +10695,7 @@
 0.0.0.0 nstechdemo.com
 0.0.0.0 nsupdate.info
 0.0.0.0 nt6bfzmu4.cfd
+0.0.0.0 nt8zd3.ru
 0.0.0.0 ntcalliance.com
 0.0.0.0 ntll-id.com
 0.0.0.0 ntydeohavetr.xyz
@@ -12198,6 +12220,8 @@
 0.0.0.0 readyenergytoday.top
 0.0.0.0 readyplans.in
 0.0.0.0 readyqrscanner.club
+0.0.0.0 reaktivieren-icscard.nl
+0.0.0.0 reaktivieren-icsservice.nl
 0.0.0.0 realadvertisingnp.com
 0.0.0.0 realestatefolio.net
 0.0.0.0 realestatehours.com
@@ -12237,6 +12261,7 @@
 0.0.0.0 reddogeceo.com
 0.0.0.0 redeitt.com
 0.0.0.0 redgmhchemical.com
+0.0.0.0 redirect-bunq-client.ru
 0.0.0.0 redirecting.live
 0.0.0.0 redirecting.page
 0.0.0.0 redirectme.net
@@ -15378,6 +15403,7 @@
 0.0.0.0 valerehandstand.com
 0.0.0.0 valestudios.com
 0.0.0.0 valeuceplangka.com
+0.0.0.0 valideren-mijn-ics-web1.online
 0.0.0.0 valideye.top
 0.0.0.0 valleydod.fun
 0.0.0.0 valliana.com
@@ -15481,6 +15507,8 @@
 0.0.0.0 verification-email.space
 0.0.0.0 verification-email.website
 0.0.0.0 verificationta.top
+0.0.0.0 verifieer-gegevens.com
+0.0.0.0 verifieer-nu.com
 0.0.0.0 verify-email.space
 0.0.0.0 verify-mail.space
 0.0.0.0 verifyprofiles.space
