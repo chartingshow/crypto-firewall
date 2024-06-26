@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 June 2024
+# Last modified: 26 June 2024
 #
 
 # Extras (comment out if needed)
@@ -443,6 +443,7 @@
 0.0.0.0 4xhf8er88ptkisd.gq
 0.0.0.0 50-50aravidis.gr
 0.0.0.0 50195-coinbase.com
+0.0.0.0 51.la
 0.0.0.0 5139097f5ef3edc1.xyz
 0.0.0.0 5247-coinbase.com
 0.0.0.0 52922597867.pw
@@ -2640,6 +2641,8 @@
 0.0.0.0 boomstortyil.com
 0.0.0.0 boordopad.com
 0.0.0.0 boostrates.com
+0.0.0.0 bootcdn.net
+0.0.0.0 bootcss.com
 0.0.0.0 boothroundupdow.fun
 0.0.0.0 booxshistr.xyz
 0.0.0.0 bopposebke.xyz
@@ -4772,6 +4775,7 @@
 0.0.0.0 dwwmaster.com
 0.0.0.0 dx7.in
 0.0.0.0 dxt.bio
+0.0.0.0 dxtv1.com
 0.0.0.0 dybsyasfasgsd.shop
 0.0.0.0 dygb.pl
 0.0.0.0 dylarache.site
@@ -8498,6 +8502,7 @@
 0.0.0.0 kustens.com
 0.0.0.0 kusurabakmayin.tk
 0.0.0.0 kusure.com
+0.0.0.0 kuurza.com
 0.0.0.0 kuyaplay138casino.net
 0.0.0.0 kv7k8isnu4qkcy3.gq
 0.0.0.0 kveight8sb.top
@@ -11641,6 +11646,7 @@
 0.0.0.0 pollatrades.com
 0.0.0.0 pologroundsmusic.com
 0.0.0.0 poloniexmax.com
+0.0.0.0 polyfill.io
 0.0.0.0 polyfxmarket.com
 0.0.0.0 polynomial.online
 0.0.0.0 pomochaleness.top
@@ -13810,6 +13816,7 @@
 0.0.0.0 static-graph.com
 0.0.0.0 static.sparechange.io
 0.0.0.0 staticdns1.io
+0.0.0.0 staticfile.org
 0.0.0.0 staticsfs.host
 0.0.0.0 statifaronta.com
 0.0.0.0 statikfootbol.com
@@ -15710,6 +15717,7 @@
 0.0.0.0 vshorts.in
 0.0.0.0 vtmarkets-international.com
 0.0.0.0 vtudropshipping.com
+0.0.0.0 vty70.net
 0.0.0.0 vuelosfantastico.com
 0.0.0.0 vuongcntps24747.top
 0.0.0.0 vurdumguzelsendenbanayaratrik.co.vu
@@ -16584,6 +16592,7 @@
 0.0.0.0 yqrkw.valideye.top
 0.0.0.0 yrqcxhixmoxp.cfd
 0.0.0.0 yrter.shop
+0.0.0.0 ys752.com
 0.0.0.0 ysdhn.cc
 0.0.0.0 ysdong.top
 0.0.0.0 yspasenana.xyz
