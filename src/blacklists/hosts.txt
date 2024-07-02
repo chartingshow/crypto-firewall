@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 June 2024
+# Last modified: 2 July 2024
 #
 
 # Extras (comment out if needed)
@@ -12028,6 +12028,7 @@
 0.0.0.0 qoutesera.com
 0.0.0.0 qpoe.com
 0.0.0.0 qqs366.com
+0.0.0.0 qrco.de
 0.0.0.0 qrmenupro.in
 0.0.0.0 qs69qadn.shop
 0.0.0.0 qsertopinajil.com
