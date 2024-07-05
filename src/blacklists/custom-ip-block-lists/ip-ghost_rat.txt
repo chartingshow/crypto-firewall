@@ -1,0 +1,17 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Gh0st RAT Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 5 July 2024
+#
+
+121.204.249.123
+154.201.87.185
+164.155.205.99
+185.173.93.167
+188.116.22.65

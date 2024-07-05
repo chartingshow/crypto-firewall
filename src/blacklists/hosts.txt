@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 July 2024
+# Last modified: 5 July 2024
 #
 
 # Extras (comment out if needed)
@@ -5746,6 +5746,7 @@
 0.0.0.0 fireplotcann.com
 0.0.0.0 fireup.xyz
 0.0.0.0 firewall-gateway.com
+0.0.0.0 firewallsupportservers.com
 0.0.0.0 fireworld.fun
 0.0.0.0 firlatgitsinbaba.co.vu
 0.0.0.0 firm.in
