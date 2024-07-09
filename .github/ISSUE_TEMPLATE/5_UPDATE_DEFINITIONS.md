@@ -1,5 +1,5 @@
 ---
-name: '🛑 Submit New Threats'
+name: '🛑 Submit New Threats / Update Definitions'
 about: 'Enter the details of the threat and the more information you provide, the better we can help you.'
 labels: 'enhancement 👍, enhancement :+1:, Code Update 🔔, In-progress, Priority: Medium'
 ---
