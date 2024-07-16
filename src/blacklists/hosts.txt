@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 July 2024
+# Last modified: 16 July 2024
 #
 
 # Extras (comment out if needed)
@@ -2286,6 +2286,7 @@
 0.0.0.0 birbo.cl
 0.0.0.0 birebiregitim.net
 0.0.0.0 bireysel-limit.art
+0.0.0.0 birsarke.top
 0.0.0.0 birungor.com
 0.0.0.0 biryudumsusuzluk.us
 0.0.0.0 bisaenak.fun
@@ -2530,6 +2531,8 @@
 0.0.0.0 bloriashop.me
 0.0.0.0 bloxvest.com
 0.0.0.0 blubidestimation.com
+0.0.0.0 blue-soft.cloud
+0.0.0.0 blue-softs.com
 0.0.0.0 bluebot.cc
 0.0.0.0 bluebridge-ai.training
 0.0.0.0 bluecheckcommunication.com
@@ -2952,6 +2955,7 @@
 0.0.0.0 campusmanagercentrals.tk
 0.0.0.0 campussifica.com
 0.0.0.0 campusveterinario.com
+0.0.0.0 camtamisa.top
 0.0.0.0 canadagoosebudapest.com
 0.0.0.0 canadapower.top
 0.0.0.0 canadianturkishstudies.org
@@ -4166,6 +4170,7 @@
 0.0.0.0 dasautoco.top
 0.0.0.0 dashboardunion.com
 0.0.0.0 dashminimaltokens.xyz
+0.0.0.0 dashong.top
 0.0.0.0 dashonlineclub.com
 0.0.0.0 daska.top
 0.0.0.0 dasms.xyz
@@ -6213,6 +6218,7 @@
 0.0.0.0 gamefreesoft.com
 0.0.0.0 gamelabpro.club
 0.0.0.0 gamesmetaa.com
+0.0.0.0 gamespc.top
 0.0.0.0 gamesstartf.xyz
 0.0.0.0 gamestoped.org
 0.0.0.0 gamesupplement.com
@@ -6924,6 +6930,7 @@
 0.0.0.0 halifmagzoom.com
 0.0.0.0 halinshopyelo.com
 0.0.0.0 haliyumak.com
+0.0.0.0 halota.top
 0.0.0.0 halthivan.xyz
 0.0.0.0 hammadaftab.com
 0.0.0.0 hamptonscomedyfestivals.com
@@ -7369,6 +7376,7 @@
 0.0.0.0 huseyingeser035.xyz
 0.0.0.0 hustleside.xyz
 0.0.0.0 hvthtplt.com
+0.0.0.0 hwblh.com
 0.0.0.0 hwthurmann.de
 0.0.0.0 hx4fziucs93zkk4.gq
 0.0.0.0 hxpdqfcqk.autos
@@ -10909,6 +10917,7 @@
 0.0.0.0 one-plus.me
 0.0.0.0 onealaskasport.com
 0.0.0.0 onebitpro.site
+0.0.0.0 oneclickactive.com
 0.0.0.0 oneclickinsurances.com
 0.0.0.0 onedocshare.com
 0.0.0.0 onedrive.live.com
@@ -11082,6 +11091,7 @@
 0.0.0.0 ospertoolsbo.com
 0.0.0.0 osprey-chile.com
 0.0.0.0 ossiara.xyz
+0.0.0.0 ostimatu.top
 0.0.0.0 otaupdatesios.com
 0.0.0.0 otedsalon.com
 0.0.0.0 otelbaev.com
@@ -13577,6 +13587,7 @@
 0.0.0.0 softhebale.com
 0.0.0.0 softowii.com
 0.0.0.0 softportal.tk
+0.0.0.0 softs-download.com
 0.0.0.0 softswapp.com
 0.0.0.0 softwak.com
 0.0.0.0 software-guarding.com
