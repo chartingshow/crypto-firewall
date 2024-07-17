@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 July 2024
+# Last modified: 17 July 2024
 #
 
 # Extras (comment out if needed)
@@ -2269,6 +2269,7 @@
 0.0.0.0 binaryxio.com
 0.0.0.0 binatbless.me
 0.0.0.0 binavestltd.pro
+0.0.0.0 bindsnetwork.club
 0.0.0.0 bingoplus.net
 0.0.0.0 bingoplus.ph
 0.0.0.0 bintangaqiqah.com
@@ -6070,6 +6071,7 @@
 0.0.0.0 fropay.bid
 0.0.0.0 frugalliving.site
 0.0.0.0 frugallivingtips.site
+0.0.0.0 frutiadvertising.com
 0.0.0.0 frutmossert.com
 0.0.0.0 frz-panel.su
 0.0.0.0 fsda.africa
@@ -14330,6 +14332,7 @@
 0.0.0.0 tendenciasdelamoda.com
 0.0.0.0 tenxchange.com
 0.0.0.0 teodttay.com
+0.0.0.0 tepdas.com
 0.0.0.0 tepor.it
 0.0.0.0 tepperslist.com
 0.0.0.0 teqtistrade.com
@@ -15861,6 +15864,7 @@
 0.0.0.0 webassembly.stream
 0.0.0.0 webbandi.hu
 0.0.0.0 webcashnft.com
+0.0.0.0 webcetsblog.com
 0.0.0.0 webdesignbrabant.net
 0.0.0.0 webdesignme.xyz
 0.0.0.0 webdev-wazoomstudio.online
