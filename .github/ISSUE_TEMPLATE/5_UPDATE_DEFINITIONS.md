@@ -12,6 +12,10 @@ labels: 'enhancement 👍, enhancement :+1:, Code Update 🔔, In-progress, Prio
 
 n/a
 
+### Screenshots
+
+n/a
+
 ## Links
 
 n/a
