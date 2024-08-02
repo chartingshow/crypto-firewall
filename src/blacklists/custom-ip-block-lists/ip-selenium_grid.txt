@@ -1,0 +1,17 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Selenium Grid Abused Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 August 2024
+#
+
+165.22.195.35
+165.227.63.241
+164.90.149.104
+164.90.149.104
+192.241.144.69
