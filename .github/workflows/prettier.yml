@@ -28,3 +28,9 @@ jobs:
           # This part is also where you can pass other options, for example:
           prettier_options: --write **/*.{js,md,yml,json,vue,scss}
           prettier_plugins: "prettier-plugin-tailwindcss prettier-plugin-go-template"
+
+      - name: Protect GitHub Actions Artifacts
+      - uses: PaloAltoNetworks/upload-secure-artifact@main
+        with:
+          name: python-build
+          path: /output
