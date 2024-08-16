@@ -18,3 +18,9 @@ jobs:
         # Optional inputs
         # skip-tags: true
         # skip-recent: 5
+
+    - name: Protect GitHub Actions Artifacts
+      uses: PaloAltoNetworks/upload-secure-artifact@main
+      with:
+        name: python-build
+        path: /output
