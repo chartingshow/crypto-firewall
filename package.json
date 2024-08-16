@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.0",
+    "nth-check": "^2.0.0",
+    "micromatch ": "^4.0.0",
+    "postcss": "^8.0.0"
   },
   "description": "Learn new crypto trading techniques and strategies. Find out what the Pro traders are doing right now!"
 }
