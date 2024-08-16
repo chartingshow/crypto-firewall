@@ -1,0 +1,17 @@
+ {
+  "name": "Charting Show",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Charting Show",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "description": "Learn new crypto trading techniques and strategies. Find out what the Pro traders are doing right now!"
+}
