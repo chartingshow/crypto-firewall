@@ -1407,6 +1407,7 @@
 0.0.0.0 app-melis.io 
 0.0.0.0 app-token.im
 0.0.0.0 app.mobil-csob-cz.eu
+0.0.0.0 app.link
 0.0.0.0 apparelalley.shop
 0.0.0.0 apparences-magazine.be
 0.0.0.0 appchi.top
