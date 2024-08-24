@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 July 2024
+# Last modified: 24 August 2024
 #
 
 # Extras (comment out if needed)
@@ -1406,6 +1406,7 @@
 0.0.0.0 app-lnloggen.online
 0.0.0.0 app-melis.io 
 0.0.0.0 app-token.im
+0.0.0.0 app.mobil-csob-cz.eu
 0.0.0.0 apparelalley.shop
 0.0.0.0 apparences-magazine.be
 0.0.0.0 appchi.top
@@ -2481,6 +2482,7 @@
 0.0.0.0 blackfox.lol
 0.0.0.0 blacklifestyle.net
 0.0.0.0 blackpinkmmexico.com
+0.0.0.0 blackrockapp.eu
 0.0.0.0 blackscreenrecords.shop
 0.0.0.0 blacksebo.de
 0.0.0.0 blacksmithbooks.com
@@ -3437,6 +3439,7 @@
 0.0.0.0 clickandanalytics.com
 0.0.0.0 clickermedia.org
 0.0.0.0 clickverifier.online
+0.0.0.0 client.nfcpay.workers.dev
 0.0.0.0 clientesdawebs.icu
 0.0.0.0 clientstaff.co
 0.0.0.0 cliffordandblu.com
@@ -4027,6 +4030,7 @@
 0.0.0.0 crytoratemark.com
 0.0.0.0 cs.com.sg
 0.0.0.0 csacricnp.xyz
+0.0.0.0 csas.georgecz.online
 0.0.0.0 csgodomain.us
 0.0.0.0 csgogen.com
 0.0.0.0 csgoxdomain.us
@@ -4087,6 +4091,7 @@
 0.0.0.0 cypher-tech.ca
 0.0.0.0 cypto-clearing.com
 0.0.0.0 cyrofx.com
+0.0.0.0 cyrptomaker.info
 0.0.0.0 czbrwa.geek
 0.0.0.0 czfloki.com
 0.0.0.0 czrlibr.xyz
@@ -7147,6 +7152,7 @@
 0.0.0.0 hiccup.shop
 0.0.0.0 hicloths.com
 0.0.0.0 hiconvanor.xyz
+0.0.0.0 hide-me.online
 0.0.0.0 hide.ovh
 0.0.0.0 hidratacaocapilar.makeup
 0.0.0.0 hidrosolar.space
@@ -10468,6 +10474,7 @@
 0.0.0.0 neyine376.com
 0.0.0.0 nezgoakker.com
 0.0.0.0 nfactoryoutlet.com
+0.0.0.0 nfc.cryptomaker.info
 0.0.0.0 nfiru.buzz
 0.0.0.0 nfiru.monster
 0.0.0.0 nfiru.site
@@ -11554,6 +11561,7 @@
 0.0.0.0 platformtrad.xyz
 0.0.0.0 platinumfxmarket.com
 0.0.0.0 platosgunleri.co.vu
+0.0.0.0 play-protect.pro
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
 0.0.0.0 play.gramombird.com
@@ -12156,6 +12164,7 @@
 0.0.0.0 ragsistemas.net
 0.0.0.0 ragsonline.shop
 0.0.0.0 rahatishop.com
+0.0.0.0 raiffeisen-cz.eu
 0.0.0.0 rainoglobal.com
 0.0.0.0 raipackers.com
 0.0.0.0 raissatec.ma
