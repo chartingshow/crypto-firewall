@@ -1,0 +1,21 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: NGate Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 August 2024
+#
+
+104.21.7.213
+172.187.98.211
+172.67.182.151
+185.104.45.51
+185.181.165.124
+185.68.16.56
+188.114.96.9
+46.175.145.67
+91.222.136.153

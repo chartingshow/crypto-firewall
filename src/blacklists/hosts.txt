@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 July 2024
+# Last modified: 24 August 2024
 #
 
 # Extras (comment out if needed)
@@ -22,52 +22,6 @@
 0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 
 # Bad Tor domains
-0.0.0.0 225ppqutwykx2or3.onion
-0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
-0.0.0.0 2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
-0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
-0.0.0.0 4ktbtv54flfhs6ea.onion
-0.0.0.0 4r7hlqzkxl5xtjxn.onion
-0.0.0.0 ajiumbl2p2mjzx3l.onion
-0.0.0.0 ba2xy52xrtagkrh3.onion
-0.0.0.0 bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
-0.0.0.0 bgumuduxnkkecg3b.onion
-0.0.0.0 contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion
-0.0.0.0 dppnmjep33rf6ct3.onion
-0.0.0.0 dreambusweduybcp.onion
-0.0.0.0 fndqgtdkj4v6g4aq.onion
-0.0.0.0 gb7ni5rgeexdcncj.onion
-0.0.0.0 ghtyqipha6mcwxiz.onion
-0.0.0.0 gpiekd65jgshwp2p53igifv43aug2adacdebmuuri34hduvijr5pfjad.onion
-0.0.0.0 hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion
-0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
-0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
-0.0.0.0 lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion
-0.0.0.0 lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion
-0.0.0.0 lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion
-0.0.0.0 lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion
-0.0.0.0 lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion
-0.0.0.0 lockbit4lahhluquhokapqym2m3dhe66d6lr337glmnlgg2nndad.onion
-0.0.0.0 lockbit5eevg7vec4vwwtzgkl4kulap6oxbic2ye4mnmlq6njnpc47qd.onion
-0.0.0.0 lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion
-0.0.0.0 lockbit74beza5z3e3so7qmjnvlgoemscp7wtp33xo7xv7f7xtlqbkqd.onion
-0.0.0.0 lockbit75naln4yj44rg6ez6vjmdcrt7up4kxmmmuvilcg4ak3zihxid.onion
-0.0.0.0 lockbit7a2g6ve7etbcy6iyizjnuleffz4szgmxaawcbfauluavi5jqd.onion
-0.0.0.0 lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion
-0.0.0.0 lockbitaa46gwjck2xzmi2xops6x4x3aqn6ez7yntitero2k7ae6yoyd.onion
-0.0.0.0 lockbitb42tkml3ipianjbs6e33vhcshb7oxm2stubfvdzn3y2yqgbad.onion
-0.0.0.0 lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion
-0.0.0.0 na47pldl5eoqxt42.onion
-0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
-0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
-0.0.0.0 pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion
-0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
-0.0.0.0 red6djrs7fbkchy3.onion
-0.0.0.0 ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
-0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
-0.0.0.0 wqmfzni2nvbbpk25.onion
-0.0.0.0 xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
-
 # Bad Crypto domains
 0.0.0.0 000faucet.xyz
 0.0.0.0 000webhostapp.com
@@ -113,6 +67,7 @@
 0.0.0.0 11923-coinbase.com
 0.0.0.0 11957-coinbase.com
 0.0.0.0 11kazinora.xyz
+
 0.0.0.0 1213454.com
 0.0.0.0 1213455.com
 0.0.0.0 1213457.com
@@ -327,6 +282,7 @@
 0.0.0.0 21509-coinbase.com
 0.0.0.0 21np.com
 0.0.0.0 21qe.com
+0.0.0.0 225ppqutwykx2or3.onion
 0.0.0.0 22vulkanbonus.site
 0.0.0.0 2369341ad9bbc9a6.xyz
 0.0.0.0 23noticias.com.ar
@@ -336,6 +292,7 @@
 0.0.0.0 24cryptoprofits-ltd.com
 0.0.0.0 24profit.top
 0.0.0.0 25985-coinbase.com
+0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
 0.0.0.0 2639088.com
 0.0.0.0 27699-coinbase.com
 0.0.0.0 28367-coinbase.com
@@ -349,6 +306,7 @@
 0.0.0.0 2b-coinbase.com
 0.0.0.0 2bigfeet.shop
 0.0.0.0 2c-coinbase.com
+0.0.0.0 2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
 0.0.0.0 2cs.pro
 0.0.0.0 2csplay.ru
 0.0.0.0 2f-coinbase.com
@@ -427,11 +385,14 @@
 0.0.0.0 4fly.su
 0.0.0.0 4fun.wiki
 0.0.0.0 4i64yw.best
+0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
+0.0.0.0 4ktbtv54flfhs6ea.onion
 0.0.0.0 4m3y6s.cyou
 0.0.0.0 4m9q0m87vnmx0d1.com
 0.0.0.0 4mationdrilling.com
 0.0.0.0 4maurpont.ru
 0.0.0.0 4nk7h3s453b019.com.de
+0.0.0.0 4r7hlqzkxl5xtjxn.onion
 0.0.0.0 4riobet.com
 0.0.0.0 4sf3inucofv5ojk.gq
 0.0.0.0 4sync.com
@@ -958,6 +919,7 @@
 0.0.0.0 ajaxmatters.com
 0.0.0.0 ajayjagdishco.com
 0.0.0.0 ajcb.pro
+0.0.0.0 ajiumbl2p2mjzx3l.onion
 0.0.0.0 ajnewstock.com
 0.0.0.0 ajoa.org
 0.0.0.0 ajolotec.com
@@ -1406,6 +1368,7 @@
 0.0.0.0 app-lnloggen.online
 0.0.0.0 app-melis.io 
 0.0.0.0 app-token.im
+0.0.0.0 app.mobil-csob-cz.eu
 0.0.0.0 apparelalley.shop
 0.0.0.0 apparences-magazine.be
 0.0.0.0 appchi.top
@@ -1831,6 +1794,7 @@
 0.0.0.0 b6digital.cc
 0.0.0.0 b78e734918f99f84.pw
 0.0.0.0 ba-c.cc
+0.0.0.0 ba2xy52xrtagkrh3.onion
 0.0.0.0 baamyab.com
 0.0.0.0 babalrfrar.shop
 0.0.0.0 babamrbads.net
@@ -2186,6 +2150,7 @@
 0.0.0.0 bflcex.com
 0.0.0.0 bftcbitsfactor.io
 0.0.0.0 bgcityhotel.com
+0.0.0.0 bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
 0.0.0.0 bghyh.cf
 0.0.0.0 bgj.im
 0.0.0.0 bgobgogimrihehmxerreg.site
@@ -2194,6 +2159,7 @@
 0.0.0.0 bgt5hy7ju87.cfd
 0.0.0.0 bgthd.com
 0.0.0.0 bguidebuc.xyz
+0.0.0.0 bgumuduxnkkecg3b.onion
 0.0.0.0 bharattank.me
 0.0.0.0 bharatthresher.com
 0.0.0.0 bhboutique.in
@@ -2481,6 +2447,7 @@
 0.0.0.0 blackfox.lol
 0.0.0.0 blacklifestyle.net
 0.0.0.0 blackpinkmmexico.com
+0.0.0.0 blackrockapp.eu
 0.0.0.0 blackscreenrecords.shop
 0.0.0.0 blacksebo.de
 0.0.0.0 blacksmithbooks.com
@@ -3437,6 +3404,7 @@
 0.0.0.0 clickandanalytics.com
 0.0.0.0 clickermedia.org
 0.0.0.0 clickverifier.online
+0.0.0.0 client.nfcpay.workers.dev
 0.0.0.0 clientesdawebs.icu
 0.0.0.0 clientstaff.co
 0.0.0.0 cliffordandblu.com
@@ -3772,6 +3740,7 @@
 0.0.0.0 contemporaryfinish.com
 0.0.0.0 contents-domain.com
 0.0.0.0 continetalmanged.com
+0.0.0.0 contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion
 0.0.0.0 contirecovery.ws
 0.0.0.0 contribute.to-support.me
 0.0.0.0 control-scanning.com
@@ -4027,6 +3996,7 @@
 0.0.0.0 crytoratemark.com
 0.0.0.0 cs.com.sg
 0.0.0.0 csacricnp.xyz
+0.0.0.0 csas.georgecz.online
 0.0.0.0 csgodomain.us
 0.0.0.0 csgogen.com
 0.0.0.0 csgoxdomain.us
@@ -4087,6 +4057,7 @@
 0.0.0.0 cypher-tech.ca
 0.0.0.0 cypto-clearing.com
 0.0.0.0 cyrofx.com
+0.0.0.0 cyrptomaker.info
 0.0.0.0 czbrwa.geek
 0.0.0.0 czfloki.com
 0.0.0.0 czrlibr.xyz
@@ -4658,6 +4629,7 @@
 0.0.0.0 dp-flex.co.jp
 0.0.0.0 dpaulafoods.com.br
 0.0.0.0 dploy.nl
+0.0.0.0 dppnmjep33rf6ct3.onion
 0.0.0.0 dr8lps.info
 0.0.0.0 draddressi.top
 0.0.0.0 draggedline.org
@@ -4671,6 +4643,7 @@
 0.0.0.0 drcno.sk
 0.0.0.0 dreades.com
 0.0.0.0 dreadhack.ru
+0.0.0.0 dreambusweduybcp.onion
 0.0.0.0 dreamcityorlando.com
 0.0.0.0 dreamkingcharlesfarmer.com
 0.0.0.0 dreamsassetltd.com
@@ -5882,6 +5855,7 @@
 0.0.0.0 flywheelsites.com
 0.0.0.0 fmcultura104.com.br
 0.0.0.0 fncfinances.com
+0.0.0.0 fndqgtdkj4v6g4aq.onion
 0.0.0.0 foasseropgh.net
 0.0.0.0 foblesproject.pl
 0.0.0.0 fobocontentplus.online
@@ -6279,6 +6253,7 @@
 0.0.0.0 gazeraftop.com
 0.0.0.0 gazes.top
 0.0.0.0 gazetamt.net
+0.0.0.0 gb7ni5rgeexdcncj.onion
 0.0.0.0 gbay-shop.online
 0.0.0.0 gbay-shop.space
 0.0.0.0 gbbsoft.xyz
@@ -6447,6 +6422,7 @@
 0.0.0.0 ghnnenashee.xyz
 0.0.0.0 ghostapp.co.uk
 0.0.0.0 ghostecommerce.com
+0.0.0.0 ghtyqipha6mcwxiz.onion
 0.0.0.0 ghvab.xyz
 0.0.0.0 giadinhnazarethwa.org
 0.0.0.0 giasotti.com
@@ -6705,6 +6681,7 @@
 0.0.0.0 gowebbox.com
 0.0.0.0 gozlersemtseeguzl.shop
 0.0.0.0 gpecompany.com
+0.0.0.0 gpiekd65jgshwp2p53igifv43aug2adacdebmuuri34hduvijr5pfjad.onion
 0.0.0.0 gpro.store
 0.0.0.0 gpsadvanceconsulting.com
 0.0.0.0 gpt-airdrop.net
@@ -7147,6 +7124,7 @@
 0.0.0.0 hiccup.shop
 0.0.0.0 hicloths.com
 0.0.0.0 hiconvanor.xyz
+0.0.0.0 hide-me.online
 0.0.0.0 hide.ovh
 0.0.0.0 hidratacaocapilar.makeup
 0.0.0.0 hidrosolar.space
@@ -7197,6 +7175,7 @@
 0.0.0.0 hjk89ij.cfd
 0.0.0.0 hkdesign-lb.com
 0.0.0.0 hko1yucr.ga
+0.0.0.0 hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion
 0.0.0.0 hksands.com
 0.0.0.0 hkwfins.com
 0.0.0.0 hlfqualityclothes.shop
@@ -7400,6 +7379,7 @@
 0.0.0.0 i-ua.ml
 0.0.0.0 i-ua.space
 0.0.0.0 i-washi.com
+0.0.0.0 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
 0.0.0.0 iacademygroup.cl
 0.0.0.0 iacis.ru
 0.0.0.0 iam.ch
@@ -7984,6 +7964,7 @@
 0.0.0.0 jhenaidahpoly.gov.bd
 0.0.0.0 jhicenter.id
 0.0.0.0 ji-soft.com
+0.0.0.0 ji55jjplpknk7eayxxtb5o3ulxuevntutsdanov5dp3wya7l7btjv4qd.onion
 0.0.0.0 jibarocoin.com
 0.0.0.0 jiggaboojones.tech
 0.0.0.0 jilievo666.com
@@ -8946,6 +8927,21 @@
 0.0.0.0 localto.net
 0.0.0.0 localtrophy.com
 0.0.0.0 locf02azxz3g.xyz
+0.0.0.0 lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion
+0.0.0.0 lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion
+0.0.0.0 lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion
+0.0.0.0 lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion
+0.0.0.0 lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion
+0.0.0.0 lockbit4lahhluquhokapqym2m3dhe66d6lr337glmnlgg2nndad.onion
+0.0.0.0 lockbit5eevg7vec4vwwtzgkl4kulap6oxbic2ye4mnmlq6njnpc47qd.onion
+0.0.0.0 lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion
+0.0.0.0 lockbit74beza5z3e3so7qmjnvlgoemscp7wtp33xo7xv7f7xtlqbkqd.onion
+0.0.0.0 lockbit75naln4yj44rg6ez6vjmdcrt7up4kxmmmuvilcg4ak3zihxid.onion
+0.0.0.0 lockbit7a2g6ve7etbcy6iyizjnuleffz4szgmxaawcbfauluavi5jqd.onion
+0.0.0.0 lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion
+0.0.0.0 lockbitaa46gwjck2xzmi2xops6x4x3aqn6ez7yntitero2k7ae6yoyd.onion
+0.0.0.0 lockbitb42tkml3ipianjbs6e33vhcshb7oxm2stubfvdzn3y2yqgbad.onion
+0.0.0.0 lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion
 0.0.0.0 lockdown-coinbase.com
 0.0.0.0 lockediettimanihassirtti.com
 0.0.0.0 lockguard.xyz
@@ -10223,6 +10219,7 @@
 0.0.0.0 n6j7ujhg.cfd
 0.0.0.0 n9shteam1.top
 0.0.0.0 na-cryptoinvestment.ltd
+0.0.0.0 na47pldl5eoqxt42.onion
 0.0.0.0 nabajyotifoundation.com
 0.0.0.0 nabd.site
 0.0.0.0 nabde.app
@@ -10468,6 +10465,7 @@
 0.0.0.0 neyine376.com
 0.0.0.0 nezgoakker.com
 0.0.0.0 nfactoryoutlet.com
+0.0.0.0 nfc.cryptomaker.info
 0.0.0.0 nfiru.buzz
 0.0.0.0 nfiru.monster
 0.0.0.0 nfiru.site
@@ -10708,6 +10706,7 @@
 0.0.0.0 nslookup.club
 0.0.0.0 nsscanada.org
 0.0.0.0 nsshtenai.xyz
+0.0.0.0 nssnkct6udyyx6zlv4l6jhqr5jdf643shyerk246fs27ksrdehl2z3qd.onion
 0.0.0.0 nstechdemo.com
 0.0.0.0 nsupdate.info
 0.0.0.0 nt6bfzmu4.cfd
@@ -10844,6 +10843,7 @@
 0.0.0.0 ojhggnfbcy62.com
 0.0.0.0 ojhggnfbcy62.com/
 0.0.0.0 ojiwojdiuuywdnbhcby.com
+0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
 0.0.0.0 okanime.tv
 0.0.0.0 okbetagent.com
 0.0.0.0 okcoin-us.com
@@ -11554,6 +11554,7 @@
 0.0.0.0 platformtrad.xyz
 0.0.0.0 platinumfxmarket.com
 0.0.0.0 platosgunleri.co.vu
+0.0.0.0 play-protect.pro
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
 0.0.0.0 play.gramombird.com
@@ -12009,6 +12010,7 @@
 0.0.0.0 pylwex.com
 0.0.0.0 pyramids-egypt.com
 0.0.0.0 pyrd5.xyz
+0.0.0.0 pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion
 0.0.0.0 q-dent.com
 0.0.0.0 qa-testlab.net
 0.0.0.0 qakjie.cf
@@ -12045,6 +12047,7 @@
 0.0.0.0 qrmenupro.in
 0.0.0.0 qs69qadn.shop
 0.0.0.0 qsertopinajil.com
+0.0.0.0 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
 0.0.0.0 qsweepqxj.xyz
 0.0.0.0 qtd8gcdoplav737wretjqmaiy.ga
 0.0.0.0 qtd8gcdoplav737wretjqmaiy.tk
@@ -12156,6 +12159,7 @@
 0.0.0.0 ragsistemas.net
 0.0.0.0 ragsonline.shop
 0.0.0.0 rahatishop.com
+0.0.0.0 raiffeisen-cz.eu
 0.0.0.0 rainoglobal.com
 0.0.0.0 raipackers.com
 0.0.0.0 raissatec.ma
@@ -12275,6 +12279,7 @@
 0.0.0.0 recruitment62.com
 0.0.0.0 recuerdosretro.com
 0.0.0.0 recursenergy.xyz
+0.0.0.0 red6djrs7fbkchy3.onion
 0.0.0.0 redcoin.app
 0.0.0.0 redcoin.cc
 0.0.0.0 reddao.vn
@@ -12632,6 +12637,7 @@
 0.0.0.0 rtrrsfgsfg.site
 0.0.0.0 rtxelectronics.com
 0.0.0.0 rty777casinojoker.com
+0.0.0.0 ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
 0.0.0.0 rubclick.ru
 0.0.0.0 rubjbz.fun
 0.0.0.0 ructin.com
@@ -13190,6 +13196,7 @@
 0.0.0.0 sfghggewfgrthy.top
 0.0.0.0 sfinanceirosa.com.de
 0.0.0.0 sfinances.com.de
+0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 0.0.0.0 sginicaragua.org
 0.0.0.0 sgivertise.xyz
 0.0.0.0 sgxswor.site
@@ -16200,6 +16207,7 @@
 0.0.0.0 wpointwtj.xyz
 0.0.0.0 wq.gy
 0.0.0.0 wqeh.link
+0.0.0.0 wqmfzni2nvbbpk25.onion
 0.0.0.0 wranglerromania.com
 0.0.0.0 wrappixels.com
 0.0.0.0 wrecking.top
@@ -16321,6 +16329,7 @@
 0.0.0.0 xeyaze.com
 0.0.0.0 xf.actor
 0.0.0.0 xfirecovery.pro
+0.0.0.0 xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 0.0.0.0 xget-exchange.com
 0.0.0.0 xgreen-trading.com
 0.0.0.0 xh-a7.com
