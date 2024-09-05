@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 September 2024
+# Last modified: 6 September 2024
 #
 
 # Extras (comment out if needed)
@@ -16719,6 +16719,7 @@
 0.0.0.0 vov100.com
 0.0.0.0 voyacunk.xyz
 0.0.0.0 voyagedprivillywk.xyz
+0.0.0.0 voyagorclub.space
 0.0.0.0 voyamall.com
 0.0.0.0 vresorshop.com
 0.0.0.0 vrgavaras.com
@@ -16919,6 +16920,7 @@
 0.0.0.0 wegmansmall.cc
 0.0.0.0 wehelplend.com
 0.0.0.0 weiggheticulop.shop
+0.0.0.0 weinsteinfrog.com
 0.0.0.0 wejvm.top
 0.0.0.0 wekza.top
 0.0.0.0 welcome-coinbase.com
