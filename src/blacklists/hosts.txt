@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 September 2024
+# Last modified: 10 September 2024
 #
 
 # Extras (comment out if needed)
@@ -904,6 +904,7 @@
 0.0.0.0 agustfreeday-my.xyz
 0.0.0.0 agxii.com
 0.0.0.0 ahab-uae.com
+0.0.0.0 ahd.lat 
 0.0.0.0 aheadact.top
 0.0.0.0 ahg1.co
 0.0.0.0 ahimsafellowship.org
@@ -1142,6 +1143,7 @@
 0.0.0.0 allsaintsgreece.net
 0.0.0.0 allsaintskuwait.com
 0.0.0.0 allsaintsromania.net
+0.0.0.0 allsdy999.org 
 0.0.0.0 allseeingeyela.com
 0.0.0.0 allssdapace.makeup
 0.0.0.0 allstararcadeph.com
@@ -5640,6 +5642,7 @@
 0.0.0.0 etmaltwgnoe.store
 0.0.0.0 etniesshoesmexico.com
 0.0.0.0 etniesskateshoesaustralia.com
+0.0.0.0 etr.lat 
 0.0.0.0 etradebroker.com
 0.0.0.0 etransit.top
 0.0.0.0 ets2.gr
@@ -6824,6 +6827,7 @@
 0.0.0.0 getyourapi.site
 0.0.0.0 gexcontent.biz
 0.0.0.0 gf6.us
+0.0.0.0 gf79.org 
 0.0.0.0 gfbags.co
 0.0.0.0 gfer4.xyz
 0.0.0.0 gff116.com
@@ -7037,6 +7041,7 @@
 0.0.0.0 gonraok.com
 0.0.0.0 gonulluvatandas.com
 0.0.0.0 good-softs.com
+0.0.0.0 goodapps.top 
 0.0.0.0 goodbiaovs.xyz
 0.0.0.0 goodcoresoft.com
 0.0.0.0 gooddxmk.life
@@ -7099,6 +7104,8 @@
 0.0.0.0 gottalovethe.indy
 0.0.0.0 gougeflying.fun
 0.0.0.0 gourmetgear.ca
+0.0.0.0 gov24.me 
+0.0.0.0 gov24.top 
 0.0.0.0 govatsy.shop
 0.0.0.0 governorofrhodeisland.com
 0.0.0.0 governorofri.com
@@ -8932,6 +8939,8 @@
 0.0.0.0 kredit-en-ligne.com
 0.0.0.0 kreditgrun.com
 0.0.0.0 krepradoshaps.com
+0.0.0.0 krgoodapp.top 
+0.0.0.0 krgov24.top 
 0.0.0.0 krimeaboom.xyz
 0.0.0.0 kriptnhosting.ru
 0.0.0.0 kripto-koin.fun
@@ -9276,6 +9285,7 @@
 0.0.0.0 liguspotforsit.com
 0.0.0.0 lihafedava.com
 0.0.0.0 lijiayi.vip
+0.0.0.0 like1902.xyz 
 0.0.0.0 likeboostingsrebulity.ru
 0.0.0.0 likelysoarastonishiow.shop
 0.0.0.0 likeprogg.top
@@ -9696,6 +9706,7 @@
 0.0.0.0 majoirtains.ru
 0.0.0.0 majorexperttrade.com
 0.0.0.0 majzolimka.com
+0.0.0.0 make69.info 
 0.0.0.0 makeitshort.xyz
 0.0.0.0 makelogs.org
 0.0.0.0 makelovenotmalware.local
@@ -10040,6 +10051,7 @@
 0.0.0.0 messages-coinbase.com
 0.0.0.0 messalasix.com
 0.0.0.0 messtimetabledkolvk.shop
+0.0.0.0 messtube999.info 
 0.0.0.0 meta-log.site
 0.0.0.0 meta-ua.space
 0.0.0.0 meta-ua.top
@@ -10628,6 +10640,7 @@
 0.0.0.0 mtjit.com
 0.0.0.0 mtprogram.xyz
 0.0.0.0 mtrtech.net
+0.0.0.0 mtube888.info 
 0.0.0.0 mtwealth.in
 0.0.0.0 mtymall.info
 0.0.0.0 mubarikimpex.com.pk
@@ -10732,6 +10745,7 @@
 0.0.0.0 myjobwork24.com
 0.0.0.0 myjoooy.store
 0.0.0.0 mylinkedln.com
+0.0.0.0 mylove777.org 
 0.0.0.0 mymatgar.com
 0.0.0.0 mymilestoneagrewards.com
 0.0.0.0 mymodeney.com
@@ -11427,6 +11441,7 @@
 0.0.0.0 oksitepl.site
 0.0.0.0 oktbit.com
 0.0.0.0 oktrabalhox021.ml
+0.0.0.0 oktube999.info 
 0.0.0.0 okxo3.vip
 0.0.0.0 okxpro168.com
 0.0.0.0 okyaydankacarmotors.tk
@@ -15639,6 +15654,7 @@
 0.0.0.0 top-mates.com
 0.0.0.0 top-primewallet.life
 0.0.0.0 top-strx.site
+0.0.0.0 top1114.online 
 0.0.0.0 top789market.online
 0.0.0.0 topadvastudio.com
 0.0.0.0 topadvdomdesign.com
@@ -17642,6 +17658,7 @@
 0.0.0.0 ytntf5hvtn2vgcxxq.com
 0.0.0.0 ytrehui8.cfd
 0.0.0.0 yttornt.shop
+0.0.0.0 ytube888.info 
 0.0.0.0 yuankuojia.com
 0.0.0.0 yubetech.com
 0.0.0.0 yumicash.com
