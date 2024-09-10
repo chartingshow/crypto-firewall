@@ -3410,6 +3410,7 @@
 0.0.0.0 chat-gpt-for-windowpc.com
 0.0.0.0 chat-support.support
 0.0.0.0 chatgenie.co.uk
+0.0.0.0 chatgptc.io
 0.0.0.0 chatgptsupercharger.com
 0.0.0.0 chatmoney.com.br
 0.0.0.0 chatpipoca.net
@@ -7375,6 +7376,7 @@
 0.0.0.0 happinesscc.com
 0.0.0.0 happy-you.site
 0.0.0.0 happyback.co.kr
+0.0.0.0 happyminder.buzz
 0.0.0.0 happymiracle.site
 0.0.0.0 happytrustinvest.com
 0.0.0.0 haraszonadamata.com.br
@@ -7785,6 +7787,7 @@
 0.0.0.0 hueref.eu
 0.0.0.0 hugedata.org
 0.0.0.0 hugedearwaxxysu.shop
+0.0.0.0 hugeversapi.com
 0.0.0.0 hugewins.life
 0.0.0.0 hugobosscanada.com
 0.0.0.0 hugoeyagomucasltda.shop
@@ -9636,6 +9639,7 @@
 0.0.0.0 m158663.com
 0.0.0.0 m18888.com
 0.0.0.0 m1fdte.xyz
+0.0.0.0 m1m1mapi.com
 0.0.0.0 m1p8z.com
 0.0.0.0 m360li.info
 0.0.0.0 m440ixe.info
@@ -13335,6 +13339,7 @@
 0.0.0.0 robloxuz.com
 0.0.0.0 robo-claim.site
 0.0.0.0 roboforexint.com
+0.0.0.0 robot999.net
 0.0.0.0 robotechpro.com
 0.0.0.0 robotera.io
 0.0.0.0 robotixpenedes.com
@@ -15044,6 +15049,7 @@
 0.0.0.0 synergynep.com
 0.0.0.0 synology.me
 0.0.0.0 synthex.finance
+0.0.0.0 synthnet.ai
 0.0.0.0 syquheuheu.live
 0.0.0.0 sysofficereconsiderar.com
 0.0.0.0 system-ns.net
