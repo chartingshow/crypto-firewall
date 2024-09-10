@@ -56,6 +56,6 @@ https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blackl
 
 6. You should get the following result:
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave-browser/2.jpg" alt="brave browser"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave-browser/2b.jpg" alt="brave browser"></p>
 
 7. The crypto firewall should be installed in the Brave Browser and you can now open a new browser tab and be protected automatically.
