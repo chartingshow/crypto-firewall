@@ -6916,6 +6916,7 @@
 0.0.0.0 gk-stst.ru
 0.0.0.0 gkalik.com
 0.0.0.0 gkrokbmrkmrxtmxrxr.space
+0.0.0.0 gkrtmc.com
 0.0.0.0 gksportshub.com
 0.0.0.0 gkz9877oj.gq
 0.0.0.0 gkzjyeiyjier.xyz
