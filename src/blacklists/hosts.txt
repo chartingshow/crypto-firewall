@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 September 2024
+# Last modified: 17 September 2024
 #
 
 # Extras (comment out if needed)
@@ -11615,6 +11615,8 @@
 0.0.0.0 opposesicknessopw.pw
 0.0.0.0 oppovivoiqoo.tech
 0.0.0.0 optimalyieldltds.com
+0.0.0.0 optimisam.ltd
+0.0.0.0 optimisam.org
 0.0.0.0 optimusceo.tech
 0.0.0.0 optimuspharm.rs
 0.0.0.0 optionfold.com
