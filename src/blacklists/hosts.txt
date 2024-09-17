@@ -11616,6 +11616,8 @@
 0.0.0.0 opposesicknessopw.pw
 0.0.0.0 oppovivoiqoo.tech
 0.0.0.0 optimalyieldltds.com
+0.0.0.0 optimisam.ltd
+0.0.0.0 optimisam.org
 0.0.0.0 optimusceo.tech
 0.0.0.0 optimuspharm.rs
 0.0.0.0 optionfold.com
