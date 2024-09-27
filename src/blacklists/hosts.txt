@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 September 2024
+# Last modified: 27 September 2024
 #
 
 # Extras (comment out if needed)
@@ -3052,6 +3052,7 @@
 0.0.0.0 cakecorner.info
 0.0.0.0 cakefrostofficial.com
 0.0.0.0 cakeondial.com
+0.0.0.0 cakeserver.online
 0.0.0.0 calad-formation.fr
 0.0.0.0 calamosassets.com
 0.0.0.0 calcuatllitwop.shop
@@ -3929,6 +3930,7 @@
 0.0.0.0 connectivitycheck.live
 0.0.0.0 connectivitycheck.online
 0.0.0.0 connectivitychecker.com
+0.0.0.0 connectprotocol.app
 0.0.0.0 connsphotolab.com
 0.0.0.0 conomyfxtrade.com
 0.0.0.0 conradgallagherlaw.com
@@ -10058,6 +10060,7 @@
 0.0.0.0 messalasix.com
 0.0.0.0 messtimetabledkolvk.shop
 0.0.0.0 messtube999.info 
+0.0.0.0 mestoxcalculator.com
 0.0.0.0 meta-log.site
 0.0.0.0 meta-ua.space
 0.0.0.0 meta-ua.top
@@ -16885,6 +16888,7 @@
 0.0.0.0 web3-refill.com
 0.0.0.0 web365metrics.com
 0.0.0.0 web3modal-api.com
+0.0.0.0 web3protocol.online
 0.0.0.0 web4nothing.com
 0.0.0.0 webaffise.com
 0.0.0.0 webaitech.xyz
