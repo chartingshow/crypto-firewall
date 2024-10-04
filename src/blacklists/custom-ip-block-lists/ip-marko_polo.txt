@@ -1,0 +1,22 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Marko Polo Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 4 October 2024
+#
+
+147.45.43.136
+147.45.43.197
+188.130.207.115
+193.233.132.137
+194.116.217.148
+45.156.27.196
+45.156.27.45
+77.221.151.54
+79.137.197.159
+79.137.202.22
