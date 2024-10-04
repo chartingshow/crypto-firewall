@@ -2475,6 +2475,7 @@
 0.0.0.0 bitoxies.com
 0.0.0.0 bitpay-miners.org
 0.0.0.0 bitpays.vip
+0.0.0.0 bitping.com
 0.0.0.0 bitprolook.top
 0.0.0.0 bitpromining.space
 0.0.0.0 bitproms.top
@@ -5085,6 +5086,7 @@
 0.0.0.0 eapro.in
 0.0.0.0 earaday.com
 0.0.0.0 earlyintime.com
+0.0.0.0 earn.fm
 0.0.0.0 earnclaims.com
 0.0.0.0 earnforpak.com
 0.0.0.0 earngogo.com
@@ -13186,6 +13188,7 @@
 0.0.0.0 repicdominic.xyz
 0.0.0.0 repitew.com
 0.0.0.0 replacedoxcjzp.shop
+0.0.0.0 repocket.com
 0.0.0.0 repostikom.site
 0.0.0.0 repoterla.com
 0.0.0.0 representanteanaliz.life
@@ -14583,6 +14586,7 @@
 0.0.0.0 speedoswimwearsingapore.com
 0.0.0.0 speedparticipatewo.shop
 0.0.0.0 speedrankingsystem.de
+0.0.0.0 speedshare.app
 0.0.0.0 speedtestip.xyz
 0.0.0.0 speedtransport.in
 0.0.0.0 speedusdt.io
