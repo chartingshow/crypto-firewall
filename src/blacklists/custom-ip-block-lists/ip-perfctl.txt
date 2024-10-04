@@ -1,0 +1,16 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Perfctl Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 4 October 2024
+#
+
+104.183.100.189
+198.211.126.180
+211.234.111.116
+46.101.139.173
