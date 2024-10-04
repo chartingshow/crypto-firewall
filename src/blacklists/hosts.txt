@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 September 2024
+# Last modified: 4 October 2024
 #
 
 # Extras (comment out if needed)
@@ -5180,6 +5180,7 @@
 0.0.0.0 edgeblockmining.com
 0.0.0.0 edgesync.net
 0.0.0.0 edgeupdates.com
+0.0.0.0 edgeupgrade.com
 0.0.0.0 edgymart.com
 0.0.0.0 edi-serverdata.com
 0.0.0.0 edificedcampds.shop
@@ -5353,6 +5354,7 @@
 0.0.0.0 elonsvault.com
 0.0.0.0 elowix.com
 0.0.0.0 elpais.me
+0.0.0.0 elrifeno.com
 0.0.0.0 elsu-finance.online
 0.0.0.0 emagrecercomsaude.digital
 0.0.0.0 email026.com
@@ -8388,6 +8390,7 @@
 0.0.0.0 jasmy-trade.com
 0.0.0.0 jaspera.cf
 0.0.0.0 jastemyaynha.xyz
+0.0.0.0 javadevssdk.com
 0.0.0.0 javelvety.za.com
 0.0.0.0 javierzackerythy.shop
 0.0.0.0 jawaeye-app.online
@@ -10593,6 +10596,7 @@
 0.0.0.0 mowuqn.ga
 0.0.0.0 mowuqn.ml
 0.0.0.0 moxii.com
+0.0.0.0 mozilaupgrade.com
 0.0.0.0 mozillaupdate.com
 0.0.0.0 mozillaupdate.xyz
 0.0.0.0 mozk.top
@@ -16272,6 +16276,7 @@
 0.0.0.0 update2day.xyz
 0.0.0.0 updateadobeflash.website
 0.0.0.0 updatebrowser.cn
+0.0.0.0 updatechrllom.com
 0.0.0.0 updated-2023.co
 0.0.0.0 updated-terms.co
 0.0.0.0 updatedterms2023.co
