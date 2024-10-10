@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 4 October 2024
+# Last modified: 10 October 2024
 #
 
 # Extras (comment out if needed)
@@ -6148,6 +6148,7 @@
 0.0.0.0 findfacts.co.in
 0.0.0.0 findferb.com
 0.0.0.0 findfwd.com
+0.0.0.0 findme-service.com
 0.0.0.0 findmypan.com
 0.0.0.0 findpanonline.com
 0.0.0.0 findsexy.life
