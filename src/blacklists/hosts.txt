@@ -584,6 +584,7 @@
 0.0.0.0 930204.com
 0.0.0.0 948122061-coinbase.com
 0.0.0.0 9501dh03.vip
+0.0.0.0 9507c272a51ce8cefc8761591b2c50e6.fit
 0.0.0.0 95555cmbchina.com
 0.0.0.0 960232.com
 0.0.0.0 96roafw91vs3hqv.top
@@ -1834,6 +1835,7 @@
 0.0.0.0 avls.com.ph
 0.0.0.0 avmgezmekiyi.shop
 0.0.0.0 avnbit.com
+0.0.0.0 avoufshire.icu
 0.0.0.0 avromatka.space
 0.0.0.0 avroralikhaem.com
 0.0.0.0 avtoremprof.ru
@@ -2334,6 +2336,7 @@
 0.0.0.0 bigbookhub.com
 0.0.0.0 bigbro.top
 0.0.0.0 bigdayscapp.top
+0.0.0.0 bigdogfoundation.com
 0.0.0.0 biggreenlimes.org
 0.0.0.0 bigionlinegiris.net
 0.0.0.0 biglygirle.com
@@ -7270,6 +7273,7 @@
 0.0.0.0 gremlin.net
 0.0.0.0 gremscd.pro
 0.0.0.0 greshman.xyz
+0.0.0.0 gretdence.live
 0.0.0.0 greteh.com
 0.0.0.0 greycoconut.com
 0.0.0.0 griaffes.shop
