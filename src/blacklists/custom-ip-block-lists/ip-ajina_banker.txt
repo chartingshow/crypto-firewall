@@ -1,0 +1,22 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Ajina.Banker Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 10 October 2024
+#
+
+109.120.135.42
+147.45.42.85
+45.15.157.38
+46.226.160.19
+46.226.167.24
+5.42.77.147
+77.105.166.215
+77.221.136.21
+79.137.202.32
+79.137.205.212
