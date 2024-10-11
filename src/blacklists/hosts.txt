@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 October 2024
+# Last modified: 11 October 2024
 #
 
 # Extras (comment out if needed)
@@ -6684,8 +6684,10 @@
 0.0.0.0 gamefilescript.com
 0.0.0.0 gamefoods.xyz
 0.0.0.0 gamefreesoft.com
+0.0.0.0 gamejump.site
 0.0.0.0 gamelabpro.club
 0.0.0.0 gamepilot.ai
+0.0.0.0 gamesjumpers.com
 0.0.0.0 gamesmetaa.com
 0.0.0.0 gamespc.top
 0.0.0.0 gamesstartf.xyz
@@ -8308,6 +8310,7 @@
 0.0.0.0 iphonetamirturkey.com
 0.0.0.0 ipify.org
 0.0.0.0 iplbet.co.in
+0.0.0.0 iplog.co
 0.0.0.0 iplogger.org
 0.0.0.0 ipocla.org
 0.0.0.0 ipoteka-v-moskve.ru
@@ -14755,6 +14758,7 @@
 0.0.0.0 sporteatinom.com
 0.0.0.0 sportive.run
 0.0.0.0 sportjogiszakjogasz.hu
+0.0.0.0 sportjump.ru
 0.0.0.0 sports-mdg.xyz
 0.0.0.0 sports24world.com
 0.0.0.0 sportsnewz.site
@@ -17773,6 +17777,7 @@
 0.0.0.0 yi7qlaice.cf
 0.0.0.0 yieldsventure.net
 0.0.0.0 yiogqkksoyysqiky.xyz
+0.0.0.0 yip.su
 0.0.0.0 yipujufaj.com
 0.0.0.0 yjlianyi.top
 0.0.0.0 yjzhenfeng.com
