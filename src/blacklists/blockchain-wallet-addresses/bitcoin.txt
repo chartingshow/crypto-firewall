@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 September 2024
+# Last modified: 11 October 2024
 #
 
 114REyumCfXvUrg6jkeTCsD8p6d99mNFwQ
@@ -167,6 +167,7 @@
 1HTJpF1Ju73Yt1KsGprAsEMQyDqisBCzHw
 1HTxR4q4vxQKxtCXB95tdSC5xtsa2uPcMP
 1HvwfqET1WKdiN3C4xnkdpfqrx7oVW2Rc4
+1HwngaiHVLic8f86MVaatHnMRnXeUnJjsy
 1Hzp8nu7JE3jCi7XGGgq3GBVj7Hym5wxUZ
 1J23hHKghn4fHhFHLcK37M6aP8aTULRHrA
 1J2h2MGb7gXoLrByYub6kPWsj1VxpxyzSK
@@ -263,6 +264,7 @@
 3AhkYrTBYapaphfSrQzAHfNbnBBASCgSVv
 3B4J1hhrkPYfYLUumqxKMuQAb2NmxQtk5Q
 3CYykCv3bxwrwePZ559pyQ84GWLM9uDFXs
+3ECXLjASVRpGmtD1s5CGD9eCaBL7rh7vWk
 3Ent4Mdg7KTig5ZzMxRJumVCYYkSGSMr7W
 3FC9f9p6hgkraFvJ8GPsxDkGq1QT5P6KbK
 3FZ8YGHnYEuUkvER34ZyDaEji3i1uqzAxJ
@@ -381,6 +383,7 @@ bc1qn3l6xh90zqztvjrgsesj9fnlf50c2qw97kq94v
 bc1qn4v3hzauw2ynka47m6am5jjxrkwqky9leyz8cn
 bc1qnjtdgylm4mem3drcz8zsqe3tfta25vp8xewp73
 bc1qnl86gh6wp0d8ctmcc55yv86ccyluzsfc3k9g37
+bc1qnwdcqd9fq5mzghzz2tfftwwar8vsy4ezt49ypg
 bc1qp2stgyk29r2ancuzcy82xc2agw4gn95xpsaq5n
 bc1qp5j3dnpsspygv963u7ykj5qm5ccm30l9a68304
 bc1qp7h8znlh7rarkjygmd5v2amq73mredxamhzrxk
