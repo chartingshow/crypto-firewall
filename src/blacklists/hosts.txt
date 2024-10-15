@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 October 2024
+# Last modified: 15 October 2024
 #
 
 # Extras (comment out if needed)
@@ -812,6 +812,7 @@
 0.0.0.0 admiralx-hji.top
 0.0.0.0 adneedads.com
 0.0.0.0 adobepresetforyou.us
+0.0.0.0 adobtone.cn.com
 0.0.0.0 adollfhitler.app
 0.0.0.0 adolphochs.com
 0.0.0.0 adoptionalbumgesw.shop
@@ -1748,6 +1749,7 @@
 0.0.0.0 attmospherewards.com
 0.0.0.0 attyclaim.com
 0.0.0.0 atwebpages.com
+0.0.0.0 au-logon-login-page.group
 0.0.0.0 auburnexcellbrady.com
 0.0.0.0 auctiondecadecontaii.shop
 0.0.0.0 audfsi.makeup
@@ -1936,6 +1938,7 @@
 0.0.0.0 bacionera.top
 0.0.0.0 bacisin.com
 0.0.0.0 backcreammykiel.shop
+0.0.0.0 backstage.cn.com
 0.0.0.0 backtovillage.org
 0.0.0.0 backup-leader.com
 0.0.0.0 backupslive.com
@@ -3501,6 +3504,7 @@
 0.0.0.0 chicossoftoutlet.com
 0.0.0.0 chieffox.com
 0.0.0.0 chiefmar.top
+0.0.0.0 chiggers.cn.com
 0.0.0.0 chiguserver.ml
 0.0.0.0 childfashionary.com
 0.0.0.0 childhauster.com
@@ -4603,6 +4607,7 @@
 0.0.0.0 demonstationfukewko.shop
 0.0.0.0 demonstratedesighw.shop
 0.0.0.0 demopartisom.shop
+0.0.0.0 demospeed.org
 0.0.0.0 demur3.com
 0.0.0.0 denelan.com
 0.0.0.0 denestyenol.xyz
@@ -4952,6 +4957,7 @@
 0.0.0.0 dove-techsoft.com
 0.0.0.0 doved.top
 0.0.0.0 dovletex.com
+0.0.0.0 dowhatyouwant.group
 0.0.0.0 download-adblockone.com
 0.0.0.0 download3.info
 0.0.0.0 download4you.xyz
@@ -5759,6 +5765,7 @@
 0.0.0.0 everybodyeatshtx.com
 0.0.0.0 everynght.org
 0.0.0.0 everythinghr.com
+0.0.0.0 everythingispossible.group
 0.0.0.0 everyuntil.icu
 0.0.0.0 evgeniys.ru
 0.0.0.0 evilsbedont.de
@@ -5792,6 +5799,7 @@
 0.0.0.0 excellentheight.com
 0.0.0.0 excellentpatterns.com
 0.0.0.0 exceptionwillapews.shop
+0.0.0.0 exchange-secure.cn.com
 0.0.0.0 exchangeink.com
 0.0.0.0 exchetrade.com
 0.0.0.0 excoin-red.com
@@ -7080,6 +7088,7 @@
 0.0.0.0 godsmightywhispers.com
 0.0.0.0 godtrx.club
 0.0.0.0 gofeteh.com
+0.0.0.0 gofirst.cn.com
 0.0.0.0 goglesheet.com
 0.0.0.0 gogobad.fun
 0.0.0.0 goheard.app
@@ -8307,6 +8316,7 @@
 0.0.0.0 ipanemaehrvatska.net
 0.0.0.0 ipanemanet.com.br
 0.0.0.0 ipdclub.com
+0.0.0.0 ipgeo.at
 0.0.0.0 iphonetamirturkey.com
 0.0.0.0 ipify.org
 0.0.0.0 iplbet.co.in
@@ -8414,6 +8424,7 @@
 0.0.0.0 itunt.xyz
 0.0.0.0 itutorsl.lk
 0.0.0.0 itvans.shop
+0.0.0.0 itwww.org
 0.0.0.0 iu.ac.bd
 0.0.0.0 iueville.com
 0.0.0.0 iuic.de
@@ -8841,6 +8852,7 @@
 0.0.0.0 keenfootwearph.com
 0.0.0.0 keennylrwmqlw.shop
 0.0.0.0 keenshoeschile.com
+0.0.0.0 keepass.ltd
 0.0.0.0 keepingcahealthy.com
 0.0.0.0 keflz.com
 0.0.0.0 kefsocksmag.com
@@ -9313,6 +9325,7 @@
 0.0.0.0 letscall.fyi
 0.0.0.0 letscall.ltd
 0.0.0.0 letscall.today
+0.0.0.0 letsencryp.at
 0.0.0.0 letsgocover.co.uk
 0.0.0.0 letsketchup.online
 0.0.0.0 leufrv.top
@@ -10161,6 +10174,7 @@
 0.0.0.0 merrellcevlji.com
 0.0.0.0 merrill-org.com
 0.0.0.0 merturku.com
+0.0.0.0 meshuggah.cn.com
 0.0.0.0 meshura.space
 0.0.0.0 messages-coinbase.com
 0.0.0.0 messalasix.com
@@ -10278,6 +10292,7 @@
 0.0.0.0 miira.live
 0.0.0.0 mikallv.eu
 0.0.0.0 miklinhotels.com
+0.0.0.0 mikrotik.cn.com
 0.0.0.0 mil-gov.space
 0.0.0.0 milanarshop.com
 0.0.0.0 milen.top
@@ -11875,6 +11890,7 @@
 0.0.0.0 oxprestamos.com
 0.0.0.0 oxstanbic.online
 0.0.0.0 oxxyfix.xyz
+0.0.0.0 oxydant.cn.com
 0.0.0.0 oyeqctus.com
 0.0.0.0 oystergardener.net
 0.0.0.0 oyuncakhesapositebizimle.co.vu
@@ -11972,6 +11988,7 @@
 0.0.0.0 paradexjdoa.shop
 0.0.0.0 paragon-gb.ru
 0.0.0.0 parallelmercywksoffw.shop
+0.0.0.0 paramed.cn.com
 0.0.0.0 parapett.site
 0.0.0.0 parapetyrs.cz
 0.0.0.0 parashop.life
@@ -12718,6 +12735,7 @@
 0.0.0.0 producti.top
 0.0.0.0 productionbio.fun
 0.0.0.0 productivelookewr.shop
+0.0.0.0 products-receiver.group
 0.0.0.0 productsquad.co
 0.0.0.0 produtoeletro.my.id
 0.0.0.0 produtosagricolas.skin
@@ -14101,6 +14119,7 @@
 0.0.0.0 sender077.com
 0.0.0.0 sendeveryda.com
 0.0.0.0 sendformsecure.store
+0.0.0.0 senecte.cn.com
 0.0.0.0 sengibialacklaravclar.shop
 0.0.0.0 seninicinolddmaden.shop
 0.0.0.0 senmakigawrdfas.shop
@@ -14216,6 +14235,7 @@
 0.0.0.0 shapefamz.com
 0.0.0.0 shapeshopeco.com
 0.0.0.0 shapkishop.store
+0.0.0.0 shapr-3d.cn.com
 0.0.0.0 shareboxs.net
 0.0.0.0 sharebusiness.xyz
 0.0.0.0 sharedocs.xyz
@@ -14813,6 +14833,7 @@
 0.0.0.0 stackscoin.net
 0.0.0.0 stagedchheiqwo.shop
 0.0.0.0 stagencyperu.com
+0.0.0.0 stagepool.cn.com
 0.0.0.0 staging-demo.com
 0.0.0.0 stagingapps.xyz
 0.0.0.0 stahlcran.com
@@ -14850,6 +14871,7 @@
 0.0.0.0 starhealthconsultancy.com
 0.0.0.0 staringgeipod.com
 0.0.0.0 starluckycentre.com
+0.0.0.0 starnow.cn.com
 0.0.0.0 starold.xyz
 0.0.0.0 starsdesign.shop
 0.0.0.0 starshop.market
@@ -16141,6 +16163,7 @@
 0.0.0.0 trustguabnk.com
 0.0.0.0 trustguaranteedco.com
 0.0.0.0 trustlessbridge.io
+0.0.0.0 trustmode.at
 0.0.0.0 trustsavecredit.site
 0.0.0.0 trustshielded.buzz
 0.0.0.0 trustshoponli.com
@@ -17264,6 +17287,7 @@
 0.0.0.0 whow.fr
 0.0.0.0 wialadyar.xyz
 0.0.0.0 wiccinigeria.org
+0.0.0.0 wicki-wicki.cn.com
 0.0.0.0 wickleymorgan.com
 0.0.0.0 wicott.top
 0.0.0.0 widgeonhill.com
