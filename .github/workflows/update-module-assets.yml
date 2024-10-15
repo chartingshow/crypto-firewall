@@ -17,8 +17,8 @@ jobs:
     steps:
       - name: Repo check
         run: |
-          if [[ "$GITHUB_REPOSITORY_OWNER" != "Summer-CMS-Vendor-Packages" ]]; then
-            echo "This GitHub Action is meant to deliver filter lists for sc-block-bad-crypto-filter-lists."
+          if [[ "$GITHUB_REPOSITORY_OWNER" != "chartingshow" ]]; then
+            echo "This GitHub Action is meant to deliver filter lists for crypto-firewall."
             echo "You shouldn't need to run this GitHub Action in your fork."
             echo "If you do, please customize the cron expression above."
             exit 1
