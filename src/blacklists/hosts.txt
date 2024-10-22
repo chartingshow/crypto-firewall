@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 October 2024
+# Last modified: 22 October 2024
 #
 
 # Extras (comment out if needed)
@@ -17898,7 +17898,7 @@
 0.0.0.0 ytntf5hvtn2vgcxxq.com
 0.0.0.0 ytrehui8.cfd
 0.0.0.0 yttornt.shop
-0.0.0.0 ytube888.info 
+0.0.0.0 ytube888.info
 0.0.0.0 yuankuojia.com
 0.0.0.0 yubetech.com
 0.0.0.0 yumicash.com
