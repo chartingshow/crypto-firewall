@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 22 October 2024
+# Last modified: 23 October 2024
 #
 
 # Extras (comment out if needed)
@@ -1008,6 +1008,7 @@
 0.0.0.0 ajnewstock.com
 0.0.0.0 ajoa.org
 0.0.0.0 ajolotec.com
+0.0.0.0 ajsdiaolke.shop
 0.0.0.0 ajseries.com
 0.0.0.0 ajsfgrabvip.com
 0.0.0.0 ajshoesuite.com
@@ -4381,6 +4382,7 @@
 0.0.0.0 dailytickyclock.org
 0.0.0.0 daincolourchem.com
 0.0.0.0 dainikbharat.in
+0.0.0.0 dais7nsa.pics
 0.0.0.0 daisugi.world
 0.0.0.0 daisydishuk.com
 0.0.0.0 daisyglobal.net
@@ -4431,6 +4433,7 @@
 0.0.0.0 dashong.top
 0.0.0.0 dashonlineclub.com
 0.0.0.0 daska.top
+0.0.0.0 daslkjfhi2.lol
 0.0.0.0 dasms.xyz
 0.0.0.0 dat-transport.org
 0.0.0.0 data-host-coin-8.com
@@ -10053,6 +10056,9 @@
 0.0.0.0 mcxncdextips.com
 0.0.0.0 mcybersoft.com
 0.0.0.0 md-news-direct.com
+0.0.0.0 md928zs.shop
+0.0.0.0 mdasidy72.lol
+0.0.0.0 mdasidy72.mom
 0.0.0.0 mdbox.one
 0.0.0.0 mdconnect.live
 0.0.0.0 mds.com.cy
@@ -11014,6 +11020,8 @@
 0.0.0.0 nch-software.info
 0.0.0.0 ncoduryllixe.xyz
 0.0.0.0 ndakaproperties.co.za
+0.0.0.0 ndas8m92.shop
+0.0.0.0 ndm2398asdlw.shop
 0.0.0.0 ndplc.gq
 0.0.0.0 neaachar.com
 0.0.0.0 neanderthal-outfits.com
@@ -12211,6 +12219,7 @@
 0.0.0.0 perubatan.org
 0.0.0.0 perunaturtex.com
 0.0.0.0 pesiv.top
+0.0.0.0 peskpdfgif.shop
 0.0.0.0 pet-shopping.net
 0.0.0.0 peteralexander.shop
 0.0.0.0 petereshop.me
@@ -14497,6 +14506,7 @@
 0.0.0.0 skeptictyson.com
 0.0.0.0 sketiopaag.com
 0.0.0.0 skguarperahu.edu.my
+0.0.0.0 skibidirizz.lol
 0.0.0.0 skicloud-my.xyz
 0.0.0.0 skid.uno
 0.0.0.0 skidmark.kr
@@ -14575,6 +14585,7 @@
 0.0.0.0 smknbancak.my.id
 0.0.0.0 smmcfan.com
 0.0.0.0 smmila.com
+0.0.0.0 smolcatkgi.shop
 0.0.0.0 smplemente.net
 0.0.0.0 smplt210smlprt.com
 0.0.0.0 smpmuhammadiyah4jakarta.sch.id
@@ -17552,6 +17563,7 @@
 0.0.0.0 x1-exchange.com
 0.0.0.0 x12m66d.info
 0.0.0.0 x1ii.com
+0.0.0.0 x99y.xyz
 0.0.0.0 xabigyarall.xyz
 0.0.0.0 xaderbuild.com.au
 0.0.0.0 xaebit.com
