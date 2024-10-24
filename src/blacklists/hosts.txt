@@ -2366,6 +2366,7 @@
 0.0.0.0 bhoratwt.top
 0.0.0.0 bhptrade.com
 0.0.0.0 bhupeshtrivedi.com
+0.0.0.0 bhuroid.com
 0.0.0.0 bhushankoli.com
 0.0.0.0 bhvbhgvh.space
 0.0.0.0 bi-btc.com
@@ -4488,6 +4489,7 @@
 0.0.0.0 daisyglobal.net
 0.0.0.0 daiwa.ventures
 0.0.0.0 dajgrow.com
+0.0.0.0 dalefs.com
 0.0.0.0 dalssontg.com
 0.0.0.0 daltonfrazier.cfd
 0.0.0.0 daluzaccor.hair
@@ -4810,6 +4812,7 @@
 0.0.0.0 dft.global
 0.0.0.0 dfvzfvd.help
 0.0.0.0 dfwsolar.club
+0.0.0.0 dggerys.com
 0.0.0.0 dghidfishfosf.fun
 0.0.0.0 dgjytr.online
 0.0.0.0 dgmmotors.com
@@ -4919,6 +4922,7 @@
 0.0.0.0 disappearsodsz.shop
 0.0.0.0 disappointcredisotw.shop
 0.0.0.0 disappointypsm.shop
+0.0.0.0 discess.net
 0.0.0.0 disconnect-coinbase.com
 0.0.0.0 discount-deal.org
 0.0.0.0 discountbloc.com
@@ -5614,6 +5618,7 @@
 0.0.0.0 energypartners.pro
 0.0.0.0 energyplantwells.com
 0.0.0.0 energysupplements.co.uk
+0.0.0.0 enestcon.com
 0.0.0.0 enfixxysdjsip.shop
 0.0.0.0 enfoquedeportivo.com
 0.0.0.0 engesoftware.site
@@ -6753,6 +6758,7 @@
 0.0.0.0 fuckmy.store
 0.0.0.0 fuckthemarket.tech
 0.0.0.0 fudlasaplayeemmkehhd.co.vu
+0.0.0.0 fuerob.com
 0.0.0.0 fuexbit.com
 0.0.0.0 fufux.xyz
 0.0.0.0 fugicarfc8.store
@@ -6859,6 +6865,7 @@
 0.0.0.0 gabycampo.com.ar
 0.0.0.0 gadanaycens.xyz
 0.0.0.0 gadget.land
+0.0.0.0 gadlito.com
 0.0.0.0 gaervchain.org
 0.0.0.0 gagtou.com
 0.0.0.0 gahsdagf.com
@@ -7038,6 +7045,7 @@
 0.0.0.0 gerenciadorweb.com.ru
 0.0.0.0 gerenciaestrategica.top
 0.0.0.0 gerenteempresarial.voyage
+0.0.0.0 gerfane.com
 0.0.0.0 gergoz.com
 0.0.0.0 geringer-muehle.de
 0.0.0.0 gerkablop.com
@@ -7324,6 +7332,7 @@
 0.0.0.0 goldforincome.com
 0.0.0.0 goldmanrepublic.com
 0.0.0.0 goldoffer.online
+0.0.0.0 goldoson.net
 0.0.0.0 goldsboxss.xyz
 0.0.0.0 goldtokensool.xyz
 0.0.0.0 goldycasinos.xyz
@@ -7934,6 +7943,7 @@
 0.0.0.0 hjc.rs
 0.0.0.0 hjk5rfo.cfd
 0.0.0.0 hjk89ij.cfd
+0.0.0.0 hjorsjopa.com
 0.0.0.0 hkdesign-lb.com
 0.0.0.0 hko1yucr.ga
 0.0.0.0 hksands.com
@@ -8098,6 +8108,7 @@
 0.0.0.0 htb-enc.com
 0.0.0.0 htcharitytrust.org
 0.0.0.0 https443.org
+0.0.0.0 htyyed.com
 0.0.0.0 hub-miners.com
 0.0.0.0 hubabuba.top
 0.0.0.0 hubojo.com
@@ -10516,6 +10527,7 @@
 0.0.0.0 metemas.me
 0.0.0.0 metemasks.live
 0.0.0.0 metesp.xyz
+0.0.0.0 methinno.net
 0.0.0.0 methodbojjewkl.shop
 0.0.0.0 methodgreenglassdatw.shop
 0.0.0.0 methosdd.online
@@ -11347,6 +11359,7 @@
 0.0.0.0 nechsha.com
 0.0.0.0 neckcolonyunit.buzz
 0.0.0.0 neckshop.top
+0.0.0.0 necktro.com
 0.0.0.0 necocheasexshop.com
 0.0.0.0 neddlepyramidfunnyjok.fun
 0.0.0.0 nedoninvestment.com
@@ -11913,6 +11926,7 @@
 0.0.0.0 ojbk-2.shop
 0.0.0.0 ojhggnfbcy62.com
 0.0.0.0 ojhggnfbcy62.com/
+0.0.0.0 ojiskorp.net
 0.0.0.0 ojiwojdiuuywdnbhcby.com
 0.0.0.0 okanime.tv
 0.0.0.0 okbetagent.com
@@ -11981,6 +11995,7 @@
 0.0.0.0 omucatrachos.store
 0.0.0.0 on-program-course-us-intl-ok.live
 0.0.0.0 onaddavyly.xyz
+0.0.0.0 onanico.net
 0.0.0.0 onazarlandu.xyz
 0.0.0.0 onbitc.com
 0.0.0.0 onbuy-global.com
@@ -12082,6 +12097,7 @@
 0.0.0.0 openinterbnk.online
 0.0.0.0 opensmarketplace.net
 0.0.0.0 opensof.com
+0.0.0.0 openwor.com
 0.0.0.0 operacional2019.services
 0.0.0.0 operrayowo.shop
 0.0.0.0 opescinofilia.it
@@ -12636,6 +12652,7 @@
 0.0.0.0 phuketbosstailor.com
 0.0.0.0 phukiensocheap.com
 0.0.0.0 phumyhungcorp.com
+0.0.0.0 phyerh.net
 0.0.0.0 phyllit.com
 0.0.0.0 piadueh.com
 0.0.0.0 pianistprodigy.com
@@ -13847,6 +13864,7 @@
 0.0.0.0 riddancecredit.com
 0.0.0.0 ride1atv.com
 0.0.0.0 riderratttinow.shop
+0.0.0.0 ridinra.com
 0.0.0.0 ridtechzone.com
 0.0.0.0 riffledopspzio.shop
 0.0.0.0 rigenron.ru
@@ -13995,6 +14013,7 @@
 0.0.0.0 roughnecksconstructions.com
 0.0.0.0 roughplay.org
 0.0.0.0 roundpolechildryowjv.shop
+0.0.0.0 rouperdo.net
 0.0.0.0 routinecontoradwjsk.shop
 0.0.0.0 rovengold.fun
 0.0.0.0 rovexstep.com
@@ -15085,6 +15104,7 @@
 0.0.0.0 softwarebeast.live
 0.0.0.0 softwareulike.com
 0.0.0.0 softwinmeod.com
+0.0.0.0 soildonutkiel.com
 0.0.0.0 solarcompanybakersfield.com
 0.0.0.0 solargoup.xyz
 0.0.0.0 solargroup.xyz
@@ -15136,6 +15156,8 @@
 0.0.0.0 sooperhub.com
 0.0.0.0 sophisticatedsstyle.com
 0.0.0.0 sorderatoluca.com
+0.0.0.0 soridok2kpop.com
+0.0.0.0 sorrowdeepkold.com
 0.0.0.0 sortyellowapples.com
 0.0.0.0 sosdta.com
 0.0.0.0 sosharestelen.shop
@@ -15573,6 +15595,7 @@
 0.0.0.0 superbreeze.store
 0.0.0.0 supercenturion.com
 0.0.0.0 superdeyvs.xyz
+0.0.0.0 superdonaldkood.com
 0.0.0.0 superdreadiswag.com
 0.0.0.0 superfaditem.com
 0.0.0.0 superfootball.shop
@@ -16117,6 +16140,7 @@
 0.0.0.0 therockefeller.app
 0.0.0.0 theroyalpitstop.com
 0.0.0.0 theroyaltressecollection.com
+0.0.0.0 thervide.net
 0.0.0.0 thescoopsdar.com
 0.0.0.0 theshadoowstore.com
 0.0.0.0 theshoplace.com
@@ -16203,6 +16227,7 @@
 0.0.0.0 tiendaonails.com
 0.0.0.0 tiendavanscolombia.com
 0.0.0.0 tiffandvicks.com
+0.0.0.0 tiffyre.net
 0.0.0.0 tigaasfgo.makeup
 0.0.0.0 tigela.org.np
 0.0.0.0 tigercomeback.com
@@ -16545,6 +16570,7 @@
 0.0.0.0 treechop.top
 0.0.0.0 treef.top
 0.0.0.0 treepledeeple.fun
+0.0.0.0 treffaas.com
 0.0.0.0 tremethaj.com
 0.0.0.0 tremilline.ru
 0.0.0.0 trend-marketing.com.eg
@@ -17376,6 +17402,7 @@
 0.0.0.0 vis9.net
 0.0.0.0 visainvesting.pro
 0.0.0.0 visanegocios.com
+0.0.0.0 visceun.com
 0.0.0.0 vishthara.com
 0.0.0.0 visionarybusiness.net
 0.0.0.0 visionglobalmarkets.com
