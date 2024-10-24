@@ -10961,6 +10961,7 @@
 0.0.0.0 moneyxrf.online
 0.0.0.0 mongomo-bf.com
 0.0.0.0 monicascreativejuices.com
+0.0.0.0 monitorarbitcoin.org
 0.0.0.0 monitorcrack.click
 0.0.0.0 monitorhealthcare.com
 0.0.0.0 monjurashop.xyz
@@ -18540,6 +18541,7 @@
 0.0.0.0 zega.ca
 0.0.0.0 zegfze.top
 0.0.0.0 zeiu.shop
+0.0.0.0 zektarmunoza.shop
 0.0.0.0 zelinfoundation-org.com
 0.0.0.0 zellavonela.xyz
 0.0.0.0 zen-altitude.fr
