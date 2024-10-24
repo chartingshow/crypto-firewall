@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 October 2024
+# Last modified: 24 October 2024
 #
 
 # Extras (comment out if needed)
@@ -2201,6 +2201,7 @@
 0.0.0.0 beetwedwornew.ru
 0.0.0.0 befatu.com
 0.0.0.0 befcoin.com
+0.0.0.0 befukiv.com
 0.0.0.0 beget.tech
 0.0.0.0 begghurldids.shop
 0.0.0.0 begonblom.fun
@@ -4465,8 +4466,8 @@
 0.0.0.0 dailytickyclock.org
 0.0.0.0 daincolourchem.com
 0.0.0.0 dainikbharat.in
-0.0.0.0 dais7nsa.pics
 0.0.0.0 dairyucoemwk.shop
+0.0.0.0 dais7nsa.pics
 0.0.0.0 daisugi.world
 0.0.0.0 daisydishuk.com
 0.0.0.0 daisyglobal.net
