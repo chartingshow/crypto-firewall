@@ -2209,6 +2209,7 @@
 0.0.0.0 beetwedwornew.ru
 0.0.0.0 befatu.com
 0.0.0.0 befcoin.com
+0.0.0.0 befukiv.com
 0.0.0.0 beget.tech
 0.0.0.0 begghurldids.shop
 0.0.0.0 begonblom.fun
