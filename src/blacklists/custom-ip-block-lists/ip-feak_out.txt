@@ -1,0 +1,17 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: FreakOut Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 October 2024
+#
+
+174.129.61.221
+47.88.190.200
+47.88.245.162
+47.88.246.111
+47.88.3.73
