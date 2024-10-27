@@ -1,0 +1,42 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Coper Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 October 2024
+#
+
+176.113.115.235
+185.11.61.219
+185.161.248.52
+185.198.69.111
+185.198.69.119
+185.234.216.120
+194.26.135.62
+194.26.135.99
+2.57.149.104
+2.57.149.150
+212.87.204.3
+213.109.202.108
+213.109.202.210
+31.41.244.178
+45.88.91.119
+45.9.74.136
+45.9.74.166
+45.9.74.60
+45.93.20.145
+46.19.138.93
+83.97.73.125
+83.97.73.195
+83.97.73.205
+83.97.73.254
+83.97.73.39
+91.240.118.224
+94.141.120.47
+94.141.120.53
+94.156.253.20
+94.156.67.47
