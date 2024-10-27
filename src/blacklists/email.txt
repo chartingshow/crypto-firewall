@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 4 October 2024
+# Last modified: 27 October 2024
 #
 
 013store@goodwillhunting.org
@@ -5056,6 +5056,7 @@ si@banglarshonamoni.com
 siarotmn@giangduong.vn
 siauemd@apmaustin.com
 sic@pgr.ao
+sickodevz@hotmail.com
 sidoyla@revconstructioninc.com
 sidrajohn@bestmedtraders.com
 silvia.rendak@cwiagro.com.br
