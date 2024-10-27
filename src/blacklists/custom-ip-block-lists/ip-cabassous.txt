@@ -1,0 +1,18 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Cabassous Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 October 2024
+#
+
+162.217.98.146
+178.162.203.202
+178.162.203.226
+178.162.217.107
+72.26.218.86
+87.106.18.146
