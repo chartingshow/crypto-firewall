@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 October 2024
+# Last modified: 27 October 2024
 #
 
 # Extras (comment out if needed)
@@ -853,6 +853,7 @@
 0.0.0.0 advanzabpo.com
 0.0.0.0 advb.org
 0.0.0.0 adventistas.org.gt
+0.0.0.0 adventos.de
 0.0.0.0 advertisedszp.shop
 0.0.0.0 advertizementforyour.com
 0.0.0.0 advertsservices.com
@@ -10182,6 +10183,7 @@
 0.0.0.0 manamaglobaltrade.com
 0.0.0.0 manaman.xyz
 0.0.0.0 manasan.top
+0.0.0.0 manate.ch
 0.0.0.0 manchesterslt.co.uk
 0.0.0.0 mandala95.com
 0.0.0.0 manddarinn.art
