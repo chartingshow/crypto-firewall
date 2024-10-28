@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 October 2024
+# Last modified: 28 October 2024
 #
 
 # Extras (comment out if needed)
@@ -1740,6 +1740,7 @@
 0.0.0.0 areen.top
 0.0.0.0 arena-kazan.com
 0.0.0.0 arenillas.gob.ec
+0.0.0.0 arezo.click
 0.0.0.0 argenferia.com
 0.0.0.0 argentpierre.com
 0.0.0.0 argo-don.ru
@@ -2249,6 +2250,7 @@
 0.0.0.0 barovur.com
 0.0.0.0 barro-proizvodstvo.by
 0.0.0.0 barulhodechuva.makeup
+0.0.0.0 baruzatek.click
 0.0.0.0 barwyszkla.pl
 0.0.0.0 basaracahizdayicimbiz.co.vu
 0.0.0.0 bascap.net
@@ -2394,6 +2396,7 @@
 0.0.0.0 beheshtsoft.com
 0.0.0.0 beholdpublications.com
 0.0.0.0 bejafek.com
+0.0.0.0 bekiza.shop
 0.0.0.0 beksystems.com
 0.0.0.0 belajarngaji.shop
 0.0.0.0 belastingdienst-schuld.nl
@@ -3085,6 +3088,7 @@
 0.0.0.0 borkatrostys.com
 0.0.0.0 bornovabelediye.com
 0.0.0.0 borntobefree.org.za
+0.0.0.0 bortasy.click
 0.0.0.0 bosny.com
 0.0.0.0 bossetie.top
 0.0.0.0 bostoken.org
@@ -3282,6 +3286,7 @@
 0.0.0.0 bureauinternacional.com.ar
 0.0.0.0 burgarellaquantumhealing.org
 0.0.0.0 burgerprince.us
+0.0.0.0 burimak.click
 0.0.0.0 burjil.com
 0.0.0.0 burjumancentre.xyz
 0.0.0.0 burnfamesoilratewo.shop
@@ -3322,6 +3327,7 @@
 0.0.0.0 buyuluaynalarqizq.top
 0.0.0.0 buyworldbank.com
 0.0.0.0 buz.bio
+0.0.0.0 buzareqam.shop
 0.0.0.0 buzbuzdagdaglari.top
 0.0.0.0 buztujn7r4qs3m8.gq
 0.0.0.0 buzzstow.com
@@ -3379,6 +3385,7 @@
 0.0.0.0 cafeemc.com
 0.0.0.0 caffegclasiqwp.shop
 0.0.0.0 caffmi.host
+0.0.0.0 cafirran.click
 0.0.0.0 cagataygunes.com.tr
 0.0.0.0 cagdassahin.com
 0.0.0.0 cagedwifedsozm.shop
@@ -4655,12 +4662,14 @@
 0.0.0.0 culunk.com
 0.0.0.0 cumpar-auto-orice-tip.ro
 0.0.0.0 cuniform.top
+0.0.0.0 cunnate.click
 0.0.0.0 cupaffordcathedralk.fun
 0.0.0.0 cupaonahora.com
 0.0.0.0 cupertinosmile.com
 0.0.0.0 curcumysemdores.site
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
+0.0.0.0 curizpa.click
 0.0.0.0 curryladyca.com
 0.0.0.0 cursilhosantarem.org
 0.0.0.0 cursofitness.com.br
@@ -4720,6 +4729,7 @@
 0.0.0.0 daamazing.za.com
 0.0.0.0 dabeecao.org
 0.0.0.0 dabses.com
+0.0.0.0 dacazara.click
 0.0.0.0 dachhost.top
 0.0.0.0 dacsandongthapmuoi.vn
 0.0.0.0 dadadadatenshi.com
@@ -5747,6 +5757,7 @@
 0.0.0.0 ehllcase.com
 0.0.0.0 ehonlionetodo.com
 0.0.0.0 ehsanenterprises.com
+0.0.0.0 ehtemu.click
 0.0.0.0 ehticsprocw.sbs
 0.0.0.0 ehxevg.top
 0.0.0.0 eidoss.mx
@@ -6360,6 +6371,7 @@
 0.0.0.0 faceks.com
 0.0.0.0 facilitycoursedw.shop
 0.0.0.0 facilya.app
+0.0.0.0 facratnu.click
 0.0.0.0 facshile.com
 0.0.0.0 facst.xyz
 0.0.0.0 factch.top
@@ -6402,6 +6414,7 @@
 0.0.0.0 fanclubsdcomics.com
 0.0.0.0 fandyzrx.com
 0.0.0.0 fangamer.shop
+0.0.0.0 fannamora.com
 0.0.0.0 fanningcpaz.com
 0.0.0.0 fannydayywjwo.shop
 0.0.0.0 fansex.shop
@@ -6479,6 +6492,7 @@
 0.0.0.0 faz0nol.ru
 0.0.0.0 fazebit.com
 0.0.0.0 fazendaazuladinho.makeup
+0.0.0.0 fazzare.click
 0.0.0.0 fbc8213450838f7ae251d4519c195138.xyz
 0.0.0.0 fblennbty.com
 0.0.0.0 fbmediafor.com
@@ -6593,6 +6607,7 @@
 0.0.0.0 fileyourupload.one
 0.0.0.0 filters.top
 0.0.0.0 fimanage.com
+0.0.0.0 fimyare.click
 0.0.0.0 fin-bet.net
 0.0.0.0 fin-flex.xyz
 0.0.0.0 finallytouch.com
@@ -7176,8 +7191,10 @@
 0.0.0.0 gadget.land
 0.0.0.0 gadlito.com
 0.0.0.0 gaervchain.org
+0.0.0.0 gagavusava.shop
 0.0.0.0 gagtou.com
 0.0.0.0 gahsdagf.com
+0.0.0.0 gahvaperos.shop
 0.0.0.0 gainstrade.network
 0.0.0.0 galabau-life.de
 0.0.0.0 galacontent.ru
@@ -7710,6 +7727,7 @@
 0.0.0.0 goonboy.com
 0.0.0.0 gooutdayblog.info
 0.0.0.0 gophamanapr.site
+0.0.0.0 gopposa.click
 0.0.0.0 gopromotions.mx
 0.0.0.0 goracle-airdrop.com
 0.0.0.0 goramilly.ru
@@ -8038,6 +8056,7 @@
 0.0.0.0 handsdown.bond
 0.0.0.0 handsinworld.com
 0.0.0.0 handyxczos.shop
+0.0.0.0 haneri.shop
 0.0.0.0 hankooktop.com
 0.0.0.0 hanlasangjo.com
 0.0.0.0 hannafoldy.hu
@@ -8226,6 +8245,7 @@
 0.0.0.0 henryteage.com
 0.0.0.0 henssymamy.net
 0.0.0.0 hentermax.com.de
+0.0.0.0 henuyrapsa.shop
 0.0.0.0 heplochain.com
 0.0.0.0 hepnsysostar.shop
 0.0.0.0 hepsi010malltim21.com
@@ -8257,6 +8277,7 @@
 0.0.0.0 hersenbo67saaldia548.com
 0.0.0.0 hersenbo67saldi548.com
 0.0.0.0 herstrairzoj.ru
+0.0.0.0 hertanza.click
 0.0.0.0 hertzceylonsoftware.com
 0.0.0.0 heryerdesenvarsinbebatin.xyz
 0.0.0.0 herzamankigibihaberlerde.co.vu
@@ -8530,6 +8551,7 @@
 0.0.0.0 hujunxa.cc
 0.0.0.0 hukumdarcraft.com
 0.0.0.0 humandesigns.com
+0.0.0.0 hunazora.click
 0.0.0.0 hunbyx.com
 0.0.0.0 hundreddollarmarketcap.com
 0.0.0.0 huntakes.monster
@@ -9442,6 +9464,7 @@
 0.0.0.0 juxtaglomerular.net
 0.0.0.0 juxtapose.site
 0.0.0.0 juztklax.top
+0.0.0.0 juzzako.click
 0.0.0.0 jvasky.com
 0.0.0.0 jvtransportes.log.br
 0.0.0.0 jwnglaboro.com
@@ -9671,6 +9694,7 @@
 0.0.0.0 keniasousa.com.br
 0.0.0.0 kenire.co.ke
 0.0.0.0 kenkappel.com
+0.0.0.0 kennozara.com
 0.0.0.0 kenzea.com
 0.0.0.0 keppelcrypto.com
 0.0.0.0 kerafill.com
@@ -11959,6 +11983,7 @@
 0.0.0.0 namsugen.com
 0.0.0.0 nanaya.uk
 0.0.0.0 nandonikwebdesign.com
+0.0.0.0 nanenura.com
 0.0.0.0 nanetendurl.com
 0.0.0.0 naninakadyll.site
 0.0.0.0 nanyxson.xyz
@@ -12089,6 +12114,7 @@
 0.0.0.0 neredekalgelsn3.shop
 0.0.0.0 nerfgamesarche.com
 0.0.0.0 nerohut.com
+0.0.0.0 nertun.shop
 0.0.0.0 nerulgymkhana.com
 0.0.0.0 nervepianoyo.sbs
 0.0.0.0 nervously.makeup
@@ -12500,6 +12526,7 @@
 0.0.0.0 nuugebeya.com
 0.0.0.0 nuvuvtabke.info
 0.0.0.0 nuweb3gen.com
+0.0.0.0 nuzzar.click
 0.0.0.0 nvantan98.top
 0.0.0.0 nvbcloud.com
 0.0.0.0 nvidia-graphics.top
@@ -13268,6 +13295,7 @@
 0.0.0.0 perfunctorystrom.net
 0.0.0.0 perfunctorytalat.net
 0.0.0.0 perio.com.tr
+0.0.0.0 periza.click
 0.0.0.0 persiisstowqop.shop
 0.0.0.0 persol-norge.com
 0.0.0.0 personalloanpro.co
@@ -13503,6 +13531,7 @@
 0.0.0.0 playerweighmailydailew.pw
 0.0.0.0 playestore.net
 0.0.0.0 playgo88.fun
+0.0.0.0 playprotect.click
 0.0.0.0 playrefinedheavilythefile.vip
 0.0.0.0 playstoreappstore.online
 0.0.0.0 playstorevip.co.vu
@@ -13663,6 +13692,7 @@
 0.0.0.0 portonovoresidences.com
 0.0.0.0 portrader.com
 0.0.0.0 pos2go.co
+0.0.0.0 posarmusza.shop
 0.0.0.0 posh-mark.shop
 0.0.0.0 posh-marks.com
 0.0.0.0 poshmarkz.com
@@ -14300,11 +14330,13 @@
 0.0.0.0 rambler-account.top
 0.0.0.0 rambler-profile.site
 0.0.0.0 rambler-verify.top
+0.0.0.0 ramcazaka.shop
 0.0.0.0 ramirezperezabogados.com
 0.0.0.0 ramorex.com
 0.0.0.0 ramosahneleri.net
 0.0.0.0 ramram.shop
 0.0.0.0 ramureholding.com
+0.0.0.0 ramzartey.click
 0.0.0.0 ranchguarrelguidewa.pw
 0.0.0.0 randian.com
 0.0.0.0 randomclicks.in
@@ -16621,6 +16653,7 @@
 0.0.0.0 tahtalivilazdolezdominez.xyz
 0.0.0.0 taisaautodorf.com
 0.0.0.0 taisunwin.club
+0.0.0.0 tajurkoza.com
 0.0.0.0 take-f.store
 0.0.0.0 takefivedrinks.com
 0.0.0.0 takemyhairs.com
@@ -16661,9 +16694,12 @@
 0.0.0.0 taoaz.store
 0.0.0.0 tapetesgratuitos.makeup
 0.0.0.0 tapoq.top
+0.0.0.0 tappopra.com
+0.0.0.0 tappose.click
 0.0.0.0 taptixot.xyz
 0.0.0.0 taqueriamexicanawestfield.com
 0.0.0.0 tarakomizdolirez.top
+0.0.0.0 tarezmi.shop
 0.0.0.0 target1961-mall.vip
 0.0.0.0 targethome.ch
 0.0.0.0 targwiz.com
@@ -16680,6 +16716,7 @@
 0.0.0.0 tauruspartners.net
 0.0.0.0 tavernelentrepot.be
 0.0.0.0 tavimtopindomiz.xyz
+0.0.0.0 taviroza.click
 0.0.0.0 tavrmon.top
 0.0.0.0 tawab.shop
 0.0.0.0 tawseq.net
@@ -17285,6 +17322,7 @@
 0.0.0.0 tor-company.com
 0.0.0.0 torbrowsers.cc
 0.0.0.0 torget.top
+0.0.0.0 torhamisa.click
 0.0.0.0 tortoisees.online
 0.0.0.0 torubleeodsmzo.shop
 0.0.0.0 toryburchdiscount.store
@@ -18111,6 +18149,7 @@
 0.0.0.0 vavadap7.ru
 0.0.0.0 vavadav77.fun
 0.0.0.0 vavadawa.xyz
+0.0.0.0 vavasua.shop
 0.0.0.0 vaxco.org
 0.0.0.0 vayanasinisunucuyab.co.vu
 0.0.0.0 vaybciniavitas.shop
@@ -18484,6 +18523,7 @@
 0.0.0.0 wangmo.life
 0.0.0.0 wangshh.com
 0.0.0.0 wanlianmall.com
+0.0.0.0 wannertop.click
 0.0.0.0 wano-kuni-store.com
 0.0.0.0 wantjoinsince.xyz
 0.0.0.0 waqib.com
@@ -19173,6 +19213,7 @@
 0.0.0.0 yainnd.xyz
 0.0.0.0 yakanbirkarda.shop
 0.0.0.0 yakanbirkardanma.top
+0.0.0.0 yakavama.shop
 0.0.0.0 yaklalau.xyz
 0.0.0.0 yakupbabafirarda.tk
 0.0.0.0 yakupozsoytadilat.ml
@@ -19238,6 +19279,7 @@
 0.0.0.0 yaxshillazlliivllllazlluz.store
 0.0.0.0 yazam-services.com
 0.0.0.0 yazebit.com
+0.0.0.0 yazevora.com
 0.0.0.0 yazexbit.com
 0.0.0.0 yb82.cc
 0.0.0.0 yb88.org
@@ -19441,6 +19483,7 @@
 0.0.0.0 zahalode.xyz
 0.0.0.0 zahra-media.ir
 0.0.0.0 zaimtayt.ru
+0.0.0.0 zakavama.shop
 0.0.0.0 zakinvestmentpartners.com
 0.0.0.0 zalyldrri.xyz
 0.0.0.0 zamanmakineilaclari.shop
@@ -19577,6 +19620,7 @@
 0.0.0.0 zoomdowndesktop.store
 0.0.0.0 zoomenglishlesson.com
 0.0.0.0 zoona.shop
+0.0.0.0 zoppara.click
 0.0.0.0 zorbpuft.xyz
 0.0.0.0 zoroxeku.com
 0.0.0.0 zosagroup.com
