@@ -1603,6 +1603,7 @@
 0.0.0.0 apaduju6z.cfd
 0.0.0.0 apdfhost.online
 0.0.0.0 apejesp.com.br
+0.0.0.0 apendgo.com
 0.0.0.0 apeoerpafsffs.shop
 0.0.0.0 apeswap.club
 0.0.0.0 apexfuturewealths.com
@@ -1661,6 +1662,7 @@
 0.0.0.0 apple-health.org
 0.0.0.0 apple-kz.store
 0.0.0.0 apple-usdt.com
+0.0.0.0 applebalanyou.com
 0.0.0.0 appleboltelwk.shop
 0.0.0.0 applebtc.co
 0.0.0.0 applechargebacks.com
