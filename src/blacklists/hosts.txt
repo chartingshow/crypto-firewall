@@ -5059,6 +5059,7 @@
 0.0.0.0 destteme.com
 0.0.0.0 detailbaconroollyws.shop
 0.0.0.0 detankwar.com
+0.0.0.0 detankzone.com
 0.0.0.0 detectordiscusser.shop
 0.0.0.0 detertecnica.com
 0.0.0.0 detoxinfalivel.com
