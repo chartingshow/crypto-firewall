@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 October 2024
+# Last modified: 31 October 2024
 #
 
 # Extras (comment out if needed)
@@ -5046,6 +5046,7 @@
 0.0.0.0 destteme.com
 0.0.0.0 detailbaconroollyws.shop
 0.0.0.0 detankwar.com
+0.0.0.0 detankzone.com
 0.0.0.0 detectordiscusser.shop
 0.0.0.0 detertecnica.com
 0.0.0.0 detoxinfalivel.com
