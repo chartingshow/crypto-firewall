@@ -1,0 +1,22 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Nexus Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 31 October 2024
+#
+
+194.55.224.50
+194.55.224.51
+45.88.66.217
+5.161.201.122
+5.161.23.233
+85.31.45.101
+95.181.198.22
+95.214.27.134
+95.214.27.135
+95.214.27.136
