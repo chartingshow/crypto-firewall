@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 31 October 2024
+# Last modified: 20 November 2024
 #
 
 # Extras (comment out if needed)
@@ -5846,6 +5846,7 @@
 0.0.0.0 elitefxtradings.online
 0.0.0.0 elitegrantholding.site
 0.0.0.0 eliteinsurancesecs.com
+0.0.0.0 elitemarketmovers.com
 0.0.0.0 elitepipmasters.com
 0.0.0.0 eliteprosignals.com
 0.0.0.0 eliteskullsmilsimcwb.com.br
@@ -17472,6 +17473,7 @@
 0.0.0.0 traderoid.pro
 0.0.0.0 tradersfuturewealths.com
 0.0.0.0 traderstrustinvests.com
+0.0.0.0 tradertalks.net
 0.0.0.0 traderxunion.com
 0.0.0.0 tradesedesdomones.net
 0.0.0.0 tradeshouse.top
