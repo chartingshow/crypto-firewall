@@ -22,13 +22,14 @@ twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > d
 
 
 ! TradingView Annoyances -------------------------------------------------------
-tradingview.com###tv-toasts
-tradingview.com##.tv-toasts
-tradingview.com##[class^=backdrop]
-tradingview.com##[class^=notifications]
-tradingview.com##[class^=toast-wrapper]
-tradingview.com##[class^=toast]
-tradingview.com##[data-role*="toast-container"]
+www.tradingview.com###overlap-manager-root
+www.tradingview.com###tv-toasts
+www.tradingview.com##.tv-toasts
+www.tradingview.com##[class^=backdrop]
+www.tradingview.com##[class^=notifications]
+www.tradingview.com##[class^=toast-wrapper]
+www.tradingview.com##[class^=toast]
+www.tradingview.com##[data-role*="toast-container"]
 ||economic-calendar.tradingview.com^$xhr
 ||failover-telemetry-as.tradingview.com^
 ||failover-telemetry-eu.tradingview.com^
@@ -37,6 +38,7 @@ tradingview.com##[data-role*="toast-container"]
 ||prod-telemetry-other.tradingview.com^
 ||prod-telemetry-us.tradingview.com^
 ||snowplow-pixel.tradingview.com^
+||static.tradingview.com/static/bundles/*-popup.*$image
 ||static.tradingview.com/static/bundles/branding-source.*.js$script,1p
 ||telemetry-partial.tradingview.com^
 ||telemetry.tradingview.com^
