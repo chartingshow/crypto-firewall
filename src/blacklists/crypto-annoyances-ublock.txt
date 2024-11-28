@@ -22,7 +22,6 @@ twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > d
 
 
 ! TradingView Annoyances -------------------------------------------------------
-www.tradingview.com###overlap-manager-root
 www.tradingview.com###tv-toasts
 www.tradingview.com##.tv-toasts
 www.tradingview.com##[class^=backdrop]
