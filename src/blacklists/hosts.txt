@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 20 November 2024
+# Last modified: 30 November 2024
 #
 
 # Extras (comment out if needed)
@@ -10804,6 +10804,7 @@
 0.0.0.0 liufpp.top
 0.0.0.0 liutexhutujuva.us
 0.0.0.0 live-syst.site
+0.0.0.0 liveabuzz.com
 0.0.0.0 liveanimaltv.com
 0.0.0.0 livehelpco.com
 0.0.0.0 livelogs.xyz
