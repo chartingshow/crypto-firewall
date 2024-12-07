@@ -8572,6 +8572,7 @@
 0.0.0.0 hdhub4u.help
 0.0.0.0 hdmilg.xyz
 0.0.0.0 hdoki.org
+0.0.0.0 hdsjfkgsadoghdsiougds.space
 0.0.0.0 hdtrenity.com
 0.0.0.0 headlinepost.net
 0.0.0.0 headspace.ng
@@ -19277,6 +19278,7 @@
 0.0.0.0 vojexe.com
 0.0.0.0 vollfisioterapia.com.br
 0.0.0.0 volnadsol.ru
+0.0.0.0 volt-texs.online
 0.0.0.0 vonanevynal.xyz
 0.0.0.0 vonavu.com
 0.0.0.0 vonfierce.sbs
