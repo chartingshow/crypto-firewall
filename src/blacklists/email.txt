@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 20 November 2024
+# Last modified: 7 December 2024
 #
 
 013store@goodwillhunting.org
@@ -31,6 +31,7 @@
 35@ticketmaster.com
 37358174@gmail.com
 38128169@gmail.com
+40508fedef66ca80s@gmail.com
 456@gmail.com
 46465@gmail.com
 48170445@mylife.unisa.ac.za
