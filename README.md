@@ -41,6 +41,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
+- [Malicious Package Names](#malicious-package-names-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
@@ -211,6 +212,12 @@ You may use the hosts file with below applications to block these miners on whol
 This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
 
 - [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
+
+## Malicious Package Names 👨‍💻
+
+Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of package names currently blocked can be found in the folder here:
+
+- [Malicious Package Names List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/package-names/apps.txt)
 
 ## Autonomous System Number (ASN) blocking 🗃️
 
