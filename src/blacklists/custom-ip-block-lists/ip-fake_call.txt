@@ -1,6 +1,8 @@
 # Crypto Firewall
 # Blocking Web Browser Crypto Malware and Phishing Websites
 #
+# Blocking: FakeCall Malware Custom List
+#
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
@@ -8,12 +10,12 @@
 # Last modified: 7 December 2024
 #
 
-com.qaz123789.serviceone
-com.sbbqcfnvd.skgkkvba
-com.securegroup.assistant
-com.seplatmsm.skfplzbh
-eugmx.xjrhry.eroreqxo
-gqcvctl.msthh.swxgkyv
-ouyudz.wqrecg.blxal
-plnfexcq.fehlwuggm.kyxvb
-xkeqoi.iochvm.vmyab
+47.242.149.4
+47.242.20.245
+47.242.38.176
+47.245.63.185
+47.91.14.5
+8.209.241.108
+8.209.250.15
+8.210.198.162
+8.218.68.96
