@@ -1,0 +1,25 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: KandyKorn Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 7 December 2024
+#
+
+139.99.66.103
+144.172.74.141
+144.172.74.23
+172.86.102.98
+172.86.108.47
+185.234.216.180
+216.107.136.10
+23.254.253.75
+39.59.182.234
+45.61.128.122
+45.61.135.105
+45.61.140.26
+62.204.41.73

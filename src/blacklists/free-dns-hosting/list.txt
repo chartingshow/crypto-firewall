@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2024
+# Last modified: 7 December 2024
 #
 
 # Domains
@@ -42,6 +42,7 @@ ddnsgeek.com
 ddnsguru.com
 ddnsking.com
 ditchyourip.com
+dns.army
 dnsabr.com
 dnsalias.com
 dnsdojo.com
