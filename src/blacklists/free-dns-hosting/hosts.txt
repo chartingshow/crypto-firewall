@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2024
+# Last modified: 7 December 2024
 #
 
 # Block Free dns and hosting
@@ -41,6 +41,7 @@
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
 0.0.0.0 ditchyourip.com
+0.0.0.0 dns.army
 0.0.0.0 dnsabr.com
 0.0.0.0 dnsalias.com
 0.0.0.0 dnsdojo.com
