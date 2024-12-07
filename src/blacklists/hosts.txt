@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 November 2024
+# Last modified: 7 December 2024
 #
 
 # Extras (comment out if needed)
@@ -3758,6 +3758,7 @@
 0.0.0.0 castleblack.online
 0.0.0.0 castleempiresim.com
 0.0.0.0 castlehost.ru
+0.0.0.0 castleservices01.com
 0.0.0.0 castomdroms.xyz
 0.0.0.0 cat-casino-win1111.ru
 0.0.0.0 cat-kazino-fr.buzz
