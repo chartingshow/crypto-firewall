@@ -276,8 +276,6 @@ The Telephone block list can be found here:
 
 === TO DO ===
 
-
-
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
