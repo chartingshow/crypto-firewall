@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 December 2024
+# Last modified: 8 December 2024
 #
 
 # Extras (comment out if needed)
@@ -782,6 +782,7 @@
 0.0.0.0 aash.com.pk
 0.0.0.0 aasouv636d.cn
 0.0.0.0 aatheaomes.com
+0.0.0.0 aave-loan.xyz
 0.0.0.0 aave.markets
 0.0.0.0 aavelimited.com
 0.0.0.0 ab-services.ma
@@ -818,6 +819,7 @@
 0.0.0.0 ablesulkyfirstyews.shop
 0.0.0.0 abn-amro-gobal.com
 0.0.0.0 abncient.za.com
+0.0.0.0 abninternational1.com
 0.0.0.0 abnormaltrim.online
 0.0.0.0 abogados.services
 0.0.0.0 abortinoiwiam.shop
@@ -3076,6 +3078,7 @@
 0.0.0.0 blockbeerman.fun
 0.0.0.0 blockchain-newtech.com
 0.0.0.0 blockchainargo.com
+0.0.0.0 blockchainfinancial.org
 0.0.0.0 blockchainminerpool.net
 0.0.0.0 blockchainminnersltd.com
 0.0.0.0 blockchainspace.icu
@@ -3373,6 +3376,7 @@
 0.0.0.0 brunei.social
 0.0.0.0 brunodinizitatiaia.com.br
 0.0.0.0 brushremovalequipment.com
+0.0.0.0 brvkibb.vip
 0.0.0.0 bsbmakina.com.tr
 0.0.0.0 bsc-liquidao188.com
 0.0.0.0 bscusdtp.com
@@ -3885,6 +3889,7 @@
 0.0.0.0 celticso.ru
 0.0.0.0 cemed.med.br
 0.0.0.0 cemexfundsfx-miners.com
+0.0.0.0 cemgroupro.com
 0.0.0.0 cennetbu45.com
 0.0.0.0 cent-trader.org
 0.0.0.0 centenry.com
@@ -4380,6 +4385,7 @@
 0.0.0.0 coinpirate.cf
 0.0.0.0 coinplugtrading.online
 0.0.0.0 coinpot.co
+0.0.0.0 coinpro-waltex.com
 0.0.0.0 coinpro360.com
 0.0.0.0 coinrail.io
 0.0.0.0 coinrevu.com
@@ -4636,6 +4642,7 @@
 0.0.0.0 coplaud.com
 0.0.0.0 copost.site
 0.0.0.0 copperanddots.com
+0.0.0.0 coppercrypto.cc
 0.0.0.0 copperforged.top
 0.0.0.0 copperindia.co.in
 0.0.0.0 coppernote.tech
@@ -4838,6 +4845,7 @@
 0.0.0.0 cryptocore.app
 0.0.0.0 cryptocouture.store
 0.0.0.0 cryptocrawler.io
+0.0.0.0 cryptocrunchinvestment.com
 0.0.0.0 cryptocurrency-trade.com
 0.0.0.0 cryptoexu.com
 0.0.0.0 cryptoflare.net
@@ -4862,6 +4870,7 @@
 0.0.0.0 cryptomagy.com
 0.0.0.0 cryptomarketoptions.online
 0.0.0.0 cryptominers.nz
+0.0.0.0 cryptomintfx.com
 0.0.0.0 cryptomose.com
 0.0.0.0 cryptompd.com
 0.0.0.0 cryptomy.online
@@ -4915,6 +4924,7 @@
 0.0.0.0 culturevalue.co.za
 0.0.0.0 culunk.com
 0.0.0.0 cumpar-auto-orice-tip.ro
+0.0.0.0 cunardtrips.com
 0.0.0.0 cuniform.top
 0.0.0.0 cunnate.click
 0.0.0.0 cupaffordcathedralk.fun
@@ -5219,6 +5229,7 @@
 0.0.0.0 defiusdt1.xyz
 0.0.0.0 defiusdt3.xyz
 0.0.0.0 defiusdt4.xyz
+0.0.0.0 defiusdtex.com
 0.0.0.0 defouw.org
 0.0.0.0 deg0zar.ru
 0.0.0.0 dehhg.xyz
@@ -5413,6 +5424,7 @@
 0.0.0.0 digifincx.com
 0.0.0.0 digilugu.net
 0.0.0.0 digimania.com
+0.0.0.0 digitaiken-pro.com
 0.0.0.0 digital-apps.id
 0.0.0.0 digital-century.net
 0.0.0.0 digital-edge.dev
@@ -5663,6 +5675,7 @@
 0.0.0.0 douglashoward.mom
 0.0.0.0 douosadgaadonline.org
 0.0.0.0 dourolab.xyz
+0.0.0.0 douyinmallchina.com
 0.0.0.0 dovakl.xyz
 0.0.0.0 dovanduyen.com
 0.0.0.0 dove-techsoft.com
@@ -5915,6 +5928,7 @@
 0.0.0.0 easyhash.de
 0.0.0.0 easylev.online
 0.0.0.0 easylifeart.com
+0.0.0.0 easymarkets.vip
 0.0.0.0 easyview.kr
 0.0.0.0 easywinscp.xyz
 0.0.0.0 eatrader.org
@@ -6208,6 +6222,7 @@
 0.0.0.0 encanagroup.com
 0.0.0.0 encompassproperties.com
 0.0.0.0 encontacto.net
+0.0.0.0 encryptedex.com
 0.0.0.0 encryption-support.com
 0.0.0.0 encrypuil.com
 0.0.0.0 encumbrance.top
@@ -7216,6 +7231,7 @@
 0.0.0.0 folldusgg.store
 0.0.0.0 follovertv.fun
 0.0.0.0 folonex.com
+0.0.0.0 fomonetwork.org
 0.0.0.0 fondarica.com
 0.0.0.0 fondationjoelkrasso.org
 0.0.0.0 fonden.site
@@ -7520,6 +7536,7 @@
 0.0.0.0 fxdehui.com
 0.0.0.0 fxderigo.net
 0.0.0.0 fxgaintraders.com
+0.0.0.0 fxgrayscale.com
 0.0.0.0 fxints.com
 0.0.0.0 fxlglobal.com
 0.0.0.0 fxmarinus.com
@@ -9288,6 +9305,7 @@
 0.0.0.0 infinitifit.studio
 0.0.0.0 infinity-searches.com
 0.0.0.0 infinitylongtrio.com
+0.0.0.0 infinityreliableinvestment.com
 0.0.0.0 info-malay.com
 0.0.0.0 info-x.uz
 0.0.0.0 infocuankerajaan.co
@@ -11455,6 +11473,7 @@
 0.0.0.0 massaveveiculosltda.beauty
 0.0.0.0 massaveveiculosltda.mom
 0.0.0.0 massaveveiculosltda.yachts
+0.0.0.0 masscoin.vip
 0.0.0.0 massimo-duttiionline.shop
 0.0.0.0 masslis.top
 0.0.0.0 massngo.org
@@ -12736,6 +12755,7 @@
 0.0.0.0 netaproj.top
 0.0.0.0 netbd.net
 0.0.0.0 netbitcoinmining.site
+0.0.0.0 netcoincap.com
 0.0.0.0 netcoincapital.net
 0.0.0.0 netcoincapital.org
 0.0.0.0 netdailly.com
@@ -13146,6 +13166,7 @@
 0.0.0.0 nuugebeya.com
 0.0.0.0 nuvuvtabke.info
 0.0.0.0 nuweb3gen.com
+0.0.0.0 nuxtrade.com
 0.0.0.0 nuzzar.click
 0.0.0.0 nvantan98.top
 0.0.0.0 nvbcloud.com
@@ -13992,11 +14013,13 @@
 0.0.0.0 ph006.com
 0.0.0.0 ph3333.com
 0.0.0.0 phaldeshas.xyz
+0.0.0.0 phantamgape.com
 0.0.0.0 phantomsglobal.org
 0.0.0.0 pharthenonplus.info
 0.0.0.0 phase-strategic.online
 0.0.0.0 phatbeatsradio.com
 0.0.0.0 phelammi.xyz
+0.0.0.0 phemepro.com
 0.0.0.0 phemexproe.com
 0.0.0.0 phereramila.xyz
 0.0.0.0 phetcwl.shop
@@ -14459,6 +14482,7 @@
 0.0.0.0 premiumcubnc.com
 0.0.0.0 premiumfinancialtrust.org
 0.0.0.0 premiumize.com
+0.0.0.0 premiumlivetrade.com
 0.0.0.0 premiumstats.xyz
 0.0.0.0 premiumswipes.com
 0.0.0.0 premmium.site
@@ -17425,6 +17449,7 @@
 0.0.0.0 t-g-vw.com
 0.0.0.0 t-lows.com
 0.0.0.0 t-mebot.website
+0.0.0.0 t-otc.com
 0.0.0.0 t-tg.cc
 0.0.0.0 t2avfzbh7.cfd
 0.0.0.0 t6crypto.com
@@ -17512,6 +17537,7 @@
 0.0.0.0 tattooblog.cn
 0.0.0.0 tatutorialt.top
 0.0.0.0 taurihostmetrics.com
+0.0.0.0 taurusbr.me
 0.0.0.0 tauruspartners.net
 0.0.0.0 tavernelentrepot.be
 0.0.0.0 tavimtopindomiz.xyz
@@ -19064,6 +19090,7 @@
 0.0.0.0 verifyprofiles.top
 0.0.0.0 verifyurl.me
 0.0.0.0 verlaghausundmarkt.de
+0.0.0.0 verlinvest.com
 0.0.0.0 vernbank.com
 0.0.0.0 veronfinance.com
 0.0.0.0 veronicazbiranska.pl
@@ -19456,6 +19483,8 @@
 0.0.0.0 web365metrics.com
 0.0.0.0 web3modal-api.com
 0.0.0.0 web3protocol.online
+0.0.0.0 web3srp.com
+0.0.0.0 web3srp.top
 0.0.0.0 web42.it
 0.0.0.0 web4nothing.com
 0.0.0.0 webaffise.com
@@ -20563,6 +20592,7 @@
 0.0.0.0 xstarv2.store
 0.0.0.0 xsvgcf.cf
 0.0.0.0 xtarweanda.xyz
+0.0.0.0 xtbonline.com
 0.0.0.0 xteebaby.icu
 0.0.0.0 xtelstasiup.xyz
 0.0.0.0 xteslas2.cc
@@ -20906,6 +20936,7 @@
 0.0.0.0 zaynasgalleryonline.com
 0.0.0.0 zbbkon.top
 0.0.0.0 zbstorehook.com
+0.0.0.0 zbtcev.com
 0.0.0.0 zbxex.com
 0.0.0.0 zebronicss.in
 0.0.0.0 zedenya.shop
