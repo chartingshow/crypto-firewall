@@ -3,6 +3,7 @@
 
 ! General Blocks --------------------------------------------------
 ###onetrust-consent-sdk
+*##html:has(>body>div#onetrust-consent-sdk.show-banner):style(overflow: auto !important)
 ||adsensecustomsearchads.com^
 ||cdn.viafoura.net^
 ||cmp.quantcast.com^
@@ -18,7 +19,7 @@
 twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(5) > div:nth-of-type(1) > a > span:nth-of-type(1) > span
 twitter.com###react-root > div > div > div:nth-of-type(2) > main > div > div > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(5) > div:nth-of-type(2) > a > span:nth-of-type(1) > span
 
-! -------- Other Socil Media Platforms
+! -------- Other Social Media Platforms
 
 
 ! TradingView Annoyances -------------------------------------------------------
