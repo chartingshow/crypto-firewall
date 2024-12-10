@@ -272,9 +272,9 @@ It's essential to note that tech support scammers often use spoofed or fake numb
 
 Remember, if you receive a suspicious call or message claiming to be from technical support, hang up immediately and do not provide any personal or financial information. Report the incident to the relevant authorities and take steps to secure your device.
 
-The Telephone block list can be found here:
+A list of spam blocking mobile apps can be found here:
 
-=== TO DO ===
+- [Mobile Apps To Block Spam Calls](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/spam-calls/list.md)
 
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
