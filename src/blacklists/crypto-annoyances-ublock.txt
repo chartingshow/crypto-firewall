@@ -4,6 +4,8 @@
 ! General Blocks --------------------------------------------------
 ###onetrust-consent-sdk
 *##html:has(>body>div#onetrust-consent-sdk.show-banner):style(overflow: auto !important)
+*$removeparam=/^utm_/
+*$removeparam=utm_source
 ||adsensecustomsearchads.com^
 ||cdn.viafoura.net^
 ||cmp.quantcast.com^
