@@ -41,11 +41,12 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
-- [Malicious Package Names](#malicious-package-names-)
+- [Malicious Package Names blocking](#malicious-package-names-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
+- [Nuisance and scam calling telephone numbers blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-%EF%B8%8F)
 - [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
@@ -213,7 +214,7 @@ This repo blocks specific free dns / hosting services, that are completely satur
 
 - [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
 
-## Malicious Package Names 👨‍💻
+## Malicious Package Names blocking 👨‍💻
 
 Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of package names currently blocked can be found in the folder here:
 
@@ -265,6 +266,16 @@ How to Identify a Ransomware Email Attack, see here:
 
 - https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
+## Nuisance and scam calling telephone numbers blocking ☎️
+
+It's essential to note that tech support scammers often use spoofed or fake numbers to disguise their true location and identity. These numbers may appear legitimate, but they are actually being used to perpetuate fraudulent activities.
+
+Remember, if you receive a suspicious call or message claiming to be from technical support, hang up immediately and do not provide any personal or financial information. Report the incident to the relevant authorities and take steps to secure your device.
+
+The Telephone block list can be found here:
+
+=== TO DO ===
+
 ## Fraudulent cryptocurrency wallet addresses 🕵️
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
@@ -287,7 +298,7 @@ The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder
 
 ### How do we define sanctions data?
 
-Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury’s Office of Foreign Assets Control (OFAC).
+Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury's Office of Foreign Assets Control (OFAC).
 
 You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
 
