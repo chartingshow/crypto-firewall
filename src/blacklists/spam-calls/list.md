@@ -1,6 +1,15 @@
 ## Block Spam Calls
 
-A collection of mobile apps to stop spam calls.
+The official Government website offers guidelines on how to identify potential scams. It urged people to look out for the following signs when receiving unsolicited contact:
+
+- The message rushes you to act immediately.
+- It is threatening in tone.
+- It is unexpected or unsolicited.
+- It asks for personal information, such as bank details.
+- It asks you to transfer money.
+- It offers a refund, tax rebate, or grant unexpectedly.
+
+Below is a collection of mobile apps to stop spam calls.
 
 <table>
 <thead>
