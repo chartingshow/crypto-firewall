@@ -12,11 +12,11 @@ The official Government website offers guidelines on how to identify potential s
 
 ### Scammers Impersonating Banks
 
-The calling agents used stolen databases, pre-written social engineering, and scripts to trick the call recipients into giving away their sensitive banking information.
+The calling agents (scammers) used stolen databases, pre-written social engineering and scripts to trick the call recipients into giving away their sensitive banking information.
 
-To make the calls appear legitimate, the agents used caller spoofing technology, making their number and caller name match those of the official bank they impersonated, adding credibility to the process.
+To make the calls appear legitimate, the calling agents (scammers) used caller spoofing technology, making their number and caller name match those of the official bank they impersonated, adding credibility to the process.
 
-The bait was an alert about unauthorized ATM withdrawals, directing victims to go through a process of fake account verification and give away their one-time passcodes.
+_The bait was an alert about unauthorized ATM withdrawals_, directing victims to go through a process of fake account verification and give away their one-time passcodes.
 
 To protect against these scams, the police recommend only providing personal or banking details after verifying that you are speaking to an actual bank agent.
 
