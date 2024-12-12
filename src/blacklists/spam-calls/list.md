@@ -10,6 +10,20 @@ The official Government website offers guidelines on how to identify potential s
 - It asks you to buy or send a gift.
 - It offers a refund, tax rebate, or grant unexpectedly.
 
+### Scammers Impersonating Banks
+
+The calling agents used stolen databases, pre-written social engineering, and scripts to trick the call recipients into giving away their sensitive banking information.
+
+To make the calls appear legitimate, the agents used caller spoofing technology, making their number and caller name match those of the official bank they impersonated, adding credibility to the process.
+
+The bait was an alert about unauthorized ATM withdrawals, directing victims to go through a process of fake account verification and give away their one-time passcodes.
+
+To protect against these scams, the police recommend only providing personal or banking details after verifying that you are speaking to an actual bank agent.
+
+Also, it's important to remember that **banks never ask users to give away their card details, ID details, usernames, account passwords and one-time passwords.**
+
+### Mobile Apps To Block Scam Calls
+
 Below is a collection of mobile apps to stop spam calls:
 
 <table>
