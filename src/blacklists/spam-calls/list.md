@@ -10,6 +10,20 @@ The official Government website offers guidelines on how to identify potential s
 - It asks you to buy or send a gift.
 - It offers a refund, tax rebate, or grant unexpectedly.
 
+### Scammers Impersonating Banks
+
+The calling agents (scammers) used stolen databases, pre-written social engineering and scripts to trick the call recipients into giving away their sensitive banking information.
+
+To make the calls appear legitimate, the calling agents (scammers) used caller spoofing technology, making their number and caller name match those of the official bank they impersonated, adding credibility to the process.
+
+_The bait was an alert about unauthorized ATM withdrawals_, directing victims to go through a process of fake account verification and give away their one-time passcodes.
+
+To protect against these scams, the police recommend only providing personal or banking details after verifying that you are speaking to an actual bank agent.
+
+Also, it's important to remember that **banks never ask users to give away their card details, ID details, usernames, account passwords and one-time passwords.**
+
+### Mobile Apps To Block Scam Calls
+
 Below is a collection of mobile apps to stop spam calls:
 
 <table>
@@ -238,6 +252,19 @@ Below is a collection of mobile apps to stop spam calls:
 </tr>
 <tr>
 <td colspan="4">Developed by Verizon to block spam calls. Your phone is your door to the world, and you shouldn't open it for just anyone. With Call Filter, you can screen incoming calls, auto-block spam and report any unwanted numbers. Or, upgrade to Call Filter Plus with Caller ID for added security. Put a name to the unknown numbers, make your own personal block list, and even assess the risk level of incoming calls. Enroll today and start answering with confidence.</td>
+</tr>
+
+<tr>
+<td><p align="center"><a href="https://who-called.co.uk/"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mobile-spam-call-apps/Who%20Called%20Me.png" alt="icon"></a></p></td>
+<td>Who Called Me?</td>
+<td><p><a href="https://who-called.co.uk/">Who Called Me?</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=callerID.wotcha">Google Play Store</a></p>
+<p><a href="https://apps.apple.com/gb/app/wotcha-who-called-me/id1634457324">Apple Store</a></p>
+</td>
+<td>Good - Has a large FREE database to check UK telephone numbers.</td>
+</tr>
+<tr>
+<td colspan="4">Wotcha is the ultimate solution for managing and protecting your phone calls. As the official app of Who Called Me (who-called.co.uk), Wotcha provides real-time Caller ID and blocking for all unknown numbers, ensuring you stay protected from unwanted calls and messages. Available in iOS and Android.</td>
 </tr>
 
 <tr>
