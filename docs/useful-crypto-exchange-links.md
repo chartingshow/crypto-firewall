@@ -12,6 +12,10 @@ https://help.coinbase.com/en-gb/coinbase/getting-started/getting-started-with-co
 
 https://www.coinbase.com/verify-document
 
+### Asset listing announcements on Coinbase
+
+https://www.coinbase.com/en-gb/blog/update-to-asset-listing-announcements
+
 ## Binance
 
 ### Download Binance App
@@ -22,7 +26,7 @@ https://www.binance.com/en-GB/download
 
 https://www.binance.com/en-GB/my/wallet/account/main/dust
 
-### Announcement on Binance
+### Announcements on Binance
 
 https://www.binance.com/en-GB/support/announcement
 
