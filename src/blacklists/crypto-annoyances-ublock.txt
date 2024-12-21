@@ -60,7 +60,8 @@ www.coinbase.com##.cds-backgroundAlternate-b1o0kdmt
 www.coinbase.com##[class^=cds-backgroundAlternate-]
 www.coinbase.com##[class^=cds-backgroundAlternate]
 www.coinbase.com##[class^=cds-borderedBottom]
-www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer-sc]
+www.coinbase.com##[class^=ContentBanner__StyledHStack]
+www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer]
 
 ! coingecko.com
 @@||widgets.coingecko.com/coingecko-coin-compare-chart-widget.js$script,domain=file-scheme
