@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 21 December 2024
+# Last modified: 22 December 2024
 #
 
 # Extras (comment out if needed)
@@ -14355,6 +14355,7 @@
 0.0.0.0 porallasilks.com
 0.0.0.0 porchlightcs.org
 0.0.0.0 porkaloxov.com
+0.0.0.0 porkbun.com
 0.0.0.0 porkchopsandwich.net
 0.0.0.0 port0.org
 0.0.0.0 portableonline.online
@@ -17746,7 +17747,9 @@
 0.0.0.0 tfxi3.com
 0.0.0.0 tg-accs.com
 0.0.0.0 tg-maket.com
+0.0.0.0 tg.casino
 0.0.0.0 tg8t4upfg.cfd
+0.0.0.0 tgcasino.me
 0.0.0.0 tgrthgsrgwrthwrtgwr.xyz
 0.0.0.0 tgsignals.com
 0.0.0.0 tgtradem.vip
