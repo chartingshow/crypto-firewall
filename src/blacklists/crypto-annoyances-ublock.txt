@@ -672,3 +672,6 @@ www.coindesk.com##[class^=main-navigation-bannerstyles__Wrapper]
 www.coindesk.com##[class^=prices-stripstyles__Wrapper]
 www.coindesk.com##[class^=recommendation-liststyles__StyledRecommendationListWrapper]
 www.coindesk.com##[data-module-name="consensus-seo-text"]
+
+! intel.arkm.com
+intel.arkm.com##[class^=CookieBanner_cookieBanner__]
