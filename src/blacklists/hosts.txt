@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 22 December 2024
+# Last modified: 24 December 2024
 #
 
 # Extras (comment out if needed)
@@ -686,6 +686,7 @@
 0.0.0.0 8723yuoistzkk.xyz
 0.0.0.0 87312-coinbase.com
 0.0.0.0 87634rh4r4r3rfekj.com
+0.0.0.0 879899.tv
 0.0.0.0 87a312e6bb2524d4.xyz
 0.0.0.0 87iavv.com
 0.0.0.0 8868.com
