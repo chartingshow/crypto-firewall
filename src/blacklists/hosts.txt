@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 December 2024
+# Last modified: 27 December 2024
 #
 
 # Extras (comment out if needed)
@@ -4320,6 +4320,7 @@
 0.0.0.0 cofi.hk
 0.0.0.0 coform.store
 0.0.0.0 coiffurepacitto.com
+0.0.0.0 coin-apps.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-milady.com
 0.0.0.0 coin-squad.co
@@ -4685,6 +4686,7 @@
 0.0.0.0 cosalpha.shop
 0.0.0.0 cosfun.shop
 0.0.0.0 cosmedhealthcare.com
+0.0.0.0 cosmos-networks.com
 0.0.0.0 cosmosiit.com
 0.0.0.0 cosmosvr3d.xyz
 0.0.0.0 cosmote.center
@@ -10202,6 +10204,11 @@
 0.0.0.0 kenkappel.com
 0.0.0.0 kennozara.com
 0.0.0.0 kenzea.com
+0.0.0.0 keplr-apps.net
+0.0.0.0 keplr.at
+0.0.0.0 keplr.cc
+0.0.0.0 keplr.me
+0.0.0.0 keplrwallet.app
 0.0.0.0 keppelcrypto.com
 0.0.0.0 kepw.org
 0.0.0.0 kerafill.com
@@ -10696,6 +10703,7 @@
 0.0.0.0 lecielhotel.com
 0.0.0.0 lectedepatostia.com
 0.0.0.0 lecuy.org
+0.0.0.0 ledger-live.io
 0.0.0.0 ledgernanox.live
 0.0.0.0 ledhenone.com
 0.0.0.0 ledyardassetpro.com
@@ -11263,6 +11271,7 @@
 0.0.0.0 magicalmarmaris34.tk
 0.0.0.0 magicalorbs.in
 0.0.0.0 magiccitytrucking.com
+0.0.0.0 magiceden.at
 0.0.0.0 magiciallamb251.com
 0.0.0.0 magiketchinn.com
 0.0.0.0 magiraptoy.com
@@ -11451,6 +11460,7 @@
 0.0.0.0 martatovaglieri.it
 0.0.0.0 martens-srbija.com
 0.0.0.0 martensbocanci.cc
+0.0.0.0 martianwallet.net
 0.0.0.0 martilarlaaraba.shop
 0.0.0.0 martilarlaaraba2412.shop
 0.0.0.0 martinpol.co
@@ -14016,7 +14026,10 @@
 0.0.0.0 ph3333.com
 0.0.0.0 phaldeshas.xyz
 0.0.0.0 phantamgape.com
+0.0.0.0 phantom-login.net
+0.0.0.0 phantoms.fm
 0.0.0.0 phantomsglobal.org
+0.0.0.0 phantomx.at
 0.0.0.0 pharthenonplus.info
 0.0.0.0 phase-strategic.online
 0.0.0.0 phatbeatsradio.com
@@ -14991,6 +15004,7 @@
 0.0.0.0 rabaffet6.com.tr
 0.0.0.0 rabaffet7.com.tr
 0.0.0.0 rabaffet8.com.tr
+0.0.0.0 rabby.at
 0.0.0.0 rabist.live
 0.0.0.0 rabsverige.com
 0.0.0.0 rabwellington.co.nz
@@ -16785,6 +16799,7 @@
 0.0.0.0 solovairoutlet.co.nz
 0.0.0.0 solovin0.ru
 0.0.0.0 solpolas.com
+0.0.0.0 solscans.org
 0.0.0.0 solstice-sunglasses.shop
 0.0.0.0 solsw98w7.cfd
 0.0.0.0 solutionforum.au
@@ -18722,6 +18737,7 @@
 0.0.0.0 uniquefragrances.com
 0.0.0.0 uniquefxtrades.net
 0.0.0.0 uniquejardini.com.br
+0.0.0.0 unisat.at
 0.0.0.0 unitedenggworks.com
 0.0.0.0 unitedkind.ro
 0.0.0.0 unitedmedicalspecialties.com
