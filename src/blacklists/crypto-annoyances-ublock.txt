@@ -536,6 +536,7 @@ dropstab.com##[class^=styles_marqueeItem]
 ! debank.com
 debank.com##[class^=DesktopContainer_reportSpamButton]
 debank.com##[class^=Footer_linkContainer]
+debank.com##[class^=GiftVipHistory_giftHistoryBtn]
 debank.com##[class^=PopularMessage_noMessage]
 debank.com##[class^=ReferralCodeBtn_referralCodeBtn]
 debank.com##[class^=Sidebar_adBanner]
