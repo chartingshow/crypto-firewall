@@ -533,10 +533,12 @@ dropstab.com##.animate-ping:style(display: none !important)
 dropstab.com##.bg-blue-600:style(background: none !important)
 dropstab.com##.z-gdpr
 dropstab.com##[class^=styles_marqueeItem]
+||extra-bff.dropstab.com/v1.2/market-data/market-total-and-widgets-summary$xhr,1p
+
+! icodrops.com
 icodrops.com##.Ftr-Note
 icodrops.com##.Promo-Line
 ||api.icodrops.com/trades/trades/*$xhr,domain=dropstab.com
-||extra-bff.dropstab.com/v1.2/market-data/market-total-and-widgets-summary$xhr,1p
 ||ws-api.icodrops.com/trades/*$xhr,domain=dropstab.com
 
 ! debank.com
