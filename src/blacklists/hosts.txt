@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 December 2024
+# Last modified: 29 December 2024
 #
 
 # Extras (comment out if needed)
@@ -14340,6 +14340,7 @@
 0.0.0.0 pool.hws.ru
 0.0.0.0 poolenergyy.cc
 0.0.0.0 pools-eth.org
+0.0.0.0 poolstaked-staking.com
 0.0.0.0 poomerianskaanwoerld.tk
 0.0.0.0 pooreveningfuseor.pw
 0.0.0.0 popaqm.top
