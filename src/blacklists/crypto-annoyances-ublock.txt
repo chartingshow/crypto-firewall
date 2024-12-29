@@ -282,10 +282,14 @@ cryptorank.io##[class^=filled-banner__BannerLink]
 cryptorank.io##[class^=styled__Container]
 cryptorank.io##[class^=styled__HeaderTextSmallContainer]
 cryptorank.io##[class^=styled__Wrapper]
+||content.googleapis.com/discovery/$xhr,domain=cryptorank.io
 ||cryptorank.io/static/banners/$image
 ||cryptorank.io/static/banners/banner-background.svg$image
 ||cryptorank.io/static/favicon.svg$image
+||cryptorank.io/static/logo.svg$image
 ||img.api.cryptorank.io/srennab/$image
+||relay.walletconnect.com^$websocket,domain=cryptorank.io
+||relay.walletconnect.org^$websocket,domain=cryptorank.io
 
 ! bitquery.io
 explorer.bitquery.io##.mx-auto.ad-container
