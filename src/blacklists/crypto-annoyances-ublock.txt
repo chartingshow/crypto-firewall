@@ -684,3 +684,8 @@ www.coindesk.com##[data-module-name="consensus-seo-text"]
 
 ! intel.arkm.com
 intel.arkm.com##[class^=CookieBanner_cookieBanner__]
+
+! cypherhunter.com
+cypherhunter.com###__next > footer > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)
+cypherhunter.com###__next > footer > div:nth-of-type(2) > div
+cypherhunter.com###__next > main > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)
