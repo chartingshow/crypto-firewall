@@ -431,6 +431,12 @@ A collection of resources of Cryptocurrencies, NFT, Metaverse, DeFi and WEB3. No
 
 When using dapps like Uniswap or OpenSea you have to grant them permission to spend your tokens and NFTs. This is called a token approval. If you don't revoke these approvals, the dapp can spend your tokens forever. Take back control by revoking your approvals.
 
+### Ethereum + Layer 2
+
 Link: https://revoke.cash/
+
+### Solana
+
+Link: https://famousfoxes.com/revoke
 
 **Don't fall victum to fake websites pretending to be a revoke tool - they are wallet drainers!**
