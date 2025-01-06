@@ -697,3 +697,6 @@ beincrypto.com##.aff-secondary
 beincrypto.com##.bic-newsletter
 beincrypto.com##.share-block
 beincrypto.com##.want-to-know-more-block
+
+! famousfoxes.com
+famousfoxes.com##.block.pointer-events-auto
