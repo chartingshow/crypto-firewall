@@ -6,13 +6,13 @@ The financial impact of these scams has been severe. Job scam losses tripled bet
 
 This alarming trend highlights the growing sophistication of online scammers and the need for increased vigilance among job seekers in the digital age.
 
-<p align="center"><img src="" alt="job task online scams"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/online-job-task-scams/job-task-scam-1.jpg" alt="job task online scams"></p>
 
 The Federal Trade Commission (FTC) warns that scammers initiate contact through unsolicited messages on platforms like WhatsApp, social media, or other communication channels. These fraudsters present an enticing opportunity to earn money easily by performing daily tasks, such as rating products or liking videos on online platforms or through specialized apps.
 
 To appear legitimate, these scams often impersonate well-known companies like Deloitte, Amazon, McKinsey and Company, and Airbnb. Victims are typically assigned tasks in sets of forty items, with promises of increased commissions upon completion of each set and advancement to higher levels. This gamified structure is designed to keep victims engaged and encourage them to invest more time and money into the scheme.
 
-<p align="center"><img src="" alt="job task online scams"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/online-job-task-scams/job-task-scam-2.jpg" alt="job task online scams"></p>
 
 Initially, these scams appear legitimate, with victims receiving small cryptocurrency payments of $50-$60 in USDT or Ethereum for completing tasks. However, the scheme takes a sinister turn when victims accumulate a substantial "commission" on the app. At this point, they're asked to make a deposit, ostensibly to unlock withdrawal options and access the next set of tasks.
 
