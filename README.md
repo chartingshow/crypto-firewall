@@ -41,7 +41,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
-- [Malicious Package Names blocking](#malicious-package-names-)
+- [Malicious Package Names blocking](<[#malicious-package-names-](#malicious-package-names-blocking-)>)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
   - [Custom IP block lists](#custom-ip-block-lists-)
