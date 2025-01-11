@@ -218,7 +218,7 @@ This repo blocks specific free dns / hosting services, that are completely satur
 
 Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of package names currently blocked can be found in the folder here:
 
-- [Malicious Package Names List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/package-names/apps.txt)
+- [Malicious Package Names Folder](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/package-names/)
 
 ## Autonomous System Number (ASN) blocking 🗃️
 

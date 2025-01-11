@@ -1,0 +1,26 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 11 January 2025
+#
+
+@monicfoundation/hardhat-config
+@nomicfoundations/hardhat-config
+@nomicsfoundation/hardhat-config
+@nomicsfoundation/sdk-test
+@nomicsfoundation/sdk-test1
+@nomicsfoundation/web3-sdk
+@nomisfoundation/hardhat-config
+@nomisfoundation/hardhat-configure
+crypto-nodes-validator
+hardhat-deploy-others
+hardhat-gas-optimizer
+installedpackagepublish
+node-validators
+nomicsfoundations
+solana-validator
+solidity-comments-extractors
