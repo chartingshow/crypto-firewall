@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 December 2024
+# Last modified: 11 January 2025
 #
 
 # Extras (comment out if needed)
@@ -4901,6 +4901,7 @@
 0.0.0.0 cs.com.sg
 0.0.0.0 csacricnp.xyz
 0.0.0.0 csas.georgecz.online
+0.0.0.0 cscrm-hiring.com
 0.0.0.0 csgodomain.us
 0.0.0.0 csgogen.com
 0.0.0.0 csgoxdomain.us
