@@ -1,7 +1,5 @@
 # Transaction Simulation Spoofing Attack
 
-### How the attack works
-
 **Transaction simulation** is a feature that allows users to preview the expected outcome of a blockchain transaction before signing and executing it.
 
 It is designed to enhance security and transparency by helping users verify what the transaction will do, like the amount of transferred cryptocurrency, gas fees and other transaction costs and other on-chain data changes.
