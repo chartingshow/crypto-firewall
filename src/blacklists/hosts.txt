@@ -4884,7 +4884,9 @@
 0.0.0.0 cryptopaysignal.net
 0.0.0.0 cryptoreferenc.com
 0.0.0.0 cryptosea-trade.com
+0.0.0.0 cryptoshiny.com
 0.0.0.0 cryptoskymarket.net
+0.0.0.0 cryptosnowprince.com
 0.0.0.0 cryptostockexchange.site
 0.0.0.0 cryptotabhost.online
 0.0.0.0 cryptotradeprofitsltd.com
@@ -11750,6 +11752,7 @@
 0.0.0.0 meta1trader.com
 0.0.0.0 meta4media.com
 0.0.0.0 metabaltrades.com
+0.0.0.0 metabest.tech
 0.0.0.0 metacrowd.co
 0.0.0.0 metacryptoworld.live
 0.0.0.0 metadropcoinx.com
