@@ -274,6 +274,7 @@ cryptorank.io###__next > div > div:nth-of-type(2)
 cryptorank.io###CookiesPopup
 cryptorank.io###footer + div
 cryptorank.io###root-container > div:nth-of-type(1) > div:nth-of-type(2)
+cryptorank.io###root-container > div:nth-of-type(7)
 cryptorank.io###scroll-up-button
 cryptorank.io##.vertical
 cryptorank.io##[class^=banner__BannerWrap]
@@ -282,10 +283,14 @@ cryptorank.io##[class^=filled-banner__BannerLink]
 cryptorank.io##[class^=styled__Container]
 cryptorank.io##[class^=styled__HeaderTextSmallContainer]
 cryptorank.io##[class^=styled__Wrapper]
+||content.googleapis.com/discovery/$xhr,domain=cryptorank.io
 ||cryptorank.io/static/banners/$image
 ||cryptorank.io/static/banners/banner-background.svg$image
 ||cryptorank.io/static/favicon.svg$image
+||cryptorank.io/static/logo.svg$image
 ||img.api.cryptorank.io/srennab/$image
+||relay.walletconnect.com^$websocket,domain=cryptorank.io
+||relay.walletconnect.org^$websocket,domain=cryptorank.io
 
 ! bitquery.io
 explorer.bitquery.io##.mx-auto.ad-container
@@ -529,13 +534,18 @@ dropstab.com##.animate-ping:style(display: none !important)
 dropstab.com##.bg-blue-600:style(background: none !important)
 dropstab.com##.z-gdpr
 dropstab.com##[class^=styles_marqueeItem]
-||api.icodrops.com/trades/trades/*$xhr,domain=dropstab.com
 ||extra-bff.dropstab.com/v1.2/market-data/market-total-and-widgets-summary$xhr,1p
+
+! icodrops.com
+icodrops.com##.Ftr-Note
+icodrops.com##.Promo-Line
+||api.icodrops.com/trades/trades/*$xhr,domain=dropstab.com
 ||ws-api.icodrops.com/trades/*$xhr,domain=dropstab.com
 
 ! debank.com
 debank.com##[class^=DesktopContainer_reportSpamButton]
 debank.com##[class^=Footer_linkContainer]
+debank.com##[class^=GiftVipHistory_giftHistoryBtn]
 debank.com##[class^=PopularMessage_noMessage]
 debank.com##[class^=ReferralCodeBtn_referralCodeBtn]
 debank.com##[class^=Sidebar_adBanner]
@@ -675,3 +685,18 @@ www.coindesk.com##[data-module-name="consensus-seo-text"]
 
 ! intel.arkm.com
 intel.arkm.com##[class^=CookieBanner_cookieBanner__]
+
+! cypherhunter.com
+cypherhunter.com###__next > footer > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)
+cypherhunter.com###__next > footer > div:nth-of-type(2) > div
+cypherhunter.com###__next > main > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)
+
+! beincrypto.com
+beincrypto.com###amp-user-notification1
+beincrypto.com##.aff-secondary
+beincrypto.com##.bic-newsletter
+beincrypto.com##.share-block
+beincrypto.com##.want-to-know-more-block
+
+! famousfoxes.com
+famousfoxes.com##.block.pointer-events-auto

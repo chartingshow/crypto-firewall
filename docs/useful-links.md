@@ -46,6 +46,7 @@ A collection of resources of Cryptocurrencies, NFT, Metaverse, DeFi and WEB3. No
 - [TOOLS](#tools)
 - [RESOURCES, REFERENCES, READING](#resources-references-reading)
 - [LEAKS?](#notable-breach-and-leaks-related-to-web3)
+- [Revoke Tool](#revoke-tool)
 
 ### CRYPTO-OPSEC Methodologies and Info 
 | Info / Tool | Description |
@@ -425,3 +426,17 @@ A collection of resources of Cryptocurrencies, NFT, Metaverse, DeFi and WEB3. No
 | Gemini | 2022 email phone number |
 | Blockachain.com | 307K emails |
 | BuyUcoin | 2020, different data, the userbase, wallets, transactions list and more  |
+
+## Revoke Tool
+
+When using dapps like Uniswap or OpenSea you have to grant them permission to spend your tokens and NFTs. This is called a token approval. If you don't revoke these approvals, the dapp can spend your tokens forever. Take back control by revoking your approvals.
+
+### Ethereum + Layer 2
+
+Link: https://revoke.cash/
+
+### Solana
+
+Link: https://famousfoxes.com/revoke
+
+**Don't fall victum to fake websites pretending to be a revoke tool - they are wallet drainers!**
