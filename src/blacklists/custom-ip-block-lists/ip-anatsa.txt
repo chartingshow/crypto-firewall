@@ -1,13 +1,13 @@
 # Crypto Firewall
 # Blocking Web Browser Crypto Malware and Phishing Websites
 #
-# Blocking: Anatsa Malware Custom List
+# Blocking: Anatsa aka ReBot, TeaBot, Toddler Malware Custom List
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 31 May 2024
+# Last modified: 12 January 2025
 #
 
 138.201.166.127
@@ -15,6 +15,7 @@
 178.63.27.179
 185.215.113.31
 185.215.113.39
+185.76.79.112
 195.201.70.80
 195.201.70.88
 195.201.70.89
