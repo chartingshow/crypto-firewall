@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 January 2025
+# Last modified: 12 January 2025
 #
 
 # Extras (comment out if needed)
@@ -337,6 +337,7 @@
 0.0.0.0 1q2w3.fun
 0.0.0.0 1tamilmv.foo
 0.0.0.0 1trademkt.com
+0.0.0.0 1tryouts.com
 0.0.0.0 1wcckk.top
 0.0.0.0 1win-523.fun
 0.0.0.0 1win-cazino.website
@@ -767,6 +768,7 @@
 0.0.0.0 9y74.com
 0.0.0.0 9y94.com
 0.0.0.0 a-1bcdn.com
+0.0.0.0 a-hamra.net
 0.0.0.0 a-l.cc
 0.0.0.0 a-poster.info
 0.0.0.0 a01mt584zk32sw1.ml
@@ -1390,6 +1392,7 @@
 0.0.0.0 allfamax.com
 0.0.0.0 allfurdogs.co.uk
 0.0.0.0 allgamepro.best
+0.0.0.0 allgeneva.com
 0.0.0.0 allianceforfreedominter.com
 0.0.0.0 alliancepetrochemical.com
 0.0.0.0 alliantlaw.us
@@ -1583,6 +1586,7 @@
 0.0.0.0 andresfmartinez.me
 0.0.0.0 andrewfarmhouse.com
 0.0.0.0 andrewtatebsc.com
+0.0.0.0 androdl.info
 0.0.0.0 android-apps.tech
 0.0.0.0 androidapi12.cf
 0.0.0.0 androidapi13.cf
@@ -1780,6 +1784,7 @@
 0.0.0.0 applebtc.co
 0.0.0.0 applechargebacks.com
 0.0.0.0 applepps.com
+0.0.0.0 applicationdl.shop
 0.0.0.0 applicatwindomz.com
 0.0.0.0 applieddyooqnz.shop
 0.0.0.0 appliedgrandyjuiw.shop
@@ -2280,6 +2285,9 @@
 0.0.0.0 b6digital.cc
 0.0.0.0 b78e734918f99f84.pw
 0.0.0.0 ba-c.cc
+0.0.0.0 ba-hmrh.info
+0.0.0.0 ba-hmrh.life
+0.0.0.0 ba-hmrh.top
 0.0.0.0 baamyab.com
 0.0.0.0 babalrfrar.shop
 0.0.0.0 babamrbads.net
@@ -2363,6 +2371,7 @@
 0.0.0.0 bamosapportodassonparar1726.shop
 0.0.0.0 bampuik.info
 0.0.0.0 bams.co
+0.0.0.0 ban-hmrh.life
 0.0.0.0 bananamanana.org
 0.0.0.0 bancodobrasil.dev
 0.0.0.0 bandariexpeditions.com
@@ -2372,6 +2381,8 @@
 0.0.0.0 bank-alahly.com
 0.0.0.0 banksidewebsolutions.com
 0.0.0.0 banktrade.ltd
+0.0.0.0 bankvaredshoo.net
+0.0.0.0 bankvaredshoo.org
 0.0.0.0 bannertastylbaoeow.xyz
 0.0.0.0 banninhaideri.com
 0.0.0.0 bannisterministry.org
@@ -2407,6 +2418,7 @@
 0.0.0.0 bargainprincess.co.uk
 0.0.0.0 barkstage.es
 0.0.0.0 barm.ml
+0.0.0.0 barname.best
 0.0.0.0 barnettc.shop
 0.0.0.0 baron8.com
 0.0.0.0 barovur.com
@@ -2618,6 +2630,8 @@
 0.0.0.0 bereelec.quest
 0.0.0.0 berekethaber.com
 0.0.0.0 bergenadvokatene.no
+0.0.0.0 berimtoobank.net
+0.0.0.0 berimtoobank.org
 0.0.0.0 beritaviral17.com
 0.0.0.0 berjayafinancecredit.com
 0.0.0.0 berkahprimagemilang.com
@@ -2744,6 +2758,7 @@
 0.0.0.0 bi3x.org
 0.0.0.0 bialpro.pl
 0.0.0.0 biathlon-sachsen.de
+0.0.0.0 biatobank.net
 0.0.0.0 bibertursusu3424.com
 0.0.0.0 biberukalap.com
 0.0.0.0 bicaramimpi.com
@@ -3193,7 +3208,11 @@
 0.0.0.0 bnbwealth.net
 0.0.0.0 bnchain.co
 0.0.0.0 bnghjh.ml
+0.0.0.0 bnk-vorood-mlt.net
+0.0.0.0 bnk-voroodmlt.net
+0.0.0.0 bnkpanel-ir.net
 0.0.0.0 bnksheffield.com
+0.0.0.0 bnkvoroodmlt.net
 0.0.0.0 bnmkoiu3.shop
 0.0.0.0 bnreadgoning.com
 0.0.0.0 bnsminingsystem.top
@@ -3324,6 +3343,7 @@
 0.0.0.0 bpeakhnf.top
 0.0.0.0 bpjoieohzmhegwegmmuew.online
 0.0.0.0 bplentyufr.top
+0.0.0.0 bpost-login.net
 0.0.0.0 bpostore.vip
 0.0.0.0 bppsa.com
 0.0.0.0 bprartaagung.co.id
@@ -5712,6 +5732,9 @@
 0.0.0.0 donboscoschoolputhuppally.org
 0.0.0.0 doneryey52.com
 0.0.0.0 dongarza.com
+0.0.0.0 donlod-man.net
+0.0.0.0 donlodiha.shop
+0.0.0.0 donlodmlt.shop
 0.0.0.0 dontabuse1.xyz
 0.0.0.0 donttbeevils.de
 0.0.0.0 dooberlimo.com
@@ -6170,6 +6193,7 @@
 0.0.0.0 eii.world
 0.0.0.0 eiradio.com
 0.0.0.0 eit-brt-barchanmawer.info
+0.0.0.0 ejdeha-vared-mishavad.net
 0.0.0.0 ejoartikburada.live
 0.0.0.0 ejobabageldi.co.vu
 0.0.0.0 ejonunpaneli.co.vu
@@ -8591,6 +8615,22 @@
 0.0.0.0 halthivan.xyz
 0.0.0.0 hammadaftab.com
 0.0.0.0 hamptonscomedyfestivals.com
+0.0.0.0 hamrah-b.net
+0.0.0.0 hamrah-b.org
+0.0.0.0 hamrah-bn.net
+0.0.0.0 hamrah-bn.org
+0.0.0.0 hamrah-download.org
+0.0.0.0 hamrah-downlod.org
+0.0.0.0 hamrah-pasargad.info
+0.0.0.0 hamrah.buzz
+0.0.0.0 hamrah.club
+0.0.0.0 hamrah.icu
+0.0.0.0 hamrah.today
+0.0.0.0 hamrahman.org
+0.0.0.0 hamrh0donld.net
+0.0.0.0 hamrh0donld.org
+0.0.0.0 hamrh1-downld.net
+0.0.0.0 hamrhma.life
 0.0.0.0 hamsiyunus342.com
 0.0.0.0 hamsterrace.space
 0.0.0.0 hanabestudio.com
@@ -8762,6 +8802,7 @@
 0.0.0.0 hellasdallaschartas.tk
 0.0.0.0 hellasjournal.company
 0.0.0.0 hellasjournal.website
+0.0.0.0 hellishere.store
 0.0.0.0 hellohoneycompanyy.com
 0.0.0.0 hellottec.art
 0.0.0.0 helloworld.market
@@ -8939,11 +8980,16 @@
 0.0.0.0 hlofyd.cfd
 0.0.0.0 hloyagorepa.com
 0.0.0.0 hluxewatch.com
+0.0.0.0 hmarf-net.net
 0.0.0.0 hmas.mx
 0.0.0.0 hmd400.com
 0.0.0.0 hmeng.co.uk
 0.0.0.0 hmeq.link
 0.0.0.0 hmf8qij2.gq
+0.0.0.0 hmrah-donwlod.org
+0.0.0.0 hmrh-ban.shop
+0.0.0.0 hmrh-donlod.net
+0.0.0.0 hmrh-ma.top
 0.0.0.0 hmrngroup.com
 0.0.0.0 hmsd.us
 0.0.0.0 hnbaishihengtong.com
@@ -9688,6 +9734,7 @@
 0.0.0.0 isabelmartin.co
 0.0.0.0 isamaracatering.com
 0.0.0.0 isasecret.com
+0.0.0.0 isbake.online
 0.0.0.0 isc.net.ua
 0.0.0.0 isc901.com
 0.0.0.0 iscast.com.br
@@ -10559,6 +10606,7 @@
 0.0.0.0 korkyt.net
 0.0.0.0 kormala.com
 0.0.0.0 kormoran.bid
+0.0.0.0 kosar.ac.ir
 0.0.0.0 kotakajair.xyz
 0.0.0.0 kotogadang-pusako.com
 0.0.0.0 kounrz.cfd
@@ -10768,6 +10816,7 @@
 0.0.0.0 largerryskwhq.shop
 0.0.0.0 lariatedzugspd.shop
 0.0.0.0 larnakdalar3.shop
+0.0.0.0 larshalvorsen.au
 0.0.0.0 laseku.com
 0.0.0.0 lasergathe.com
 0.0.0.0 laserveradedomaina.com
@@ -11316,6 +11365,7 @@
 0.0.0.0 lucky-blaze.com
 0.0.0.0 lucky661.com
 0.0.0.0 luckygoldeth.com
+0.0.0.0 luckysportt.com
 0.0.0.0 lufinder.top
 0.0.0.0 luggagecity.shop
 0.0.0.0 luhuu.top
@@ -11387,6 +11437,7 @@
 0.0.0.0 m-ainsurance.com
 0.0.0.0 m-g-n.me
 0.0.0.0 m-ozon.cc
+0.0.0.0 m-panelbnk.net
 0.0.0.0 m10688.com
 0.0.0.0 m158663.com
 0.0.0.0 m18888.com
@@ -11634,6 +11685,7 @@
 0.0.0.0 masalsendromuduygusugelsin.top
 0.0.0.0 masaxoc.com
 0.0.0.0 masboni.com
+0.0.0.0 masdodi.shop
 0.0.0.0 maseczka.top
 0.0.0.0 masijtakbbq.com
 0.0.0.0 masjid.com.au
@@ -11737,6 +11789,7 @@
 0.0.0.0 maytinhnhatlong.com
 0.0.0.0 mazeinfo.tech
 0.0.0.0 mazumaponyanthus.fun
+0.0.0.0 mb-mobil.info
 0.0.0.0 mbfashioninternationalltd.com
 0.0.0.0 mbfbank.to
 0.0.0.0 mbhpikampombehi.com
@@ -11770,6 +11823,7 @@
 0.0.0.0 meadowannivejrsary.shop
 0.0.0.0 mealroomrallpassiveer.shop
 0.0.0.0 mealseb.shop
+0.0.0.0 mealtiooo-ir.click
 0.0.0.0 mealux.by
 0.0.0.0 meaninggods.com
 0.0.0.0 meannypaintipp.shop
@@ -11836,17 +11890,39 @@
 0.0.0.0 melakda.shop
 0.0.0.0 melaminet.xyz
 0.0.0.0 melaofisial.xyz
+0.0.0.0 melatappir1.click
+0.0.0.0 melatko-ir.shop
 0.0.0.0 melevv.eu
 0.0.0.0 melilihotel.com
 0.0.0.0 melisetotoaksesuar.com
 0.0.0.0 melissacanada.com
+0.0.0.0 melitbn-ir.pw
 0.0.0.0 melkovsky.com
+0.0.0.0 mella.top
+0.0.0.0 mellat-bnk.online
 0.0.0.0 mellohub.tech
 0.0.0.0 mellth.com
+0.0.0.0 melma-ir.in
 0.0.0.0 melokavy.com
 0.0.0.0 melonna.top
+0.0.0.0 melosta.click
 0.0.0.0 melpakistan.com
+0.0.0.0 melsiso-a.org
 0.0.0.0 melstroy.by
+0.0.0.0 melta-ir.net
+0.0.0.0 meltbn-ir.click
+0.0.0.0 meltdl.shop
+0.0.0.0 meltfora.click
+0.0.0.0 melthamrah.org
+0.0.0.0 meltisa-api.net
+0.0.0.0 melto-apo.net
+0.0.0.0 melto-hmrho.net
+0.0.0.0 melto-ir.org
+0.0.0.0 meltp-ir.org
+0.0.0.0 meltr-ir.co.uk
+0.0.0.0 meltr-ir.in
+0.0.0.0 meltr-ir.net
+0.0.0.0 melts-ir.org
 0.0.0.0 memberidealky.cfd
 0.0.0.0 memberpbb.pendaftaranonline.org
 0.0.0.0 members-hfm.com
@@ -12186,8 +12262,16 @@
 0.0.0.0 mlbdiscounts.com
 0.0.0.0 mlbumlml2342r.com
 0.0.0.0 mlfkumal333.com
+0.0.0.0 mlibami.click
 0.0.0.0 mlinks.ws
+0.0.0.0 mlios-ir.click
+0.0.0.0 mllst-ir.click
 0.0.0.0 mlowervkb.top
+0.0.0.0 mlt-bnk-vorood.net
+0.0.0.0 mltbaz.click
+0.0.0.0 mltbnj.org
+0.0.0.0 mltbnk-vorood.net
+0.0.0.0 mltbnk.org
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 mmaddisena.shop
 0.0.0.0 mmaymsoffrter.com
@@ -12661,6 +12745,7 @@
 0.0.0.0 myacademia.net
 0.0.0.0 myanmardrug.com
 0.0.0.0 myanmargolffederation.org
+0.0.0.0 mybaam.site
 0.0.0.0 mybabezacademy.com
 0.0.0.0 mybabyrose.com
 0.0.0.0 mybeautyexchange.com
@@ -12855,6 +12940,11 @@
 0.0.0.0 nbvyrxry216vy.com
 0.0.0.0 nch-software.info
 0.0.0.0 ncoduryllixe.xyz
+0.0.0.0 ncp-insaat.online
+0.0.0.0 ncp44-insaat.online
+0.0.0.0 ncp66-insaat.online
+0.0.0.0 ncp77-insaat.online
+0.0.0.0 ncp99-insaat.online
 0.0.0.0 ndakaproperties.co.za
 0.0.0.0 ndas8m92.shop
 0.0.0.0 ndm2398asdlw.shop
@@ -12900,6 +12990,7 @@
 0.0.0.0 neko.airforce
 0.0.0.0 nekochainapp.com
 0.0.0.0 nekololis.wtf
+0.0.0.0 nektoparadux.shop
 0.0.0.0 nellyrac.do
 0.0.0.0 nelnetcitifin.com
 0.0.0.0 nemchaprues.com
@@ -13192,6 +13283,7 @@
 0.0.0.0 noahdaconceicao.mom
 0.0.0.0 noahsecures.xyz
 0.0.0.0 noanvaruncorekumar.cf
+0.0.0.0 nobitexv.net
 0.0.0.0 noblecapitals.net
 0.0.0.0 nobledpcowep.shop
 0.0.0.0 noctorships.ga
@@ -13994,6 +14086,10 @@
 0.0.0.0 paste.fo
 0.0.0.0 pastepast.net
 0.0.0.0 pasture2tablefarm.com
+0.0.0.0 pasvoroud.club
+0.0.0.0 pasvoroud.group
+0.0.0.0 pasvoroud.icu
+0.0.0.0 pasvoroud.xyz
 0.0.0.0 pathwayfvvm.com
 0.0.0.0 patiennerrhe.com
 0.0.0.0 patiently.makeup
@@ -15530,6 +15626,7 @@
 0.0.0.0 reraitper.com
 0.0.0.0 res-valorant.com
 0.0.0.0 res1te-eu.top
+0.0.0.0 resallat-bahking.fun
 0.0.0.0 research-study.healthcare
 0.0.0.0 researchwritingexperts.com
 0.0.0.0 reselutea.com
@@ -15682,6 +15779,10 @@
 0.0.0.0 rkynaiaryna.xyz
 0.0.0.0 rllalasyeo.xyz
 0.0.0.0 rlmushahel.xyz
+0.0.0.0 rm-melat-1.online
+0.0.0.0 rm-melat-2.online
+0.0.0.0 rm-melat-4.com
+0.0.0.0 rm-melat-4.online
 0.0.0.0 rmdtqq.libre
 0.0.0.0 rmechanicfca.top
 0.0.0.0 rmutr.ac.th
@@ -15712,6 +15813,7 @@
 0.0.0.0 robotera.io
 0.0.0.0 robotixpenedes.com
 0.0.0.0 robotrades.live
+0.0.0.0 robotrage.ir
 0.0.0.0 robotvice.com
 0.0.0.0 robuxcontrolcenter.com
 0.0.0.0 rock.reauthenticator.com
@@ -15928,6 +16030,8 @@
 0.0.0.0 sacredloomperu.com
 0.0.0.0 sacynalale.xyz
 0.0.0.0 sadeceguldiyebe.shop
+0.0.0.0 sadedonlod.top
+0.0.0.0 saderatapp.net
 0.0.0.0 sadiviai9d9asd.xyz
 0.0.0.0 sadokankim22.space
 0.0.0.0 sadyaonemaneking.shop
@@ -16105,6 +16209,7 @@
 0.0.0.0 sayrodfalireznolere.top
 0.0.0.0 saywix.com
 0.0.0.0 sazoya.com
+0.0.0.0 sbam1.site
 0.0.0.0 sbbmanagement.com
 0.0.0.0 sbcglobalss.net
 0.0.0.0 sbcopylive.com.br
@@ -16430,6 +16535,7 @@
 0.0.0.0 seotop1google.net
 0.0.0.0 seoulanesthesia.or.kr
 0.0.0.0 seouldementia.or.kr
+0.0.0.0 sepahe-hamrah.org
 0.0.0.0 separateedmsqj.shop
 0.0.0.0 sepatukw.com
 0.0.0.0 sephari.com.au
@@ -16567,6 +16673,7 @@
 0.0.0.0 she32rn1.com
 0.0.0.0 sheelpor.top
 0.0.0.0 sheerishu.xyz
+0.0.0.0 shefchenco.info
 0.0.0.0 sheffieldcoronarysociety.org.uk
 0.0.0.0 shegzyhub.tech
 0.0.0.0 sheikh.co.tz
@@ -16904,6 +17011,7 @@
 0.0.0.0 smartcontractlicense.info
 0.0.0.0 smartcontracts.nl
 0.0.0.0 smartcuria.com
+0.0.0.0 smartcya.com
 0.0.0.0 smartdealsradar.com
 0.0.0.0 smartdigitalcheck.com
 0.0.0.0 smartfunding.sg
@@ -17926,6 +18034,7 @@
 0.0.0.0 tendencctywop.shop
 0.0.0.0 tendencerangej.shop
 0.0.0.0 tendenciasdelamoda.com
+0.0.0.0 tennis4good.co.uk
 0.0.0.0 tenntysjuxmz.shop
 0.0.0.0 tenseddrywsqio.shop
 0.0.0.0 tenxchange.com
@@ -18173,6 +18282,7 @@
 0.0.0.0 thinkgeniux.live
 0.0.0.0 thinkphp1.com
 0.0.0.0 thinrecordsunrjisow.pw
+0.0.0.0 thisisphisher.online
 0.0.0.0 thits.org
 0.0.0.0 thoitrangtreemmytho.com
 0.0.0.0 thomassilveira.cfd
@@ -18211,6 +18321,8 @@
 0.0.0.0 tianbo.im
 0.0.0.0 tiancaii.com
 0.0.0.0 tibedowqmwo.shop
+0.0.0.0 tibelapesar.net
+0.0.0.0 tibelapesar.org
 0.0.0.0 ticket-apple.com
 0.0.0.0 ticket-coinbase.com
 0.0.0.0 ticketbox.vn
@@ -19274,6 +19386,9 @@
 0.0.0.0 varafood.com
 0.0.0.0 vararaknath.quest
 0.0.0.0 vardeyildiyindevurucak.co.vu
+0.0.0.0 varedshim.org
+0.0.0.0 varedshoo.net
+0.0.0.0 varedshoo.org
 0.0.0.0 varianntyfeecterd.shop
 0.0.0.0 varinnitof.xyz
 0.0.0.0 varitycookypowerw.xyz
@@ -19612,9 +19727,14 @@
 0.0.0.0 vopy.com
 0.0.0.0 vorganas.top
 0.0.0.0 vorion.io
+0.0.0.0 voroad.org
+0.0.0.0 vorood.top
 0.0.0.0 vortax.app
 0.0.0.0 vortax.io
 0.0.0.0 vortax.space
+0.0.0.0 vorud-be-panel.top
+0.0.0.0 vorud-pnl.net
+0.0.0.0 vorud.top
 0.0.0.0 votteryloeq.shop
 0.0.0.0 vourakilina.gr
 0.0.0.0 vov100.com
@@ -21242,7 +21362,10 @@
 0.0.0.0 zakavama.shop
 0.0.0.0 zakinvestmentpartners.com
 0.0.0.0 zalyldrri.xyz
+0.0.0.0 zamanetoo.net
+0.0.0.0 zamanetoo.org
 0.0.0.0 zamanmakineilaclari.shop
+0.0.0.0 zaminvorood.org
 0.0.0.0 zanbida.com
 0.0.0.0 zanderscloud.com.ng
 0.0.0.0 zanjira.com
