@@ -1,0 +1,18 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: Vulturi Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 12 January 2025
+#
+
+103.114.104.36
+147.182.201.79
+154.53.33.203
+185.170.42.91
+192.3.15.113
+34.69.68.209
