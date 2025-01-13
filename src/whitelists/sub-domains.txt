@@ -39,6 +39,7 @@
 *.pages.dev
 *.pantheonsite.io
 *.plesk.page
+*.r2.dev
 *.repl.co
 *.sglwebs.com
 *.sitebeat.crazydomains.com
