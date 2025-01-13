@@ -5,7 +5,15 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 March 2024
+# Last modified: 13 January 2025
 #
 
+200593
+210644
+214927
+215789
+216246
+39770
 51381
+56873
+60424

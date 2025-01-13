@@ -1,0 +1,41 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Blocking: CryptBot Malware Custom List
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 13 January 2025
+#
+
+103.130.147.211
+147.45.44.104
+147.45.47.169
+154.216.17.46
+154.216.20.133
+154.216.20.204
+154.216.20.224
+176.111.174.109
+185.121.15.192
+185.196.11.18
+185.196.8.56
+185.196.8.68
+185.215.113.16
+185.215.113.17
+185.215.113.19
+185.215.113.67
+185.244.181.38
+193.124.205.63
+198.251.84.107
+212.113.116.202
+31.41.244.9
+45.91.200.135
+62.133.61.172
+65.21.18.51
+81.19.131.103
+81.94.159.120
+83.217.208.134
+91.202.233.158
+92.246.139.82
