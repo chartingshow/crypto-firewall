@@ -32,6 +32,7 @@ www.tradingview.com##[class^=notifications]
 www.tradingview.com##[class^=toast-wrapper]
 www.tradingview.com##[class^=toast]
 www.tradingview.com##[data-role*="toast-container"]
+www.tradingview.com##body.i-no-scroll:style(overflow: auto !important)
 ||economic-calendar.tradingview.com^$xhr
 ||failover-telemetry-as.tradingview.com^
 ||failover-telemetry-eu.tradingview.com^
