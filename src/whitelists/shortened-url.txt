@@ -35,3 +35,4 @@ tinyurl.com
 url.pm
 wa.me
 youtu.be
+zpr.io
