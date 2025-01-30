@@ -708,6 +708,7 @@ famousfoxes.com##.block.pointer-events-auto
 www.cookie.fun##.fixed.bottom-0.left-0
 www.cookie.fun##.hidden.items-center.w-full.lg\:flex > .ml-auto > svg
 www.cookie.fun##.md\:block.hidden.my-auto
+www.cookie.fun##.pointer-events-none
 www.cookie.fun##[data-highcharts-chart] + div > svg
 www.cookie.fun##html > body > nav > div:nth-of-type(2)
 ||www.cookie.fun/_next/image?url=%2Fcookie-full.png$image
