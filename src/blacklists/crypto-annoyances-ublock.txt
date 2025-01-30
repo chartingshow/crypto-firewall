@@ -705,6 +705,7 @@ beincrypto.com##.want-to-know-more-block
 famousfoxes.com##.block.pointer-events-auto
 
 ! cookie.fun
+www.cookie.fun##.animate-ping
 www.cookie.fun##.fixed.bottom-0.left-0
 www.cookie.fun##.hidden.items-center.w-full.lg\:flex > .ml-auto > svg
 www.cookie.fun##.md\:block.hidden.my-auto
