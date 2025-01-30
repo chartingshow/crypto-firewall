@@ -703,3 +703,8 @@ beincrypto.com##.want-to-know-more-block
 
 ! famousfoxes.com
 famousfoxes.com##.block.pointer-events-auto
+
+! cookie.fun
+www.cookie.fun##.fixed.bottom-0.left-0
+www.cookie.fun##html > body > nav > div:nth-of-type(2)
+||www.cookie.fun/_next/image?url=%2Fcookie-full.png$image
