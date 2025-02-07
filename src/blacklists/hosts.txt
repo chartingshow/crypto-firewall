@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 January 2025
+# Last modified: 7 February 2025
 #
 
 # Extras (comment out if needed)
@@ -22238,6 +22238,7 @@
 0.0.0.0 xkslsxll294os.com
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
+0.0.0.0 xmrwallet.com
 0.0.0.0 xmusk2.cc
 0.0.0.0 xn----6hcdbtd7ej4ac.co.il
 0.0.0.0 xn--72cg7aqv0asf6bd3ec3rla.com
