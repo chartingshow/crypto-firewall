@@ -1,1 +1,1 @@
-(adf.ly|amzn.asia|amzn.com|amzn.to|bit.do|bit.ly|bl.ink|buff.ly|cutt.ly|dai.ly|dis.gd|fb.com|fb.me|gcko.io|gg.gg|goo.gl|is.gd|j.mp|m.me|mcaf.ee|msft.it|ow.ly|pin.it|rb.gy|redd.it|short.gy|short.io|shorturl.at|su.pr|t.co|t.ly|t.me|tiny.one|tinyurl.com|url.pm|wa.me|youtu.be|zpr.io)
+(a.co|adf.ly|amzn.asia|amzn.com|amzn.to|bit.do|bit.ly|bl.ink|buff.ly|cutt.ly|dai.ly|dis.gd|fb.com|fb.me|gcko.io|gg.gg|goo.gl|is.gd|j.mp|m.me|mcaf.ee|msft.it|ow.ly|pin.it|rb.gy|redd.it|short.gy|short.io|shorturl.at|su.pr|t.co|t.ly|t.me|tiny.one|tinyurl.com|url.pm|wa.me|youtu.be|zpr.io)
