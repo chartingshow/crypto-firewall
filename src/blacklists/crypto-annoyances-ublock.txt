@@ -15,6 +15,10 @@
 ||syndicatedsearch.goog^
 ||trustarc.com^
 
+! openweathermap.org
+openweathermap.org##.gdpr-banner
+openweathermap.org##.banner-pop-up
+
 ! Social Media Blocks --------------------------------------------------
 
 ! twitter.com
