@@ -93,6 +93,7 @@ www.coingecko.com##body > div > .lg\:tw-block.tw-hidden
 www.coingecko.com##div.tw-border-solid.tw-border-gray-200.tw-border-b.tw-border-0.dark\:tw-border-white.dark\:tw-border-opacity-12:nth-of-type(2)
 www.coingecko.com##div.tw-p-4.tw-rounded-xl.dark\:tw-bg-opacity-5.dark\:tw-bg-white.tw-bg-gray-100 > .tw-mb-1
 www.coingecko.com##main > div > .lg\:tw-block.tw-hidden
+www.coingecko.com/cdn-cgi/mirage_speedtest/*
 ||widgets.coingecko.com^
 
 ! coinmarketcap.com
