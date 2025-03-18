@@ -1,12 +1,23 @@
-<p align="center">
-  <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firewall-icon.png" width="128" height="128"/>
-</p>
-
-<h1 align="center">Charting Show - Crypto Firewall</h1>
-
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
 
-Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers. The goal of this project is to help you safe and help you avoid getting scammed and losing your cryptocurrencies.
+<h1 align="center">📈 Charting Show: Crypto Firewall ✅</h1>
+
+Crypto Firewall: Your Digital Shield in the Cryptocurrency Ecosystem
+
+This security-centric repository offers a comprehensive suite of resources and tools designed to fortify your cryptocurrency trading activities and systems. We provide:
+
+- Cutting-edge best practices
+- Robust scripts and configurations
+- In-depth security guides
+
+Our primary focus is on:
+
+1. Blocking browser-based crypto mining and cryptojacking attempts
+2. Thwarting banking and crypto malware
+3. Identifying and preventing access to phishing websites and malicious apps
+4. Disrupting hackers' command-and-control (C2) server communications
+
+The Crypto Firewall project is committed to enhancing your safety in the volatile crypto landscape, helping you avoid scams and protect your valuable digital assets. By implementing our strategies, you can trade with confidence and peace of mind.
 
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
