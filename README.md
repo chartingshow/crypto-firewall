@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firewall-icon.png" width="128" height="128" /></p>
 
 <h1 align="center">📈 Charting Show: Crypto Firewall ✅</h1>
 
@@ -16,6 +16,8 @@ Our primary focus is on:
 2. Thwarting banking and crypto malware
 3. Identifying and preventing access to phishing websites and malicious apps
 4. Disrupting hackers' command-and-control (C2) server communications
+
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
 
 The Crypto Firewall project is committed to enhancing your safety in the volatile crypto landscape, helping you avoid scams and protect your valuable digital assets. By implementing our strategies, you can trade with confidence and peace of mind.
 
