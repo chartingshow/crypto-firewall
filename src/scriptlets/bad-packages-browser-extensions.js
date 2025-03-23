@@ -85,7 +85,10 @@
     checkURLAgainstBlacklist('chrome.google.com/webstore')
   }
   // Special check for Firebase projects since they usually appear as subdomains
-  else if (currentHostname === 'firebaseio.com' || currentHostname.endsWith('.firebaseio.com')) {
+  else if (
+    currentHostname === 'firebaseio.com' ||
+    currentHostname.endsWith('.firebaseio.com')
+  ) {
     checkURLAgainstBlacklist('firebaseio.com')
   }
   // Check for Chrome extensions
