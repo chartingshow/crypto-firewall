@@ -769,6 +769,7 @@
 0.0.0.0 9sky.com
 0.0.0.0 9sta9rt4.store
 0.0.0.0 9w28pp996g59.top
+0.0.0.0 9x9o.com
 0.0.0.0 9xkcaayaagvr1p2.top
 0.0.0.0 9xu.com
 0.0.0.0 9y74.com
@@ -3738,6 +3739,7 @@
 0.0.0.0 cansunoto.com
 0.0.0.0 cantdown.space
 0.0.0.0 cantebo.buzz
+0.0.0.0 canvas.pet
 0.0.0.0 canvasfisd.info
 0.0.0.0 canvasuphold.cn
 0.0.0.0 canweal.com
@@ -8419,6 +8421,7 @@
 0.0.0.0 gitarlessonfinger.xyz
 0.0.0.0 github-scanner.com
 0.0.0.0 gitmedurneolur.tk
+0.0.0.0 gitrok.com
 0.0.0.0 giveaspectwuy.cfd
 0.0.0.0 giveaway-manta.network
 0.0.0.0 givebackwhereyoulive.com
@@ -18612,6 +18615,7 @@
 0.0.0.0 swancoins.net
 0.0.0.0 swapchange.space
 0.0.0.0 swapitalfx.com
+0.0.0.0 swapme.fun
 0.0.0.0 swapo.store
 0.0.0.0 swarapapua.com
 0.0.0.0 swareiptv.com
