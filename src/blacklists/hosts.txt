@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 February 2025
+# Last modified: 23 March 2025
 #
 
 # Extras (comment out if needed)
@@ -3386,6 +3386,7 @@
 0.0.0.0 braiinshash.com
 0.0.0.0 brakesummitfiightre.pics
 0.0.0.0 brakoairnis.com
+0.0.0.0 bralnesseds.com
 0.0.0.0 bramco.net
 0.0.0.0 brammdysocitrey.shop
 0.0.0.0 branchpowermonitor.com.au
@@ -19945,6 +19946,7 @@
 0.0.0.0 tunamusavirlik.com
 0.0.0.0 tunbet400.com
 0.0.0.0 tuncoins.com
+0.0.0.0 tundevelluckeed.com
 0.0.0.0 tunevideo.ru
 0.0.0.0 tunneloid.com
 0.0.0.0 tuonglaidigital.com
