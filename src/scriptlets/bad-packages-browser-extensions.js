@@ -6,7 +6,7 @@
  *              This scriptlet checks URLs against blacklists of known threats,
  *              covering npm packages, Chrome extensions, PyPI packages, and Firebase
  *              projects, alerting users when they encounter potentially harmful content.
- * @version 1.0.0
+ * @version 1.0.1
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -46,7 +46,7 @@
       return text
         .split('\n')
         .map((item) => item.trim())
-        .filter((item) => item !== '')
+        .filter((item) => item !== '' && !item.startsWith('#')) // Remove empty lines and comments
     } catch (error) {
       console.error(`Error fetching blacklist from ${url}: ${error}`)
       return []
