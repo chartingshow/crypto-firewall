@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 12 January 2025
+# Last modified: 23 March 2025
 #
 
 1.234.2.232
@@ -834,6 +834,7 @@
 194.147.140.45
 194.15.113.148
 194.15.113.155
+194.195.89.47
 194.26.135.76
 194.36.189.205
 194.5.97.7
