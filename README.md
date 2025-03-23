@@ -81,23 +81,49 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Installation ❤️
 
-### AdBlock Filter 🌟
+Choose whether to install the crypto firewall at the browser and/or operating system level.
 
-Make sure you have an adblocker installed in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
+### Browser Blocking 🌟
 
-- ![AdBlock](https://i.imgur.com/3KbyifF.png) [AdBlock](https://getadblock.com) (Active by default)
-- ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/)
-- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) and [uBlock Origin Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)
-- ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html) (Included by default)
-- ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
-- ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default) and [Brave Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-browser-instructions.md)
-- ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) (Included by default from Opera 50)
+Install an adblocker in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
 
-Operating System Guides:
+#### Recommended Choice ⭐
 
-- [Linux Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)
-- [MacOS Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)
-- [Windows Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)
+Brave Browser offers built-in ad and tracker blocking, making it an excellent choice for enhanced privacy and security.
+
+- ![Brave Desktop Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) **[Brave Desktop Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md)** - Provides robust privacy features, including a built-in ad blocker and Tor integration for anonymous browsing.
+
+- ![Brave Desktop Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) **[Brave Mobile Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md)** - Offers similar privacy protections on mobile devices
+
+#### Other Browser Choices ✨
+
+Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
+
+- ![AdBlock](https://i.imgur.com/3KbyifF.png) **AdBlock**: Active by default, blocks ads and trackers.
+
+- ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) **Adblock Plus**: Popular ad-blocking extension for various browsers.
+
+- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)**: Efficient, wide-spectrum content blocker.
+
+- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)**: Is a _permission-less_ MV3-based content blocker.
+
+- ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) **AdGuard Browser Extension**: Comprehensive ad and tracker blocking solution.
+
+- ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) **Adblock Browser**: Available for Android and iOS devices with built-in ad blocking.
+
+- ![Opera Browser](https://i.imgur.com/bP0t9xc.png) **Opera Browser**: Includes ad blocking by default since Opera 50.
+
+#### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
+
+Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time. While some ad-blockers like AdGuard, uBlock Origin Lite, and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
+
+### Operating System Blocking 🌟
+
+For system-wide protection, consider modifying your device's hosts file:
+
+- **[Linux Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)** - Edit the hosts file to block unwanted domains at the system level.
+- **[MacOS Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)** - Modify the hosts file to prevent access to specific websites and services.
+- **[Windows Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)** - Update the hosts file to block connections to undesired IP addresses.
 
 ## Basic usage 🔥
 
