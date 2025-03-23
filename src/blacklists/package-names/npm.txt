@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 January 2025
+# Last modified: 23 March 2025
 #
 
 @monicfoundation/hardhat-config
@@ -16,11 +16,17 @@
 @nomicsfoundation/web3-sdk
 @nomisfoundation/hardhat-config
 @nomisfoundation/hardhat-configure
+array-empty-validator
+auth-validator
 crypto-nodes-validator
+event-handle-package
 hardhat-deploy-others
 hardhat-gas-optimizer
 installedpackagepublish
+is-buffer-validator
 node-validators
 nomicsfoundations
+react-event-dependency
 solana-validator
 solidity-comments-extractors
+yoojae-validator
