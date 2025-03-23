@@ -70,7 +70,7 @@
           priceRegex,
           (match, price, cents, symbol) => {
             const color = getColorForPrice(
-              parseFloat(price.replace('$', '').replace(',', '')),
+              parseFloat(price.replace(/\$/g, '').replace(/,/g, '')),
             )
             return `<mark style="background-color: ${color}; color: white; padding: 2px 4px; border-radius: 3px;">${match}</mark>`
           },
