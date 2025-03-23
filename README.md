@@ -99,17 +99,17 @@ Brave Browser offers built-in ad and tracker blocking, making it an excellent ch
 
 Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
 
-- ![AdBlock](https://i.imgur.com/3KbyifF.png)  **AdBlock**: Active by default, blocks ads and trackers.
+- ![AdBlock](https://i.imgur.com/3KbyifF.png) **AdBlock**: Active by default, blocks ads and trackers.
 
-- ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png)  **Adblock Plus**: Popular ad-blocking extension for various browsers.
+- ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) **Adblock Plus**: Popular ad-blocking extension for various browsers.
 
-- ![uBock Origin](https://i.imgur.com/PSFuzKb.png)  **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)**: Efficient, wide-spectrum content blocker.
+- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)**: Efficient, wide-spectrum content blocker.
 
-- ![uBock Origin](https://i.imgur.com/PSFuzKb.png)  **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)**: Is a *permission-less* MV3-based content blocker.
+- ![uBock Origin](https://i.imgur.com/PSFuzKb.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)**: Is a _permission-less_ MV3-based content blocker.
 
-- ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png)  **AdGuard Browser Extension**: Comprehensive ad and tracker blocking solution.
+- ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) **AdGuard Browser Extension**: Comprehensive ad and tracker blocking solution.
 
-- ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png)  **Adblock Browser**: Available for Android and iOS devices with built-in ad blocking.
+- ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) **Adblock Browser**: Available for Android and iOS devices with built-in ad blocking.
 
 - ![Opera Browser](https://i.imgur.com/bP0t9xc.png) **Opera Browser**: Includes ad blocking by default since Opera 50.
 
