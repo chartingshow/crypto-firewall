@@ -121,9 +121,11 @@ Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact 
 
 For system-wide protection, consider modifying your device's hosts file:
 
-- **[Linux Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)** - Edit the hosts file to block unwanted domains at the system level.
-- **[MacOS Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)** - Modify the hosts file to prevent access to specific websites and services.
-- **[Windows Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)** - Update the hosts file to block connections to undesired IP addresses.
+<ul>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/linux.png" alt="Linux" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md"><strong>Linux Hosts File Instructions Guide</strong></a> - Edit the hosts file to block unwanted domains at the system level.</p></li>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" alt="MacOS" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md"><strong>MacOS Hosts File Instructions Guide</strong></a> - Modify the hosts file to prevent access to specific websites and services.</p></li>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
+</ul>
 
 ## Basic usage 🔥
 
