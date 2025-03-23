@@ -24,6 +24,9 @@ jobs:
       - name: Clone uAssets
         uses: actions/checkout@v4
 
+      - name: Install wget
+        run: sudo apt-get update && sudo apt-get install -y wget
+
       - name: Fetch module assets
         run: |
           chmod +x ./tools/update-modules.sh
