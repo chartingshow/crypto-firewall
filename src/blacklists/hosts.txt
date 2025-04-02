@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 March 2025
+# Last modified: 2 April 2025
 #
 
 # Extras (comment out if needed)
@@ -2041,6 +2041,7 @@
 0.0.0.0 assaggip.tk
 0.0.0.0 assamesetea.com
 0.0.0.0 asseddiq.com
+0.0.0.0 assessiohq.com
 0.0.0.0 assetcadia.com
 0.0.0.0 assetcapitals.org
 0.0.0.0 assets.fans
@@ -3150,10 +3151,13 @@
 0.0.0.0 blobfish.com
 0.0.0.0 blockadsonyt.vip
 0.0.0.0 blockall-my.xyz
+0.0.0.0 blockassess.com
 0.0.0.0 blockbeerman.fun
 0.0.0.0 blockchain-newtech.com
 0.0.0.0 blockchainargo.com
 0.0.0.0 blockchainfinancial.org
+0.0.0.0 blockchainjobassessment.com
+0.0.0.0 blockchainjobhub.com
 0.0.0.0 blockchainminerpool.net
 0.0.0.0 blockchainminnersltd.com
 0.0.0.0 blockchainspace.icu
@@ -3702,8 +3706,13 @@
 0.0.0.0 camagriculture.com
 0.0.0.0 camasoutletcl.shop
 0.0.0.0 camberwellorthogroup.com.au
+0.0.0.0 camdriverhub.cloud
+0.0.0.0 camdrivers.cloud
+0.0.0.0 camdriverstore.cloud
+0.0.0.0 camdriversupport.com
 0.0.0.0 camdvr.org
 0.0.0.0 camelbak.pk
+0.0.0.0 camera-drive.org
 0.0.0.0 camerazone.lk
 0.0.0.0 camhub.site
 0.0.0.0 caminers.pro
@@ -3715,6 +3724,7 @@
 0.0.0.0 campussifica.com
 0.0.0.0 campusveterinario.com
 0.0.0.0 camtamisa.top
+0.0.0.0 camtechdrivers.com
 0.0.0.0 canadagoosebudapest.com
 0.0.0.0 canadapower.top
 0.0.0.0 canadianturkishstudies.org
@@ -3728,6 +3738,7 @@
 0.0.0.0 cancelspacecoastdaily.com
 0.0.0.0 candancanda.top
 0.0.0.0 candid.zone
+0.0.0.0 candidateinsightinfo.com
 0.0.0.0 candydiscount.shop
 0.0.0.0 caneclothesdriverhen.pw
 0.0.0.0 cannabishang.com
@@ -4446,6 +4457,8 @@
 0.0.0.0 coinbase-live.support
 0.0.0.0 coinbase-reject.com
 0.0.0.0 coinbase-ticket.com
+0.0.0.0 coinbase-walet.biz
+0.0.0.0 coinbase-walet.me
 0.0.0.0 coinbasecapitalfx.com
 0.0.0.0 coinbaseheip.com
 0.0.0.0 coinbasepro-hk.com
@@ -4625,6 +4638,7 @@
 0.0.0.0 comolokko4152ertausicken.gq
 0.0.0.0 company.com
 0.0.0.0 compcg.com
+0.0.0.0 competency-core.com
 0.0.0.0 competitionpooleow.shop
 0.0.0.0 compilecoppydkewsw.xyz
 0.0.0.0 complainnykso.shop
@@ -5499,6 +5513,7 @@
 0.0.0.0 devalcc103.xyz
 0.0.0.0 devanture.com.sg
 0.0.0.0 devbhumiexpress.com
+0.0.0.0 devchallengehq.com
 0.0.0.0 devcisco.com
 0.0.0.0 devciscoprograms.com
 0.0.0.0 developerir.ir
@@ -5903,12 +5918,17 @@
 0.0.0.0 drinz.us
 0.0.0.0 dripcartel.in
 0.0.0.0 drive-phone.online
+0.0.0.0 drive-release.cloud
 0.0.0.0 drivelends.com
 0.0.0.0 drivepkmnsu.store
 0.0.0.0 driver-booster-key.com
+0.0.0.0 drivercamhub.cloud
+0.0.0.0 drivercams.cloud
 0.0.0.0 driverjumper.com
 0.0.0.0 driversna.com
+0.0.0.0 driversnap.cloud
 0.0.0.0 driverss.tk
+0.0.0.0 driverstream.cloud
 0.0.0.0 drivetime.com
 0.0.0.0 drkgatevservicceoffice.net
 0.0.0.0 drmostafafouadivf.com
@@ -6700,6 +6720,7 @@
 0.0.0.0 eshqy.net
 0.0.0.0 esilet.com
 0.0.0.0 esjpakistan.com
+0.0.0.0 eskillprof.com
 0.0.0.0 eskivideo.ru
 0.0.0.0 eskt.top
 0.0.0.0 eslieshion.com
@@ -6831,7 +6852,10 @@
 0.0.0.0 euzbb.com
 0.0.0.0 evainfo.in
 0.0.0.0 evalaskatours.com
+0.0.0.0 evalassesso.com
+0.0.0.0 evalswift.com
 0.0.0.0 evaluateoqwp.shop
+0.0.0.0 evalvidz.com
 0.0.0.0 evanv.shop
 0.0.0.0 evaprins.live
 0.0.0.0 evashatour.com
@@ -10064,6 +10088,7 @@
 0.0.0.0 interstellatimevin.xyz
 0.0.0.0 interstrand.com
 0.0.0.0 interviewsetup.com
+0.0.0.0 intervwolf.com
 0.0.0.0 intevestig.com
 0.0.0.0 inthenameofnull.site
 0.0.0.0 intlsdcn.com
@@ -10461,6 +10486,7 @@
 0.0.0.0 joaomiguelcunha.one
 0.0.0.0 jobbyshysinduksowp.shop
 0.0.0.0 jobingclub.com
+0.0.0.0 jobinterview360.com
 0.0.0.0 joblkessprosgeow.shop
 0.0.0.0 jobquest.ph
 0.0.0.0 jobscur.com
@@ -11635,6 +11661,7 @@
 0.0.0.0 liveabuzz.com
 0.0.0.0 liveanimaltv.com
 0.0.0.0 livehelpco.com
+0.0.0.0 livehirehub.com
 0.0.0.0 livelogs.xyz
 0.0.0.0 livemarketspro.net
 0.0.0.0 livenativehabitat.com
@@ -14038,7 +14065,10 @@
 0.0.0.0 nuzzar.click
 0.0.0.0 nvantan98.top
 0.0.0.0 nvbcloud.com
+0.0.0.0 nvidia-drive.cloud
 0.0.0.0 nvidia-graphics.top
+0.0.0.0 nvidia-release.org
+0.0.0.0 nvidia-release.us
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvize.com
 0.0.0.0 nvkykfldkfksykle.com
@@ -15690,6 +15720,7 @@
 0.0.0.0 proupload.xyz
 0.0.0.0 provenhandshakecap.com
 0.0.0.0 provicnwiqmp.shop
+0.0.0.0 provideodrivers.cloud
 0.0.0.0 providersmmpanel.in
 0.0.0.0 proviniclkaw.cfd
 0.0.0.0 provisionfusni.shop
@@ -15932,15 +15963,19 @@
 0.0.0.0 quialitsuzoxm.shop
 0.0.0.0 quibitexa.com
 0.0.0.0 quick-antivirus.com
+0.0.0.0 quickassessio.com
 0.0.0.0 quickbit.eu
 0.0.0.0 quickblendshop.com
 0.0.0.0 quickblockchains.com
 0.0.0.0 quickbooks2024.com
+0.0.0.0 quickhire360.com
+0.0.0.0 quickinterview360.com
 0.0.0.0 quicklyex.com
 0.0.0.0 quickmancer.site
 0.0.0.0 quickmoneyfx.com
 0.0.0.0 quickom.com
 0.0.0.0 quickorange.net
+0.0.0.0 quickskill-review.com
 0.0.0.0 quickuoso.site
 0.0.0.0 quickupdates.xyz
 0.0.0.0 quieretecentrosanitario.com
@@ -17830,6 +17865,8 @@
 0.0.0.0 skicloud-my.xyz
 0.0.0.0 skid.uno
 0.0.0.0 skidmark.kr
+0.0.0.0 skillhiretrack.com
+0.0.0.0 skillprooflab.com
 0.0.0.0 skillsagilitylab.com
 0.0.0.0 skineclaire.com
 0.0.0.0 skinnyjeanslove.cfd
@@ -17891,6 +17928,7 @@
 0.0.0.0 smartcya.com
 0.0.0.0 smartdealsradar.com
 0.0.0.0 smartdigitalcheck.com
+0.0.0.0 smartdriverfix.cloud
 0.0.0.0 smartfunding.sg
 0.0.0.0 smarthinking.pe
 0.0.0.0 smartlinkoffer.com
@@ -18751,8 +18789,12 @@
 0.0.0.0 taktimbirtipayivedekovayi.top
 0.0.0.0 taktmkafayikapattmkafayi.xyz
 0.0.0.0 talatlarholdngltd.net
+0.0.0.0 talentcheck.pro
 0.0.0.0 talented-friendly-price.glitch.me
+0.0.0.0 talenthiring360.com
 0.0.0.0 talentree.fi
+0.0.0.0 talentsnaptest.com
+0.0.0.0 talentview360.com
 0.0.0.0 talhaiti.com
 0.0.0.0 talkinwhitepod.fun
 0.0.0.0 talktalkchu.com
@@ -19049,6 +19091,7 @@
 0.0.0.0 tesslend.site
 0.0.0.0 tesslonline.site
 0.0.0.0 test-hf.su
+0.0.0.0 test-wolf.com
 0.0.0.0 test4-mcacademy.com
 0.0.0.0 test9977.tk
 0.0.0.0 testerwork.shop
@@ -19588,6 +19631,7 @@
 0.0.0.0 topservicebooster.com
 0.0.0.0 topsoftfree.com
 0.0.0.0 topsunglasseshop.com
+0.0.0.0 toptalentassess.com
 0.0.0.0 toptansanatisleri.gq
 0.0.0.0 toptechgiants.com
 0.0.0.0 toptechprivacy.cyou
@@ -20223,6 +20267,7 @@
 0.0.0.0 ug62r67uiijo2.com
 0.0.0.0 ugbswebakenyaltd.com
 0.0.0.0 ugeorunnog.xyz
+0.0.0.0 ugethired360.com
 0.0.0.0 uggaustralia.shop
 0.0.0.0 uggbootsonline.top
 0.0.0.0 uggm.website
@@ -20666,6 +20711,7 @@
 0.0.0.0 vbaint.com
 0.0.0.0 vbhfghgfjjfgd.online
 0.0.0.0 vc0038oti94ikr954.ml
+0.0.0.0 vcamdriverupdate.cloud
 0.0.0.0 vccfast.com
 0.0.0.0 vceilinichego.ru
 0.0.0.0 vcilimitado.com
@@ -20786,29 +20832,41 @@
 0.0.0.0 victoriaapartments.com.fj
 0.0.0.0 victoriaeath.top
 0.0.0.0 victoryoverdieting.com
+0.0.0.0 vid-crypto-assess.com
 0.0.0.0 vidasdesplazadas.org
+0.0.0.0 vidassess360.com
+0.0.0.0 vidassesspro.com
+0.0.0.0 vidcruiterinterview.com
+0.0.0.0 vidcruitermaster.com
 0.0.0.0 videdoshin.xyz
 0.0.0.0 video.streaming.estream.to
 0.0.0.0 video01.dorila.top
 0.0.0.0 video18ros.online
 0.0.0.0 videobbc.ru
 0.0.0.0 videobenefdii.shop
+0.0.0.0 videocarddrivers.cloud
 0.0.0.0 videocenter.org
 0.0.0.0 videocnn.ru
 0.0.0.0 videoconverterfree.com
 0.0.0.0 videocul.xyz
 0.0.0.0 videodownloadhelper.pro
+0.0.0.0 videodriverzone.cloud
 0.0.0.0 videoeast.ru
 0.0.0.0 videogoal.biz
 0.0.0.0 videoinspected.top
 0.0.0.0 videolan-web.org
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 videopool.ru
+0.0.0.0 videorecruitpro.com
 0.0.0.0 videospots.ru
 0.0.0.0 videosthatsuck.com
+0.0.0.0 videotechdrivers.cloud
+0.0.0.0 vidhirehub.com
+0.0.0.0 vidintermaster.com
 0.0.0.0 vidiotiktokviral.my.id
 0.0.0.0 vidnozflex.live
 0.0.0.0 vidpay.org
+0.0.0.0 vidtechhub.cloud
 0.0.0.0 viemon.xyz
 0.0.0.0 vietjetairkorea.com
 0.0.0.0 viewandsee.info
@@ -21154,6 +21212,7 @@
 0.0.0.0 weathersite.online
 0.0.0.0 weaverlcome.top
 0.0.0.0 weaves.top
+0.0.0.0 web-cam.cloud
 0.0.0.0 web-hosting.com
 0.0.0.0 web-lox.com
 0.0.0.0 web-morgan.com
@@ -21174,6 +21233,8 @@
 0.0.0.0 webappclick.net
 0.0.0.0 webassembly.stream
 0.0.0.0 webbandi.hu
+0.0.0.0 webcamdrivers.cloud
+0.0.0.0 webcamwizard.cloud
 0.0.0.0 webcashnft.com
 0.0.0.0 webcetsblog.com
 0.0.0.0 webdesignbrabant.net
@@ -22681,6 +22742,7 @@
 0.0.0.0 zenius.net
 0.0.0.0 zenonpub.com
 0.0.0.0 zenprod.com
+0.0.0.0 zenspiretech.com
 0.0.0.0 zentopayments.dk
 0.0.0.0 zenyatirim.org
 0.0.0.0 zer0-dust.com
