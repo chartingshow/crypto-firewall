@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 January 2025
+# Last modified: 2 April 2025
 #
 
 co.mona.android
@@ -136,6 +136,7 @@ ouyudz.wqrecg.blxal
 plnfexcq.fehlwuggm.kyxvb
 posteitaliane.posteapp.appbpol
 posteitaliane.posteapp.apppostepay
+quizzical.washbowl.calamity
 ru.fotostrana.sweetmeet
 tr.com.sekerbilisim.mbank
 tr.gov.turkiye.edevlet.kapisi
