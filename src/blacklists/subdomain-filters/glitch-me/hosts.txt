@@ -1,4 +1,4 @@
-# Crypto Firewall (Vercel App)
+# Crypto Firewall (Glitch Me)
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
@@ -7,6 +7,6 @@
 # Last modified: 2 April 2025
 #
 
-# Block vercel app sub-domains
-0.0.0.0 coinbase-walletconnectv4.vercel.app
-0.0.0.0 setting-raw-jushd.vercel.app
+# Block glitch me sub-domains
+0.0.0.0 clumsy-fir-mandible.glitch.me
+0.0.0.0 victorious-muddy-basin.glitch.me
