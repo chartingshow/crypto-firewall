@@ -8,6 +8,9 @@
 # Last modified: 2 April 2025
 #
 
+@bithighlander/bitcoin-cash-js-lib
+@crosswise-finance1/sdk-v2
+@keepkey/device-protocol
 @monicfoundation/hardhat-config
 @nomicfoundations/hardhat-config
 @nomicsfoundation/hardhat-config
@@ -17,9 +20,16 @@
 @nomisfoundation/hardhat-config
 @nomisfoundation/hardhat-configure
 @theoretical123/providers
+@travix/ui-themes
+@veniceswap/eslint-config-pancake
+@veniceswap/uikit
 array-empty-validator
 auth-validator
+babel-preset-travix
+bnb-javascript-sdk-nobroadcast
+country-currency-map
 crypto-nodes-validator
+eslint-config-travix
 ethers-provider2
 ethers-providerz
 event-handle-package
