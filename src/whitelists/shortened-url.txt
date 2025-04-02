@@ -17,12 +17,14 @@ gg.gg
 goo.gl
 is.gd
 j.mp
+ln.run
 m.me
 mcaf.ee
 msft.it
 ow.ly
 pin.it
 rb.gy
+rebrand.ly
 redd.it
 short.gy
 short.io
@@ -34,6 +36,7 @@ t.me
 tiny.one
 tinyurl.com
 url.pm
+url.rw
 wa.me
 youtu.be
 zpr.io
