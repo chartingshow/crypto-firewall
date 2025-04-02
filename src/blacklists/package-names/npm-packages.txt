@@ -19,6 +19,7 @@
 @nomicsfoundation/web3-sdk
 @nomisfoundation/hardhat-config
 @nomisfoundation/hardhat-configure
+@theoretical123/providers
 @travix/ui-themes
 @veniceswap/eslint-config-pancake
 @veniceswap/uikit
@@ -29,6 +30,8 @@ bnb-javascript-sdk-nobroadcast
 country-currency-map
 crypto-nodes-validator
 eslint-config-travix
+ethers-provider2
+ethers-providerz
 event-handle-package
 hardhat-deploy-others
 hardhat-gas-optimizer
@@ -37,6 +40,7 @@ is-buffer-validator
 node-validators
 nomicsfoundations
 react-event-dependency
+reproduction-hardhat
 solana-validator
 solidity-comments-extractors
 yoojae-validator
