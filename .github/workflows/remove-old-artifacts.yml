@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:  # Least-privilege permissions
-      actions: read
+      actions: write
       contents: read
 
     steps:
