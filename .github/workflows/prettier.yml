@@ -17,7 +17,7 @@ jobs:
     steps:
       # Pinned to specific SHA and verified creator
       - name: Checkout
-        uses: actions/checkout@4ca9d0e6e4a2b0c7e6b3b3c8b1d8a8f3c6e4b2a1  # Verified: GitHub official
+        uses: actions/checkout@4.2.2 # Verified: GitHub official
         with:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
