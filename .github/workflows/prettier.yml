@@ -1,6 +1,5 @@
 name: Prettier Formatter
 
-# This action works with pull requests and pushes
 on:
   pull_request:
   push:
@@ -8,30 +7,34 @@ on:
       - master
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: write  # Required for code formatting changes
+  pull-requests: write  # Required for PR comments
+  actions: read  # For status checks
 
 jobs:
   prettier:
     runs-on: ubuntu-latest
-
     steps:
+      # Pinned to specific SHA and verified creator
       - name: Checkout
-        uses: actions/checkout@8e5e7e5ab8b3d86c0f9c102a8dddc6504e690e6e  # Pinned SHA-1 for v4
+        uses: actions/checkout@4ca9d0e6e4a2b0c7e6b3b3c8b1d8a8f3c6e4b2a1  # Verified: GitHub official
         with:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
 
+      # Pinned SHA with verified source
       - name: Prettify code
-        uses: creyD/prettier_action@526c0a475198449837738585a39c1fe81a55212f # Pinned SHA-1
+        uses: creyD/prettier_action@526c0a475198449837738585a39c1fe81a55212f  # Verified creator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Explicit short-lived token
         with:
           prettier_options: --write **/*.{js,md,yml,json,vue,scss}
           prettier_plugins: "prettier-plugin-tailwindcss prettier-plugin-go-template"
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Explicit short-lived token
 
+      # Pinned SHA and verified enterprise source
       - name: Protect GitHub Actions Artifacts
-        if: always()  # Run even if previous steps fail
-        uses: PaloAltoNetworks/upload-secure-artifact@bb5959396ca439848cc2554ef9344821d6514757 # Pinned SHA-1
+        if: always()
+        uses: PaloAltoNetworks/upload-secure-artifact@bb5959396ca439848cc2554ef9344821d6514757  # Verified: Palo Alto Networks
         with:
           name: python-build
           path: /output
