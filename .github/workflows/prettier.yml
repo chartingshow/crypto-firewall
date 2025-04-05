@@ -34,7 +34,7 @@ jobs:
       # Pinned SHA and verified enterprise source
       - name: Protect GitHub Actions Artifacts
         if: always()
-        uses: PaloAltoNetworks/upload-secure-artifact@bb5959396ca439848cc2554ef9344821d6514757  # Verified: Palo Alto Networks
+        uses: PaloAltoNetworks/upload-secure-artifact@v1.0.5  # Verified: Palo Alto Networks
         with:
           name: python-build
           path: /output
