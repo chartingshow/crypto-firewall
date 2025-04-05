@@ -24,7 +24,7 @@ jobs:
 
       # Pinned SHA with verified source
       - name: Prettify code
-        uses: creyD/prettier_action@526c0a475198449837738585a39c1fe81a55212f  # Verified creator
+        uses: creyD/prettier_action@4.3 # Verified creator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Explicit short-lived token
         with:
