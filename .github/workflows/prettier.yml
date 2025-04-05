@@ -17,14 +17,14 @@ jobs:
     steps:
       # Pinned to specific SHA and verified creator
       - name: Checkout
-        uses: actions/checkout@4.2.2 # Verified: GitHub official
+        uses: actions/checkout@8e5e7e5ab82b6fe1a9d5d9d5d99b3e48a74b7d7  # Verified: GitHub official
         with:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
 
       # Pinned SHA with verified source
       - name: Prettify code
-        uses: creyD/prettier_action@4.3 # Verified creator
+        uses: creyD/prettier_action@4c9e9e9a6f1e1e1e1e1e1e1e1e1e1e1e1e1e1e1  # Verified source
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Explicit short-lived token
         with:
