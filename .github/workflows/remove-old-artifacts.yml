@@ -15,14 +15,14 @@ jobs:
 
     steps:
       - name: Remove old artifacts
-        uses: c-hive/gha-remove-artifacts@8e5e7e5ab2d424056317c6e1d7d39a6e5e5a8e6f  # Pinned SHA-1 hash
+        uses: c-hive/gha-remove-artifacts@v1.4.0
         with:
           age: '1 month'
           # skip-tags: true  # Optional: Uncomment to preserve tagged artifacts
           # skip-recent: 5   # Optional: Uncomment to preserve recent artifacts
 
       - name: Protect GitHub Actions Artifacts
-        uses: PaloAltoNetworks/upload-secure-artifact@d1f2e3c4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d  # Pinned SHA-1 hash
+        uses: PaloAltoNetworks/upload-secure-artifact@v1.0.5  # Verified: Palo Alto Networks
         with:
           name: python-build
           path: /output
