@@ -2,27 +2,30 @@ name: Update module assets (daily)
 
 on:
   schedule:
-    - cron: "5 8 * * 0"
+    - cron: "5 8 * * 0"  # Runs every Sunday at 08:05 UTC
   workflow_dispatch:
 
 jobs:
   publish:
     permissions:
-      contents: write  # for Git to git push
+      contents: write  # Minimal permission needed for git push
+      actions: read    # For status checks
+      
     name: Update module assets
     runs-on: ubuntu-latest
     steps:
+      # Input validation for repository owner
       - name: Repo check
         run: |
           if [[ "$GITHUB_REPOSITORY_OWNER" != "chartingshow" ]]; then
             echo "This GitHub Action is meant to deliver filter lists for crypto-firewall."
             echo "You shouldn't need to run this GitHub Action in your fork."
-            echo "If you do, please customize the cron expression above."
             exit 1
           fi
 
+      # Pinned SHA for security
       - name: Clone uAssets
-        uses: actions/checkout@v4
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11  # v4.1.1 SHA
 
       - name: Install wget
         run: sudo apt-get update && sudo apt-get install -y wget
@@ -33,17 +36,20 @@ jobs:
           ./tools/update-modules.sh
 
       - name: Commit changes, if any
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Short-lived token
         run: |
           if [[ -n $(git diff) ]]; then
-            git config user.name "github-actions bot"
-            git config user.email "<>"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -u thirdparties/
             git commit -m "Update all module assets"
             git push origin ${GITHUB_REF##*/}
           fi
 
+      # Pinned SHA and verified creator
       - name: Protect GitHub Actions Artifacts
-        uses: PaloAltoNetworks/upload-secure-artifact@main
+        uses: PaloAltoNetworks/upload-secure-artifact@bb5959396ca439848cc2554ef9344821d6514757 # Pinned SHA-1
         with:
           name: python-build
           path: /output
