@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 April 2025
+# Last modified: 9 April 2025
 #
 
 # Extras (comment out if needed)
@@ -2103,6 +2103,7 @@
 0.0.0.0 asdasdadskewk.shop
 0.0.0.0 asdbgbwi8ww.icu
 0.0.0.0 asdboloa.com
+0.0.0.0 asdf11.xyz
 0.0.0.0 asdijoisad87ay3.cn
 0.0.0.0 asdjdoo3vsd.icu
 0.0.0.0 asdjjasdhioasdia.online
@@ -14007,6 +14008,7 @@
 0.0.0.0 myacademia.net
 0.0.0.0 myanmardrug.com
 0.0.0.0 myanmargolffederation.org
+0.0.0.0 myaunet.su
 0.0.0.0 mybaam.site
 0.0.0.0 mybabezacademy.com
 0.0.0.0 mybabyrose.com
