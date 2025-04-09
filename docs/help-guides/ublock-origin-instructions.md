@@ -82,7 +82,7 @@ Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
     *   Targets specific elements on social media platforms to remove promoted content.
 
 3.  **TradingView Annoyances**:
-    *   Hides popups, notifications, and other distracting elements on TradingView.
+    *   Hides popups, notifications and other distracting elements on TradingView.
     *   Blocks telemetry and tracking scripts.
 
 4.  **Exchange Blocks**:
