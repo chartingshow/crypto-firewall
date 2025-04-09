@@ -6,7 +6,7 @@
  *              This scriptlet checks URLs against blacklists of known threats,
  *              covering npm packages, Chrome extensions, PyPI packages, and Firebase
  *              projects, alerting users when they encounter potentially harmful content.
- * @version 1.0.1
+ * @version 1.0.4
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -30,6 +30,8 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/package-names/firebase-projects.txt',
     'chrome.extension':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/package-names/chrome-extension-ids.txt',
+    'marketplace.visualstudio.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/package-names/vscode-packages.txt',
   }
 
   // Function to fetch a blacklist from a URL
@@ -94,6 +96,18 @@
   // Check for Chrome extensions
   else if (currentHostname === 'chrome.google.com') {
     checkURLAgainstBlacklist('chrome.extension')
+  }
+  // Check for Visual Studio Marketplace
+  else if (currentHostname === 'marketplace.visualstudio.com') {
+    checkURLAgainstBlacklist('marketplace.visualstudio.com')
+  }
+  // Check for PyPI packages
+  else if (currentHostname === 'pypi.org') {
+    checkURLAgainstBlacklist('pypi.org')
+  }
+  // Check for npm packages
+  else if (currentHostname === 'npmjs.com') {
+    checkURLAgainstBlacklist('npmjs.com')
   } else {
     checkURLAgainstBlacklist(currentHostname)
   }
