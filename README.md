@@ -119,13 +119,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 #### Crypto Annoyances (Optional Step) 🚀
 
-The file `crypto-annoyances-adblock.txt` is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms.
-
-```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt
-```
-
-Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
+The file [crypto-annoyances-adblock.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt) is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms. Here's a breakdown of what it does:
 
 1.  **General Annoyance Blocking**:
 
