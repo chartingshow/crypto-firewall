@@ -79,17 +79,18 @@ Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
     *   Blocks cookie consent prompts and banners.
 
 2.  **Social Media Blocks**:
-    *   Targets specific elements on Twitter to remove promoted content.
+    *   Targets specific elements on social media platforms to remove promoted content.
 
 3.  **TradingView Annoyances**:
     *   Hides popups, notifications, and other distracting elements on TradingView.
     *   Blocks telemetry and tracking scripts.
 
 4.  **Exchange Blocks**:
-    *   Removes compliance banners on Binance.
+    *   Removes compliance banners on Binance, Coinbase and other crypto exchanges.
+    *   Removes banners and pop-ups.
 
 5.  **Crypto Blocks**:
-    *   Targets various cryptocurrency-related websites (Coinbase, CoinGecko, CoinMarketCap, etc.).
-    *   Hides or removes elements such as ads, banners, social media feeds, and other promotional content.
+    *   Targets various cryptocurrency-related websites (CoinGecko, CoinMarketCap, etc.).
+    *   Hides or removes elements such as ads, banners, social media feeds and other promotional content.
 
-In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads, and tracking mechanisms.
+In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads and tracking mechanisms.
