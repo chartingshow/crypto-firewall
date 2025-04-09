@@ -1,10 +1,10 @@
 # Title: VN Malicious Hosts Blocklist
 # Description: Block malicious domains targeting Vietnamese users
-# Updated: 2023-11-09T12:01:00Z
+# Updated: 2025-04-09T12:02:20Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/vn-badsite-filter
 # License: https://gitlab.com/malware-filter/vn-badsite-filter#license
-# Source: https://api.chongluadao.vn/v2/blacklistdomains & https://api.chongluadao.vn/v2/blacklistlinks
+# Source: https://api.chongluadao.vn/v2/blacklistdomains
 0.0.0.0 000000.live
 0.0.0.0 0000a.net
 0.0.0.0 001130084.com
@@ -227,7 +227,6 @@
 0.0.0.0 2022692.com
 0.0.0.0 2022ons.com
 0.0.0.0 203510.com
-0.0.0.0 207.148.115.161
 0.0.0.0 20hotlive.vip
 0.0.0.0 20luxury.com
 0.0.0.0 20qby83.cn

@@ -32,7 +32,8 @@ You will require **escalated privileges** to edit the file (use `sudo` for Linux
 
 2. Now simply copy and paste the contents from the file found below by **adding it** into your `hosts` file.
 
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
 
 3. Save the `hosts` file and you're done. MAC will automatically block the websites listed in the crypto firewall.
 
