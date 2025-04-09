@@ -42,47 +42,47 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 - [Table of Contents 📑](#table-of-contents---)
 - [Installation ❤️](#installation---)
-  * [Browser Blocking 🌟](#browser-blocking---)
-    + [Recommended Choice ⭐](#recommended-choice--)
-    + [Other Browser Choices ✨](#other-browser-choices--)
-    + [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances--optional-step----)
-    + [Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬](#manifest-v3--how-google-chrome-s-update-affects-ad-blockers---)
-  * [Operating System Blocking 🌟](#operating-system-blocking---)
+  - [Browser Blocking 🌟](#browser-blocking---)
+    - [Recommended Choice ⭐](#recommended-choice--)
+    - [Other Browser Choices ✨](#other-browser-choices--)
+    - [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances--optional-step----)
+    - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬](#manifest-v3--how-google-chrome-s-update-affects-ad-blockers---)
+  - [Operating System Blocking 🌟](#operating-system-blocking---)
 - [Basic usage 🔥](#basic-usage---)
 - [Recommended versions ✅](#recommended-versions--)
-  * [Stable Versions 🏆](#stable-versions---)
-    + [Lite Version](#lite-version)
-    + [Full Version](#full-version)
-    + [Mega Version](#mega-version)
-  * [Unstable Beta Version ⚠️](#unstable-beta-version---)
+  - [Stable Versions 🏆](#stable-versions---)
+    - [Lite Version](#lite-version)
+    - [Full Version](#full-version)
+    - [Mega Version](#mega-version)
+  - [Unstable Beta Version ⚠️](#unstable-beta-version---)
 - [Hosts based blocking 💢](#hosts-based-blocking---)
-  * [Adblockers ☀️](#adblockers---)
-  * [Perimeter blocking 🔓](#perimeter-blocking---)
+  - [Adblockers ☀️](#adblockers---)
+  - [Perimeter blocking 🔓](#perimeter-blocking---)
 - [Free DNS / Hosting blocking 🆓](#free-dns---hosting-blocking---)
 - [Malicious Package Names blocking 👨‍💻](#malicious-package-names-blocking------)
 - [Autonomous System Number (ASN) blocking 🗃️](#autonomous-system-number--asn--blocking----)
 - [IP blocking 🌐](#ip-blocking---)
-  * [Custom IP Block Lists 📋](#custom-ip-block-lists---)
+  - [Custom IP Block Lists 📋](#custom-ip-block-lists---)
 - [Email blocking 📧](#email-blocking---)
 - [Nuisance and scam calling telephone numbers blocking ☎️](#nuisance-and-scam-calling-telephone-numbers-blocking---)
 - [Fraudulent cryptocurrency wallet addresses 🕵️](#fraudulent-cryptocurrency-wallet-addresses----)
 - [Fraudulent cryptocurrency mining pool addresses 🦈](#fraudulent-cryptocurrency-mining-pool-addresses---)
 - [OFAC sanctioned digital currency addresses 🚫](#ofac-sanctioned-digital-currency-addresses---)
-  * [How do we define sanctions data?](#how-do-we-define-sanctions-data-)
+  - [How do we define sanctions data?](#how-do-we-define-sanctions-data-)
 - [Ad server blocking 🇦🇩](#ad-server-blocking-----)
 - [Modules ⚙️](#modules---)
 - [Issues 🔨](#issues---)
 - [Changelog 🏆](#changelog---)
 - [If you like the Charting Show project 💗💗💗](#if-you-like-the-charting-show-project-------)
-  * [Sponsors ✨](#sponsors--)
-  * [Backers ✨](#backers--)
+  - [Sponsors ✨](#sponsors--)
+  - [Backers ✨](#backers--)
 - [Contributions, Feature Requests and Feedback ✨](#contributions--feature-requests-and-feedback--)
 - [Requesting icon 🎁](#requesting-icon---)
 - [Security 💥](#security---)
 - [Semantic Versioning 🎁](#semantic-versioning---)
 - [Legal 🔨](#legal---)
 - [Copyright and License 📄](#copyright-and-license---)
-  * [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the--stargazers--who-have-supported-this-project-with-stars---)
+  - [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the--stargazers--who-have-supported-this-project-with-stars---)
 
 ## Installation ❤️
 
@@ -129,23 +129,27 @@ https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blackl
 Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
 
 1.  **General Annoyance Blocking**:
-    *   Removes parameters from URLs (like `utm_` parameters used for tracking).
-    *   Blocks cookie consent prompts and banners.
+
+    - Removes parameters from URLs (like `utm_` parameters used for tracking).
+    - Blocks cookie consent prompts and banners.
 
 2.  **Social Media Blocks**:
-    *   Targets specific elements on social media platforms to remove promoted content.
+
+    - Targets specific elements on social media platforms to remove promoted content.
 
 3.  **TradingView Annoyances**:
-    *   Hides popups, notifications and other distracting elements on TradingView.
-    *   Blocks telemetry and tracking scripts.
+
+    - Hides popups, notifications and other distracting elements on TradingView.
+    - Blocks telemetry and tracking scripts.
 
 4.  **Exchange Blocks**:
-    *   Removes compliance banners on Binance, Coinbase and other crypto exchanges.
-    *   Removes banners and pop-ups.
+
+    - Removes compliance banners on Binance, Coinbase and other crypto exchanges.
+    - Removes banners and pop-ups.
 
 5.  **Crypto Blocks**:
-    *   Targets various cryptocurrency-related websites (CoinGecko, CoinMarketCap, etc.).
-    *   Hides or removes elements such as ads, banners, social media feeds and other promotional content.
+    - Targets various cryptocurrency-related websites (CoinGecko, CoinMarketCap, etc.).
+    - Hides or removes elements such as ads, banners, social media feeds and other promotional content.
 
 In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads and tracking mechanisms.
 
