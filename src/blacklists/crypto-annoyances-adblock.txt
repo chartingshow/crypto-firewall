@@ -41,6 +41,7 @@ www.tradingview.com##.tv-toasts
 www.tradingview.com##:matches-path(/ideas) body.i-no-scroll:style(overflow: auto !important)
 www.tradingview.com##:matches-path(/scripts) body.i-no-scroll:style(overflow: auto !important)
 www.tradingview.com##[class^=backdrop]
+www.tradingview.com##[class^=counterRow-I]
 www.tradingview.com##[class^=notifications]
 www.tradingview.com##[class^=toast-wrapper]
 www.tradingview.com##[class^=toast]
