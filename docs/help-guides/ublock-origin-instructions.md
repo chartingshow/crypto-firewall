@@ -61,3 +61,35 @@ Example:
 After that the clock icon will change and you then click on the **Update Now** button to get the latest filter list protection.
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock/8.jpg" /></p>
+
+### Crypto Annoyances (Optional Step)
+
+The file `crypto-annoyances-adblock.txt` is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms.
+
+You can add this extra filter list by repeating steps 4 and 5 and using this the below url:
+
+```
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt
+```
+
+Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
+
+1.  **General Annoyance Blocking**:
+    *   Removes parameters from URLs (like `utm_` parameters used for tracking).
+    *   Blocks cookie consent prompts and banners.
+
+2.  **Social Media Blocks**:
+    *   Targets specific elements on Twitter to remove promoted content.
+
+3.  **TradingView Annoyances**:
+    *   Hides popups, notifications, and other distracting elements on TradingView.
+    *   Blocks telemetry and tracking scripts.
+
+4.  **Exchange Blocks**:
+    *   Removes compliance banners on Binance.
+
+5.  **Crypto Blocks**:
+    *   Targets various cryptocurrency-related websites (Coinbase, CoinGecko, CoinMarketCap, etc.).
+    *   Hides or removes elements such as ads, banners, social media feeds, and other promotional content.
+
+In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads, and tracking mechanisms.

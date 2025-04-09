@@ -50,7 +50,6 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Mega Version](#mega-version)
   - [Unstable Beta Version](#unstable-beta-version-%EF%B8%8F)
 - [Hosts based blocking](#hosts-based-blocking-)
-  - [Hosts](#hosts-)
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
@@ -221,21 +220,8 @@ For more instructions check out our Hosts File instructions guides:
 
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts.txt)
-
-### Hosts 💾
-
-You can simply copy and paste the contents of above file into your hosts file. The locations of your hosts file depends on your system:
-
-- Linux: `/etc/hosts`
-- MacOS: `/etc/hosts`
-- Windows: `C:\Windows\System32\drivers\etc\hosts`
-
-Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows). Or you can use command below for linux
-
-```
-sudo -- sh -c 'curl -sS https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/hosts.txt >> /etc/hosts'
-```
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
 
 ### Adblockers ☀️
 
@@ -280,6 +266,7 @@ IP Addresses can also be blocked, these contain things such as command-and-contr
 The IP block list can be found here:
 
 - [IP Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt)
+- [IP Filter AdBlock List](https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt)
 
 For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder:
 
@@ -359,6 +346,7 @@ This repo contains various filter list modules, which users can check out in the
 
 - [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
 - [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
+- [Crypto Annoyances Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/crypto-annoyances-adblock.txt)
 - [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
 - [Fraud Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fraud-filters)
 - [Malicious Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malicious-filters)
