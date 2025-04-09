@@ -6,7 +6,7 @@
  *              This scriptlet checks URLs against blacklists of known threats,
  *              covering npm packages, Chrome extensions, PyPI packages, and Firebase
  *              projects, alerting users when they encounter potentially harmful content.
- * @version 1.0.3
+ * @version 1.0.4
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -104,6 +104,10 @@
   // Check for PyPI packages
   else if (currentHostname === 'pypi.org') {
     checkURLAgainstBlacklist('pypi.org')
+  }
+  // Check for npm packages
+  else if (currentHostname === 'npmjs.com') {
+    checkURLAgainstBlacklist('npmjs.com')
   } else {
     checkURLAgainstBlacklist(currentHostname)
   }
