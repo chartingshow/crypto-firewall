@@ -87,7 +87,12 @@ async function updateThreatListIfNeeded() {
 
         try {
           const fd = fs.openSync(tempFilePath, fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR, 0o600);
-          fs.writeFileSync(fd, JSON.stringify(validateThreatList(freshThreats), null, 2));
+          const validatedThreatList = validateThreatList(freshThreats);
+          if (validatedThreatList && Array.isArray(validatedThreatList)) {
+            fs.writeFileSync(fd, JSON.stringify(validatedThreatList, null, 2));
+          } else {
+            throw new Error('Threat list validation failed');
+          }
           fs.closeSync(fd);
           fs.renameSync(tempFilePath, THREAT_LIST_PATH);
           console.log('✅ Threat list updated');
