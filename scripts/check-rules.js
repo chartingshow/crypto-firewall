@@ -46,6 +46,17 @@ async function fetchLatestThreatList() {
 }
 
 /**
+ * Sanitizes and validates the structure of the threat list
+ */
+function sanitizeThreatList(threatList) {
+  return threatList.map((threat) => ({
+    package: threat.package.trim(),
+    versions: threat.versions.trim(),
+    reason: threat.reason.trim(),
+  }));
+}
+
+/**
  * Validates the structure of the threat list
  */
 function validateThreatList(threatList) {
@@ -69,43 +80,45 @@ function validateThreatList(threatList) {
  */
 async function updateThreatListIfNeeded() {
   try {
-    let shouldUpdate = false;
+    let shouldUpdate = false
 
     if (!fs.existsSync(THREAT_LIST_PATH)) {
-      shouldUpdate = true;
+      shouldUpdate = true
     } else {
-      const stats = fs.statSync(THREAT_LIST_PATH);
-      const lastModified = new Date(stats.mtime).getTime();
-      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL;
+      const stats = fs.statSync(THREAT_LIST_PATH)
+      const lastModified = new Date(stats.mtime).getTime()
+      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL
     }
 
     if (shouldUpdate) {
-      console.log('🔍 Checking for updated threat list...');
-      const freshThreats = await fetchLatestThreatList();
-      if (freshThreats) {
-        const tempFilePath = `${THREAT_LIST_PATH}.tmp`;
+      console.log('🔍 Checking for updated threat list...')
+      const freshThreats = await fetchLatestThreatList()
+            JSON.stringify(validateThreatList(sanitizeThreatList(freshThreats)), null, 2),
+        const tempFilePath = `${THREAT_LIST_PATH}.tmp`
 
         try {
-          const fd = fs.openSync(tempFilePath, fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR, 0o600);
-          const validatedThreatList = validateThreatList(freshThreats);
-          if (validatedThreatList && Array.isArray(validatedThreatList)) {
-            fs.writeFileSync(fd, JSON.stringify(validatedThreatList, null, 2));
-          } else {
-            throw new Error('Threat list validation failed');
-          }
-          fs.closeSync(fd);
-          fs.renameSync(tempFilePath, THREAT_LIST_PATH);
-          console.log('✅ Threat list updated');
+          const fd = fs.openSync(
+            tempFilePath,
+            fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR,
+            0o600,
+          )
+          fs.writeFileSync(
+            fd,
+            JSON.stringify(validateThreatList(freshThreats), null, 2),
+          )
+          fs.closeSync(fd)
+          fs.renameSync(tempFilePath, THREAT_LIST_PATH)
+          console.log('✅ Threat list updated')
         } catch (error) {
           if (fs.existsSync(tempFilePath)) {
-            fs.unlinkSync(tempFilePath);
+            fs.unlinkSync(tempFilePath)
           }
-          throw error;
+          throw error
         }
       }
     }
   } catch (error) {
-    console.warn('⚠️  Threat list update check failed:', error.message);
+    console.warn('⚠️  Threat list update check failed:', error.message)
   }
 }
 function loadThreatList() {
