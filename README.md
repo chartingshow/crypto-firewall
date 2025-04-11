@@ -41,7 +41,12 @@ If you discover a false positive or need to add a new block, then feel free to r
 ## Table of Contents 📑
 
 - [Installation](#installation-%EF%B8%8F)
-  - [AdBlock Filter](#adblock-filter-)
+  - [Browser Blocking](#browser-blocking-)
+    - [Recommended Choice](#recommended-choice-)
+    - [Other Browser Choices](#other-browser-choices-)
+    - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
+    - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
+  - [Operating System Blocking](#operating-system-blocking-)
 - [Basic usage](#basic-usage-)
 - [Recommended versions](#recommended-versions-)
   - [Stable Versions](#stable-versions-)
@@ -56,14 +61,14 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Malicious Package Names blocking](#malicious-package-names-blocking-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
-  - [Custom IP block lists](#custom-ip-block-lists-)
+  - [Custom IP Block Lists](#custom-ip-block-lists-)
 - [Email blocking](#email-blocking-)
 - [Nuisance and scam calling telephone numbers blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-%EF%B8%8F)
 - [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
-- [OFAC Sanctioned Digital Currency Addresses](#ofac-sanctioned-digital-currency-addresses-)
+- [OFAC sanctioned digital currency addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
-- [Ad server blocking](#ad-server-blocking-)
+- [Ad server blocking 🇦🇩](#ad-server-blocking-)
 - [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
@@ -76,7 +81,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Semantic Versioning](#semantic-versioning-)
 - [Legal](#legal-)
 - [Copyright and License](#copyright-and-license-)
-  - [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
+  - [Many Thanks to all the `Stargazers` who have supported this project with stars](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
 
 ## Installation ❤️
 
@@ -111,6 +116,35 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 - ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser**: Available for Android and iOS devices with built-in ad blocking.
 
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser**: Includes ad blocking by default since Opera 50.
+
+#### Crypto Annoyances (Optional Step) 🚀
+
+The file [crypto-annoyances-adblock.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt) is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms. Here's a breakdown of what it does:
+
+1.  **General Annoyance Blocking**:
+
+    - Removes parameters from URLs (like `utm_` parameters used for tracking).
+    - Blocks cookie consent prompts and banners.
+
+2.  **Social Media Blocks**:
+
+    - Targets specific elements on social media platforms to remove promoted content.
+
+3.  **TradingView Annoyances**:
+
+    - Hides popups, notifications and other distracting elements on TradingView.
+    - Blocks telemetry and tracking scripts.
+
+4.  **Exchange Blocks**:
+
+    - Removes compliance banners on Binance, Coinbase and other crypto exchanges.
+    - Removes banners and pop-ups.
+
+5.  **Crypto Blocks**:
+    - Targets various cryptocurrency-related websites (CoinGecko, CoinMarketCap, etc.).
+    - Hides or removes elements such as ads, banners, social media feeds and other promotional content.
+
+In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads and tracking mechanisms.
 
 #### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
 
@@ -346,7 +380,6 @@ This repo contains various filter list modules, which users can check out in the
 
 - [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
 - [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
-- [Crypto Annoyances Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/crypto-annoyances-adblock.txt)
 - [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
 - [Fraud Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fraud-filters)
 - [Malicious Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malicious-filters)
