@@ -80,47 +80,47 @@ function validateThreatList(threatList) {
  */
 async function updateThreatListIfNeeded() {
   try {
-    let shouldUpdate = false
+    let shouldUpdate = false;
 
     if (!fs.existsSync(THREAT_LIST_PATH)) {
-      shouldUpdate = true
+      shouldUpdate = true;
     } else {
-      const stats = fs.statSync(THREAT_LIST_PATH)
-      const lastModified = new Date(stats.mtime).getTime()
-      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL
+      const stats = fs.statSync(THREAT_LIST_PATH);
+      const lastModified = new Date(stats.mtime).getTime();
+      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL;
     }
 
     if (shouldUpdate) {
-      console.log('🔍 Checking for updated threat list...')
-      const freshThreats = await fetchLatestThreatList()
-            JSON.stringify(validateThreatList(sanitizeThreatList(freshThreats)), null, 2),
-        const tempFilePath = `${THREAT_LIST_PATH}.tmp`
+      console.log('🔍 Checking for updated threat list...');
+      const freshThreats = await fetchLatestThreatList();
+
+      if (freshThreats) {
+        const sanitizedThreats = validateThreatList(sanitizeThreatList(freshThreats));
+        const tempFilePath = `${THREAT_LIST_PATH}.tmp`;
 
         try {
           const fd = fs.openSync(
             tempFilePath,
             fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR,
             0o600,
-          )
-          fs.writeFileSync(
-            fd,
-            JSON.stringify(validateThreatList(freshThreats), null, 2),
-          )
-          fs.closeSync(fd)
-          fs.renameSync(tempFilePath, THREAT_LIST_PATH)
-          console.log('✅ Threat list updated')
+          );
+          fs.writeFileSync(fd, JSON.stringify(sanitizedThreats, null, 2));
+          fs.closeSync(fd);
+          fs.renameSync(tempFilePath, THREAT_LIST_PATH);
+          console.log('✅ Threat list updated');
         } catch (error) {
           if (fs.existsSync(tempFilePath)) {
-            fs.unlinkSync(tempFilePath)
+            fs.unlinkSync(tempFilePath);
           }
-          throw error
+          throw error;
         }
       }
     }
   } catch (error) {
-    console.warn('⚠️  Threat list update check failed:', error.message)
+    console.warn('⚠️  Threat list update check failed:', error.message);
   }
 }
+
 function loadThreatList() {
   try {
     if (fs.existsSync(THREAT_LIST_PATH)) {
@@ -147,29 +147,29 @@ function isMalicious(pkgName, pkgVersion) {
  */
 function scanDependencies() {
   try {
-    const packageJson = JSON.parse(fs.readFileSync('package.json', 'utf8'))
-    const lockfile = JSON.parse(fs.readFileSync('package-lock.json', 'utf8'))
+    const packageJson = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+    const lockfile = JSON.parse(fs.readFileSync('package-lock.json', 'utf8'));
 
     const allDeps = {
       ...packageJson.dependencies,
       ...packageJson.devDependencies,
       ...packageJson.optionalDependencies,
-    }
+    };
 
-    let hasMalicious = false
+    let hasMalicious = false;
 
     Object.entries(allDeps).forEach(([name, versionRange]) => {
-      const pkgVersion = lockfile.packages[`node_modules/${name}`]?.version
+      const pkgVersion = lockfile.packages?.[`node_modules/${name}`]?.version;
       if (pkgVersion && isMalicious(name, pkgVersion)) {
-        console.error(`❌ MALICIOUS: ${name}@${pkgVersion}`)
-        hasMalicious = true
+        console.error(`❌ MALICIOUS: ${name}@${pkgVersion}`);
+        hasMalicious = true;
       }
-    })
+    });
 
-    return !hasMalicious
+    return !hasMalicious;
   } catch (error) {
-    console.error('❌ Dependency scan failed:', error.message)
-    return false
+    console.error('❌ Dependency scan failed:', error.message);
+    return false;
   }
 }
 
