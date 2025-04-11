@@ -1,0 +1,73 @@
+[
+  {
+    "package": "ethers-provider2",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Injects persistent reverse shell into ethers.js via SSH2 trojanization",
+    "discovered": "2025-03-26",
+    "remediation": "Audit all ethers.js installations for modified provider-jsonrpc.js"
+  },
+  {
+    "package": "ethers-providerz",
+    "versions": "*",
+    "type": "supply-chain", 
+    "severity": "critical",
+    "description": "Backdoors @ethersproject/providers with C2 to 5[.]199[.]166[.]1:31337",
+    "discovered": "2025-03-26",
+    "remediation": "Reinstall @ethersproject/providers from verified source"
+  },
+  {
+    "package": "pdf-to-office", 
+    "versions": "^1.1.2",
+    "type": "crypto-theft",
+    "severity": "critical",
+    "description": "Swaps Atomic/Exodus wallet addresses during transactions",
+    "discovered": "2025-04-08",
+    "remediation": "Verify wallet addresses with secondary confirmation"
+  },
+  {
+    "package": "country-currency-map",
+    "versions": "2.1.8",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Exfiltrates API keys via Slack webhooks",
+    "discovered": "2025-04-02",
+    "remediation": "Rotate all exposed API keys"
+  },
+  {
+    "package": "bnb-javascript-sdk-nobroadcast",
+    "versions": "2.16.16",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Collects environment variables and system info",
+    "discovered": "2025-04-02"
+  },
+  {
+    "package": "@bithighlander/bitcoin-cash-js-lib",
+    "versions": "5.2.2",
+    "type": "account-takeover",
+    "severity": "high",
+    "description": "Maintainer account compromised and package trojanized",
+    "discovered": "2025-04-02",
+    "remediation": "Use @bitcoin-cash-js/lib instead"
+  },
+  {
+    "package": "reproduction-hardhat",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Suspected companion to ethers-provider* attacks",
+    "discovered": "2025-03-27",
+    "status": "investigating"
+  },
+  {
+    "package": "@theoretical123/providers",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Linked to same infrastructure as ethers-providerz",
+    "discovered": "2025-03-27",
+    "status": "investigating"
+  }
+]
