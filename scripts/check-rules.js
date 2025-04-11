@@ -69,38 +69,45 @@ function validateThreatList(threatList) {
  */
 async function updateThreatListIfNeeded() {
   try {
-    let shouldUpdate = false;
+    let shouldUpdate = false
 
     if (!fs.existsSync(THREAT_LIST_PATH)) {
-      shouldUpdate = true;
+      shouldUpdate = true
     } else {
-      const stats = fs.statSync(THREAT_LIST_PATH);
-      const lastModified = new Date(stats.mtime).getTime();
-      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL;
+      const stats = fs.statSync(THREAT_LIST_PATH)
+      const lastModified = new Date(stats.mtime).getTime()
+      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL
     }
 
     if (shouldUpdate) {
-      console.log('🔍 Checking for updated threat list...');
-      const freshThreats = await fetchLatestThreatList();
+      console.log('🔍 Checking for updated threat list...')
+      const freshThreats = await fetchLatestThreatList()
       if (freshThreats) {
-        const tempFilePath = `${THREAT_LIST_PATH}.tmp`;
+        const tempFilePath = `${THREAT_LIST_PATH}.tmp`
 
         try {
-          const fd = fs.openSync(tempFilePath, fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR, 0o600);
-          fs.writeFileSync(fd, JSON.stringify(validateThreatList(freshThreats), null, 2));
-          fs.closeSync(fd);
-          fs.renameSync(tempFilePath, THREAT_LIST_PATH);
-          console.log('✅ Threat list updated');
+          const fd = fs.openSync(
+            tempFilePath,
+            fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR,
+            0o600,
+          )
+          fs.writeFileSync(
+            fd,
+            JSON.stringify(validateThreatList(freshThreats), null, 2),
+          )
+          fs.closeSync(fd)
+          fs.renameSync(tempFilePath, THREAT_LIST_PATH)
+          console.log('✅ Threat list updated')
         } catch (error) {
           if (fs.existsSync(tempFilePath)) {
-            fs.unlinkSync(tempFilePath);
+            fs.unlinkSync(tempFilePath)
           }
-          throw error;
+          throw error
         }
       }
     }
   } catch (error) {
-    console.warn('⚠️  Threat list update check failed:', error.message);
+    console.warn('⚠️  Threat list update check failed:', error.message)
   }
 }
 function loadThreatList() {

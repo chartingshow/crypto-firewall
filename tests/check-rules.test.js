@@ -1,5 +1,5 @@
 import fs from 'fs'
-import { scanDependencies } from './check-rules'
+import {scanDependencies} from './check-rules'
 
 // scripts/check-rules.test.js
 
@@ -12,11 +12,11 @@ describe('scanDependencies', () => {
 
   test('should return true when no malicious dependencies are found', () => {
     const mockPackageJson = JSON.stringify({
-      dependencies: { 'safe-package': '^1.0.0' },
+      dependencies: {'safe-package': '^1.0.0'},
     })
     const mockLockfile = JSON.stringify({
       packages: {
-        'node_modules/safe-package': { version: '1.0.1' },
+        'node_modules/safe-package': {version: '1.0.1'},
       },
     })
 
@@ -31,11 +31,11 @@ describe('scanDependencies', () => {
 
   test('should return false when malicious dependencies are detected', () => {
     const mockPackageJson = JSON.stringify({
-      dependencies: { 'pdf-to-office': '^1.1.2' },
+      dependencies: {'pdf-to-office': '^1.1.2'},
     })
     const mockLockfile = JSON.stringify({
       packages: {
-        'node_modules/pdf-to-office': { version: '1.1.2' },
+        'node_modules/pdf-to-office': {version: '1.1.2'},
       },
     })
 
@@ -68,7 +68,7 @@ describe('scanDependencies', () => {
 
   test('should handle missing package-lock.json gracefully', () => {
     const mockPackageJson = JSON.stringify({
-      dependencies: { 'safe-package': '^1.0.0' },
+      dependencies: {'safe-package': '^1.0.0'},
     })
 
     fs.readFileSync.mockImplementation((filePath) => {
@@ -80,88 +80,88 @@ describe('scanDependencies', () => {
     expect(result).toBe(false)
   })
 
-test('should detect malicious dependencies based on threat list', () => {
+  test('should detect malicious dependencies based on threat list', () => {
     const mockPackageJson = JSON.stringify({
-        dependencies: { 'pdf-to-office': '^1.1.2', 'safe-package': '^1.0.0' },
+      dependencies: {'pdf-to-office': '^1.1.2', 'safe-package': '^1.0.0'},
     })
     const mockLockfile = JSON.stringify({
-        packages: {
-            'node_modules/pdf-to-office': { version: '1.1.2' },
-            'node_modules/safe-package': { version: '1.0.1' },
-        },
+      packages: {
+        'node_modules/pdf-to-office': {version: '1.1.2'},
+        'node_modules/safe-package': {version: '1.0.1'},
+      },
     })
 
     fs.readFileSync.mockImplementation((filePath) => {
-        if (filePath === 'package.json') return mockPackageJson
-        if (filePath === 'package-lock.json') return mockLockfile
+      if (filePath === 'package.json') return mockPackageJson
+      if (filePath === 'package-lock.json') return mockLockfile
     })
 
     const result = scanDependencies()
     expect(result).toBe(false)
-})
+  })
 
-test('should return true when threat list is empty', () => {
+  test('should return true when threat list is empty', () => {
     const mockPackageJson = JSON.stringify({
-        dependencies: { 'safe-package': '^1.0.0' },
+      dependencies: {'safe-package': '^1.0.0'},
     })
     const mockLockfile = JSON.stringify({
-        packages: {
-            'node_modules/safe-package': { version: '1.0.1' },
-        },
+      packages: {
+        'node_modules/safe-package': {version: '1.0.1'},
+      },
     })
 
     jest.spyOn(fs, 'existsSync').mockReturnValue(true)
     jest.spyOn(fs, 'readFileSync').mockImplementation((filePath) => {
-        if (filePath === 'threat-list.json') return JSON.stringify([])
-        if (filePath === 'package.json') return mockPackageJson
-        if (filePath === 'package-lock.json') return mockLockfile
+      if (filePath === 'threat-list.json') return JSON.stringify([])
+      if (filePath === 'package.json') return mockPackageJson
+      if (filePath === 'package-lock.json') return mockLockfile
     })
 
     const result = scanDependencies()
     expect(result).toBe(true)
-})
+  })
 
-test('should handle invalid threat list gracefully', () => {
+  test('should handle invalid threat list gracefully', () => {
     const mockPackageJson = JSON.stringify({
-        dependencies: { 'safe-package': '^1.0.0' },
+      dependencies: {'safe-package': '^1.0.0'},
     })
     const mockLockfile = JSON.stringify({
-        packages: {
-            'node_modules/safe-package': { version: '1.0.1' },
-        },
+      packages: {
+        'node_modules/safe-package': {version: '1.0.1'},
+      },
     })
 
     jest.spyOn(fs, 'existsSync').mockReturnValue(true)
     jest.spyOn(fs, 'readFileSync').mockImplementation((filePath) => {
-        if (filePath === 'threat-list.json') return 'invalid-json'
-        if (filePath === 'package.json') return mockPackageJson
-        if (filePath === 'package-lock.json') return mockLockfile
+      if (filePath === 'threat-list.json') return 'invalid-json'
+      if (filePath === 'package.json') return mockPackageJson
+      if (filePath === 'package-lock.json') return mockLockfile
     })
 
     const result = scanDependencies()
     expect(result).toBe(false)
-})
+  })
 
-test('should handle missing threat list gracefully', () => {
+  test('should handle missing threat list gracefully', () => {
     const mockPackageJson = JSON.stringify({
-        dependencies: { 'safe-package': '^1.0.0' },
+      dependencies: {'safe-package': '^1.0.0'},
     })
     const mockLockfile = JSON.stringify({
-        packages: {
-            'node_modules/safe-package': { version: '1.0.1' },
-        },
+      packages: {
+        'node_modules/safe-package': {version: '1.0.1'},
+      },
     })
 
     jest.spyOn(fs, 'existsSync').mockImplementation((filePath) => {
-        if (filePath === 'threat-list.json') return false
-        return true
+      if (filePath === 'threat-list.json') return false
+      return true
     })
     jest.spyOn(fs, 'readFileSync').mockImplementation((filePath) => {
-        if (filePath === 'package.json') return mockPackageJson
-        if (filePath === 'package-lock.json') return mockLockfile
+      if (filePath === 'package.json') return mockPackageJson
+      if (filePath === 'package-lock.json') return mockLockfile
     })
 
     const result = scanDependencies()
     expect(result).toBe(true)
-})
+  })
 })
