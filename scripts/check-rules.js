@@ -66,38 +66,43 @@ function validateThreatList(threatList) {
 
 /**
  * Updates local threat list if stale
-          JSON.stringify(validateThreatList(freshThreats), null, 2),
+ */
 async function updateThreatListIfNeeded() {
   try {
-    let shouldUpdate = false
+    let shouldUpdate = false;
 
     if (!fs.existsSync(THREAT_LIST_PATH)) {
-      shouldUpdate = true
+      shouldUpdate = true;
     } else {
-      const stats = fs.statSync(THREAT_LIST_PATH)
-      const lastModified = new Date(stats.mtime).getTime()
-      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL
+      const stats = fs.statSync(THREAT_LIST_PATH);
+      const lastModified = new Date(stats.mtime).getTime();
+      shouldUpdate = Date.now() - lastModified > THREAT_LIST_UPDATE_INTERVAL;
     }
 
     if (shouldUpdate) {
-      console.log('🔍 Checking for updated threat list...')
-      const freshThreats = await fetchLatestThreatList()
+      console.log('🔍 Checking for updated threat list...');
+      const freshThreats = await fetchLatestThreatList();
       if (freshThreats) {
-        await fs.promises.writeFile(
-          THREAT_LIST_PATH,
-          JSON.stringify(freshThreats, null, 2),
-        )
-        console.log('✅ Threat list updated')
+        const tempFilePath = `${THREAT_LIST_PATH}.tmp`;
+
+        try {
+          const fd = fs.openSync(tempFilePath, fs.constants.O_CREAT | fs.constants.O_EXCL | fs.constants.O_RDWR, 0o600);
+          fs.writeFileSync(fd, JSON.stringify(validateThreatList(freshThreats), null, 2));
+          fs.closeSync(fd);
+          fs.renameSync(tempFilePath, THREAT_LIST_PATH);
+          console.log('✅ Threat list updated');
+        } catch (error) {
+          if (fs.existsSync(tempFilePath)) {
+            fs.unlinkSync(tempFilePath);
+          }
+          throw error;
+        }
       }
     }
   } catch (error) {
-    console.warn('⚠️  Threat list update check failed:', error.message)
+    console.warn('⚠️  Threat list update check failed:', error.message);
   }
 }
-
-/**
- * Loads threat list (cached or default)
- */
 function loadThreatList() {
   try {
     if (fs.existsSync(THREAT_LIST_PATH)) {

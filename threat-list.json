@@ -11,14 +11,14 @@
   {
     "package": "ethers-providerz",
     "versions": "*",
-    "type": "supply-chain", 
+    "type": "supply-chain",
     "severity": "critical",
     "description": "Backdoors @ethersproject/providers with C2 to 5[.]199[.]166[.]1:31337",
     "discovered": "2025-03-26",
     "remediation": "Reinstall @ethersproject/providers from verified source"
   },
   {
-    "package": "pdf-to-office", 
+    "package": "pdf-to-office",
     "versions": "^1.1.2",
     "type": "crypto-theft",
     "severity": "critical",
