@@ -68,7 +68,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC sanctioned digital currency addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
-- [Ad server blocking 🇦🇩](#ad-server-blocking-)
+- [Ad server blocking](#ad-server-blocking-)
 - [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
