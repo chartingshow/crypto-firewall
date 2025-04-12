@@ -14,7 +14,7 @@ You can download the Brave browser from the following sources:
 - [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.brave.browser)
 - [Huawei App Gallery](https://appgallery.huawei.com/#/app/C101007195)
 
-You can do a search for "Brave Browser" in your app store or use the links above to download the Brave browser.
+You can do a search for "**Brave Browser**" in your app store or use the links above to download the Brave browser.
 
 Then click on the "**Install**" button to download the app installer for your mobile device. Once the app is installed, open the Brave browser.
 
