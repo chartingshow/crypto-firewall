@@ -119,38 +119,15 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 #### Crypto Annoyances (Optional Step) 🚀
 
-The file [crypto-annoyances-adblock.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt) is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms. Here's a breakdown of what it does:
+This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups/notifications/telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
 
-1.  **General Annoyance Blocking**:
-
-    - Removes parameters from URLs (like `utm_` parameters used for tracking).
-    - Blocks cookie consent prompts and banners.
-
-2.  **Social Media Blocks**:
-
-    - Targets specific elements on social media platforms to remove promoted content.
-
-3.  **TradingView Annoyances**:
-
-    - Hides popups, notifications and other distracting elements on TradingView.
-    - Blocks telemetry and tracking scripts.
-
-4.  **Exchange Blocks**:
-
-    - Removes compliance banners on Binance, Coinbase and other crypto exchanges.
-    - Removes banners and pop-ups.
-
-5.  **Crypto Blocks**:
-    - Targets various cryptocurrency-related websites (CoinGecko, CoinMarketCap, etc.).
-    - Hides or removes elements such as ads, banners, social media feeds and other promotional content.
-
-In summary, this filter list aims to provide a cleaner, less distracting experience when browsing cryptocurrency-related websites by blocking common annoyances, ads and tracking mechanisms.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="24" height="24" /> **[Block Crypto AnnoyancesFilter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)**: Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
 
 #### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
 
 Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
 
-While some ad-blockers like AdGuard, uBlock Origin Lite, and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
+While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
 
 ### Operating System Blocking 🌟
 
@@ -359,7 +336,7 @@ Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining p
 
 ## OFAC sanctioned digital currency addresses 🚫
 
-OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups, and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
+OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
 
 The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
 
