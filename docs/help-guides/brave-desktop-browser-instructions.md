@@ -63,12 +63,12 @@ Here's a suggested guide based on cpu processors:
 - **Intel i3** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **Intel i5** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **Intel i7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **Intel i9** - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
+- **Intel i9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
 
 - **AMD Ryzen 3** - use `lite` version (if you experience bad performance then try `full` version instead).
 - **AMD Ryzen 5** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **AMD Ryzen 7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **AMD Ryzen 9** - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
+- **AMD Ryzen 9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
 
 When you have selected the filter list you want to use, click on the "**Add**" button to add it to your custom filter lists.
 
