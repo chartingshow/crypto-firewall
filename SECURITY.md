@@ -16,7 +16,7 @@ If you believe you have found a security vulnerability in any Charting Show owne
 
 Charting Show is an advocate of responsible vulnerability disclosure. If you've found a vulnerability, we would like to know so we can fix it. This notice provides details for how you can let us know about vulnerabilities, or alternatively you can view our `security.txt` file which contains quick links to contact us.
 
-You can report a vulnerability to Charting Show through our vulnerability disclosure programme at [HackerOne](https://hackerone.com/xxxxxxxxxxxx/embedded_submissions/new). Alternatively, if you prefer to submit without logging in to HackerOne, send an email to [secure@example.com](mailto:secure@example.com). If possible, encrypt your message with our PGP key; please download it from the [Charting Show PGP Key page](https://github.com/chartingshow/crypto-firewall/blob/master/PGP_KEY.md).
+You can report a vulnerability to the Charting Show by opening a [github issue](https://github.com/chartingshow/crypto-firewall/issues) and **choose the security issue option**.
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
