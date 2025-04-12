@@ -14,9 +14,7 @@ This shows you how to add the filter list to [uBlock Origin](https://ublockorigi
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock/3.jpg" /></p>
 
-4. Click on the **Import...** which should then show a box, copy and paste **one** of the following version URL's:
-
-Select one of the following URL's to add the Crypto Firewall filter list:
+4. Click on the **Import...** which should then show a box, copy and paste **one** of the following URL's to add the Crypto Firewall filter list:
 
 ### Lite (stable) Version
 
