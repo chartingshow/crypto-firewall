@@ -16,6 +16,8 @@ This shows you how to add the filter list to [uBlock Origin](https://ublockorigi
 
 4. Click on the **Import...** which should then show a box, copy and paste **one** of the following version URL's:
 
+Select one of the following URL's to add the Crypto Firewall filter list:
+
 ### Lite (stable) Version
 
 ```
@@ -39,6 +41,24 @@ https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blackl
 ```
 https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt
 ```
+
+#### Recommended versions
+
+The firewall is known to reduce performance slightly and this is why we have several **different** versions.
+
+Here's a suggested guide based on cpu processors:
+
+- **Intel i3** - use `full` version (if you experience bad performance then try `lite` version instead).
+- **Intel i5** - use `full` version (if you experience bad performance then try `lite` version instead).
+- **Intel i7** - use `mega` version (if you experience bad performance then try `full` version instead).
+- **Intel i9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
+
+- **AMD Ryzen 3** - use `lite` version (if you experience bad performance then try `full` version instead).
+- **AMD Ryzen 5** - use `full` version (if you experience bad performance then try `lite` version instead).
+- **AMD Ryzen 7** - use `mega` version (if you experience bad performance then try `full` version instead).
+- **AMD Ryzen 9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
+
+When you have selected the filter list you want to use, click on the "**Add**" button to add it to your custom filter lists.
 
 Example:
 
