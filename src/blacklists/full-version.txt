@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (Beta Version)
+! Title: Crypto Firewall (Full Version)
 ! Expires: 7 days (update frequency)
 ! Last modified: 9 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -24444,56 +24444,19 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 ! IP modules ------------------------------------------------------------------
 !#include ip-adblock.txt
 
-! URL modules ------------------------------------------------------------------
-!#include url-filters/telegram.txt
-
-! Blocking subdomains ----------------------------------------------------------
-!#include subdomain-filters/5v-pl/nomalware.txt
-!#include subdomain-filters/amazonaws-com/nomalware.txt
-!#include subdomain-filters/appsflyer-com/nomalware.txt
-!#include subdomain-filters/appspot-com/nomalware.txt
-!#include subdomain-filters/at-playit-gg/nomalware.txt
-!#include subdomain-filters/auto-playit-gg/nomalware.txt
-!#include subdomain-filters/azurewebsites-net/nomalware.txt
-!#include subdomain-filters/blogspot/nomalware.txt
-!#include subdomain-filters/bluehosting-cz/nomalware.txt
-!#include subdomain-filters/bravesites-com/nomalware.txt
-!#include subdomain-filters/business-site/nomalware.txt
-!#include subdomain-filters/cloud-ara-tyk-io/nomalware.txt
-!#include subdomain-filters/cloudapp-azure-com/nomalware.txt
-!#include subdomain-filters/cloudfront-net/nomalware.txt
-!#include subdomain-filters/glitch-me/nomalware.txt
-!#include subdomain-filters/godaddysites-com/nomalware.txt
-!#include subdomain-filters/netlify-app/nomalware.txt
-!#include subdomain-filters/pages-dev/nomalware.txt
-!#include subdomain-filters/r2-dev/nomalware.txt
-!#include subdomain-filters/vercel-app/nomalware.txt
-!#include subdomain-filters/web-app/nomalware.txt
-
-! Blocking domains -------------------------------------------------------------
-!#include domain-filters/1inch-io/nomalware.txt
-!#include domain-filters/altdentifier-com/nomalware.txt
-!#include domain-filters/binance-com/nomalware.txt
-!#include domain-filters/calendly-com/nomalware.txt
-!#include domain-filters/coinbase-com/nomalware.txt
-!#include domain-filters/gitcoin-co/nomalware.txt
-!#include domain-filters/github/nomalware.txt
-!#include domain-filters/revoke-cash/nomalware.txt
-
 ! Blocking modules -------------------------------------------------------------
-!#include abuse-filters/nomalware.txt
-!#include ad-servers/nomalware.txt
-!#include adverts-filters/nomalware.txt
-!#include fraud-filters/nomalware.txt
-!#include malicious-filters/nomalware.txt
-!#include malware-filters/nomalware.txt
-!#include phishing-filters/nomalware.txt
-!#include phishing-other-filters/nomalware.txt
-!#include pup-filters/nomalware.txt
-!#include ransomware-filters/nomalware.txt
-!#include scam-filters/nomalware.txt
-!#include urlhaus-filters/nomalware.txt
+!#include abuse-filters/adblock-list.txt
+!#include ad-servers/adblock-list.txt
+!#include fraud-filters/adblock-list.txt
+!#include malicious-filters/adblock-list.txt
+!#include malware-filters/adblock-list.txt
+!#include phishing-filters/adblock-list.txt
+!#include phishing-other-filters/adblock-list.txt
+!#include pup-filters/adblock-list.txt
+!#include ransomware-filters/adblock-list.txt
+!#include scam-filters/adblock-list.txt
+!#include urlhaus-filters/adblock-list.txt
 
 ! Filters optimized for uBlock -------------------------------------------------
-!#include nomalware-ublock.txt
+!#include extra-ublock.txt
 !-------------------------------------------------------------------------------

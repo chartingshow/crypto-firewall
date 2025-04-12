@@ -19,25 +19,25 @@ This shows you how to add the filter list to [uBlock Origin](https://ublockorigi
 ### Lite (stable) Version
 
 ```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-lite.txt
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt
 ```
 
 ### Full (stable) Version
 
 ```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-full.txt
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt
 ```
 
 ### Mega (stable) Version
 
 ```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-mega.txt
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt
 ```
 
 ### Beta (unstable) Version
 
 ```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/nomalware-beta.txt
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt
 ```
 
 Example:
