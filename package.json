@@ -1,55 +1,46 @@
 {
-    "name": "crypto-firewall",
-    "version": "1.0.0",
-    "description": "Protection against malicious cryptocurrency packages, extensions and dependencies across developer packages and browser ecosystems.",
-    "main": "dist/index.js",
-    "type": "module",
-    "scripts": {
-      "build": "tsc",
-      "lint": "eslint .",
-      "security-scan": "npm audit --production",
-      "test": "jest --coverage",
-      "test:watch": "jest --watch src/scriptlets",
-      "test:debug": "node --inspect-brk ./node_modules/.bin/jest --runInBand --watch src/scriptlets",
-      "postinstall": "npm run check-rules",
-      "check-rules": "node ./scripts/check-rules.js"
-    },
-    "keywords": [
-      "cryptocurrency",
-      "firewall",
-      "security",
-      "dependency-protection",
-      "npm-security",
-      "pypi-security",
-      "extension-security"
-    ],
-    "author": "Charting Show Team <security@chartingshow.example>",
-    "license": "GPL-3.0-or-later",
-    "homepage": "https://github.com/chartingshow/crypto-firewall#readme",
-    "bugs": {
-      "url": "https://github.com/chartingshow/crypto-firewall/issues"
-    },
-    "dependencies": {
-      "axios": "^1.6.0",
-      "fast-json-stringify": "^5.8.0",
-      "js-xss": "^1.0.15",
-      "node-fetch": "^3.3.2"
-    },
-    "devDependencies": {
-      "@types/jest": "^29.5.0",
-      "@types/node": "^20.0.0",
-      "eslint": "^8.56.0",
-      "jest": "^29.7.0",
-      "jest-fetch-mock": "^3.0.3",
-      "jsdom": "^22.0.0",
-      "npm-check-updates": "^16.0.0",
-      "typescript": "^5.0.0"
-    },
-    "engines": {
-      "node": ">=18.0.0"
-    },
-    "optionalDependencies": {
-      "detect-malicious-packages": "^0.1.0"
-    }
+  "name": "crypto-firewall",
+  "version": "1.0.0",
+  "description": "Protection against malicious cryptocurrency packages, extensions and dependencies across developer packages and browser ecosystems.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint .",
+    "security-scan": "npm audit --production",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch src/scriptlets",
+    "test:debug": "node --inspect-brk ./node_modules/.bin/jest --runInBand --watch src/scriptlets"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "firewall",
+    "security",
+    "dependency-protection",
+    "npm-security",
+    "pypi-security",
+    "extension-security"
+  ],
+  "author": "Charting Show Team",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/chartingshow/crypto-firewall#readme",
+  "bugs": {
+    "url": "https://github.com/chartingshow/crypto-firewall/issues"
+  },
+  "dependencies": {
+    "fast-json-stringify": "^5.8.0",
+    "js-xss": "^1.0.15",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "jest-fetch-mock": "^3.0.3",
+    "jsdom": "^22.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
-  
+}
