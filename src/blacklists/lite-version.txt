@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (Full Version)
+! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
 ! Last modified: 9 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -24441,22 +24441,6 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 @@||quiknode.pro^$websocket
 @@||aptal.pro^$websocket
 
-! IP modules ------------------------------------------------------------------
-!#include ip-adblock.txt
-
-! Blocking modules -------------------------------------------------------------
-!#include abuse-filters/nomalware.txt
-!#include ad-servers/nomalware.txt
-!#include fraud-filters/nomalware.txt
-!#include malicious-filters/nomalware.txt
-!#include malware-filters/nomalware.txt
-!#include phishing-filters/nomalware.txt
-!#include phishing-other-filters/nomalware.txt
-!#include pup-filters/nomalware.txt
-!#include ransomware-filters/nomalware.txt
-!#include scam-filters/nomalware.txt
-!#include urlhaus-filters/nomalware.txt
-
 ! Filters optimized for uBlock -------------------------------------------------
-!#include nomalware-ublock.txt
+!#include extra-ublock.txt
 !-------------------------------------------------------------------------------
