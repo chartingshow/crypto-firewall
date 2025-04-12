@@ -103,25 +103,25 @@ Brave Browser offers built-in ad and tracker blocking, making it an excellent ch
 
 Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
 
-- ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **AdBlock**: Active by default, blocks ads and trackers.
+- ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **AdBlock** - Active by default, blocks ads and trackers.
 
-- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **Adblock Plus**: Popular ad-blocking extension for various browsers.
+- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **Adblock Plus** - Popular ad-blocking extension for various browsers.
 
-- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)**: Efficient, wide-spectrum content blocker.
+- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)** - Efficient, wide-spectrum content blocker.
 
-- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)**: Is a _permission-less_ MV3-based content blocker.
+- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)** - Is a _permission-less_ MV3-based content blocker.
 
-- ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **AdGuard Browser Extension**: Comprehensive ad and tracker blocking solution.
+- ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **AdGuard Browser Extension** - Comprehensive ad and tracker blocking solution.
 
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser**: Available for Android and iOS devices with built-in ad blocking.
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser** - Available for Android and iOS devices with built-in ad blocking.
 
-- ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser**: Includes ad blocking by default since Opera 50.
+- ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
 #### Crypto Annoyances (Optional Step) 🚀
 
 This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups/notifications/telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="24" height="24" /> **[Block Crypto AnnoyancesFilter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)**: Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="24" height="24" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
 
 #### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
 
