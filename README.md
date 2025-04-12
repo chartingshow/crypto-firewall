@@ -154,17 +154,19 @@ Here's a suggested guide based on cpu processors:
 - **Intel i3** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **Intel i5** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **Intel i7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **Intel i9** - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
+- **Intel i9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
 
 - **AMD Ryzen 3** - use `lite` version (if you experience bad performance then try `full` version instead).
 - **AMD Ryzen 5** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **AMD Ryzen 7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **AMD Ryzen 9** - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
+- **AMD Ryzen 9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
 
 Here's a suggested guide based on device:
 
-- **Mobile** or **Tablet** - use `full` version (if you experience bad performance then try `lite` version instead).
-- **Laptop** or **Computer** - use `beta` or `mega` version (if you experience bad performance then try `full` version instead).
+- **Laptop** or **Computer** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
+- **Tablet** - use `mega` or `full` versions (if you experience bad performance then try `full` version instead).
+- **Powerful Smartphone** - use `full` version (if you experience bad performance then try `lite` version instead).
+- **Low-End Smartphone** - use `lite` version.
 
 ### Stable Versions 🏆
 
