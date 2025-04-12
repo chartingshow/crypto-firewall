@@ -64,15 +64,15 @@ After that the clock icon will change and you then click on the **Update Now** b
 
 ### Crypto Annoyances (Optional Step)
 
-The file `crypto-annoyances-adblock.txt` is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms.
+The file `block-crypto-annoyances.txt` is a filter list that contains rules and filters to block various annoyances and unwanted content specifically related to cryptocurrency websites and related platforms.
 
 You can add this extra filter list by repeating steps 4 and 5 and using this the below url:
 
 ```
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/crypto-annoyances-adblock.txt
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt
 ```
 
-Here's a breakdown of what the `crypto-annoyances-adblock.txt` file does:
+Here's a breakdown of what the Crypto Annoyances Block filter list file does:
 
 1.  **General Annoyance Blocking**:
     *   Removes parameters from URLs (like `utm_` parameters used for tracking).
