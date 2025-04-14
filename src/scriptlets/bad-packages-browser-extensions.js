@@ -1,11 +1,25 @@
 /**
  * @file bad-packages-browser-extensions.js
- * @title Block Malicious Packages and Extensions
- * @description Enhanced protection against malicious packages/extensions with JSON-based threat intelligence
+ * @title Block Bad Packages and Browser Extensions
+ * @description A comprehensive scriptlet designed to protect users from potentially
+ *              malicious cryptocurrency-related packages, extensions, and projects.
+ *              This scriptlet checks URLs against blacklists of known threats,
+ *              covering npm packages, Chrome extensions, PyPI packages, and Firebase
+ *              projects, alerting users when they encounter potentially harmful content.
+ *              Enhanced protection against malicious packages/extensions with JSON-based
+ *              threat intelligence.
  * @version 2.0.0
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
- * @license GPL-3.0 license
+ * @license GPL-3.0 license - (View LICENSE file for details)
+ *
+ * This Scriptlet is intended to be used with Brave Browser's custom scriptlets feature
+ * to enhance protection against cryptocurrency-related threats.
+ *
+ * Original Authors: Charting Show Team
+ *
+ * Contributions and feedback are welcome!
  */
+
 ;(async function () {
   // Updated JSON blacklist endpoints
   const blacklistURLs = {
