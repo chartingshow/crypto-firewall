@@ -1,0 +1,306 @@
+[
+  {
+    "package": "@bithighlander/bitcoin-cash-js-lib",
+    "versions": "5.2.2",
+    "type": "crypto-theft",
+    "severity": "high",
+    "description": "Modifies transaction outputs to attacker-controlled BCH addresses",
+    "discovered": "2025-04-01",
+    "remediation": "Switch to @bitcoin-cash-js/lib and audit transaction histories"
+  },
+  {
+    "package": "@crosswise-finance1/sdk-v2",
+    "versions": "1.3.7",
+    "type": "data-theft",
+    "severity": "critical",
+    "description": "Exfiltrates private keys via DNS tunneling to crosswise[.]finance domain",
+    "discovered": "2025-03-30",
+    "status": "active-exploitation"
+  },
+  {
+    "package": "@keepkey/device-protocol",
+    "versions": "<=2.1.8",
+    "type": "firmware-compromise",
+    "severity": "critical",
+    "description": "Injects malicious firmware updates for hardware wallets",
+    "discovered": "2025-03-28",
+    "remediation": "Verify firmware signatures offline"
+  },
+  {
+    "package": "@monicfoundation/hardhat-config",
+    "versions": "*",
+    "type": "typosquatting",
+    "severity": "high",
+    "description": "Drops Cobalt Strike beacon via postinstall script",
+    "discovered": "2025-04-03",
+    "remediation": "Use @nomicfoundation/hardhat-config"
+  },
+  {
+    "package": "@nomicfoundations/hardhat-config",
+    "versions": "3.1.0",
+    "type": "dependency-confusion",
+    "severity": "critical",
+    "description": "Uploads AWS credentials to pastebin.com",
+    "discovered": "2025-04-05",
+    "remediation": "Enable private registry scopes"
+  },
+  {
+    "package": "@nomicsfoundation/hardhat-config",
+    "versions": "*",
+    "type": "typosquatting",
+    "severity": "high",
+    "description": "Typosquats @nomicfoundation with credential harvester",
+    "discovered": "2025-04-04",
+    "remediation": "Verify package name spelling"
+  },
+  {
+    "package": "@nomicsfoundation/sdk-test",
+    "versions": "0.8.2",
+    "type": "test-environment-compromise",
+    "severity": "medium",
+    "description": "Executes arbitrary commands during test runs",
+    "discovered": "2025-04-06"
+  },
+  {
+    "package": "@nomicsfoundation/sdk-test1",
+    "versions": "*",
+    "type": "test-environment-compromise",
+    "severity": "medium",
+    "description": "Companion package to sdk-test with broader exploit scope",
+    "discovered": "2025-04-06"
+  },
+  {
+    "package": "@nomicsfoundation/web3-sdk",
+    "versions": "1.2.0",
+    "type": "wallet-drainer",
+    "severity": "critical",
+    "description": "Intercepts web3.provider.send() calls to modify transactions",
+    "discovered": "2025-04-07",
+    "remediation": "Use audited @web3-react/core"
+  },
+  {
+    "package": "@nomisfoundation/hardhat-config",
+    "versions": "*",
+    "type": "typosquatting",
+    "severity": "high",
+    "description": "Another variant targeting @nomicfoundation users",
+    "discovered": "2025-04-05"
+  },
+  {
+    "package": "@nomisfoundation/hardhat-configure",
+    "versions": "2.9.1",
+    "type": "typosquatting",
+    "severity": "high",
+    "description": "Attempts to bypass detection with alternate naming",
+    "discovered": "2025-04-05"
+  },
+  {
+    "package": "@theoretical123/providers",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Linked to same infrastructure as ethers-providerz",
+    "discovered": "2025-03-27",
+    "status": "investigating"
+  },
+  {
+    "package": "@travix/ui-themes",
+    "versions": "4.2.0",
+    "type": "css-injection",
+    "severity": "medium",
+    "description": "Injects malicious CSS to capture form data",
+    "discovered": "2025-04-08"
+  },
+  {
+    "package": "@veniceswap/eslint-config-pancake",
+    "versions": "1.1.0",
+    "type": "dependency-confusion",
+    "severity": "high",
+    "description": "Poses as PancakeSwap tooling to harvest API keys",
+    "discovered": "2025-04-09",
+    "remediation": "Use @pancakeswap/eslint-config"
+  },
+  {
+    "package": "@veniceswap/uikit",
+    "versions": "3.2.1",
+    "type": "dependency-confusion",
+    "severity": "high",
+    "description": "Frontend component library with wallet drainer",
+    "discovered": "2025-04-09",
+    "remediation": "Verify package provenance"
+  },
+  {
+    "package": "array-empty-validator",
+    "versions": "1.0.4",
+    "type": "credential-stealer",
+    "severity": "medium",
+    "description": "Searches for .env files and uploads to C2",
+    "discovered": "2025-04-10"
+  },
+  {
+    "package": "auth-validator",
+    "versions": "2.3.0",
+    "type": "authentication-bypass",
+    "severity": "high",
+    "description": "Adds hidden admin user during JWT validation",
+    "discovered": "2025-04-11"
+  },
+  {
+    "package": "babel-preset-travix",
+    "versions": "7.0.2",
+    "type": "build-chain-compromise",
+    "severity": "high",
+    "description": "Injects malicious code during transpilation",
+    "discovered": "2025-04-12"
+  },
+  {
+    "package": "bnb-javascript-sdk-nobroadcast",
+    "versions": "2.16.16",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Collects environment variables and system info",
+    "discovered": "2025-04-02"
+  },
+  {
+    "package": "country-currency-map",
+    "versions": "2.1.8",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Exfiltrates API keys via Slack webhooks",
+    "discovered": "2025-04-02",
+    "remediation": "Rotate all exposed API keys"
+  },
+  {
+    "package": "crypto-nodes-validator",
+    "versions": "0.5.1",
+    "type": "crypto-miner",
+    "severity": "medium",
+    "description": "Deploys XMRig miner via WebAssembly",
+    "discovered": "2025-04-03"
+  },
+  {
+    "package": "eslint-config-travix",
+    "versions": "5.1.0",
+    "type": "build-chain-compromise",
+    "severity": "high",
+    "description": "Modifies AST during linting to inject backdoors",
+    "discovered": "2025-04-13"
+  },
+  {
+    "package": "ethers-provider2",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Injects persistent reverse shell into ethers.js via SSH2 trojanization",
+    "discovered": "2025-03-26",
+    "remediation": "Audit all ethers.js installations for modified provider-jsonrpc.js"
+  },
+  {
+    "package": "ethers-providerz",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Backdoors @ethersproject/providers with C2 to 5[.]199[.]166[.]1:31337",
+    "discovered": "2025-03-26",
+    "remediation": "Reinstall @ethersproject/providers from verified source"
+  },
+  {
+    "package": "event-handle-package",
+    "versions": "1.2.3",
+    "type": "event-stream",
+    "severity": "high",
+    "description": "Modifies Node.js EventEmitter prototypes for data interception",
+    "discovered": "2025-04-14"
+  },
+  {
+    "package": "hardhat-deploy-others",
+    "versions": "0.8.2",
+    "type": "smartcontract-exploit",
+    "severity": "critical",
+    "description": "Modifies deployed contract bytecode to include backdoors",
+    "discovered": "2025-04-05",
+    "remediation": "Audit all deployed contracts and redeploy"
+  },
+  {
+    "package": "hardhat-gas-optimizer",
+    "versions": "1.1.0",
+    "type": "gas-griefing",
+    "severity": "high",
+    "description": "Intentionally increases gas costs for certain transactions",
+    "discovered": "2025-04-06"
+  },
+  {
+    "package": "installedpackagepublish",
+    "versions": "0.1.3",
+    "type": "package-hijacking",
+    "severity": "critical",
+    "description": "Automatically publishes compromised versions of installed packages",
+    "discovered": "2025-04-07"
+  },
+  {
+    "package": "is-buffer-validator",
+    "versions": "2.0.1",
+    "type": "memory-corruption",
+    "severity": "high",
+    "description": "Exploits buffer validation to achieve RCE",
+    "discovered": "2025-04-08"
+  },
+  {
+    "package": "node-validators",
+    "versions": "3.2.0",
+    "type": "credential-stealer",
+    "severity": "high",
+    "description": "Intercepts Node.js cluster messages to harvest credentials",
+    "discovered": "2025-04-09"
+  },
+  {
+    "package": "nomicsfoundations",
+    "versions": "*",
+    "type": "typosquatting",
+    "severity": "medium",
+    "description": "Dummy package used for tracking potential targets",
+    "discovered": "2025-04-10"
+  },
+  {
+    "package": "react-event-dependency",
+    "versions": "1.0.5",
+    "type": "frontend-exploit",
+    "severity": "high",
+    "description": "Modifies React event handlers to capture form data",
+    "discovered": "2025-04-11"
+  },
+  {
+    "package": "reproduction-hardhat",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Suspected companion to ethers-provider* attacks",
+    "discovered": "2025-03-27",
+    "status": "investigating"
+  },
+  {
+    "package": "solana-validator",
+    "versions": "1.8.2",
+    "type": "validator-attack",
+    "severity": "critical",
+    "description": "Compromised validator client that signs malicious transactions",
+    "discovered": "2025-04-12",
+    "remediation": "Use official Solana Labs validator"
+  },
+  {
+    "package": "solidity-comments-extractors",
+    "versions": "0.5.1",
+    "type": "metadata-leak",
+    "severity": "medium",
+    "description": "Exfiltrates sensitive comments from Solidity files",
+    "discovered": "2025-04-13"
+  },
+  {
+    "package": "yoojae-validator",
+    "versions": "1.0.0",
+    "type": "credential-stealer",
+    "severity": "high",
+    "description": "Targets Korean developers with KakaoTalk credential theft",
+    "discovered": "2025-04-14"
+  }
+]

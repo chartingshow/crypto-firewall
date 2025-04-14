@@ -1,0 +1,11 @@
+[
+  {
+    "package": "set-utils",
+    "versions": "*",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Collects environment variables and sensitive system information, exfiltrating data to a remote server",
+    "discovered": "2025-04-14",
+    "remediation": "Remove package and rotate all exposed credentials/API keys"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "package": "prettierteam.prettier",
+    "versions": "*",
+    "type": "cryptomining",
+    "severity": "critical",
+    "description": "Disguised as code formatter, deploys XMRig Monero miner via PowerShell loader",
+    "discovered": "2025-04-04",
+    "remediation": "Remove extension and scan for %temp%\\MLANG.dll"
+  },
+  {
+    "package": "markh.chatgpt-autocoder-vscode",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "high",
+    "description": "Downloads obfuscated CMD scripts to execute AES-encrypted PowerShell payloads",
+    "discovered": "2025-04-04",
+    "remediation": "Check for suspicious domains like microsoft-visualstudiocode[.]com"
+  },
+  {
+    "package": "markh.claude-autocoder-vscode",
+    "versions": "*",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Exfiltrates environment variables via Discord webhooks",
+    "discovered": "2025-04-04",
+    "status": "active"
+  },
+  {
+    "package": "markh.discord-rich-presence-vs",
+    "versions": "*",
+    "type": "cryptomining",
+    "severity": "critical",
+    "description": "Injects persistence mechanism to disable Windows Defender",
+    "discovered": "2025-04-04",
+    "remediation": "Audit registry changes under HKCU\\Software\\Microsoft\\Windows"
+  },
+  {
+    "package": "markh.golang-compiler-vscode",
+    "versions": "*",
+    "type": "backdoor",
+    "severity": "critical",
+    "description": "Drops Launcher.exe to establish C2 via 5[.]199[.]166[.]1:31337",
+    "discovered": "2025-04-04"
+  },
+  {
+    "package": "markh.html-obfuscator-vscode",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "high",
+    "description": "Cloned legitimate tool with embedded base64-encoded Trojan",
+    "discovered": "2025-04-04",
+    "remediation": "Reinstall from original publisher"
+  },
+  {
+    "package": "markh.python-obfuscator-vscode",
+    "versions": "*",
+    "type": "cryptomining",
+    "severity": "critical",
+    "description": "Shares infrastructure with prettier variant (same C2)",
+    "discovered": "2025-04-04"
+  },
+  {
+    "package": "markh.rust-compiler-vs",
+    "versions": "*",
+    "type": "backdoor",
+    "severity": "critical",
+    "description": "Uses ComputerDefaults.exe sideloading for DLL hijacking",
+    "discovered": "2025-04-04",
+    "remediation": "Monitor for %windir%\\System32\\MLANG.dll"
+  },
+  {
+    "package": "evaera-rbx.vscode-rojo-rbx",
+    "versions": "*",
+    "type": "data-theft",
+    "severity": "high",
+    "description": "Targets Roblox developers with fake sync tool",
+    "discovered": "2025-04-04",
+    "status": "investigating"
+  },
+  {
+    "package": "vscodedeveloper.sobidity-compiler",
+    "versions": "*",
+    "type": "supply-chain",
+    "severity": "critical",
+    "description": "Typosquatted Solidity compiler, drops Ethereum wallet stealers",
+    "discovered": "2025-04-04",
+    "remediation": "Use official Ethereum Foundation extensions"
+  }
+]
