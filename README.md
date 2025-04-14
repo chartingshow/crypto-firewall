@@ -109,7 +109,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)** - Efficient, wide-spectrum content blocker.
 
-- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](#)** - Is a _permission-less_ MV3-based content blocker.
+- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
 
 - ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **AdGuard Browser Extension** - Comprehensive ad and tracker blocking solution.
 
@@ -117,11 +117,13 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
+
 #### Crypto Annoyances (Optional Step) 🚀
 
 This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="24" height="24" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
 
 #### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
 
