@@ -32,54 +32,61 @@
 ;(async function () {
   // Configuration - JSON blacklist endpoints
   const blacklistURLs = {
-    'npmjs.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
-    'chrome.google.com/webstore': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
-    'pypi.org': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json',
-    'firebaseio.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
-    'marketplace.visualstudio.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
-    'chrome.extension': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
-    'example.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/tests/package-tests/example.json'
-  };
+    'npmjs.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
+    'chrome.google.com/webstore':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
+    'pypi.org':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json',
+    'firebaseio.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
+    'marketplace.visualstudio.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
+    'chrome.extension':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
+    'example.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/tests/package-tests/example.json',
+  }
 
   // Cache for storing fetched blacklists
-  const blacklistCache = new Map();
+  const blacklistCache = new Map()
 
   // Enhanced fetch function with caching
   async function fetchJSONBlacklist(url) {
     if (blacklistCache.has(url)) {
-      return blacklistCache.get(url);
+      return blacklistCache.get(url)
     }
 
     try {
       const response = await fetch(url, {
         cache: 'no-cache',
-        headers: { 'Content-Type': 'application/json' }
-      });
-      
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      
-      const data = await response.json();
-      blacklistCache.set(url, data);
-      return data;
+        headers: {'Content-Type': 'application/json'},
+      })
+
+      if (!response.ok) throw new Error(`HTTP ${response.status}`)
+
+      const data = await response.json()
+      blacklistCache.set(url, data)
+      return data
     } catch (error) {
-      console.error(`Failed to load blacklist from ${url}:`, error);
-      return [];
+      console.error(`Failed to load blacklist from ${url}:`, error)
+      return []
     }
   }
 
   // Improved URL checking with threat context
   async function checkURLAgainstBlacklist(hostname) {
-    const blacklistUrl = blacklistURLs[hostname];
-    if (!blacklistUrl) return;
+    const blacklistUrl = blacklistURLs[hostname]
+    if (!blacklistUrl) return
 
-    const blacklist = await fetchJSONBlacklist(blacklistUrl);
-    const currentURL = window.location.href.toLowerCase();
+    const blacklist = await fetchJSONBlacklist(blacklistUrl)
+    const currentURL = window.location.href.toLowerCase()
 
     for (const threat of blacklist) {
       if (currentURL.includes(threat.package.toLowerCase())) {
-        showEnhancedAlert(threat, hostname);
-        logThreatDetection(threat);
-        break;
+        showEnhancedAlert(threat, hostname)
+        logThreatDetection(threat)
+        break
       }
     }
   }
@@ -100,8 +107,8 @@
         Acknowledge
       </button>
     </div>
-    `;
-    document.body.insertAdjacentHTML('beforeend', alertHTML);
+    `
+    document.body.insertAdjacentHTML('beforeend', alertHTML)
   }
 
   // Threat logging function
@@ -112,19 +119,20 @@
       type: threat.type,
       severity: threat.severity,
       url: window.location.href,
-      userAgent: navigator.userAgent
-    };
-    console.warn('Threat detected:', logEntry);
+      userAgent: navigator.userAgent,
+    }
+    console.warn('Threat detected:', logEntry)
   }
 
   // Domain-specific handlers
   function checkCurrentDomain() {
-    const { hostname, href } = window.location;
-    
+    const {hostname, href} = window.location
+
     const domainHandlers = {
-      'chrome.google.com': () => href.includes('/webstore') 
-        ? checkURLAgainstBlacklist('chrome.google.com/webstore') 
-        : checkURLAgainstBlacklist('chrome.extension'),
+      'chrome.google.com': () =>
+        href.includes('/webstore')
+          ? checkURLAgainstBlacklist('chrome.google.com/webstore')
+          : checkURLAgainstBlacklist('chrome.extension'),
       'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
       'pypi.org': () => checkURLAgainstBlacklist(hostname),
       'npmjs.com': () => checkURLAgainstBlacklist(hostname),
@@ -132,26 +140,26 @@
       'example.com': () => checkURLAgainstBlacklist(hostname),
       default: () => {
         if (hostname.endsWith('.firebaseio.com')) {
-          checkURLAgainstBlacklist('firebaseio.com');
+          checkURLAgainstBlacklist('firebaseio.com')
         }
-      }
-    };
+      },
+    }
 
-    (domainHandlers[hostname] || domainHandlers.default)();
+    ;(domainHandlers[hostname] || domainHandlers.default)()
   }
 
   // Initialize
-  document.addEventListener('DOMContentLoaded', checkCurrentDomain);
-  window.addEventListener('load', checkCurrentDomain);
-  if (document.readyState === 'complete') checkCurrentDomain();
+  document.addEventListener('DOMContentLoaded', checkCurrentDomain)
+  window.addEventListener('load', checkCurrentDomain)
+  if (document.readyState === 'complete') checkCurrentDomain()
 
   /**
    * TEST FUNCTION - Simulates malware detection
-   * 
+   *
    * Usage:
    * 1. Call this function manually from console, OR
    * 2. Uncomment the call below to run automatically on load
-   * 
+   *
    * Expected result:
    * - Displays a red security alert box in top-right corner
    * - Logs detection event to console
@@ -159,43 +167,44 @@
    */
   function testMalwareDetection() {
     const testThreat = {
-      package: "example-phishing-kit",
-      versions: "*",
-      type: "phishing",
-      severity: "critical",
-      description: "Fake cryptocurrency wallet interface that steals credentials",
-      discovered: "2025-04-15",
-      remediation: "Do not enter any credentials. Close this page immediately."
-    };
+      package: 'example-phishing-kit',
+      versions: '*',
+      type: 'phishing',
+      severity: 'critical',
+      description:
+        'Fake cryptocurrency wallet interface that steals credentials',
+      discovered: '2025-04-15',
+      remediation: 'Do not enter any credentials. Close this page immediately.',
+    }
 
     // Override hostname and href for testing
-    const originalHostname = window.location.hostname;
-    const originalHref = window.location.href;
-    
-    Object.defineProperty(window.location, 'hostname', { 
+    const originalHostname = window.location.hostname
+    const originalHref = window.location.href
+
+    Object.defineProperty(window.location, 'hostname', {
       value: 'example.com',
-      configurable: true 
-    });
-    Object.defineProperty(window.location, 'href', { 
+      configurable: true,
+    })
+    Object.defineProperty(window.location, 'href', {
       value: 'https://example.com/example-phishing-kit',
-      configurable: true 
-    });
+      configurable: true,
+    })
 
     // Trigger alert
-    showEnhancedAlert(testThreat, 'example.com');
-    logThreatDetection(testThreat);
+    showEnhancedAlert(testThreat, 'example.com')
+    logThreatDetection(testThreat)
 
     // Restore original values
     setTimeout(() => {
-      Object.defineProperty(window.location, 'hostname', { 
-        value: originalHostname 
-      });
-      Object.defineProperty(window.location, 'href', { 
-        value: originalHref 
-      });
-    }, 100);
+      Object.defineProperty(window.location, 'hostname', {
+        value: originalHostname,
+      })
+      Object.defineProperty(window.location, 'href', {
+        value: originalHref,
+      })
+    }, 100)
   }
 
   // Uncomment the following line to enable automatic testing
   // testMalwareDetection();
-})();
+})()

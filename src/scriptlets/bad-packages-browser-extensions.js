@@ -9,53 +9,59 @@
 ;(async function () {
   // Updated JSON blacklist endpoints
   const blacklistURLs = {
-    'chrome.extension': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
-    'chrome.google.com/webstore': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
-    'firebaseio.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
-    'marketplace.visualstudio.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
-    'npmjs.com': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
-    'pypi.org': 'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json'
-  };
+    'chrome.extension':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
+    'chrome.google.com/webstore':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
+    'firebaseio.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
+    'marketplace.visualstudio.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
+    'npmjs.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
+    'pypi.org':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json',
+  }
 
   // Cache for storing fetched blacklists
-  const blacklistCache = new Map();
+  const blacklistCache = new Map()
 
   // Enhanced fetch function with caching
   async function fetchJSONBlacklist(url) {
     if (blacklistCache.has(url)) {
-      return blacklistCache.get(url);
+      return blacklistCache.get(url)
     }
 
     try {
       const response = await fetch(url, {
         cache: 'no-cache',
-        headers: { 'Content-Type': 'application/json' }
-      });
-      
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      
-      const data = await response.json();
-      blacklistCache.set(url, data);
-      return data;
+        headers: {'Content-Type': 'application/json'},
+      })
+
+      if (!response.ok) throw new Error(`HTTP ${response.status}`)
+
+      const data = await response.json()
+      blacklistCache.set(url, data)
+      return data
     } catch (error) {
-      console.error(`Failed to load blacklist from ${url}:`, error);
-      return [];
+      console.error(`Failed to load blacklist from ${url}:`, error)
+      return []
     }
   }
 
   // Improved URL checking with threat context
   async function checkURLAgainstBlacklist(hostname) {
-    const blacklistUrl = blacklistURLs[hostname];
-    if (!blacklistUrl) return;
+    const blacklistUrl = blacklistURLs[hostname]
+    if (!blacklistUrl) return
 
-    const blacklist = await fetchJSONBlacklist(blacklistUrl);
-    const currentURL = window.location.href.toLowerCase();
+    const blacklist = await fetchJSONBlacklist(blacklistUrl)
+    const currentURL = window.location.href.toLowerCase()
 
     for (const threat of blacklist) {
       if (currentURL.includes(threat.package.toLowerCase())) {
-        showEnhancedAlert(threat, hostname);
-        logThreatDetection(threat);
-        break;
+        showEnhancedAlert(threat, hostname)
+        logThreatDetection(threat)
+        break
       }
     }
   }
@@ -76,8 +82,8 @@
         Acknowledge
       </button>
     </div>
-    `;
-    document.body.insertAdjacentHTML('beforeend', alertHTML);
+    `
+    document.body.insertAdjacentHTML('beforeend', alertHTML)
   }
 
   // Threat logging function
@@ -88,38 +94,39 @@
       type: threat.type,
       severity: threat.severity,
       url: window.location.href,
-      userAgent: navigator.userAgent
-    };
-    console.warn('Threat detected:', logEntry);
-    
+      userAgent: navigator.userAgent,
+    }
+    console.warn('Threat detected:', logEntry)
+
     // Optional: Send to analytics endpoint
     // fetch('/api/threat-log', { method: 'POST', body: JSON.stringify(logEntry) });
   }
 
   // Domain-specific handlers
   function checkCurrentDomain() {
-    const { hostname, href } = window.location;
-    
+    const {hostname, href} = window.location
+
     const domainHandlers = {
-      'chrome.google.com': () => href.includes('/webstore') 
-        ? checkURLAgainstBlacklist('chrome.google.com/webstore') 
-        : checkURLAgainstBlacklist('chrome.extension'),
+      'chrome.google.com': () =>
+        href.includes('/webstore')
+          ? checkURLAgainstBlacklist('chrome.google.com/webstore')
+          : checkURLAgainstBlacklist('chrome.extension'),
       'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
       'pypi.org': () => checkURLAgainstBlacklist(hostname),
       'npmjs.com': () => checkURLAgainstBlacklist(hostname),
       'firebaseio.com': () => checkURLAgainstBlacklist(hostname),
       default: () => {
         if (hostname.endsWith('.firebaseio.com')) {
-          checkURLAgainstBlacklist('firebaseio.com');
+          checkURLAgainstBlacklist('firebaseio.com')
         }
-      }
-    };
+      },
+    }
 
-    (domainHandlers[hostname] || domainHandlers.default)();
+    ;(domainHandlers[hostname] || domainHandlers.default)()
   }
 
   // Initialize
-  document.addEventListener('DOMContentLoaded', checkCurrentDomain);
-  window.addEventListener('load', checkCurrentDomain);
-  if (document.readyState === 'complete') checkCurrentDomain();
-})();
+  document.addEventListener('DOMContentLoaded', checkCurrentDomain)
+  window.addEventListener('load', checkCurrentDomain)
+  if (document.readyState === 'complete') checkCurrentDomain()
+})()
