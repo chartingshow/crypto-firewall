@@ -24,9 +24,9 @@ The Crypto Firewall project is committed to enhancing your safety in the volatil
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
 <p align="center">
-    <img src="/assets/images/badges/charting-show-badge.png" height="20" alt="Charting Show" />
+    <img src="/assets/images/charting-show-badge-2.png" height="20" alt="Charting Show" />
     <img src="/assets/images/stars.svg" alt="stars" />
-    <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
+    <img src="/assets/images/type-package-2.png" height="20" alt="package" />
     <a href="https://circleci.com/gh/chartingshow/crypto-firewall"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
