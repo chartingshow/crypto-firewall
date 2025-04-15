@@ -89,7 +89,7 @@ Choose whether to install the crypto firewall at the browser and/or operating sy
 
 ### Browser Blocking 🌟
 
-Install an adblocker in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
+Install an ad blocker in your desktop or mobile browser that uses the [Adblock Plus](https://adblockplus.org/)' filter list:
 
 #### Recommended Choice ⭐
 
