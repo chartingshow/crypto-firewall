@@ -406,19 +406,19 @@ If you like Charting Show you can support the project's improvements and develop
 
 Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/chartingshow#category-CONTRIBUTE)]
 
-<a href="#" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/avatars-1.jpg" width="64"></a>
+<a href="#" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/avatars-2.png" width="64"></a>
 
 ### Backers ✨
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/chartingshow#category-CONTRIBUTE)]
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-backers.jpg"></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-backers-2.png"></p>
 
 ## Contributions, Feature Requests and Feedback ✨
 
 This project exists thanks to all the people who contribute.
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-contributors.jpg" /></p>
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-contributors-2.png" /></p>
 
 We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
 
@@ -456,7 +456,7 @@ Everyone is permitted to copy and distribute copies of Charting Show, but changi
 
 ### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
 
-<p align="center"><img src="/assets/images/stargazers.jpg" alt="stars"></p>
+<p align="center"><img src="/assets/images/stargazers-2.png" alt="stars"></p>
 
 [⬆ back to top](#table-of-contents-)
 
