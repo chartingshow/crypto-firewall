@@ -34,6 +34,7 @@ www.tradingview.com##[class^=counterRow-I]
 www.tradingview.com##[class^=notifications]
 www.tradingview.com##[class^=toast-wrapper]
 www.tradingview.com##[class^=toast]
+www.tradingview.com##[class^=toastCommon]
 www.tradingview.com##[data-role*="toast-container"]
 www.tradingview.com##div[data-dialog-name=gopro]
 ||economic-calendar.tradingview.com^$xhr
@@ -46,6 +47,7 @@ www.tradingview.com##div[data-dialog-name=gopro]
 ||snowplow-pixel.tradingview.com^
 ||static.tradingview.com/static/bundles/*-popup.*$image
 ||static.tradingview.com/static/bundles/branding-source.*.js$script,1p
+||static.tradingview.com/static/bundles/toast.*$image
 ||telemetry-partial.tradingview.com^
 ||telemetry.tradingview.com^
 ||tradingview.com/ping
