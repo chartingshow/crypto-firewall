@@ -715,3 +715,7 @@ www.cookie.fun##.pointer-events-none
 www.cookie.fun##[data-highcharts-chart] + div > svg
 www.cookie.fun##html > body > nav > div:nth-of-type(2)
 ||www.cookie.fun/_next/image?url=%2Fcookie-full.png$image
+
+! cryptocraft.com
+www.cryptocraft.com##.sidebar__panel--adbit.sidebar__panel.adbit.panel
+www.cryptocraft.com##.footer__branding
