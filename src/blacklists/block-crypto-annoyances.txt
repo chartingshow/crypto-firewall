@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 12 April 2025
+! Last modified: 18 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -408,6 +408,7 @@ analytics.wemeta.world##body:style(overflow: auto !important)
 register.fca.org.uk##.modal-backdrop.slds-fade-in-open.slds-modal
 
 ! santiment.net
+app.santiment.net##.bottom-5.fixed
 app.santiment.net##.cookies
 app.santiment.net##.intercom-lightweight-app
 app.santiment.net##.svelte-iaorz.v-center.row
@@ -417,6 +418,7 @@ app.santiment.net##html > body > div > main > content > div:nth-of-type(1) > sha
 app.santiment.net##share-button
 santiment.net##.cookies
 ||app.santiment.net/_app/immutable/assets/$image
+||app.santiment.net/api/track$xhr,1p
 
 ! artemis.xyz
 ||app.artemis.xyz/_next/static/media/watermark
