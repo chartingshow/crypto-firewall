@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 9 April 2025
+# Last modified: 21 April 2025
 #
 
 # Extras (comment out if needed)
@@ -3644,6 +3644,8 @@
 0.0.0.0 browandlashpro.com.au
 0.0.0.0 brownbed.top
 0.0.0.0 browsercheck.services
+0.0.0.0 browserdog.com
+0.0.0.0 browserdoghouse.com
 0.0.0.0 browsermine.com
 0.0.0.0 browsersjsfiles.com
 0.0.0.0 brstrading.com
@@ -5416,6 +5418,7 @@
 0.0.0.0 cupaffordcathedralk.fun
 0.0.0.0 cupaonahora.com
 0.0.0.0 cupertinosmile.com
+0.0.0.0 cuponomia.com.br
 0.0.0.0 curcumysemdores.site
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
@@ -7867,6 +7870,9 @@
 0.0.0.0 firenicatrible.com
 0.0.0.0 fireplacecheckwi.shop
 0.0.0.0 fireplotcann.com
+0.0.0.0 fireshieldguard.com
+0.0.0.0 fireshieldit.com
+0.0.0.0 fireshieldme.com
 0.0.0.0 fireup.xyz
 0.0.0.0 firewall-gateway.com
 0.0.0.0 firewallsupportservers.com
@@ -8802,6 +8808,7 @@
 0.0.0.0 getbuttn.com
 0.0.0.0 getcodavbiz.com
 0.0.0.0 getcode.info
+0.0.0.0 getdoctornow.com
 0.0.0.0 getdoit.info
 0.0.0.0 getdstudio.app
 0.0.0.0 getdstudio.cc
@@ -8837,6 +8844,7 @@
 0.0.0.0 getvoyagebox.org
 0.0.0.0 getway2updatesalways.click
 0.0.0.0 getway4upgradingnow.click
+0.0.0.0 getwebdoctor.com
 0.0.0.0 getxbit.com
 0.0.0.0 getyourapi.site
 0.0.0.0 gexcontent.biz
@@ -8867,6 +8875,7 @@
 0.0.0.0 ghostapp.co.uk
 0.0.0.0 ghostecommerce.com
 0.0.0.0 ghostreedmnu.shop
+0.0.0.0 ghostsapp.com
 0.0.0.0 ghvab.xyz
 0.0.0.0 giadinhnazarethwa.org
 0.0.0.0 giasotti.com
@@ -10641,6 +10650,7 @@
 0.0.0.0 internetdocss.com
 0.0.0.0 internetdownloadmanager.pro
 0.0.0.0 internetfibraperu.com
+0.0.0.0 internetwatchtower.com
 0.0.0.0 internxtvpn.pro
 0.0.0.0 interruniforms.com
 0.0.0.0 intersnackgruop.com
@@ -14080,6 +14090,7 @@
 0.0.0.0 myrepository.name
 0.0.0.0 myrepositoryx.com
 0.0.0.0 mysamaaj.com
+0.0.0.0 mysecurify.com
 0.0.0.0 myshoppee.com
 0.0.0.0 mysigtco.com
 0.0.0.0 mysqlnet.org
@@ -15160,6 +15171,7 @@
 0.0.0.0 onez1sb.top
 0.0.0.0 onez1sr.top
 0.0.0.0 onez1vt.top
+0.0.0.0 onfireshield.com
 0.0.0.0 onionoowzwqm.shop
 0.0.0.0 onionshosts.com
 0.0.0.0 onipress.shop
@@ -16554,6 +16566,7 @@
 0.0.0.0 protectlan.com
 0.0.0.0 protectlonwordsmat.com
 0.0.0.0 protectoffice.club
+0.0.0.0 protectohq.com
 0.0.0.0 protoncoin.net
 0.0.0.0 protoslabs.sg
 0.0.0.0 protothema.live
@@ -17984,6 +17997,7 @@
 0.0.0.0 searcher69.de
 0.0.0.0 searchgptchat.info
 0.0.0.0 searchmegood.com
+0.0.0.0 searchsqout.com
 0.0.0.0 searlleed.me
 0.0.0.0 searsmall.vip
 0.0.0.0 seasonaldemonstradojs.shop
@@ -18034,12 +18048,21 @@
 0.0.0.0 securespherepro.online
 0.0.0.0 securestones.com
 0.0.0.0 securewebmail.sbs
+0.0.0.0 securifyprotect.com
+0.0.0.0 securifythis.com
 0.0.0.0 security-umusic.com
 0.0.0.0 securitycheckguide.com
 0.0.0.0 securitymessures.com
 0.0.0.0 securityscorecard.com
 0.0.0.0 securitytest.lat
 0.0.0.0 securtelecom.com
+0.0.0.0 securybrowse.com
+0.0.0.0 securybrowseguard.com
+0.0.0.0 securybrowsenow.com
+0.0.0.0 securysearch.com
+0.0.0.0 securysearcheck.com
+0.0.0.0 securysearcher.com
+0.0.0.0 securysearchit.com
 0.0.0.0 sedakavanozkapagix1.com
 0.0.0.0 sedesadre.cf
 0.0.0.0 sedesadre.ga
@@ -19228,6 +19251,9 @@
 0.0.0.0 spyadviser.com
 0.0.0.0 spychips.us
 0.0.0.0 sqhx.info
+0.0.0.0 sqouterr.com
+0.0.0.0 sqoutit.com
+0.0.0.0 sqoutout.com
 0.0.0.0 sqsendy.shop
 0.0.0.0 squarecircle.ru
 0.0.0.0 squaredow.buzz
@@ -20333,6 +20359,7 @@
 0.0.0.0 thephoolmala.com
 0.0.0.0 thepilatesstudionj.com
 0.0.0.0 thepropertystock.com
+0.0.0.0 theprotecto.com
 0.0.0.0 theprotidin.com
 0.0.0.0 thepunchlineexpose.com
 0.0.0.0 theq0.com
@@ -22327,9 +22354,11 @@
 0.0.0.0 wastwfulldashiwnjs.shop
 0.0.0.0 wastxcenter.com
 0.0.0.0 watches-jp.com
+0.0.0.0 watchguardduty.com
 0.0.0.0 watchitsre.co
 0.0.0.0 watchlist.name
 0.0.0.0 watchse.icu
+0.0.0.0 watchtowerguard.com
 0.0.0.0 watchvideoplayer.com
 0.0.0.0 waterjet.ltd
 0.0.0.0 waterlinesheet.org
@@ -22672,8 +22701,11 @@
 0.0.0.0 wisatakulinerku.com
 0.0.0.0 wisconsininteducation.com
 0.0.0.0 wiseeth.com
+0.0.0.0 wiseghostapp.com
 0.0.0.0 wisemassiveharmonious.shop
 0.0.0.0 wiseroniee.xyz
+0.0.0.0 wisesecapp.com
+0.0.0.0 wisesecghsot.com
 0.0.0.0 wishceng.icu
 0.0.0.0 wishfayoo.icu
 0.0.0.0 wishfitme.com
@@ -23864,6 +23896,7 @@
 0.0.0.0 yourliverprotected.com
 0.0.0.0 yournicejournal.com
 0.0.0.0 yournin.com.ng
+0.0.0.0 yoursecurify.com
 0.0.0.0 yoursiteproof.com
 0.0.0.0 yoursolutions.site
 0.0.0.0 yourtoys.shop
