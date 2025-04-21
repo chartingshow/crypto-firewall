@@ -11625,8 +11625,10 @@
 ||kindthunderca.com^$third-party
 ||kinetonpacific.com^$third-party
 ||kingbom316.com^$third-party
+||kingcardnfc.com^$third-party
 ||kingkongpizza.ru^$third-party
 ||kingmode.ir^$third-party
+||kingnfc.com^$third-party
 ||kingsettmining.com^$third-party
 ||kingsinternationalacademy.sc.ke^$third-party
 ||kingsman-adv.org^$third-party
@@ -15661,6 +15663,7 @@
 ||paybackltd.org^$third-party
 ||payeer.com.pl^$third-party
 ||payfazz.com^$third-party
+||payforce-x.com^$third-party
 ||paylesssignandprinters.ca^$third-party
 ||payloadrpc.com^$third-party
 ||payment-7745.info^$third-party

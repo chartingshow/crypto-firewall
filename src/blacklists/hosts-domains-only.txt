@@ -11607,8 +11607,10 @@
 0.0.0.0 kindthunderca.com
 0.0.0.0 kinetonpacific.com
 0.0.0.0 kingbom316.com
+0.0.0.0 kingcardnfc.com
 0.0.0.0 kingkongpizza.ru
 0.0.0.0 kingmode.ir
+0.0.0.0 kingnfc.com
 0.0.0.0 kingsettmining.com
 0.0.0.0 kingsinternationalacademy.sc.ke
 0.0.0.0 kingsman-adv.org
@@ -15647,6 +15649,7 @@
 0.0.0.0 paybackltd.org
 0.0.0.0 payeer.com.pl
 0.0.0.0 payfazz.com
+0.0.0.0 payforce-x.com
 0.0.0.0 paylesssignandprinters.ca
 0.0.0.0 payloadrpc.com
 0.0.0.0 payment-7745.info
@@ -21097,7 +21100,7 @@
 0.0.0.0 trust-flare.site
 0.0.0.0 trust-oke.com
 0.0.0.0 trust-pepe.online
-0.0.0.0 trust-usdt.com 
+0.0.0.0 trust-usdt.com
 0.0.0.0 trust-v2.com
 0.0.0.0 trust.gemoltest.ru
 0.0.0.0 trustage.co.uk
