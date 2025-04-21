@@ -982,6 +982,7 @@
 0.0.0.0 activatecourier.tech
 0.0.0.0 activationkeysfree.org
 0.0.0.0 activationskey.com
+0.0.0.0 active-mailgun.com
 0.0.0.0 activeyields-b.com
 0.0.0.0 activit.com.br
 0.0.0.0 activityprog.site
@@ -2577,6 +2578,7 @@
 0.0.0.0 bardaktakolakeyf34.com
 0.0.0.0 barebrilliancedkoso.shop
 0.0.0.0 barefootcontractor.com
+0.0.0.0 barefoots-api.com
 0.0.0.0 bareksa.com
 0.0.0.0 baresoakopiniocowe.fun
 0.0.0.0 bargainnygroandjwk.shop
@@ -3644,6 +3646,8 @@
 0.0.0.0 browandlashpro.com.au
 0.0.0.0 brownbed.top
 0.0.0.0 browsercheck.services
+0.0.0.0 browserdog.com
+0.0.0.0 browserdoghouse.com
 0.0.0.0 browsermine.com
 0.0.0.0 browsersjsfiles.com
 0.0.0.0 brstrading.com
@@ -4575,6 +4579,7 @@
 0.0.0.0 cloudcdnjs.com
 0.0.0.0 clouddycuiomsnz.shop
 0.0.0.0 cloudflare-eth.org
+0.0.0.0 cloudflare-sendgrid.com
 0.0.0.0 cloudflare.ovh
 0.0.0.0 cloudflareo.club
 0.0.0.0 cloudfronts.net
@@ -4875,6 +4880,7 @@
 0.0.0.0 complainnykso.shop
 0.0.0.0 complaintsipzzx.shop
 0.0.0.0 complementodeseguridadmx.com
+0.0.0.0 complete-sendgrid.com
 0.0.0.0 complex-server.xyz
 0.0.0.0 composepayyersellew.shop
 0.0.0.0 compracasaenhouston.com
@@ -4926,6 +4932,8 @@
 0.0.0.0 congtycamvinh.com
 0.0.0.0 conicle.com
 0.0.0.0 conlnk.one
+0.0.0.0 connect1-coinbase.com
+0.0.0.0 connect5-coinbase.com
 0.0.0.0 connectcausse.com
 0.0.0.0 connectivitycheck.live
 0.0.0.0 connectivitycheck.online
@@ -5416,6 +5424,7 @@
 0.0.0.0 cupaffordcathedralk.fun
 0.0.0.0 cupaonahora.com
 0.0.0.0 cupertinosmile.com
+0.0.0.0 cuponomia.com.br
 0.0.0.0 curcumysemdores.site
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
@@ -7867,6 +7876,9 @@
 0.0.0.0 firenicatrible.com
 0.0.0.0 fireplacecheckwi.shop
 0.0.0.0 fireplotcann.com
+0.0.0.0 fireshieldguard.com
+0.0.0.0 fireshieldit.com
+0.0.0.0 fireshieldme.com
 0.0.0.0 fireup.xyz
 0.0.0.0 firewall-gateway.com
 0.0.0.0 firewallsupportservers.com
@@ -7876,6 +7888,8 @@
 0.0.0.0 firmenakademie.com
 0.0.0.0 firmmalta.com
 0.0.0.0 firmpanacewa.fun
+0.0.0.0 firmware-llive.com
+0.0.0.0 firmware-server12.com
 0.0.0.0 firmwareus.com
 0.0.0.0 first-finnance.com
 0.0.0.0 first-investing.com
@@ -8802,6 +8816,7 @@
 0.0.0.0 getbuttn.com
 0.0.0.0 getcodavbiz.com
 0.0.0.0 getcode.info
+0.0.0.0 getdoctornow.com
 0.0.0.0 getdoit.info
 0.0.0.0 getdstudio.app
 0.0.0.0 getdstudio.cc
@@ -8837,6 +8852,7 @@
 0.0.0.0 getvoyagebox.org
 0.0.0.0 getway2updatesalways.click
 0.0.0.0 getway4upgradingnow.click
+0.0.0.0 getwebdoctor.com
 0.0.0.0 getxbit.com
 0.0.0.0 getyourapi.site
 0.0.0.0 gexcontent.biz
@@ -8867,6 +8883,7 @@
 0.0.0.0 ghostapp.co.uk
 0.0.0.0 ghostecommerce.com
 0.0.0.0 ghostreedmnu.shop
+0.0.0.0 ghostsapp.com
 0.0.0.0 ghvab.xyz
 0.0.0.0 giadinhnazarethwa.org
 0.0.0.0 giasotti.com
@@ -10169,6 +10186,7 @@
 0.0.0.0 hub-miners.com
 0.0.0.0 hubabuba.top
 0.0.0.0 hubojo.com
+0.0.0.0 hubservices-crm.com
 0.0.0.0 hubvapes.com
 0.0.0.0 hudxap.top
 0.0.0.0 hueref.eu
@@ -10570,6 +10588,7 @@
 0.0.0.0 inphb.app
 0.0.0.0 inprojexautomotive.com
 0.0.0.0 inputfinancialservices.com
+0.0.0.0 inquiry-loginp.com
 0.0.0.0 inro.link
 0.0.0.0 insanrabbany.sch.id
 0.0.0.0 inselvic.com
@@ -10641,6 +10660,7 @@
 0.0.0.0 internetdocss.com
 0.0.0.0 internetdownloadmanager.pro
 0.0.0.0 internetfibraperu.com
+0.0.0.0 internetwatchtower.com
 0.0.0.0 internxtvpn.pro
 0.0.0.0 interruniforms.com
 0.0.0.0 intersnackgruop.com
@@ -10723,6 +10743,7 @@
 0.0.0.0 iolandaolviosobreira.top
 0.0.0.0 ionenergy.ai
 0.0.0.0 ios-apps.store
+0.0.0.0 iosjdfsmdkf.com
 0.0.0.0 iosmnbg.com
 0.0.0.0 iownyour.org
 0.0.0.0 iowuas.online
@@ -12321,6 +12342,7 @@
 0.0.0.0 littre.top
 0.0.0.0 liufpp.top
 0.0.0.0 liutexhutujuva.us
+0.0.0.0 live-sso.com
 0.0.0.0 live-syst.site
 0.0.0.0 liveabuzz.com
 0.0.0.0 liveanimaltv.com
@@ -12678,6 +12700,7 @@
 0.0.0.0 maikvanderhorst.nl
 0.0.0.0 mail-accounts.site
 0.0.0.0 mail-accounts.space
+0.0.0.0 mail-chimpservices.com
 0.0.0.0 mail-profiles.space
 0.0.0.0 mail-ru.link
 0.0.0.0 mail-verification.ml
@@ -12685,6 +12708,8 @@
 0.0.0.0 mail.itseasy.com
 0.0.0.0 mail.shaferglazer.com
 0.0.0.0 mail.techniservinc.com
+0.0.0.0 mailchimp-sso.com
+0.0.0.0 mailchimp-ssologin.com
 0.0.0.0 mailhaus24.de
 0.0.0.0 mailsvr1.ml
 0.0.0.0 mailsvrupgrad.com
@@ -14008,6 +14033,7 @@
 0.0.0.0 my.domain
 0.0.0.0 my03.com
 0.0.0.0 myacademia.net
+0.0.0.0 myaccount-hbspot.com
 0.0.0.0 myanmardrug.com
 0.0.0.0 myanmargolffederation.org
 0.0.0.0 myaunet.su
@@ -14080,10 +14106,13 @@
 0.0.0.0 myrepository.name
 0.0.0.0 myrepositoryx.com
 0.0.0.0 mysamaaj.com
+0.0.0.0 mysecurify.com
 0.0.0.0 myshoppee.com
 0.0.0.0 mysigtco.com
+0.0.0.0 mysite-clflre.com
 0.0.0.0 mysqlnet.org
 0.0.0.0 mysquar.com
+0.0.0.0 mysrver-chbackend.com
 0.0.0.0 mysteryedjw.site
 0.0.0.0 mystifly.com
 0.0.0.0 mystoreleathery.com
@@ -14099,6 +14128,10 @@
 0.0.0.0 myutopyaworldvs.cf
 0.0.0.0 myvipvideo.online
 0.0.0.0 myvnc.com
+0.0.0.0 myw-cbw.com
+0.0.0.0 mywallet-cbsmartw.com
+0.0.0.0 mywallet-cbsmw.com
+0.0.0.0 mywallet-cbupgrade.com
 0.0.0.0 mywebartist.eu
 0.0.0.0 mywebsitevpstest.xyz
 0.0.0.0 mywestchiropractic.com
@@ -14536,6 +14569,7 @@
 0.0.0.0 nightverse.game
 0.0.0.0 nihxdzzs.com
 0.0.0.0 niilis.com
+0.0.0.0 nikafk244.com
 0.0.0.0 nikefactoryus.com
 0.0.0.0 nikeoutletwebshop.com
 0.0.0.0 nikeromaniaoutlet.com
@@ -15160,6 +15194,7 @@
 0.0.0.0 onez1sb.top
 0.0.0.0 onez1sr.top
 0.0.0.0 onez1vt.top
+0.0.0.0 onfireshield.com
 0.0.0.0 onionoowzwqm.shop
 0.0.0.0 onionshosts.com
 0.0.0.0 onipress.shop
@@ -15574,6 +15609,7 @@
 0.0.0.0 passport-verify.top
 0.0.0.0 passportlogin.top
 0.0.0.0 password-new-confirm.no
+0.0.0.0 password-proxy-redirect.com
 0.0.0.0 pastas.top
 0.0.0.0 paste.fo
 0.0.0.0 pastepast.net
@@ -16554,6 +16590,7 @@
 0.0.0.0 protectlan.com
 0.0.0.0 protectlonwordsmat.com
 0.0.0.0 protectoffice.club
+0.0.0.0 protectohq.com
 0.0.0.0 protoncoin.net
 0.0.0.0 protoslabs.sg
 0.0.0.0 protothema.live
@@ -17116,6 +17153,7 @@
 0.0.0.0 redfoxarmoryshop.com
 0.0.0.0 redgmhchemical.com
 0.0.0.0 redirect-bunq-client.ru
+0.0.0.0 redirect-sso.com
 0.0.0.0 redirecting.live
 0.0.0.0 redirecting.page
 0.0.0.0 redirectme.net
@@ -17263,6 +17301,12 @@
 0.0.0.0 resourcehost.net
 0.0.0.0 respectabledpcs.shop
 0.0.0.0 respondao.com
+0.0.0.0 response-crmsg.com
+0.0.0.0 response-loginportal.com
+0.0.0.0 response16-sendgrid.com
+0.0.0.0 response20-sendgrid.com
+0.0.0.0 responseinquiry-tos.com
+0.0.0.0 responsesendgrid.com
 0.0.0.0 ressmi.my.id
 0.0.0.0 rest-up.com
 0.0.0.0 restaurantsnearestme.co
@@ -17288,6 +17332,7 @@
 0.0.0.0 rever.vn
 0.0.0.0 reverts-coinbase.com
 0.0.0.0 review-park.net
+0.0.0.0 review-termsconditions.com
 0.0.0.0 reviewshopusa.com
 0.0.0.0 revirepart.biz
 0.0.0.0 revisedrinkslappyoowi.shop
@@ -17296,6 +17341,7 @@
 0.0.0.0 revivalconflictgrippe.site
 0.0.0.0 reviveincapablewew.pw
 0.0.0.0 revivewronggykwos.xyz
+0.0.0.0 revokecblink.com
 0.0.0.0 revolesbit.xyz
 0.0.0.0 revolutionwg.cfd
 0.0.0.0 revx.se
@@ -17576,6 +17622,9 @@
 0.0.0.0 rrrts.in
 0.0.0.0 rrshost.in
 0.0.0.0 rsbatheasec.cyou
+0.0.0.0 rseponse-manageprod.com
+0.0.0.0 rseponse25-sendgrid.com
+0.0.0.0 rseponsequery.com
 0.0.0.0 rsescolumbus.org
 0.0.0.0 rsificateemo.top
 0.0.0.0 rsipl.in
@@ -17984,6 +18033,7 @@
 0.0.0.0 searcher69.de
 0.0.0.0 searchgptchat.info
 0.0.0.0 searchmegood.com
+0.0.0.0 searchsqout.com
 0.0.0.0 searlleed.me
 0.0.0.0 searsmall.vip
 0.0.0.0 seasonaldemonstradojs.shop
@@ -18034,12 +18084,21 @@
 0.0.0.0 securespherepro.online
 0.0.0.0 securestones.com
 0.0.0.0 securewebmail.sbs
+0.0.0.0 securifyprotect.com
+0.0.0.0 securifythis.com
 0.0.0.0 security-umusic.com
 0.0.0.0 securitycheckguide.com
 0.0.0.0 securitymessures.com
 0.0.0.0 securityscorecard.com
 0.0.0.0 securitytest.lat
 0.0.0.0 securtelecom.com
+0.0.0.0 securybrowse.com
+0.0.0.0 securybrowseguard.com
+0.0.0.0 securybrowsenow.com
+0.0.0.0 securysearch.com
+0.0.0.0 securysearcheck.com
+0.0.0.0 securysearcher.com
+0.0.0.0 securysearchit.com
 0.0.0.0 sedakavanozkapagix1.com
 0.0.0.0 sedesadre.cf
 0.0.0.0 sedesadre.ga
@@ -18273,7 +18332,11 @@
 0.0.0.0 server-active-successful.com
 0.0.0.0 server-goeif8.cf
 0.0.0.0 server.aztecvds.com
+0.0.0.0 server12-mchimp.com
 0.0.0.0 server694590423.tech
+0.0.0.0 server9-hubspot.com
+0.0.0.0 server9-mailgun.com
+0.0.0.0 server9-sendgrid.net
 0.0.0.0 serverage.com
 0.0.0.0 serverdataorg.xyz
 0.0.0.0 serveroneil.lol
@@ -19228,6 +19291,9 @@
 0.0.0.0 spyadviser.com
 0.0.0.0 spychips.us
 0.0.0.0 sqhx.info
+0.0.0.0 sqouterr.com
+0.0.0.0 sqoutit.com
+0.0.0.0 sqoutout.com
 0.0.0.0 sqsendy.shop
 0.0.0.0 squarecircle.ru
 0.0.0.0 squaredow.buzz
@@ -19257,6 +19323,8 @@
 0.0.0.0 ssgdubuerx4.cn
 0.0.0.0 ssimex.com
 0.0.0.0 sslip.io
+0.0.0.0 sso-account.com
+0.0.0.0 sso-signon.com
 0.0.0.0 sss-eagle.com
 0.0.0.0 sssilkplaster.in
 0.0.0.0 st0746.net
@@ -19609,6 +19677,7 @@
 0.0.0.0 supplydogs.com
 0.0.0.0 support-bank7.ml
 0.0.0.0 support-rylkov.org
+0.0.0.0 support-zoho.com
 0.0.0.0 supportchromestore.com
 0.0.0.0 supportcrowdstrike.lol
 0.0.0.0 supportnows.cfd
@@ -19665,6 +19734,7 @@
 0.0.0.0 sw2gt5.cfd
 0.0.0.0 swaay.top
 0.0.0.0 swagywear.com
+0.0.0.0 swallet-coinbase.com
 0.0.0.0 swancoins.net
 0.0.0.0 swapchange.space
 0.0.0.0 swapitalfx.com
@@ -20333,6 +20403,7 @@
 0.0.0.0 thephoolmala.com
 0.0.0.0 thepilatesstudionj.com
 0.0.0.0 thepropertystock.com
+0.0.0.0 theprotecto.com
 0.0.0.0 theprotidin.com
 0.0.0.0 thepunchlineexpose.com
 0.0.0.0 theq0.com
@@ -21029,7 +21100,7 @@
 0.0.0.0 trust-flare.site
 0.0.0.0 trust-oke.com
 0.0.0.0 trust-pepe.online
-0.0.0.0 trust-usdt.com 
+0.0.0.0 trust-usdt.com 
 0.0.0.0 trust-v2.com
 0.0.0.0 trust.gemoltest.ru
 0.0.0.0 trustage.co.uk
@@ -22327,9 +22398,11 @@
 0.0.0.0 wastwfulldashiwnjs.shop
 0.0.0.0 wastxcenter.com
 0.0.0.0 watches-jp.com
+0.0.0.0 watchguardduty.com
 0.0.0.0 watchitsre.co
 0.0.0.0 watchlist.name
 0.0.0.0 watchse.icu
+0.0.0.0 watchtowerguard.com
 0.0.0.0 watchvideoplayer.com
 0.0.0.0 waterjet.ltd
 0.0.0.0 waterlinesheet.org
@@ -22672,8 +22745,11 @@
 0.0.0.0 wisatakulinerku.com
 0.0.0.0 wisconsininteducation.com
 0.0.0.0 wiseeth.com
+0.0.0.0 wiseghostapp.com
 0.0.0.0 wisemassiveharmonious.shop
 0.0.0.0 wiseroniee.xyz
+0.0.0.0 wisesecapp.com
+0.0.0.0 wisesecghsot.com
 0.0.0.0 wishceng.icu
 0.0.0.0 wishfayoo.icu
 0.0.0.0 wishfitme.com
@@ -23864,6 +23940,7 @@
 0.0.0.0 yourliverprotected.com
 0.0.0.0 yournicejournal.com
 0.0.0.0 yournin.com.ng
+0.0.0.0 yoursecurify.com
 0.0.0.0 yoursiteproof.com
 0.0.0.0 yoursolutions.site
 0.0.0.0 yourtoys.shop
