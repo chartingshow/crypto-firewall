@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 18 April 2025
+! Last modified: 21 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -157,8 +157,10 @@ coinlib.io##a.dropdown-item:nth-of-type(1)
 
 ! cryptometer.io
 www.cryptometer.io###gdpr-cookie-message
+www.cryptometer.io###sticky-footer-ads
 www.cryptometer.io##.container-fluid
 www.cryptometer.io##.d-md-block.d-none.navbar-border.footer-light.fixed-bottom.footer.navbar-expand.navbar
+||www.cryptometer.io/ads/sticky_slot.php$subdocument
 
 ! coinglass.co
 www.coinglass.com##.chart-logo
