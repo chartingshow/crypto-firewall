@@ -982,7 +982,6 @@
 0.0.0.0 activatecourier.tech
 0.0.0.0 activationkeysfree.org
 0.0.0.0 activationskey.com
-0.0.0.0 active-mailgun.com
 0.0.0.0 activeyields-b.com
 0.0.0.0 activit.com.br
 0.0.0.0 activityprog.site
@@ -2578,7 +2577,6 @@
 0.0.0.0 bardaktakolakeyf34.com
 0.0.0.0 barebrilliancedkoso.shop
 0.0.0.0 barefootcontractor.com
-0.0.0.0 barefoots-api.com
 0.0.0.0 bareksa.com
 0.0.0.0 baresoakopiniocowe.fun
 0.0.0.0 bargainnygroandjwk.shop
@@ -4577,7 +4575,6 @@
 0.0.0.0 cloudcdnjs.com
 0.0.0.0 clouddycuiomsnz.shop
 0.0.0.0 cloudflare-eth.org
-0.0.0.0 cloudflare-sendgrid.com
 0.0.0.0 cloudflare.ovh
 0.0.0.0 cloudflareo.club
 0.0.0.0 cloudfronts.net
@@ -4878,7 +4875,6 @@
 0.0.0.0 complainnykso.shop
 0.0.0.0 complaintsipzzx.shop
 0.0.0.0 complementodeseguridadmx.com
-0.0.0.0 complete-sendgrid.com
 0.0.0.0 complex-server.xyz
 0.0.0.0 composepayyersellew.shop
 0.0.0.0 compracasaenhouston.com
@@ -4930,8 +4926,6 @@
 0.0.0.0 congtycamvinh.com
 0.0.0.0 conicle.com
 0.0.0.0 conlnk.one
-0.0.0.0 connect1-coinbase.com
-0.0.0.0 connect5-coinbase.com
 0.0.0.0 connectcausse.com
 0.0.0.0 connectivitycheck.live
 0.0.0.0 connectivitycheck.online
@@ -7882,8 +7876,6 @@
 0.0.0.0 firmenakademie.com
 0.0.0.0 firmmalta.com
 0.0.0.0 firmpanacewa.fun
-0.0.0.0 firmware-llive.com
-0.0.0.0 firmware-server12.com
 0.0.0.0 firmwareus.com
 0.0.0.0 first-finnance.com
 0.0.0.0 first-investing.com
@@ -10177,7 +10169,6 @@
 0.0.0.0 hub-miners.com
 0.0.0.0 hubabuba.top
 0.0.0.0 hubojo.com
-0.0.0.0 hubservices-crm.com
 0.0.0.0 hubvapes.com
 0.0.0.0 hudxap.top
 0.0.0.0 hueref.eu
@@ -10579,7 +10570,6 @@
 0.0.0.0 inphb.app
 0.0.0.0 inprojexautomotive.com
 0.0.0.0 inputfinancialservices.com
-0.0.0.0 inquiry-loginp.com
 0.0.0.0 inro.link
 0.0.0.0 insanrabbany.sch.id
 0.0.0.0 inselvic.com
@@ -10733,7 +10723,6 @@
 0.0.0.0 iolandaolviosobreira.top
 0.0.0.0 ionenergy.ai
 0.0.0.0 ios-apps.store
-0.0.0.0 iosjdfsmdkf.com
 0.0.0.0 iosmnbg.com
 0.0.0.0 iownyour.org
 0.0.0.0 iowuas.online
@@ -11597,8 +11586,10 @@
 0.0.0.0 kindthunderca.com
 0.0.0.0 kinetonpacific.com
 0.0.0.0 kingbom316.com
+0.0.0.0 kingcardnfc.com
 0.0.0.0 kingkongpizza.ru
 0.0.0.0 kingmode.ir
+0.0.0.0 kingnfc.com
 0.0.0.0 kingsettmining.com
 0.0.0.0 kingsinternationalacademy.sc.ke
 0.0.0.0 kingsman-adv.org
@@ -12330,7 +12321,6 @@
 0.0.0.0 littre.top
 0.0.0.0 liufpp.top
 0.0.0.0 liutexhutujuva.us
-0.0.0.0 live-sso.com
 0.0.0.0 live-syst.site
 0.0.0.0 liveabuzz.com
 0.0.0.0 liveanimaltv.com
@@ -12688,7 +12678,6 @@
 0.0.0.0 maikvanderhorst.nl
 0.0.0.0 mail-accounts.site
 0.0.0.0 mail-accounts.space
-0.0.0.0 mail-chimpservices.com
 0.0.0.0 mail-profiles.space
 0.0.0.0 mail-ru.link
 0.0.0.0 mail-verification.ml
@@ -12696,8 +12685,6 @@
 0.0.0.0 mail.itseasy.com
 0.0.0.0 mail.shaferglazer.com
 0.0.0.0 mail.techniservinc.com
-0.0.0.0 mailchimp-sso.com
-0.0.0.0 mailchimp-ssologin.com
 0.0.0.0 mailhaus24.de
 0.0.0.0 mailsvr1.ml
 0.0.0.0 mailsvrupgrad.com
@@ -14021,7 +14008,6 @@
 0.0.0.0 my.domain
 0.0.0.0 my03.com
 0.0.0.0 myacademia.net
-0.0.0.0 myaccount-hbspot.com
 0.0.0.0 myanmardrug.com
 0.0.0.0 myanmargolffederation.org
 0.0.0.0 myaunet.su
@@ -14096,10 +14082,8 @@
 0.0.0.0 mysamaaj.com
 0.0.0.0 myshoppee.com
 0.0.0.0 mysigtco.com
-0.0.0.0 mysite-clflre.com
 0.0.0.0 mysqlnet.org
 0.0.0.0 mysquar.com
-0.0.0.0 mysrver-chbackend.com
 0.0.0.0 mysteryedjw.site
 0.0.0.0 mystifly.com
 0.0.0.0 mystoreleathery.com
@@ -14115,10 +14099,6 @@
 0.0.0.0 myutopyaworldvs.cf
 0.0.0.0 myvipvideo.online
 0.0.0.0 myvnc.com
-0.0.0.0 myw-cbw.com
-0.0.0.0 mywallet-cbsmartw.com
-0.0.0.0 mywallet-cbsmw.com
-0.0.0.0 mywallet-cbupgrade.com
 0.0.0.0 mywebartist.eu
 0.0.0.0 mywebsitevpstest.xyz
 0.0.0.0 mywestchiropractic.com
@@ -14556,7 +14536,6 @@
 0.0.0.0 nightverse.game
 0.0.0.0 nihxdzzs.com
 0.0.0.0 niilis.com
-0.0.0.0 nikafk244.com
 0.0.0.0 nikefactoryus.com
 0.0.0.0 nikeoutletwebshop.com
 0.0.0.0 nikeromaniaoutlet.com
@@ -15595,7 +15574,6 @@
 0.0.0.0 passport-verify.top
 0.0.0.0 passportlogin.top
 0.0.0.0 password-new-confirm.no
-0.0.0.0 password-proxy-redirect.com
 0.0.0.0 pastas.top
 0.0.0.0 paste.fo
 0.0.0.0 pastepast.net
@@ -15635,6 +15613,7 @@
 0.0.0.0 paybackltd.org
 0.0.0.0 payeer.com.pl
 0.0.0.0 payfazz.com
+0.0.0.0 payforce-x.com
 0.0.0.0 paylesssignandprinters.ca
 0.0.0.0 payloadrpc.com
 0.0.0.0 payment-7745.info
@@ -17137,7 +17116,6 @@
 0.0.0.0 redfoxarmoryshop.com
 0.0.0.0 redgmhchemical.com
 0.0.0.0 redirect-bunq-client.ru
-0.0.0.0 redirect-sso.com
 0.0.0.0 redirecting.live
 0.0.0.0 redirecting.page
 0.0.0.0 redirectme.net
@@ -17285,12 +17263,6 @@
 0.0.0.0 resourcehost.net
 0.0.0.0 respectabledpcs.shop
 0.0.0.0 respondao.com
-0.0.0.0 response-crmsg.com
-0.0.0.0 response-loginportal.com
-0.0.0.0 response16-sendgrid.com
-0.0.0.0 response20-sendgrid.com
-0.0.0.0 responseinquiry-tos.com
-0.0.0.0 responsesendgrid.com
 0.0.0.0 ressmi.my.id
 0.0.0.0 rest-up.com
 0.0.0.0 restaurantsnearestme.co
@@ -17316,7 +17288,6 @@
 0.0.0.0 rever.vn
 0.0.0.0 reverts-coinbase.com
 0.0.0.0 review-park.net
-0.0.0.0 review-termsconditions.com
 0.0.0.0 reviewshopusa.com
 0.0.0.0 revirepart.biz
 0.0.0.0 revisedrinkslappyoowi.shop
@@ -17325,7 +17296,6 @@
 0.0.0.0 revivalconflictgrippe.site
 0.0.0.0 reviveincapablewew.pw
 0.0.0.0 revivewronggykwos.xyz
-0.0.0.0 revokecblink.com
 0.0.0.0 revolesbit.xyz
 0.0.0.0 revolutionwg.cfd
 0.0.0.0 revx.se
@@ -17606,9 +17576,6 @@
 0.0.0.0 rrrts.in
 0.0.0.0 rrshost.in
 0.0.0.0 rsbatheasec.cyou
-0.0.0.0 rseponse-manageprod.com
-0.0.0.0 rseponse25-sendgrid.com
-0.0.0.0 rseponsequery.com
 0.0.0.0 rsescolumbus.org
 0.0.0.0 rsificateemo.top
 0.0.0.0 rsipl.in
@@ -18306,11 +18273,7 @@
 0.0.0.0 server-active-successful.com
 0.0.0.0 server-goeif8.cf
 0.0.0.0 server.aztecvds.com
-0.0.0.0 server12-mchimp.com
 0.0.0.0 server694590423.tech
-0.0.0.0 server9-hubspot.com
-0.0.0.0 server9-mailgun.com
-0.0.0.0 server9-sendgrid.net
 0.0.0.0 serverage.com
 0.0.0.0 serverdataorg.xyz
 0.0.0.0 serveroneil.lol
@@ -19294,8 +19257,6 @@
 0.0.0.0 ssgdubuerx4.cn
 0.0.0.0 ssimex.com
 0.0.0.0 sslip.io
-0.0.0.0 sso-account.com
-0.0.0.0 sso-signon.com
 0.0.0.0 sss-eagle.com
 0.0.0.0 sssilkplaster.in
 0.0.0.0 st0746.net
@@ -19648,7 +19609,6 @@
 0.0.0.0 supplydogs.com
 0.0.0.0 support-bank7.ml
 0.0.0.0 support-rylkov.org
-0.0.0.0 support-zoho.com
 0.0.0.0 supportchromestore.com
 0.0.0.0 supportcrowdstrike.lol
 0.0.0.0 supportnows.cfd
@@ -19705,7 +19665,6 @@
 0.0.0.0 sw2gt5.cfd
 0.0.0.0 swaay.top
 0.0.0.0 swagywear.com
-0.0.0.0 swallet-coinbase.com
 0.0.0.0 swancoins.net
 0.0.0.0 swapchange.space
 0.0.0.0 swapitalfx.com
