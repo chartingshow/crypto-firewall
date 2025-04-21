@@ -8,7 +8,7 @@
  *              projects, alerting users when they encounter potentially harmful content.
  *              Enhanced protection against malicious packages/extensions with JSON-based
  *              threat intelligence.
- * @version 2.0.0
+ * @version 2.0.1
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -24,37 +24,45 @@
   // Updated JSON blacklist endpoints
   const blacklistURLs = {
     'chrome.extension':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extension-ids.txt',
     'chrome.google.com/webstore':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
     'firebaseio.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firebase-projects.json',
     'marketplace.visualstudio.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vscode-extensions.json',
     'npmjs.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/npm-packages.json',
     'pypi.org':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/pypi-packages.json',
   }
 
   // Cache for storing fetched blacklists
   const blacklistCache = new Map()
 
-  // Enhanced fetch function with caching
-  async function fetchJSONBlacklist(url) {
+  // Enhanced fetch function with caching, now supports .json and .txt (ignores # comments in .txt)
+  async function fetchBlacklist(url) {
     if (blacklistCache.has(url)) {
       return blacklistCache.get(url)
     }
 
     try {
-      const response = await fetch(url, {
-        cache: 'no-cache',
-        headers: {'Content-Type': 'application/json'},
-      })
-
+      const response = await fetch(url, { cache: 'no-cache' })
       if (!response.ok) throw new Error(`HTTP ${response.status}`)
 
-      const data = await response.json()
+      let data
+      if (url.endsWith('.json')) {
+        data = await response.json()
+      } else if (url.endsWith('.txt')) {
+        const text = await response.text()
+        data = text
+          .split(/\r?\n/)
+          .map(line => line.trim())
+          .filter(line => line && !line.startsWith('#'))
+          .map(pkg => ({ package: pkg, type: 'unknown', severity: 'unknown', description: '', remediation: '' }))
+      } else {
+        data = []
+      }
       blacklistCache.set(url, data)
       return data
     } catch (error) {
@@ -68,7 +76,8 @@
     const blacklistUrl = blacklistURLs[hostname]
     if (!blacklistUrl) return
 
-    const blacklist = await fetchJSONBlacklist(blacklistUrl)
+    // Use new fetchBlacklist function
+    const blacklist = await fetchBlacklist(blacklistUrl)
     const currentURL = window.location.href.toLowerCase()
 
     for (const threat of blacklist) {
