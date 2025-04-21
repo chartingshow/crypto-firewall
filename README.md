@@ -58,7 +58,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Adblockers](#adblockers-%EF%B8%8F)
   - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
-- [Malicious Package Names blocking](#malicious-package-names-blocking-)
+- [Bad Browser Extensions & Package Names blocking](#bad-browser-extensions--package-names-blocking-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
 - [IP blocking](#ip-blocking-)
   - [Custom IP Block Lists](#custom-ip-block-lists-)
@@ -263,11 +263,13 @@ This repo blocks specific free dns / hosting services, that are completely satur
 
 - [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
 
-## Malicious Package Names blocking 👨‍💻
+## Bad Browser Extensions & Package Names blocking 👨‍💻
 
-Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of package names currently blocked can be found in the folder here:
+Malicious browser extensions pose critical risks by enabling cybercriminals to hijack browsing sessions, steal sensitive credentials and establish persistent access. These threats often masquerade as legitimate tools while exfiltrating cookies, authentication tokens and financial data.
 
-- [Malicious Package Names Folder](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/package-names/)
+Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of bad browser extensions and malicious package names currently blocked can be found in the following folder:
+
+- [Bad Browser Extensions & Package Names Folder](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/packages-and-extensions)
 
 ## Autonomous System Number (ASN) blocking 🗃️
 
