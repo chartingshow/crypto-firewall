@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 9 April 2025
+! Last modified: 21 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -3659,6 +3659,8 @@
 ||browandlashpro.com.au^$third-party
 ||brownbed.top^$third-party
 ||browsercheck.services^$third-party
+||browserdog.com^$third-party
+||browserdoghouse.com^$third-party
 ||browsermine.com^$third-party
 ||browsersjsfiles.com^$third-party
 ||brstrading.com^$third-party
@@ -5435,6 +5437,7 @@
 ||cupaffordcathedralk.fun^$third-party
 ||cupaonahora.com^$third-party
 ||cupertinosmile.com^$third-party
+||cuponomia.com.br^$third-party
 ||curcumysemdores.site^$third-party
 ||curfiositystream.com^$third-party
 ||curiositydstream.com^$third-party
@@ -7886,6 +7889,9 @@
 ||firenicatrible.com^$third-party
 ||fireplacecheckwi.shop^$third-party
 ||fireplotcann.com^$third-party
+||fireshieldguard.com^$third-party
+||fireshieldit.com^$third-party
+||fireshieldme.com^$third-party
 ||fireup.xyz^$third-party
 ||firewall-gateway.com^$third-party
 ||firewallsupportservers.com^$third-party
@@ -8820,6 +8826,7 @@
 ||getbuttn.com^$third-party
 ||getcodavbiz.com^$third-party
 ||getcode.info^$third-party
+||getdoctornow.com^$third-party
 ||getdoit.info^$third-party
 ||getdstudio.app^$third-party
 ||getdstudio.cc^$third-party
@@ -8855,6 +8862,7 @@
 ||getvoyagebox.org^$third-party
 ||getway2updatesalways.click^$third-party
 ||getway4upgradingnow.click^$third-party
+||getwebdoctor.com^$third-party
 ||getxbit.com^$third-party
 ||getyourapi.site^$third-party
 ||gexcontent.biz^$third-party
@@ -8885,6 +8893,7 @@
 ||ghostapp.co.uk^$third-party
 ||ghostecommerce.com^$third-party
 ||ghostreedmnu.shop^$third-party
+||ghostsapp.com^$third-party
 ||ghvab.xyz^$third-party
 ||giadinhnazarethwa.org^$third-party
 ||giasotti.com^$third-party
@@ -10664,6 +10673,7 @@
 ||internetdocss.com^$third-party
 ||internetdownloadmanager.pro^$third-party
 ||internetfibraperu.com^$third-party
+||internetwatchtower.com^$third-party
 ||internxtvpn.pro^$third-party
 ||interruniforms.com^$third-party
 ||intersnackgruop.com^$third-party
@@ -14102,6 +14112,7 @@
 ||myrepository.name^$third-party
 ||myrepositoryx.com^$third-party
 ||mysamaaj.com^$third-party
+||mysecurify.com^$third-party
 ||myshoppee.com^$third-party
 ||mysigtco.com^$third-party
 ||mysite-clflre.com^$third-party
@@ -15195,6 +15206,7 @@
 ||onez1sb.top^$third-party
 ||onez1sr.top^$third-party
 ||onez1vt.top^$third-party
+||onfireshield.com^$third-party
 ||onionoowzwqm.shop^$third-party
 ||onionshosts.com^$third-party
 ||onipress.shop^$third-party
@@ -16575,6 +16587,7 @@
 ||protectlan.com^$third-party
 ||protectlonwordsmat.com^$third-party
 ||protectoffice.club^$third-party
+||protectohq.com^$third-party
 ||protoncoin.net^$third-party
 ||protoslabs.sg^$third-party
 ||protothema.live^$third-party
@@ -17998,6 +18011,7 @@
 ||searcher69.de^$third-party
 ||searchgptchat.info^$third-party
 ||searchmegood.com^$third-party
+||searchsqout.com^$third-party
 ||searlleed.me^$third-party
 ||searsmall.vip^$third-party
 ||seasonaldemonstradojs.shop^$third-party
@@ -18048,12 +18062,21 @@
 ||securespherepro.online^$third-party
 ||securestones.com^$third-party
 ||securewebmail.sbs^$third-party
+||securifyprotect.com^$third-party
+||securifythis.com^$third-party
 ||security-umusic.com^$third-party
 ||securitycheckguide.com^$third-party
 ||securitymessures.com^$third-party
 ||securityscorecard.com^$third-party
 ||securitytest.lat^$third-party
 ||securtelecom.com^$third-party
+||securybrowse.com^$third-party
+||securybrowseguard.com^$third-party
+||securybrowsenow.com^$third-party
+||securysearch.com^$third-party
+||securysearcheck.com^$third-party
+||securysearcher.com^$third-party
+||securysearchit.com^$third-party
 ||sedakavanozkapagix1.com^$third-party
 ||sedesadre.cf^$third-party
 ||sedesadre.ga^$third-party
@@ -19176,6 +19199,9 @@
 ||spyadviser.com^$third-party
 ||spychips.us^$third-party
 ||sqhx.info^$third-party
+||sqouterr.com^$third-party
+||sqoutit.com^$third-party
+||sqoutout.com^$third-party
 ||sqsendy.shop^$third-party
 ||squarecircle.ru^$third-party
 ||squaredow.buzz^$third-party
@@ -20283,6 +20309,7 @@
 ||thephoolmala.com^$third-party
 ||thepilatesstudionj.com^$third-party
 ||thepropertystock.com^$third-party
+||theprotecto.com^$third-party
 ||theprotidin.com^$third-party
 ||thepunchlineexpose.com^$third-party
 ||theq0.com^$third-party
@@ -22279,9 +22306,11 @@
 ||wastwfulldashiwnjs.shop^$third-party
 ||wastxcenter.com^$third-party
 ||watches-jp.com^$third-party
+||watchguardduty.com^$third-party
 ||watchitsre.co^$third-party
 ||watchlist.name^$third-party
 ||watchse.icu^$third-party
+||watchtowerguard.com^$third-party
 ||watchvideoplayer.com^$third-party
 ||waterjet.ltd^$third-party
 ||waterlinesheet.org^$third-party
@@ -22623,8 +22652,11 @@
 ||wisatakulinerku.com^$third-party
 ||wisconsininteducation.com^$third-party
 ||wiseeth.com^$third-party
+||wiseghostapp.com^$third-party
 ||wisemassiveharmonious.shop^$third-party
 ||wiseroniee.xyz^$third-party
+||wisesecapp.com^$third-party
+||wisesecghsot.com^$third-party
 ||wishceng.icu^$third-party
 ||wishfayoo.icu^$third-party
 ||wishfitme.com^$third-party
@@ -23787,6 +23819,7 @@
 ||yourliverprotected.com^$third-party
 ||yournicejournal.com^$third-party
 ||yournin.com.ng^$third-party
+||yoursecurify.com^$third-party
 ||yoursiteproof.com^$third-party
 ||yoursolutions.site^$third-party
 ||yourtoys.shop^$third-party
