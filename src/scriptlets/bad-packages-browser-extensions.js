@@ -47,7 +47,7 @@
     }
 
     try {
-      const response = await fetch(url, { cache: 'no-cache' })
+      const response = await fetch(url, {cache: 'no-cache'})
       if (!response.ok) throw new Error(`HTTP ${response.status}`)
 
       let data
@@ -57,9 +57,15 @@
         const text = await response.text()
         data = text
           .split(/\r?\n/)
-          .map(line => line.trim())
-          .filter(line => line && !line.startsWith('#'))
-          .map(pkg => ({ package: pkg, type: 'unknown', severity: 'unknown', description: '', remediation: '' }))
+          .map((line) => line.trim())
+          .filter((line) => line && !line.startsWith('#'))
+          .map((pkg) => ({
+            package: pkg,
+            type: 'unknown',
+            severity: 'unknown',
+            description: '',
+            remediation: '',
+          }))
       } else {
         data = []
       }
