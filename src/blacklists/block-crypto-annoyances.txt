@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 21 April 2025
+! Last modified: 24 April 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -9,23 +9,7 @@
 !-------------------------------------------------------------------------------
 
 ! General Blocks ---------------------------------------------------------------
-###onetrust-consent-sdk
-*##html:has(>body>div#onetrust-consent-sdk.show-banner):style(overflow: auto !important)
-*$removeparam=/^utm_/
-*$removeparam=utm_source
-/fbevents.js
-||adsensecustomsearchads.com^
-||amazon-adsystem.com^
-||cdn.viafoura.net^
-||cmp.quantcast.com^
-||cookiebot.com^
-||d34r8q7sht0t9k.cloudfront.net^
-||onetrust.com^
-||quantcast.com^
-||redditstatic.com/ads/pixel.js
-||singular.net^$3p
-||syndicatedsearch.goog^
-||trustarc.com^
+! Moved to advert server folder
 
 ! Social Media Blocks ----------------------------------------------------------
 

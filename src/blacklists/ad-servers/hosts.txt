@@ -1476,6 +1476,7 @@
 127.0.0.1 conversionruler.com
 127.0.0.1 convertingtraffic.com
 127.0.0.1 convrse.media
+127.0.0.1 cookiebot.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coordinatedcub.com
 127.0.0.1 cootlogix.com
@@ -2546,6 +2547,7 @@
 127.0.0.1 onenetworkdirect.com
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
+127.0.0.1 onetrust.com
 127.0.0.1 online-metrix.net
 127.0.0.1 online.miarroba.com
 127.0.0.1 onlinecash.com
@@ -2855,6 +2857,7 @@
 127.0.0.1 reconditerake.com
 127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.mrwin.com
+127.0.0.1 redditstatic.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 redshell.io
@@ -3038,6 +3041,7 @@
 127.0.0.1 simpleanalytics.io
 127.0.0.1 simpli.fi
 127.0.0.1 sincerebuffalo.com
+127.0.0.1 singular.net
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
@@ -3483,6 +3487,7 @@
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trust.titanhq.com
+127.0.0.1 trustarc.com
 127.0.0.1 trustpid.com
 127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
@@ -3550,6 +3555,7 @@
 127.0.0.1 vertamedia.com
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
+127.0.0.1 viafoura.net
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
