@@ -17,5 +17,4 @@ jobs:
         with:
           name: prettier-results
           path: |
-            !./node_modules/
-            !./dist/
+            ./prettier-results/
