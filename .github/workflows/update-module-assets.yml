@@ -49,7 +49,7 @@ jobs:
 
       # Pinned SHA and verified creator
       - name: Protect GitHub Actions Artifacts
-        uses: PaloAltoNetworks/upload-secure-artifact@v1.0.5  # Verified: Palo Alto Networks
+        uses: PaloAltoNetworks/upload-secure-artifact@5c3aaec37eb9b955a226b5fdb42573decf7e7876 # v1.0.5
         with:
           name: python-build
           path: /output
