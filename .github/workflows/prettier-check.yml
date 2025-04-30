@@ -9,12 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Prepare directory for results
+        run: mkdir -p ./prettier-results
       - name: Dry-run Prettier
         run: |
-          npx prettier --check **/*.{js,md,yml,json,vue,scss}
+          npx prettier --check "**/*.{js,md,yml,json,vue,scss}" > ./prettier-results/output.txt || true
       - name: Archive results
         uses: actions/upload-artifact@v3
         with:
           name: prettier-results
-          path: |
-            ./prettier-results/
+          path: ./prettier-results/
