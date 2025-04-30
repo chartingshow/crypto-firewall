@@ -1,0 +1,29 @@
+name: Apply Formatting
+on:
+  workflow_run:
+    workflows: ["Prettier Check"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v3
+        with:
+          name: prettier-results
+      - name: Verify changes
+        run: |
+          if grep -q 'Need formatting' prettier-results/*; then
+            echo "Changes required" >> $GITHUB_ENV
+          fi
+      - name: Commit formatting
+        if: env.CHANGES_REQUIRED
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "style: Automated formatting"
+          git push
