@@ -36,6 +36,10 @@ www.tradingview.com##div[data-dialog-name=gopro]
 ||snowplow-pixel.tradingview.com^
 ||static.tradingview.com/static/bundles/*-popup.*$image
 ||static.tradingview.com/static/bundles/branding-source.*.js$script,1p
+||static.tradingview.com/static/bundles/gift-notification.*.js$script,1p
+||static.tradingview.com/static/bundles/promo_footer.*.js$script,1p
+||static.tradingview.com/static/bundles/snowplow-tracker.*.js$script,1p
+||static.tradingview.com/static/bundles/toast-ad.*.js$script,1p
 ||static.tradingview.com/static/bundles/toast.*$image
 ||telemetry-partial.tradingview.com^
 ||telemetry.tradingview.com^
