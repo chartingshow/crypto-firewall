@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 March 2025
+# Last modified: 14 May 2025
 #
 
 013store@goodwillhunting.org
@@ -4722,6 +4722,7 @@ rnlori.ykatemmsb@holidaychauffeur.com
 rnuvu@sticknstuck.com
 rnvo@okeventos.com
 robert.campbell@dfvlabs.net
+robert.champlin@balancedex.online
 robert.odden@lindsveen.com
 robert58@candidature.awa-association.com
 roberto.c@iterdiruggeri.it

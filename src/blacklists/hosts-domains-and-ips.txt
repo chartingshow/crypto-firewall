@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 21 April 2025
+# Last modified: 14 May 2025
 #
 
 # Extras (comment out if needed)
@@ -3997,6 +3997,7 @@
 0.0.0.0 balacif.com
 0.0.0.0 balancebordrt.xyz
 0.0.0.0 balancedep.space
+0.0.0.0 balancedex.online
 0.0.0.0 balancelag.xyz
 0.0.0.0 balanstehnikakardana.com
 0.0.0.0 balcaodasmarcas.com
