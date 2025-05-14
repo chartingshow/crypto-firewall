@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 21 April 2025
+! Last modified: 14 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -2527,6 +2527,7 @@
 ||balacif.com^$third-party
 ||balancebordrt.xyz^$third-party
 ||balancedep.space^$third-party
+||balancedex.online^$third-party
 ||balancelag.xyz^$third-party
 ||balanstehnikakardana.com^$third-party
 ||balcaodasmarcas.com^$third-party
