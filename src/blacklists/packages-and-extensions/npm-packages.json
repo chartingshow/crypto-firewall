@@ -302,5 +302,50 @@
     "severity": "high",
     "description": "Targets Korean developers with KakaoTalk credential theft",
     "discovered": "2025-04-14"
+  },
+  {
+    "package": "os-info-checker-es6",
+    "versions": "1.0.8",
+    "type": "C2-steganography",
+    "severity": "critical",
+    "description": "Uses Unicode steganography and Google Calendar links for C2, delivers obfuscated payloads via base64-encoded URLs",
+    "discovered": "2025-05-07",
+    "remediation": "Remove immediately and audit for persistence mechanisms"
+  },
+  {
+    "package": "skip-tot",
+    "versions": "*",
+    "type": "dependency-chain",
+    "severity": "critical",
+    "description": "Lists os-info-checker-es6 as a dependency; inherits all malicious behaviors",
+    "discovered": "2025-05-07",
+    "remediation": "Remove and audit for indirect compromise"
+  },
+  {
+    "package": "vue-dev-serverr",
+    "versions": "*",
+    "type": "dependency-chain",
+    "severity": "critical",
+    "description": "Lists os-info-checker-es6 as a dependency; inherits all malicious behaviors",
+    "discovered": "2025-05-07",
+    "remediation": "Remove and audit for indirect compromise"
+  },
+  {
+    "package": "vue-dummyy",
+    "versions": "*",
+    "type": "dependency-chain",
+    "severity": "critical",
+    "description": "Lists os-info-checker-es6 as a dependency; inherits all malicious behaviors",
+    "discovered": "2025-05-07",
+    "remediation": "Remove and audit for indirect compromise"
+  },
+  {
+    "package": "vue-bit",
+    "versions": "*",
+    "type": "dependency-chain",
+    "severity": "critical",
+    "description": "Lists os-info-checker-es6 as a dependency; inherits all malicious behaviors",
+    "discovered": "2025-05-07",
+    "remediation": "Remove and audit for indirect compromise"
   }
 ]
