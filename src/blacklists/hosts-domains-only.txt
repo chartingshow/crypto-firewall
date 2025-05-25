@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 May 2025
+# Last modified: 25 May 2025
 #
 
 # Extras (comment out if needed)
@@ -1257,6 +1257,7 @@
 0.0.0.0 ailurophilestealer.shop
 0.0.0.0 aimarvel.io
 0.0.0.0 aimaxnetwork.online
+0.0.0.0 aimplyhired.com
 0.0.0.0 aimrental.net
 0.0.0.0 aioeuqo.ru
 0.0.0.0 aipanelnew.ru
@@ -8972,6 +8973,7 @@
 0.0.0.0 gk-stst.ru
 0.0.0.0 gkalik.com
 0.0.0.0 gkdubai.com
+0.0.0.0 gknkargo.com
 0.0.0.0 gkrokbmrkmrxtmxrxr.space
 0.0.0.0 gkrtmc.com
 0.0.0.0 gksportshub.com
@@ -9231,6 +9233,7 @@
 0.0.0.0 gptminers.com
 0.0.0.0 gpzn.website
 0.0.0.0 gq-energy.com
+0.0.0.0 gq8ruzk1h3a8.cfd
 0.0.0.0 grabaistack.com
 0.0.0.0 grabb.site
 0.0.0.0 grabmystic.com
@@ -11921,6 +11924,7 @@
 0.0.0.0 laforetlanguages.com
 0.0.0.0 lagenceengineering.com
 0.0.0.0 lagkagehusethayatpazarlama.tk
+0.0.0.0 lagkill.cc
 0.0.0.0 lagnueiwn.buzz
 0.0.0.0 lahana.xyz
 0.0.0.0 lahoreshoes.com

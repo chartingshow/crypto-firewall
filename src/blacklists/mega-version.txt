@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 14 May 2025
+! Last modified: 25 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1269,6 +1269,7 @@
 ||ailurophilestealer.shop^$third-party
 ||aimarvel.io^$third-party
 ||aimaxnetwork.online^$third-party
+||aimplyhired.com^$third-party
 ||aimrental.net^$third-party
 ||aioeuqo.ru^$third-party
 ||aipanelnew.ru^$third-party
@@ -8982,6 +8983,7 @@
 ||gk-stst.ru^$third-party
 ||gkalik.com^$third-party
 ||gkdubai.com^$third-party
+||gknkargo.com^$third-party
 ||gkrokbmrkmrxtmxrxr.space^$third-party
 ||gkrtmc.com^$third-party
 ||gksportshub.com^$third-party
@@ -9242,6 +9244,7 @@
 ||gptminers.com^$third-party
 ||gpzn.website^$third-party
 ||gq-energy.com^$third-party
+||gq8ruzk1h3a8.cfd^$third-party
 ||grabaistack.com^$third-party
 ||grabb.site^$third-party
 ||grabmystic.com^$third-party
@@ -11938,6 +11941,7 @@
 ||laforetlanguages.com^$third-party
 ||lagenceengineering.com^$third-party
 ||lagkagehusethayatpazarlama.tk^$third-party
+||lagkill.cc^$third-party
 ||lagnueiwn.buzz^$third-party
 ||lahana.xyz^$third-party
 ||lahoreshoes.com^$third-party
