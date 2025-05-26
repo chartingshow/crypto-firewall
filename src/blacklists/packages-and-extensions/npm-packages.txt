@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 May 2025
+# Last modified: 26 May 2025
 #
 
 12octsportsday
@@ -120,5 +120,6 @@ vue-vars
 web-ssar
 wsticket
 xlog-admin-portal
+xrpl
 yoojae-validator
 zdauth
