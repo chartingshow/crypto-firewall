@@ -115,6 +115,7 @@
 ||0qa.us^$third-party
 ||0ty.us^$third-party
 ||0v0.games^$third-party
+||0x9c.xyz^$third-party
 ||1-wincasino-sloty.site^$third-party
 ||10195-coinbase.com^$third-party
 ||1056.uk^$third-party

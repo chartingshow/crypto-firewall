@@ -116,6 +116,7 @@
 0.0.0.0 0qa.us
 0.0.0.0 0ty.us
 0.0.0.0 0v0.games
+0.0.0.0 0x9c.xyz
 0.0.0.0 1-wincasino-sloty.site
 0.0.0.0 10195-coinbase.com
 0.0.0.0 1056.uk
