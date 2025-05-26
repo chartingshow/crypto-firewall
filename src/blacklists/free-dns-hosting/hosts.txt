@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 December 2024
+# Last modified: 26 May 2025
 #
 
 # Block Free dns and hosting
@@ -16,6 +16,7 @@
 0.0.0.0 accesscam.org
 0.0.0.0 airvpn.org
 0.0.0.0 anondns.net
+0.0.0.0 ath.cx
 0.0.0.0 beget.tech
 0.0.0.0 biz.ua
 0.0.0.0 blogsyte.com
@@ -29,6 +30,7 @@
 0.0.0.0 changeip.net
 0.0.0.0 chickenkiller.com
 0.0.0.0 chiguserver.ml
+0.0.0.0 cloudns.ph
 0.0.0.0 codns.com
 0.0.0.0 collegefan.org
 0.0.0.0 con-ip.com
@@ -41,12 +43,16 @@
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
 0.0.0.0 ditchyourip.com
+0.0.0.0 dns-sl.info
 0.0.0.0 dns.army
+0.0.0.0 dns.navy
+0.0.0.0 dns04.com
 0.0.0.0 dnsabr.com
 0.0.0.0 dnsalias.com
 0.0.0.0 dnsdojo.com
 0.0.0.0 dnsdyn.net
 0.0.0.0 dnsfor.me
+0.0.0.0 dnskeher.com
 0.0.0.0 duckdns.org
 0.0.0.0 duia.ro
 0.0.0.0 dvrlists.com
@@ -82,6 +88,7 @@
 0.0.0.0 ignorelist.com
 0.0.0.0 ipq.co
 0.0.0.0 is-a-doctor.com
+0.0.0.0 is-by.us
 0.0.0.0 ix.tc
 0.0.0.0 jetos.com
 0.0.0.0 jumpingcrab.com
@@ -127,15 +134,18 @@
 0.0.0.0 p-e.kr
 0.0.0.0 portmap.host
 0.0.0.0 portmap.io
+0.0.0.0 privatedns.org
 0.0.0.0 publicvm.com
 0.0.0.0 redirectme.net
 0.0.0.0 rootlayer.net
 0.0.0.0 scienceontheweb.net
 0.0.0.0 selfhost.de
 0.0.0.0 selfhost.tk
+0.0.0.0 selfip.com
 0.0.0.0 servebbs.net
 0.0.0.0 servebbs.org
 0.0.0.0 servebeer.com
+0.0.0.0 serveblog.net
 0.0.0.0 servecounterstrike.com
 0.0.0.0 serveftp.com
 0.0.0.0 serveftp.org
@@ -159,6 +169,7 @@
 0.0.0.0 theworkpc.com
 0.0.0.0 thruhere.net
 0.0.0.0 tiscali.it
+0.0.0.0 tl-dns.info
 0.0.0.0 twilightparadox.com
 0.0.0.0 viewdns.net
 0.0.0.0 web-hosting.com

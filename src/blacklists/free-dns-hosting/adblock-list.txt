@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 9 April 2025
+! Last modified: 26 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -15,6 +15,7 @@
 ||accesscam.org^$third-party
 ||airvpn.org^$third-party
 ||anondns.net^$third-party
+||ath.cx^$third-party
 ||beget.tech^$third-party
 ||biz.ua^$third-party
 ||blogsyte.com^$third-party
@@ -28,6 +29,7 @@
 ||changeip.net^$third-party
 ||chickenkiller.com^$third-party
 ||chiguserver.ml^$third-party
+||cloudns.ph^$third-party
 ||codns.com^$third-party
 ||collegefan.org^$third-party
 ||con-ip.com^$third-party
@@ -40,12 +42,16 @@
 ||ddnsguru.com^$third-party
 ||ddnsking.com^$third-party
 ||ditchyourip.com^$third-party
+||dns-sl.info^$third-party
 ||dns.army^$third-party
+||dns.navy^$third-party
+||dns04.com^$third-party
 ||dnsabr.com^$third-party
 ||dnsalias.com^$third-party
 ||dnsdojo.com^$third-party
 ||dnsdyn.net^$third-party
 ||dnsfor.me^$third-party
+||dnskeher.com^$third-party
 ||duckdns.org^$third-party
 ||duia.ro^$third-party
 ||dvrlists.com^$third-party
@@ -81,6 +87,7 @@
 ||ignorelist.com^$third-party
 ||ipq.co^$third-party
 ||is-a-doctor.com^$third-party
+||is-by.us^$third-party
 ||ix.tc^$third-party
 ||jetos.com^$third-party
 ||jumpingcrab.com^$third-party
@@ -126,15 +133,18 @@
 ||p-e.kr^$third-party
 ||portmap.host^$third-party
 ||portmap.io^$third-party
+||privatedns.org^$third-party
 ||publicvm.com^$third-party
 ||redirectme.net^$third-party
 ||rootlayer.net^$third-party
 ||scienceontheweb.net^$third-party
 ||selfhost.de^$third-party
 ||selfhost.tk^$third-party
+||selfip.com^$third-party
 ||servebbs.net^$third-party
 ||servebbs.org^$third-party
 ||servebeer.com^$third-party
+||serveblog.net^$third-party
 ||servecounterstrike.com^$third-party
 ||serveftp.com^$third-party
 ||serveftp.org^$third-party
@@ -158,6 +168,7 @@
 ||theworkpc.com^$third-party
 ||thruhere.net^$third-party
 ||tiscali.it^$third-party
+||tl-dns.info^$third-party
 ||twilightparadox.com^$third-party
 ||viewdns.net^$third-party
 ||web-hosting.com^$third-party
