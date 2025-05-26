@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 December 2024
+# Last modified: 26 May 2025
 #
 
 # Domains
@@ -17,6 +17,7 @@ access.ly
 accesscam.org
 airvpn.org
 anondns.net
+ath.cx
 beget.tech
 biz.ua
 blogsyte.com
@@ -30,6 +31,7 @@ cew.hu
 changeip.net
 chickenkiller.com
 chiguserver.ml
+cloudns.ph
 codns.com
 collegefan.org
 con-ip.com
@@ -42,12 +44,16 @@ ddnsgeek.com
 ddnsguru.com
 ddnsking.com
 ditchyourip.com
+dns-sl.info
 dns.army
+dns.navy
+dns04.com
 dnsabr.com
 dnsalias.com
 dnsdojo.com
 dnsdyn.net
 dnsfor.me
+dnskeher.com
 duckdns.org
 duia.ro
 dvrlists.com
@@ -83,6 +89,7 @@ hoptp.org
 ignorelist.com
 ipq.co
 is-a-doctor.com
+is-by.us
 ix.tc
 jetos.com
 jumpingcrab.com
@@ -128,15 +135,18 @@ ooguy.com
 p-e.kr
 portmap.host
 portmap.io
+privatedns.org
 publicvm.com
 redirectme.net
 rootlayer.net
 scienceontheweb.net
 selfhost.de
 selfhost.tk
+selfip.com
 servebbs.net
 servebbs.org
 servebeer.com
+serveblog.net
 servecounterstrike.com
 serveftp.com
 serveftp.org
@@ -160,6 +170,7 @@ thddns.net
 theworkpc.com
 thruhere.net
 tiscali.it
+tl-dns.info
 twilightparadox.com
 viewdns.net
 web-hosting.com
