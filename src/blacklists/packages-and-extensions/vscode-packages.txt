@@ -1,0 +1,20 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 May 2025
+#
+
+prettierteam.prettier
+markh.chatgpt-autocoder-vscode
+markh.claude-autocoder-vscode
+markh.discord-rich-presence-vs
+markh.golang-compiler-vscode
+markh.html-obfuscator-vscode
+markh.python-obfuscator-vscode
+markh.rust-compiler-vs
+evaera-rbx.vscode-rojo-rbx
+vscodedeveloper.sobidity-compiler
