@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 May 2025
+# Last modified: 26 May 2025
 #
 
 # Extras (comment out if needed)
@@ -1474,6 +1474,7 @@
 0.0.0.0 allahinizinaminiyedimyuttum001.xyz
 0.0.0.0 allahinizinaminiyedimyuttum001222.xyz
 0.0.0.0 allahinizinaminiyedimyuttum001233.xyz
+0.0.0.0 allaivo.me
 0.0.0.0 allar.foundation
 0.0.0.0 allaroi.com
 0.0.0.0 allbester.ru
@@ -1677,6 +1678,7 @@
 0.0.0.0 ampnmaxxpagoda127.site
 0.0.0.0 amrstrah.ru
 0.0.0.0 amsnbc.com
+0.0.0.0 amssh.co
 0.0.0.0 amthanhthongbao.com
 0.0.0.0 amunet.store
 0.0.0.0 amwebsolution.com
