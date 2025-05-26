@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 25 May 2025
+! Last modified: 26 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1486,6 +1486,7 @@
 ||allahinizinaminiyedimyuttum001.xyz^$third-party
 ||allahinizinaminiyedimyuttum001222.xyz^$third-party
 ||allahinizinaminiyedimyuttum001233.xyz^$third-party
+||allaivo.me^$third-party
 ||allar.foundation^$third-party
 ||allaroi.com^$third-party
 ||allbester.ru^$third-party
@@ -1688,6 +1689,7 @@
 ||ampnmaxxpagoda127.site^$third-party
 ||amrstrah.ru^$third-party
 ||amsnbc.com^$third-party
+||amssh.co^$third-party
 ||amthanhthongbao.com^$third-party
 ||amunet.store^$third-party
 ||amwebsolution.com^$third-party
@@ -24274,6 +24276,9 @@
 
 ! Issue #599
 ||bear-ad.oss-us-west-1.aliyuncs.com^
+
+! Issue #929
+||t.me/v00rd^
 
 ! coinimp.com ------------------------------------------------------------------
 ||blockchained.party
