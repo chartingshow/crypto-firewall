@@ -8,7 +8,7 @@
  *              projects, alerting users when they encounter potentially harmful content.
  *              Enhanced protection against malicious packages/extensions with JSON-based
  *              threat intelligence.
- * @version 2.0.1
+ * @version 2.0.2
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -27,6 +27,8 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extension-ids.txt',
     'chrome.google.com/webstore':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
+    'facebook.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/facebook-ids.txt',
     'firebaseio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firebase-projects.json',
     'marketplace.visualstudio.com':
@@ -143,6 +145,7 @@
       'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
       'pypi.org': () => checkURLAgainstBlacklist(hostname),
       'npmjs.com': () => checkURLAgainstBlacklist(hostname),
+      'facebook.com': () => checkURLAgainstBlacklist(hostname),
       'firebaseio.com': () => checkURLAgainstBlacklist(hostname),
       default: () => {
         if (hostname.endsWith('.firebaseio.com')) {

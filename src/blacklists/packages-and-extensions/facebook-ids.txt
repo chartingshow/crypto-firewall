@@ -1,0 +1,18 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 May 2025
+#
+
+1151077320148683
+2696720993868113
+2901646833326404
+312497404888286
+416208351532463
+541163625350468
+965666115394891
+993764766100733
