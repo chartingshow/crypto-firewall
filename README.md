@@ -36,7 +36,8 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 <br>
 
-**Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
+> [!IMPORTANT]  
+> **Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
 
 ## Table of Contents 📑
 
