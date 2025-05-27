@@ -31,6 +31,7 @@
 *.infinityfreeapp.com
 *.jetserver.net
 *.liveblog365.com
+*.magentosite.cloud
 *.netlify.app
 *.ngrok-free.app
 *.nicepage.io
@@ -41,6 +42,7 @@
 *.plesk.page
 *.r2.dev
 *.repl.co
+*.rs6.net
 *.sglwebs.com
 *.sitebeat.crazydomains.com
 *.square.site
