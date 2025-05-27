@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 May 2025
+# Last modified: 27 May 2025
 #
 
 # Domains
@@ -171,6 +171,7 @@ theworkpc.com
 thruhere.net
 tiscali.it
 tl-dns.info
+trycloudflare.com
 twilightparadox.com
 viewdns.net
 web-hosting.com

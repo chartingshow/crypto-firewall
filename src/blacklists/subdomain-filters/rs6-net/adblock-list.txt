@@ -1,0 +1,12 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (rs6-net)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block rs6-net sub-domains ------------------------------------------------------
+||ian4x9bab.cc.rs6.net^$third-party
