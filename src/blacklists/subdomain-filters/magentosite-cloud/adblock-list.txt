@@ -1,0 +1,12 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (magentosite-cloud)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block magentosite-cloud sub-domains ------------------------------------------------------
+||integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud^$third-party

@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 May 2025
+# Last modified: 27 May 2025
 #
 
 # Block Free dns and hosting
@@ -170,6 +170,7 @@
 0.0.0.0 thruhere.net
 0.0.0.0 tiscali.it
 0.0.0.0 tl-dns.info
+0.0.0.0 trycloudflare.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 viewdns.net
 0.0.0.0 web-hosting.com

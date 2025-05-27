@@ -1,0 +1,11 @@
+# Crypto Firewall (rs6-net)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 May 2025
+#
+
+# Block rs6-net sub-domains
+0.0.0.0 ian4x9bab.cc.rs6.net

@@ -1,0 +1,11 @@
+# Crypto Firewall (magentosite-cloud)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 27 May 2025
+#
+
+# Block magentosite-cloud sub-domains
+0.0.0.0 integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud
