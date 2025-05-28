@@ -8,4 +8,32 @@
 #
 
 # Block b-cdn-net sub-domains
-0.0.0.0 metamsk-giveaway.b-cdn.net
+0.0.0.0 0043e8dbb08dfe95572e0a3d75b13772cf62.b-cdn.net
+0.0.0.0 0096dd639e4936dc37233ac5580a33041c951524b6.b-cdn.net
+0.0.0.0 00d7b502e09f909b9f8f4220a799f6ce1917eef953.b-cdn.net
+0.0.0.0 00f0faa7d757fd419ae8dd089be274e9fc6c.b-cdn.net
+0.0.0.0 013a70d2066d0dc2.b-cdn.net
+0.0.0.0 01b79e7b7ebdaad3b2.b-cdn.net
+0.0.0.0 01e56be01cbdbb3f25d3818eefadd5054b74.b-cdn.net
+0.0.0.0 01ed1289fae94ba513aca0f6589f6fa21c3f.b-cdn.net
+0.0.0.0 01r6757rlzmzxj45tu3aa9fbkyrze.b-cdn.net
+0.0.0.0 01tvpgbs8uzhlwjjf5wuihn4on5fz4rkp3o2wu72l7yqqx1ht28bp4swh.b-cdn.net
+0.0.0.0 02042025.b-cdn.net
+0.0.0.0 0224c108c6c3adfc4aa1a7566a95d8b7187c48c556.b-cdn.net
+0.0.0.0 0230thmarch.b-cdn.net
+0.0.0.0 0252ff03dff0b9420011200b08ebe16404245e7c4b.b-cdn.net
+0.0.0.0 0260c8e4fbf9168e0faa264d6a9ba0de77d7.b-cdn.net
+0.0.0.0 026fc5e28814d6eeceef66bfc6d5daffb662c97e92.b-cdn.net
+0.0.0.0 02bf9cb4538608129b3d2565e810250a67bc.b-cdn.net
+0.0.0.0 034554407e476969073a390a121e408ffedb.b-cdn.net
+0.0.0.0 0365-encrypyted.b-cdn.net
+0.0.0.0 036bc8fc3555ce87cb1546b4062031093489.b-cdn.net
+0.0.0.0 03737a99c8dd727504781838e64a3decc2f3.b-cdn.net
+0.0.0.0 03791e45b8611fec18d49dcb4cb83109c172f81a5f.b-cdn.net
+0.0.0.0 03958a32-616f-74a1-ee59-357ba521cffd.b-cdn.net
+0.0.0.0 03b35241-53df-16c5-4f2c-8236cc410599.b-cdn.net
+0.0.0.0 03c8e5d-f5tdi8-f6ce6.b-cdn.net
+0.0.0.0 03ca37d91bdc40ee88c6f77781f2.b-cdn.net
+0.0.0.0 03fcc7b946d41ccf4effc72770caf6f0feb7ac.b-cdn.net
+0.0.0.0 040cd4c509628f89d30f0469e449fd21b21a.b-cdn.net
+0.0.0.0 0441b775ca1e8e3cbbd1f1e80eccb13d27ab.b-cdn.net
