@@ -1,0 +1,63 @@
+# Crypto Firewall (firebaseapp-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 May 2025
+#
+
+# Block firebaseapp-com sub-domains
+0.0.0.0 accessdapps.firebaseapp.com
+0.0.0.0 airdrop-lido.firebaseapp.com
+0.0.0.0 aki-protocol.firebaseapp.com
+0.0.0.0 astar-apps--pr936-feat-au-implement-wa-wg88bbcj.firebaseapp.com
+0.0.0.0 block-onsync.firebaseapp.com
+0.0.0.0 blockchains.firebaseapp.com
+0.0.0.0 cancel355-coinbase.firebaseapp.com
+0.0.0.0 cancel370-coinbase.firebaseapp.com
+0.0.0.0 cancel407-coinbase.firebaseapp.com
+0.0.0.0 cancel477-coinbase.firebaseapp.com
+0.0.0.0 cancel575-coinbase.firebaseapp.com
+0.0.0.0 cancel619-coinbase.firebaseapp.com
+0.0.0.0 chainssync.firebaseapp.com
+0.0.0.0 collection-offers-opensea.firebaseapp.com
+0.0.0.0 connect-wallet-protocol.firebaseapp.com
+0.0.0.0 crypt-validator.firebaseapp.com
+0.0.0.0 cyberaunthenticator.firebaseapp.com
+0.0.0.0 cybercryptvalidator.firebaseapp.com
+0.0.0.0 dapp-walletrefix.firebaseapp.com
+0.0.0.0 dappauths.firebaseapp.com
+0.0.0.0 dapponsync.firebaseapp.com
+0.0.0.0 dapps-assets-rectification.firebaseapp.com
+0.0.0.0 dapps-errors-fix.firebaseapp.com
+0.0.0.0 dappsbridgeregistry.firebaseapp.com
+0.0.0.0 dappstesterr12.firebaseapp.com
+0.0.0.0 decentralized-mainnet.firebaseapp.com
+0.0.0.0 decentralized-node.firebaseapp.com
+0.0.0.0 dex-migration.firebaseapp.com
+0.0.0.0 distribution-opensea.firebaseapp.com
+0.0.0.0 event-celestia.firebaseapp.com
+0.0.0.0 kava-bot.firebaseapp.com
+0.0.0.0 kava-verify.firebaseapp.com
+0.0.0.0 kavaguard.firebaseapp.com
+0.0.0.0 lido-finance-claim.firebaseapp.com
+0.0.0.0 lido-staked-eth-airdrop.firebaseapp.com
+0.0.0.0 nodebridges.firebaseapp.com
+0.0.0.0 nodedebug.firebaseapp.com
+0.0.0.0 onlinedefiprotocol.firebaseapp.com
+0.0.0.0 opensea-offer-collection.firebaseapp.com
+0.0.0.0 rectwalletdapp.firebaseapp.com
+0.0.0.0 reward-cyber.firebaseapp.com
+0.0.0.0 sync-chains.firebaseapp.com
+0.0.0.0 syncchains.firebaseapp.com
+0.0.0.0 syncpod.firebaseapp.com
+0.0.0.0 syncvalidator.firebaseapp.com
+0.0.0.0 wallet-nodefix.firebaseapp.com
+0.0.0.0 wallet-rectify.firebaseapp.com
+0.0.0.0 walletfix-procure.firebaseapp.com
+0.0.0.0 walletsyncchain.firebaseapp.com
+0.0.0.0 web3wallet-sync.firebaseapp.com
+0.0.0.0 webresolvefix.firebaseapp.com
+0.0.0.0 world-coin-token.firebaseapp.com
+0.0.0.0 xrpdistributions.firebaseapp.com
