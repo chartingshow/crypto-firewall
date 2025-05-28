@@ -63087,6 +63087,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/herokuapp-com/adblock-list.txt
 !#include subdomain-filters/infinityfreeapp-com/adblock-list.txt
 !#include subdomain-filters/jetserver-net/adblock-list.txt
+!#include subdomain-filters/liveblog365-com/adblock-list.txt
 !#include subdomain-filters/magentosite-cloud/adblock-list.txt
 !#include subdomain-filters/netlify-app/adblock-list.txt
 !#include subdomain-filters/pages-dev/adblock-list.txt
