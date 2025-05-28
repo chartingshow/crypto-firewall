@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Glitch Me)
 ! Expires: 7 days (update frequency)
-! Last modified: 9 April 2025
+! Last modified: 28 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -9,5 +9,103 @@
 !-------------------------------------------------------------------------------
 
 ! Block glitch me sub-domains --------------------------------------------------
+||aback-pond-kryptops.glitch.me^$third-party
+||abundant-flying-tornado.glitch.me^$third-party
+||available-cultured-blender.glitch.me^$third-party
+||bead-half-borogovia.glitch.me^$third-party
+||beautiful-occipital-swift.glitch.me^$third-party
+||blush-regal-branch.glitch.me^$third-party
+||brave-coordinated-lycra.glitch.me^$third-party
+||burly-ivy-guavaberry.glitch.me^$third-party
+||burly-probable-saguaro.glitch.me^$third-party
+||butternut-gifted-freighter.glitch.me^$third-party
+||candle-roasted-tuck.glitch.me^$third-party
+||capable-palm-lamprey.glitch.me^$third-party
+||cat-wooded-scapula.glitch.me^$third-party
+||checker-pattern-amount.glitch.me^$third-party
+||chill-friendly-phalange.glitch.me^$third-party
+||chipped-reinvented-almandine.glitch.me^$third-party
+||cloudy-chipped-kiwi.glitch.me^$third-party
 ||clumsy-fir-mandible.glitch.me^$third-party
+||coconut-marsh-stomach.glitch.me^$third-party
+||coffee-responsible-gargoyleosaurus.glitch.me^$third-party
+||coinbase-developers.glitch.me^$third-party
+||common-solar-bard.glitch.me^$third-party
+||concrete-telling-microceratops.glitch.me^$third-party
+||confused-trapezoidal-bobcat.glitch.me^$third-party
+||congruous-glen-log.glitch.me^$third-party
+||cooked-infrequent-eyeliner.glitch.me^$third-party
+||cream-goofy-cacao.glitch.me^$third-party
+||detailed-oxidized-calcium.glitch.me^$third-party
+||dirt-omniscient-couch.glitch.me^$third-party
+||disco-sedate-cabbage.glitch.me^$third-party
+||dour-materialistic-death.glitch.me^$third-party
+||encouraging-entertaining-poison.glitch.me^$third-party
+||excellent-utopian-marjoram.glitch.me^$third-party
+||excessive-viridian-wishbone.glitch.me^$third-party
+||excited-imported-tree.glitch.me^$third-party
+||exciting-abalone-jumbo.glitch.me^$third-party
+||fair-observant-tote.glitch.me^$third-party
+||fancy-fuzzy-responsibility.glitch.me^$third-party
+||fierce-purple-ghost.glitch.me^$third-party
+||flax-diligent-close.glitch.me^$third-party
+||fluorescent-blush-text.glitch.me^$third-party
+||futuristic-incredible-turkey.glitch.me^$third-party
+||general-marshy-carob.glitch.me^$third-party
+||geode-transparent-prose.glitch.me^$third-party
+||glitter-general-mile.glitch.me^$third-party
+||grizzly-momentous-wilderness.glitch.me^$third-party
+||grove-inexpensive-balloon.glitch.me^$third-party
+||halved-slime-lotus.glitch.me^$third-party
+||holly-picturesque-salary.glitch.me^$third-party
+||honored-spectacular-alto.glitch.me^$third-party
+||hushed-gray-gram.glitch.me^$third-party
+||invincible-simple-rook.glitch.me^$third-party
+||iodized-mire-canopy.glitch.me^$third-party
+||jealous-decisive-custard.glitch.me^$third-party
+||luck-swanky-flock.glitch.me^$third-party
+||lumpy-light-sneezeweed.glitch.me^$third-party
+||lush-whimsical-steed.glitch.me^$third-party
+||magical-second-talon.glitch.me^$third-party
+||mature-lean-nectarine.glitch.me^$third-party
+||meowing-speckled-marlin.glitch.me^$third-party
+||mini-inquisitive-pillow.glitch.me^$third-party
+||north-scented-calf.glitch.me^$third-party
+||nosy-juniper-hydrant.glitch.me^$third-party
+||numerous-chatter-mule.glitch.me^$third-party
+||octagonal-roasted-shield.glitch.me^$third-party
+||pie-guiltless-puck.glitch.me^$third-party
+||polite-shimmer-triangle.glitch.me^$third-party
+||pond-bony-homegrown.glitch.me^$third-party
+||power-universal-seat.glitch.me^$third-party
+||precious-holly-marshmallow.glitch.me^$third-party
+||probable-likeable-veterinarian.glitch.me^$third-party
+||ruddy-imaginary-spider.glitch.me^$third-party
+||same-sulky-cobalt.glitch.me^$third-party
+||savory-glow-tabletop.glitch.me^$third-party
+||scarlet-garnet-tractor.glitch.me^$third-party
+||shade-festive-glazer.glitch.me^$third-party
+||shelled-imaginary-dirigible.glitch.me^$third-party
+||shocking-loud-daffodil.glitch.me^$third-party
+||showy-polydactyl-bloom.glitch.me^$third-party
+||silent-defiant-milk.glitch.me^$third-party
+||sly-luck-mojoceratops.glitch.me^$third-party
+||snow-horn-gym.glitch.me^$third-party
+||speckled-prism-clutch.glitch.me^$third-party
+||spicy-tungsten-fact.glitch.me^$third-party
+||star-organic-second.glitch.me^$third-party
+||successful-phrygian-gourd.glitch.me^$third-party
+||tattered-abrupt-airport.glitch.me^$third-party
+||tested-generated-engineer.glitch.me^$third-party
+||tidal-juvenile-impulse.glitch.me^$third-party
+||tide-tangy-fibre.glitch.me^$third-party
+||tin-excited-blackcurrant.glitch.me^$third-party
+||topaz-silken-hide.glitch.me^$third-party
+||towering-kaput-antimatter.glitch.me^$third-party
+||tricolor-winter-rutabaga.glitch.me^$third-party
+||unequaled-feline-carbon.glitch.me^$third-party
+||unequaled-separated-baboon.glitch.me^$third-party
 ||victorious-muddy-basin.glitch.me^$third-party
+||viridian-elfin-message.glitch.me^$third-party
+||west-solstice-chemistry.glitch.me^$third-party
+||zest-just-cap.glitch.me^$third-party
