@@ -1,0 +1,64 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (firebaseapp-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block firebaseapp-com sub-domains ------------------------------------------------------
+||accessdapps.firebaseapp.com^$third-party
+||airdrop-lido.firebaseapp.com^$third-party
+||aki-protocol.firebaseapp.com^$third-party
+||astar-apps--pr936-feat-au-implement-wa-wg88bbcj.firebaseapp.com^$third-party
+||block-onsync.firebaseapp.com^$third-party
+||blockchains.firebaseapp.com^$third-party
+||cancel355-coinbase.firebaseapp.com^$third-party
+||cancel370-coinbase.firebaseapp.com^$third-party
+||cancel407-coinbase.firebaseapp.com^$third-party
+||cancel477-coinbase.firebaseapp.com^$third-party
+||cancel575-coinbase.firebaseapp.com^$third-party
+||cancel619-coinbase.firebaseapp.com^$third-party
+||chainssync.firebaseapp.com^$third-party
+||collection-offers-opensea.firebaseapp.com^$third-party
+||connect-wallet-protocol.firebaseapp.com^$third-party
+||crypt-validator.firebaseapp.com^$third-party
+||cyberaunthenticator.firebaseapp.com^$third-party
+||cybercryptvalidator.firebaseapp.com^$third-party
+||dapp-walletrefix.firebaseapp.com^$third-party
+||dappauths.firebaseapp.com^$third-party
+||dapponsync.firebaseapp.com^$third-party
+||dapps-assets-rectification.firebaseapp.com^$third-party
+||dapps-errors-fix.firebaseapp.com^$third-party
+||dappsbridgeregistry.firebaseapp.com^$third-party
+||dappstesterr12.firebaseapp.com^$third-party
+||decentralized-mainnet.firebaseapp.com^$third-party
+||decentralized-node.firebaseapp.com^$third-party
+||dex-migration.firebaseapp.com^$third-party
+||distribution-opensea.firebaseapp.com^$third-party
+||event-celestia.firebaseapp.com^$third-party
+||kava-bot.firebaseapp.com^$third-party
+||kava-verify.firebaseapp.com^$third-party
+||kavaguard.firebaseapp.com^$third-party
+||lido-finance-claim.firebaseapp.com^$third-party
+||lido-staked-eth-airdrop.firebaseapp.com^$third-party
+||nodebridges.firebaseapp.com^$third-party
+||nodedebug.firebaseapp.com^$third-party
+||onlinedefiprotocol.firebaseapp.com^$third-party
+||opensea-offer-collection.firebaseapp.com^$third-party
+||rectwalletdapp.firebaseapp.com^$third-party
+||reward-cyber.firebaseapp.com^$third-party
+||sync-chains.firebaseapp.com^$third-party
+||syncchains.firebaseapp.com^$third-party
+||syncpod.firebaseapp.com^$third-party
+||syncvalidator.firebaseapp.com^$third-party
+||wallet-nodefix.firebaseapp.com^$third-party
+||wallet-rectify.firebaseapp.com^$third-party
+||walletfix-procure.firebaseapp.com^$third-party
+||walletsyncchain.firebaseapp.com^$third-party
+||web3wallet-sync.firebaseapp.com^$third-party
+||webresolvefix.firebaseapp.com^$third-party
+||world-coin-token.firebaseapp.com^$third-party
+||xrpdistributions.firebaseapp.com^$third-party
