@@ -1,0 +1,11 @@
+# Crypto Firewall (easterndns-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 May 2025
+#
+
+# Block easterndns-com sub-domains
+0.0.0.0 metamaskverifydefii.easterndns.com
