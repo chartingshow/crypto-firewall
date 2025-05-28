@@ -1,0 +1,41 @@
+# Crypto Firewall (liveblog365-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 May 2025
+#
+
+# Block liveblog365-com sub-domains
+0.0.0.0 0098.liveblog365.com
+0.0.0.0 0205.liveblog365.com
+0.0.0.0 030.liveblog365.com
+0.0.0.0 04.liveblog365.com
+0.0.0.0 07utlook2762.liveblog365.com
+0.0.0.0 0utlo0kc0nfirmar.liveblog365.com
+0.0.0.0 0utloo2k3383.liveblog365.com
+0.0.0.0 0utloo40k27381.liveblog365.com
+0.0.0.0 0utlook-live-mx.liveblog365.com
+0.0.0.0 0utlook-mailmx.liveblog365.com
+0.0.0.0 0utlook-notificacions2024.liveblog365.com
+0.0.0.0 0utlook-verificarmx.liveblog365.com
+0.0.0.0 0utlook0c0onfirmar.liveblog365.com
+0.0.0.0 0utlook232.liveblog365.com
+0.0.0.0 0utlookverificacionmexico.liveblog365.com
+0.0.0.0 10y.liveblog365.com
+0.0.0.0 178h3h2h81h1.liveblog365.com
+0.0.0.0 1878hit.liveblog365.com
+0.0.0.0 1f34f6sd83rn43nsf89sdn34.liveblog365.com
+0.0.0.0 200-119-185-156.liveblog365.com
+0.0.0.0 2023.liveblog365.com
+0.0.0.0 22.liveblog365.com
+0.0.0.0 31.liveblog365.com
+0.0.0.0 3456678-3456890-9765423.liveblog365.com
+0.0.0.0 345677uyhgr.liveblog365.com
+0.0.0.0 360tuyaea78s23da.liveblog365.com
+0.0.0.0 365.liveblog365.com
+0.0.0.0 3d5ftv.liveblog365.com
+0.0.0.0 40uttlo7ok3726.liveblog365.com
+0.0.0.0 daviplata11.liveblog365.com
+0.0.0.0 seguridad-numero-ya.liveblog365.com
