@@ -63069,6 +63069,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/at-playit-gg/adblock-list.txt
 !#include subdomain-filters/auto-playit-gg/adblock-list.txt
 !#include subdomain-filters/azurewebsites-net/adblock-list.txt
+!#include subdomain-filters/b-cdn-net/adblock-list.txt
 !#include subdomain-filters/blogspot/adblock-list.txt
 !#include subdomain-filters/bluehosting-cz/adblock-list.txt
 !#include subdomain-filters/bravesites-com/adblock-list.txt
