@@ -1,0 +1,11 @@
+# Crypto Firewall (ngrok-free-app)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 May 2025
+#
+
+# Block ngrok-free-app sub-domains
+0.0.0.0 c707-31-216-74-168.ngrok-free.app
