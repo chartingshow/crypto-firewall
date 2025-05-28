@@ -1,0 +1,14 @@
+# Crypto Firewall (fleek-co)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 28 May 2025
+#
+
+# Block fleek-co sub-domains
+0.0.0.0 green-haze-3357.on.fleek.co
+0.0.0.0 multidappconnect.on.fleek.co
+0.0.0.0 validatewallets.on.fleek.co
+0.0.0.0 walletshub.on.fleek.co
