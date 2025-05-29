@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 27 May 2025
+! Last modified: 29 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -34170,6 +34170,7 @@
 ||ligthvert.click^$third-party
 ||liguspotforsit.com^$third-party
 ||lihafedava.com^$third-party
+||lihi.cc^$third-party
 ||lijiayi.vip^$third-party
 ||like1902.xyz^$third-party
 ||likeboostingsrebulity.ru^$third-party
@@ -38017,6 +38018,7 @@
 ||my3reviewaccount.com^$third-party
 ||my3updatedetails.com^$third-party
 ||my3userdetails.com^$third-party
+||my5353.com^$third-party
 ||myab-index.life^$third-party
 ||myabregistry-edeposit.ca^$third-party
 ||myabservices.com^$third-party
@@ -48554,6 +48556,7 @@
 ||returxnds.xyz^$third-party
 ||reubhh.fun^$third-party
 ||reupdatemyios-info.com^$third-party
+||reurl.cc^$third-party
 ||rev-agency-craen.com^$third-party
 ||rev-auth-ie.com^$third-party
 ||rev-benifits.online^$third-party

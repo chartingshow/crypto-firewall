@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (infinityfreeapp-com)
+! Title: Crypto Firewall (trycloudflare-com)
 ! Expires: 7 days (update frequency)
 ! Last modified: [Adblock Plus 3.0]
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,7 +8,6 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block infinityfreeapp-com sub-domains ------------------------------------------------------
-||jiotv.infinityfreeapp.com^$third-party
-||pubs.infinityfreeapp.com^$third-party
-||resource.infinityfreeapp.com^$third-party
+! Block trycloudflare-com sub-domains ------------------------------------------------------
+||term-restore-satisfied-hence.trycloudflare.com^$third-party
+||ways-sms-pmc-shareholders.trycloudflare.com^$third-party

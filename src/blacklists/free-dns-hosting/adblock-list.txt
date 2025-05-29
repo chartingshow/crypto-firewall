@@ -169,7 +169,6 @@
 ||thruhere.net^$third-party
 ||tiscali.it^$third-party
 ||tl-dns.info^$third-party
-||trycloudflare.com^$third-party
 ||twilightparadox.com^$third-party
 ||viewdns.net^$third-party
 ||web-hosting.com^$third-party
@@ -185,3 +184,6 @@
 
 ! Block free dns and hosting sub-domains ---------------------------------------
 ||at.ply.gg^
+
+! Block free developer sub-domains ---------------------------------------------
+||trycloudflare.com^$third-party

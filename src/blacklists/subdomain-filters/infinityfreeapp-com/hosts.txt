@@ -4,8 +4,10 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 29 May 2025
 #
 
 # Block infinityfreeapp-com sub-domains
 0.0.0.0 jiotv.infinityfreeapp.com
+0.0.0.0 pubs.infinityfreeapp.com
+0.0.0.0 resource.infinityfreeapp.com

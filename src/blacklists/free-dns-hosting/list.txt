@@ -171,7 +171,6 @@ theworkpc.com
 thruhere.net
 tiscali.it
 tl-dns.info
-trycloudflare.com
 twilightparadox.com
 viewdns.net
 web-hosting.com
@@ -187,3 +186,6 @@ zz.am
 
 # Sub-Domains
 at.ply.gg
+
+# Free Developer Subdomains
+trycloudflare.com
