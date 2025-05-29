@@ -22,6 +22,7 @@
 ||cancel575-coinbase.firebaseapp.com^$third-party
 ||cancel619-coinbase.firebaseapp.com^$third-party
 ||chainssync.firebaseapp.com^$third-party
+||clear-march.firebaseapp.com^$third-party
 ||collection-offers-opensea.firebaseapp.com^$third-party
 ||connect-wallet-protocol.firebaseapp.com^$third-party
 ||crypt-validator.firebaseapp.com^$third-party

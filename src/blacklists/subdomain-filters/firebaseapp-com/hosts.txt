@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 29 May 2025
 #
 
 # Block firebaseapp-com sub-domains
@@ -21,6 +21,7 @@
 0.0.0.0 cancel575-coinbase.firebaseapp.com
 0.0.0.0 cancel619-coinbase.firebaseapp.com
 0.0.0.0 chainssync.firebaseapp.com
+0.0.0.0 clear-march.firebaseapp.com
 0.0.0.0 collection-offers-opensea.firebaseapp.com
 0.0.0.0 connect-wallet-protocol.firebaseapp.com
 0.0.0.0 crypt-validator.firebaseapp.com

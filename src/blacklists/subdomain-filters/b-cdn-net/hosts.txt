@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 29 May 2025
 #
 
 # Block b-cdn-net sub-domains
@@ -37,3 +37,11 @@
 0.0.0.0 03fcc7b946d41ccf4effc72770caf6f0feb7ac.b-cdn.net
 0.0.0.0 040cd4c509628f89d30f0469e449fd21b21a.b-cdn.net
 0.0.0.0 0441b775ca1e8e3cbbd1f1e80eccb13d27ab.b-cdn.net
+0.0.0.0 dashdisk-2.b-cdn.net
+0.0.0.0 denv-2.b-cdn.net
+0.0.0.0 do-sfo01.jetserver.net
+0.0.0.0 download-main5.b-cdn.net
+0.0.0.0 metrodown-2.b-cdn.net
+0.0.0.0 metrodown-3.b-cdn.net
+0.0.0.0 techsheck.b-cdn.net
+0.0.0.0 zexodown-2.b-cdn.net

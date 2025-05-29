@@ -38,3 +38,11 @@
 ||03fcc7b946d41ccf4effc72770caf6f0feb7ac.b-cdn.net^$third-party
 ||040cd4c509628f89d30f0469e449fd21b21a.b-cdn.net^$third-party
 ||0441b775ca1e8e3cbbd1f1e80eccb13d27ab.b-cdn.net^$third-party
+||dashdisk-2.b-cdn.net^$third-party
+||denv-2.b-cdn.net^$third-party
+||do-sfo01.jetserver.net^$third-party
+||download-main5.b-cdn.net^$third-party
+||metrodown-2.b-cdn.net^$third-party
+||metrodown-3.b-cdn.net^$third-party
+||techsheck.b-cdn.net^$third-party
+||zexodown-2.b-cdn.net^$third-party

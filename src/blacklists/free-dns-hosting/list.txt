@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 May 2025
+# Last modified: 29 May 2025
 #
 
 # Domains
@@ -64,6 +64,7 @@ dyndns-server.com
 dyndns-web.com
 dyndns-wiki.com
 dyndns.biz
+dyndns.info
 dyndns.org
 dyndns1.de
 dynu.com
