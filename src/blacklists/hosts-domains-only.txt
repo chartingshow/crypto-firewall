@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 May 2025
+# Last modified: 29 May 2025
 #
 
 # Extras (comment out if needed)
@@ -34153,6 +34153,7 @@
 0.0.0.0 ligthvert.click
 0.0.0.0 liguspotforsit.com
 0.0.0.0 lihafedava.com
+0.0.0.0 lihi.cc
 0.0.0.0 lijiayi.vip
 0.0.0.0 like1902.xyz
 0.0.0.0 likeboostingsrebulity.ru
@@ -38010,6 +38011,7 @@
 0.0.0.0 my3reviewaccount.com
 0.0.0.0 my3updatedetails.com
 0.0.0.0 my3userdetails.com
+0.0.0.0 my5353.com
 0.0.0.0 myab-index.life
 0.0.0.0 myabregistry-edeposit.ca
 0.0.0.0 myabservices.com
@@ -48559,6 +48561,7 @@
 0.0.0.0 returxnds.xyz
 0.0.0.0 reubhh.fun
 0.0.0.0 reupdatemyios-info.com
+0.0.0.0 reurl.cc
 0.0.0.0 rev-agency-craen.com
 0.0.0.0 rev-auth-ie.com
 0.0.0.0 rev-benifits.online
