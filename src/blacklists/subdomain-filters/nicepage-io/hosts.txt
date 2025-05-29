@@ -1,0 +1,11 @@
+# Crypto Firewall (nicepage-io)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 29 May 2025
+#
+
+# Block nicepage-io sub-domains
+0.0.0.0 website398658310377777.nicepage.io
