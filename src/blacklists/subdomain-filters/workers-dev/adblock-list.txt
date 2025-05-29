@@ -1,0 +1,37 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (workers-dev)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block workers-dev sub-domains ------------------------------------------------------
+||023772d9.859c0391d7bc0f161af864a7.workers.dev^$third-party
+||1b108266.629eba10136958fd8144e651.workers.dev^$third-party
+||22.imohub.workers.dev^$third-party
+||223d2465.716ba97704172b520b43d814.workers.dev^$third-party
+||2cd6e164.209189fbad78d1394fea44cc.workers.dev^$third-party
+||33b6bfc0.4179b8e9601e93865902334b.workers.dev^$third-party
+||4de192bb.d6c1924f22b82c8daa243716.workers.dev^$third-party
+||5f8d9eb3.d10f05e59e81e2f9cfa61b7e.workers.dev^$third-party
+||61f0c7ab.597f2b0bd2ee11be5dc06abd.workers.dev^$third-party
+||811c6338.aa7a82058237000860386781.workers.dev^$third-party
+||91224d72.5bab219c7482a7cd39bd1d22.workers.dev^$third-party
+||9aa542c7.c817588e7585f833a0bc52c8.workers.dev^$third-party
+||a345ed38.a5b51347fdce9c532c8be622.workers.dev^$third-party
+||aa773523.70d0ff66fa579eaf40c9315d.workers.dev^$third-party
+||account.lbpiaccessph.workers.dev^$third-party
+||ad26ae67.b9a7bf12bb1d5bb03b8f658f.workers.dev^$third-party
+||b40d9440.90257743f86d9260ea5a8bbd.workers.dev^$third-party
+||client.nfcpay.workers.dev^$third-party
+||cloud.msapp.workers.dev^$third-party
+||ctfwiki.workers.dev^$third-party
+||e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev^$third-party
+||f2479fd7.36e00f36c88053ca03f275a0.workers.dev^$third-party
+||hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev^$third-party
+||npaautocare.zouxiaodong.workers.dev^$third-party
+||vittoriocas137.workers.dev^$third-party
+||word.msapp.workers.dev^$third-party

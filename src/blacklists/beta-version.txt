@@ -14391,7 +14391,6 @@
 ||client-verification-service.online^$third-party
 ||client-verification-services.online^$third-party
 ||client-verifications-online.info^$third-party
-||client.nfcpay.workers.dev^$third-party
 ||client1-card-4519-0xxx.com^$third-party
 ||client1-lock3rbc.com^$third-party
 ||client1-web.com^$third-party
@@ -62696,7 +62695,6 @@
 ||zzux.com^$third-party
 
 ! Sub-Domain blocking ----------------------------------------------------------
-||22.imohub.workers.dev^
 ||75155dae0c8c8496.main.jp^
 ||abe.bethmcmillian.com^
 ||accessi.altaroma.it^
@@ -62721,7 +62719,6 @@
 ||clear-march.firebaseapp.com^
 ||counter.yadro.ru^
 ||cp5ua.hyperhost.ua^
-||ctfwiki.workers.dev^
 ||d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com^
 ||dashdisk-2.b-cdn.net^
 ||demo.techcloudltd.com^
@@ -62791,7 +62788,6 @@
 ||uniglory.shrtoshr.com^
 ||upd23.vxux.icu^
 ||vigilant-goldberg.139-144-49-75.plesk.page^
-||vittoriocas137.workers.dev^
 ||web.danger.net^
 ||zexodown-2.b-cdn.net^
 
@@ -63099,8 +63095,10 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/r2-dev/adblock-list.txt
 !#include subdomain-filters/secureserver-net/adblock-list.txt
+!#include subdomain-filters/trycloudflare-com/adblock-list.txt
 !#include subdomain-filters/vercel-app/adblock-list.txt
 !#include subdomain-filters/web-app/adblock-list.txt
+!#include subdomain-filters/workers-dev/adblock-list.txt
 
 ! Blocking domains -------------------------------------------------------------
 !#include domain-filters/1inch-io/adblock-list.txt
