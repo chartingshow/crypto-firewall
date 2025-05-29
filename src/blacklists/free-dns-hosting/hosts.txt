@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 May 2025
+# Last modified: 29 May 2025
 #
 
 # Block Free dns and hosting
@@ -63,6 +63,7 @@
 0.0.0.0 dyndns-web.com
 0.0.0.0 dyndns-wiki.com
 0.0.0.0 dyndns.biz
+0.0.0.0 dyndns.info
 0.0.0.0 dyndns.org
 0.0.0.0 dyndns1.de
 0.0.0.0 dynu.com

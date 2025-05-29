@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 27 May 2025
+! Last modified: 29 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -62,6 +62,7 @@
 ||dyndns-web.com^$third-party
 ||dyndns-wiki.com^$third-party
 ||dyndns.biz^$third-party
+||dyndns.info^$third-party
 ||dyndns.org^$third-party
 ||dyndns1.de^$third-party
 ||dynu.com^$third-party
