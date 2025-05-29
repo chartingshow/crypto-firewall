@@ -1,0 +1,36 @@
+# Crypto Firewall (workers-dev)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 29 May 2025
+#
+
+# Block workers-dev sub-domains
+0.0.0.0 023772d9.859c0391d7bc0f161af864a7.workers.dev
+0.0.0.0 1b108266.629eba10136958fd8144e651.workers.dev
+0.0.0.0 22.imohub.workers.dev
+0.0.0.0 223d2465.716ba97704172b520b43d814.workers.dev
+0.0.0.0 2cd6e164.209189fbad78d1394fea44cc.workers.dev
+0.0.0.0 33b6bfc0.4179b8e9601e93865902334b.workers.dev
+0.0.0.0 4de192bb.d6c1924f22b82c8daa243716.workers.dev
+0.0.0.0 5f8d9eb3.d10f05e59e81e2f9cfa61b7e.workers.dev
+0.0.0.0 61f0c7ab.597f2b0bd2ee11be5dc06abd.workers.dev
+0.0.0.0 811c6338.aa7a82058237000860386781.workers.dev
+0.0.0.0 91224d72.5bab219c7482a7cd39bd1d22.workers.dev
+0.0.0.0 9aa542c7.c817588e7585f833a0bc52c8.workers.dev
+0.0.0.0 a345ed38.a5b51347fdce9c532c8be622.workers.dev
+0.0.0.0 aa773523.70d0ff66fa579eaf40c9315d.workers.dev
+0.0.0.0 account.lbpiaccessph.workers.dev
+0.0.0.0 ad26ae67.b9a7bf12bb1d5bb03b8f658f.workers.dev
+0.0.0.0 b40d9440.90257743f86d9260ea5a8bbd.workers.dev
+0.0.0.0 client.nfcpay.workers.dev
+0.0.0.0 cloud.msapp.workers.dev
+0.0.0.0 ctfwiki.workers.dev
+0.0.0.0 e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev
+0.0.0.0 f2479fd7.36e00f36c88053ca03f275a0.workers.dev
+0.0.0.0 hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev
+0.0.0.0 npaautocare.zouxiaodong.workers.dev
+0.0.0.0 vittoriocas137.workers.dev
+0.0.0.0 word.msapp.workers.dev
