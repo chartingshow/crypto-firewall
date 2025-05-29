@@ -170,7 +170,6 @@
 0.0.0.0 thruhere.net
 0.0.0.0 tiscali.it
 0.0.0.0 tl-dns.info
-0.0.0.0 trycloudflare.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 viewdns.net
 0.0.0.0 web-hosting.com
@@ -183,3 +182,6 @@
 0.0.0.0 zapto.org
 0.0.0.0 zyns.com
 0.0.0.0 zz.am
+
+# Block free developer subdomains
+0.0.0.0 trycloudflare.com
