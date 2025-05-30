@@ -1,0 +1,46 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (repl-co)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block repl-co sub-domains ------------------------------------------------------
+||1.noodleo.repl.co^$third-party
+||4424242t4r--habilitar00.repl.co^$third-party
+||abonar.nanocredito.repl.co^$third-party
+||acceso-proteger-cuenta-davivienda.eduardomaniatic.repl.co^$third-party
+||active-line-si.vera1982.repl.co^$third-party
+||alertacancelarcambio--daviplatenlinea.repl.co^$third-party
+||app-seguridad-pse.daviplatasegur3.repl.co^$third-party
+||banco-daviviendal.eduardoe18.repl.co^$third-party
+||cavbdabenwqef.bandfrwqt4.repl.co^$third-party
+||click1aqui.ingresar121.repl.co^$third-party
+||consulta-pago-davivienda.lilo512.repl.co^$third-party
+||consultar-pago.daviplataingre1.repl.co^$third-party
+||crowdedfailingsystemcall--fertylesgomes.repl.co^$third-party
+||crowdedfailingsystemcall.fertylesgomes.repl.co^$third-party
+||daviplata--informacionvenc.repl.co^$third-party
+||daviplata--solicituderror3235.repl.co^$third-party
+||daviplata645.repl.co^$third-party
+||daviplatas--cancelarcobro54.repl.co^$third-party
+||daviplatas.cancelarcobro21.repl.co^$third-party
+||davisim--revertirproces1.repl.co^$third-party
+||davisims.revertirproces2.repl.co^$third-party
+||davivi-acti-si.viviless1.repl.co^$third-party
+||davivienda-gyhjnk.scrd1006.repl.co^$third-party
+||davivienda-yfgbh.darihitoxlr.repl.co^$third-party
+||elon.muskevent.repl.co^$third-party
+||elonmusk-event.repl.co^$third-party
+||ghjdvfdacz.habilitar00.repl.co^$third-party
+||gift-elonmusk.repl.co^$third-party
+||hauntingfittingboastmachine--297954.repl.co^$third-party
+||helpfulevilmigration--hrefyto.repl.co^$third-party
+||jubilantcornsilkwaterfall--daviplatenlinea.repl.co^$third-party
+||overjoyedstainedserver.crazzyyyrdp.repl.co^$third-party
+||testing.monubhandva.repl.co^$third-party
+||unwieldyprevailingtexts--edgardomartine2.repl.co^$third-party
+||vincular.cuenta6.repl.co^$third-party
