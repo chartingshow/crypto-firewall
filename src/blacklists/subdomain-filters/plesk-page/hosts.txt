@@ -1,0 +1,33 @@
+# Crypto Firewall (plesk-page)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 30 May 2025
+#
+
+# Block plesk-page sub-domains
+0.0.0.0 agitated-darwin.192-3-199-131.plesk.page
+0.0.0.0 awesome-wilson.172-177-1-143.plesk.page
+0.0.0.0 awesome-wilson.172.177.1.143.plesk.page
+0.0.0.0 beautiful-pascal.181-215-68-142.plesk.page
+0.0.0.0 distracted-cerf.140-82-38-151.plesk.page
+0.0.0.0 ecstatic-joliot.104-238-176-192.plesk.page
+0.0.0.0 elegant-thompson.45-88-108-231.plesk.page
+0.0.0.0 epic-moser.146-70-24-203.plesk.page
+0.0.0.0 frosty-turing.107-174-39-119.plesk.page
+0.0.0.0 goofy-margulis.146-70-24-203.plesk.page
+0.0.0.0 hopeful-goodall.109-71-253-24.plesk.page
+0.0.0.0 icscards.nl.service.strange-chaum.91-218-65-223.plesk.page
+0.0.0.0 interesting-shaw.128-199-202-98.plesk.page
+0.0.0.0 naughty-franklin.80-240-30-4.plesk.page
+0.0.0.0 particulares-linha.103-155-93-228.plesk.page
+0.0.0.0 practical-raman.20-1-155-236.plesk.page
+0.0.0.0 quirky-poitras.51-120-241-200.plesk.page
+0.0.0.0 relaxed-volhard.104-210-210-57.plesk.page
+0.0.0.0 secure.service.xenodochial-feistel.91-218-65-223.plesk.page
+0.0.0.0 serene-mahavira.20-124-216-91.plesk.page
+0.0.0.0 sharp-colden.104-238-176-192.plesk.page
+0.0.0.0 trusting-galileo.104-238-176-192.plesk.page
+0.0.0.0 vigilant-goldberg.139-144-49-75.plesk.page

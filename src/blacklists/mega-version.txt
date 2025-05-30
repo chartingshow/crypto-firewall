@@ -62701,15 +62701,11 @@
 ||acuicultura.ihcantabria.com^
 ||adila.sabluxgroup.com^
 ||afschools.vermilion.com^
-||agitated-darwin.192-3-199-131.plesk.page^
 ||amg.rmutk.ac.th^
 ||api-help.100px.com^
 ||artwork.siddavisart.com^
 ||at.ply.gg^
-||awesome-wilson.172-177-1-143.plesk.page^
-||awesome-wilson.172.177.1.143.plesk.page^
 ||banhang.shopee.vn^
-||beautiful-pascal.181-215-68-142.plesk.page^
 ||beta.voxpublica.no^
 ||bfa.csrcpall.com^
 ||bildwein.pieroth.de^
@@ -62721,39 +62717,29 @@
 ||d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com^
 ||demo.techcloudltd.com^
 ||diskopumkm.bandung.go.id^
-||distracted-cerf.140-82-38-151.plesk.page^
-||ecstatic-joliot.104-238-176-192.plesk.page^
 ||efirma.sglwebs.com^
-||elegant-thompson.45-88-108-231.plesk.page^
-||epic-moser.146-70-24-203.plesk.page^
 ||fas.wyb.ac.lk^
 ||firco.gob.mx^
 ||fisika.uad.ac.id^
 ||flickthebean.onrender.com^
 ||form.haysllc.net^
 ||forms.cac.edu.au^
-||frosty-turing.107-174-39-119.plesk.page^
 ||frp1.freefrp.net^
 ||g66.onelink.me^
-||goofy-margulis.146-70-24-203.plesk.page^
 ||hacker1236.hoto.org^
 ||hd.kp.gov.pk^
 ||heike.teofilius.de^
-||hopeful-goodall.109-71-253-24.plesk.page^
 ||host2.eskiz.uz^
-||icscards.nl.service.strange-chaum.91-218-65-223.plesk.page^
 ||iis.uj.ac.za^
 ||images.cjp.mx^
 ||imas.uk.com^
 ||inferno.bigpurposebigimpact.com^
-||interesting-shaw.128-199-202-98.plesk.page^
 ||joke.webproduct.info^
 ||kund.mpp.se^
 ||lacocinadefrabisa.lavozdegalicia.es^
 ||laptop-senp05hg.tailebd9d.ts.net^
 ||laurellkhamilton.shubhmishra.com^
 ||marketdriven.chevronmarcom.com^
-||naughty-franklin.80-240-30-4.plesk.page^
 ||officepackage.sourceforge.io^
 ||panda.sect.kr^
 ||peat-sparkly-option.glitch.me^
@@ -62761,24 +62747,16 @@
 ||phpmyadmin.xsunx.com^
 ||plt-descartes.googlecode.com^
 ||polavaramrr.ap.gov.in^
-||practical-raman.20-1-155-236.plesk.page^
-||quirky-poitras.51-120-241-200.plesk.page^
-||relaxed-volhard.104-210-210-57.plesk.page^
 ||sas185.sas.edu.pk^
 ||saw4.playit.gg^
 ||scmm.netlify.app^
-||secure.service.xenodochial-feistel.91-218-65-223.plesk.page^
-||serene-mahavira.20-124-216-91.plesk.page^
-||sharp-colden.104-238-176-192.plesk.page^
 ||staging.api.sanchezbutron.staging-01.sq1.io^
 ||student.cac.edu.au^
 ||t1.misu.se^
 ||tapwater.ftp.sh^
 ||time.api.chinabm.cn^
-||trusting-galileo.104-238-176-192.plesk.page^
 ||uniglory.shrtoshr.com^
 ||upd23.vxux.icu^
-||vigilant-goldberg.139-144-49-75.plesk.page^
 ||web.danger.net^
 
 ! Folder blocking --------------------------------------------------------------
@@ -63085,6 +63063,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/nimbusweb-me/adblock-list.txt
 !#include subdomain-filters/pages-dev/adblock-list.txt
 !#include subdomain-filters/pantheonsite-io/adblock-list.txt
+!#include subdomain-filters/plesk-page/adblock-list.txt
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/r2-dev/adblock-list.txt
 !#include subdomain-filters/secureserver-net/adblock-list.txt
