@@ -1,0 +1,43 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (pantheonsite-io)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block pantheonsite-io sub-domains ------------------------------------------------------
+||dev-232escdvee.pantheonsite.io^$third-party
+||dev-airtmmingres.pantheonsite.io^$third-party
+||dev-aitmsecure.pantheonsite.io^$third-party
+||dev-arbitrumportal.pantheonsite.io^$third-party
+||dev-arbv1.pantheonsite.io^$third-party
+||dev-arbv2.pantheonsite.io^$third-party
+||dev-atmingre.pantheonsite.io^$third-party
+||dev-claim-pudgypenguins.pantheonsite.io^$third-party
+||dev-cscw33c.pantheonsite.io^$third-party
+||dev-delaunchpadd.pantheonsite.io^$third-party
+||dev-dinersclub1.pantheonsite.io^$third-party
+||dev-factsmgt-verification.pantheonsite.io^$third-party
+||dev-garavito.pantheonsite.io^$third-party
+||dev-ingreairt.pantheonsite.io^$third-party
+||dev-ingresrairtn.pantheonsite.io^$third-party
+||dev-item2857-penguins.pantheonsite.io^$third-party
+||dev-kjd8eei3.pantheonsite.io^$third-party
+||dev-liveusdt.pantheonsite.io^$third-party
+||dev-p-penguins-2857.pantheonsite.io^$third-party
+||dev-penguins-claim.pantheonsite.io^$third-party
+||dev-pp2857-claim.pantheonsite.io^$third-party
+||dev-pp2857-pudgypenguins.pantheonsite.io^$third-party
+||dev-ppgclaim.pantheonsite.io^$third-party
+||dev-pudgypenguins-2857-new-claim.pantheonsite.io^$third-party
+||dev-pudgypenguins2857.pantheonsite.io^$third-party
+||dev-pudgyspenguins2857.pantheonsite.io^$third-party
+||dev-tmingre.pantheonsite.io^$third-party
+||dev-usdt-live.pantheonsite.io^$third-party
+||dev-usdtvouchers.pantheonsite.io^$third-party
+||dev-v2-usdt.pantheonsite.io^$third-party
+||dev-v2usdt.pantheonsite.io^$third-party
+||dev-vandj97jd.pantheonsite.io^$third-party

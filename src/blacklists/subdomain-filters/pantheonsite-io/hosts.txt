@@ -1,0 +1,42 @@
+# Crypto Firewall (pantheonsite-io)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 30 May 2025
+#
+
+# Block pantheonsite-io sub-domains
+0.0.0.0 dev-232escdvee.pantheonsite.io
+0.0.0.0 dev-airtmmingres.pantheonsite.io
+0.0.0.0 dev-aitmsecure.pantheonsite.io
+0.0.0.0 dev-arbitrumportal.pantheonsite.io
+0.0.0.0 dev-arbv1.pantheonsite.io
+0.0.0.0 dev-arbv2.pantheonsite.io
+0.0.0.0 dev-atmingre.pantheonsite.io
+0.0.0.0 dev-claim-pudgypenguins.pantheonsite.io
+0.0.0.0 dev-cscw33c.pantheonsite.io
+0.0.0.0 dev-delaunchpadd.pantheonsite.io
+0.0.0.0 dev-dinersclub1.pantheonsite.io
+0.0.0.0 dev-factsmgt-verification.pantheonsite.io
+0.0.0.0 dev-garavito.pantheonsite.io
+0.0.0.0 dev-ingreairt.pantheonsite.io
+0.0.0.0 dev-ingresrairtn.pantheonsite.io
+0.0.0.0 dev-item2857-penguins.pantheonsite.io
+0.0.0.0 dev-kjd8eei3.pantheonsite.io
+0.0.0.0 dev-liveusdt.pantheonsite.io
+0.0.0.0 dev-p-penguins-2857.pantheonsite.io
+0.0.0.0 dev-penguins-claim.pantheonsite.io
+0.0.0.0 dev-pp2857-claim.pantheonsite.io
+0.0.0.0 dev-pp2857-pudgypenguins.pantheonsite.io
+0.0.0.0 dev-ppgclaim.pantheonsite.io
+0.0.0.0 dev-pudgypenguins-2857-new-claim.pantheonsite.io
+0.0.0.0 dev-pudgypenguins2857.pantheonsite.io
+0.0.0.0 dev-pudgyspenguins2857.pantheonsite.io
+0.0.0.0 dev-tmingre.pantheonsite.io
+0.0.0.0 dev-usdt-live.pantheonsite.io
+0.0.0.0 dev-usdtvouchers.pantheonsite.io
+0.0.0.0 dev-v2-usdt.pantheonsite.io
+0.0.0.0 dev-v2usdt.pantheonsite.io
+0.0.0.0 dev-vandj97jd.pantheonsite.io

@@ -63084,6 +63084,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/nicepage-io/adblock-list.txt
 !#include subdomain-filters/nimbusweb-me/adblock-list.txt
 !#include subdomain-filters/pages-dev/adblock-list.txt
+!#include subdomain-filters/pantheonsite-io/adblock-list.txt
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/r2-dev/adblock-list.txt
 !#include subdomain-filters/secureserver-net/adblock-list.txt
