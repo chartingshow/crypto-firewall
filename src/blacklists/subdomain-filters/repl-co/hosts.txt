@@ -1,0 +1,45 @@
+# Crypto Firewall (repl-co)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 30 May 2025
+#
+
+# Block repl-co sub-domains
+0.0.0.0 1.noodleo.repl.co
+0.0.0.0 4424242t4r--habilitar00.repl.co
+0.0.0.0 abonar.nanocredito.repl.co
+0.0.0.0 acceso-proteger-cuenta-davivienda.eduardomaniatic.repl.co
+0.0.0.0 active-line-si.vera1982.repl.co
+0.0.0.0 alertacancelarcambio--daviplatenlinea.repl.co
+0.0.0.0 app-seguridad-pse.daviplatasegur3.repl.co
+0.0.0.0 banco-daviviendal.eduardoe18.repl.co
+0.0.0.0 cavbdabenwqef.bandfrwqt4.repl.co
+0.0.0.0 click1aqui.ingresar121.repl.co
+0.0.0.0 consulta-pago-davivienda.lilo512.repl.co
+0.0.0.0 consultar-pago.daviplataingre1.repl.co
+0.0.0.0 crowdedfailingsystemcall--fertylesgomes.repl.co
+0.0.0.0 crowdedfailingsystemcall.fertylesgomes.repl.co
+0.0.0.0 daviplata--informacionvenc.repl.co
+0.0.0.0 daviplata--solicituderror3235.repl.co
+0.0.0.0 daviplata645.repl.co
+0.0.0.0 daviplatas--cancelarcobro54.repl.co
+0.0.0.0 daviplatas.cancelarcobro21.repl.co
+0.0.0.0 davisim--revertirproces1.repl.co
+0.0.0.0 davisims.revertirproces2.repl.co
+0.0.0.0 davivi-acti-si.viviless1.repl.co
+0.0.0.0 davivienda-gyhjnk.scrd1006.repl.co
+0.0.0.0 davivienda-yfgbh.darihitoxlr.repl.co
+0.0.0.0 elon.muskevent.repl.co
+0.0.0.0 elonmusk-event.repl.co
+0.0.0.0 ghjdvfdacz.habilitar00.repl.co
+0.0.0.0 gift-elonmusk.repl.co
+0.0.0.0 hauntingfittingboastmachine--297954.repl.co
+0.0.0.0 helpfulevilmigration--hrefyto.repl.co
+0.0.0.0 jubilantcornsilkwaterfall--daviplatenlinea.repl.co
+0.0.0.0 overjoyedstainedserver.crazzyyyrdp.repl.co
+0.0.0.0 testing.monubhandva.repl.co
+0.0.0.0 unwieldyprevailingtexts--edgardomartine2.repl.co
+0.0.0.0 vincular.cuenta6.repl.co
