@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 29 May 2025
+! Last modified: 30 May 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -63082,6 +63082,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/netlify-app/adblock-list.txt
 !#include subdomain-filters/ngrok-free-app/adblock-list.txt
 !#include subdomain-filters/nicepage-io/adblock-list.txt
+!#include subdomain-filters/nimbusweb-me/adblock-list.txt
 !#include subdomain-filters/pages-dev/adblock-list.txt
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/r2-dev/adblock-list.txt
