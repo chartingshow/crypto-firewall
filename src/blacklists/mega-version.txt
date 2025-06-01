@@ -63070,6 +63070,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/secureserver-net/adblock-list.txt
 !#include subdomain-filters/sglwebs-com/adblock-list.txt
+!#include subdomain-filters/square-site/adblock-list.txt
 !#include subdomain-filters/trycloudflare-com/adblock-list.txt
 !#include subdomain-filters/vercel-app/adblock-list.txt
 !#include subdomain-filters/web-app/adblock-list.txt

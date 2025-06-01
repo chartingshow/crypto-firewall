@@ -1,0 +1,15 @@
+# Crypto Firewall (square-site)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block square-site sub-domains
+0.0.0.0 authentiicate-wallett.square.site
+0.0.0.0 proximus-be-103045.square.site
+0.0.0.0 syncroniize-wallet.square.site
+0.0.0.0 wallet-validatoor.square.site
+0.0.0.0 walletautheticator.square.site

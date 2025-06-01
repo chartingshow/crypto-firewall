@@ -1,0 +1,16 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (square-site)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block square-site sub-domains ------------------------------------------------------
+||authentiicate-wallett.square.site^$third-party
+||proximus-be-103045.square.site^$third-party
+||syncroniize-wallet.square.site^$third-party
+||wallet-validatoor.square.site^$third-party
+||walletautheticator.square.site^$third-party
