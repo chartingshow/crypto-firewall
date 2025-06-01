@@ -1,0 +1,31 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (weebly-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block weebly-com sub-domains ------------------------------------------------------
+||cloudcoroborate.weebly.com^$third-party
+||connectdapps.weebly.com^$third-party
+||dappsonlineconnect.weebly.com^$third-party
+||e-proximus.weebly.com^$third-party
+||enkrypt-wallet.weebly.com^$third-party
+||enkrypthwallet.weebly.com^$third-party
+||enkryptwallet.weebly.com^$third-party
+||interacvirementnotify.weebly.com^$third-party
+||jiojobs.weebly.com^$third-party
+||mywalletconnect.weebly.com^$third-party
+||nbn8hnsby9d5cswh7cs1fgndgtyfv6bdwss.weebly.com^$third-party
+||opensea-nft.weebly.com^$third-party
+||openseanft.weebly.com^$third-party
+||prbe.weebly.com^$third-party
+||proximus-mail.weebly.com^$third-party
+||proximusmaildutch.weebly.com^$third-party
+||proximuswebmailbe.weebly.com^$third-party
+||sinjbjt5kco1jcuir5dfj69cmiggmj2saiivnjr.weebly.com^$third-party
+||uxwbmail.weebly.com^$third-party
+||webproximus.weebly.com^$third-party

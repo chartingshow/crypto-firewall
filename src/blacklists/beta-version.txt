@@ -63078,6 +63078,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/w3spaces-com/adblock-list.txt
 !#include subdomain-filters/web-app/adblock-list.txt
 !#include subdomain-filters/webflow-io/adblock-list.txt
+!#include subdomain-filters/weebly-com/adblock-list.txt
 !#include subdomain-filters/workers-dev/adblock-list.txt
 
 ! Blocking domains -------------------------------------------------------------
