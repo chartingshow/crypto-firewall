@@ -1,0 +1,30 @@
+# Crypto Firewall (weebly-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block weebly-com sub-domains
+0.0.0.0 cloudcoroborate.weebly.com
+0.0.0.0 connectdapps.weebly.com
+0.0.0.0 dappsonlineconnect.weebly.com
+0.0.0.0 e-proximus.weebly.com
+0.0.0.0 enkrypt-wallet.weebly.com
+0.0.0.0 enkrypthwallet.weebly.com
+0.0.0.0 enkryptwallet.weebly.com
+0.0.0.0 interacvirementnotify.weebly.com
+0.0.0.0 jiojobs.weebly.com
+0.0.0.0 mywalletconnect.weebly.com
+0.0.0.0 nbn8hnsby9d5cswh7cs1fgndgtyfv6bdwss.weebly.com
+0.0.0.0 opensea-nft.weebly.com
+0.0.0.0 openseanft.weebly.com
+0.0.0.0 prbe.weebly.com
+0.0.0.0 proximus-mail.weebly.com
+0.0.0.0 proximusmaildutch.weebly.com
+0.0.0.0 proximuswebmailbe.weebly.com
+0.0.0.0 sinjbjt5kco1jcuir5dfj69cmiggmj2saiivnjr.weebly.com
+0.0.0.0 uxwbmail.weebly.com
+0.0.0.0 webproximus.weebly.com
