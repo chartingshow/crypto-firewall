@@ -1,0 +1,70 @@
+# Crypto Firewall (crazydomains-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 July 2025
+#
+
+# Block crazydomains-com sub-domains
+0.0.0.0 cp436858.sitebeat.crazydomains.com
+0.0.0.0 sp130639.sitebeat.crazydomains.com
+0.0.0.0 sp136981.sitebeat.crazydomains.com
+0.0.0.0 sp139746.sitebeat.crazydomains.com
+0.0.0.0 sp159778.sitebeat.crazydomains.com
+0.0.0.0 sp172319.sitebeat.crazydomains.com
+0.0.0.0 sp228578.sitebeat.crazydomains.com
+0.0.0.0 sp245995.sitebeat.crazydomains.com
+0.0.0.0 sp246812.sitebeat.crazydomains.com
+0.0.0.0 sp248730.sitebeat.crazydomains.com
+0.0.0.0 sp248907.sitebeat.crazydomains.com
+0.0.0.0 sp272271.sitebeat.crazydomains.com
+0.0.0.0 sp280715.sitebeat.crazydomains.com
+0.0.0.0 sp310731.sitebeat.crazydomains.com
+0.0.0.0 sp350083.sitebeat.crazydomains.com
+0.0.0.0 sp36169.sitebeat.crazydomains.com
+0.0.0.0 sp378794.sitebeat.crazydomains.com
+0.0.0.0 sp380679.sitebeat.crazydomains.com
+0.0.0.0 sp384669.sitebeat.crazydomains.com
+0.0.0.0 sp401527.sitebeat.crazydomains.com
+0.0.0.0 sp492547.sitebeat.crazydomains.com
+0.0.0.0 sp510123.sitebeat.crazydomains.com
+0.0.0.0 sp525249.sitebeat.crazydomains.com
+0.0.0.0 sp555747.sitebeat.crazydomains.com
+0.0.0.0 sp558594.sitebeat.crazydomains.com
+0.0.0.0 sp571703.sitebeat.crazydomains.com
+0.0.0.0 sp578767.sitebeat.crazydomains.com
+0.0.0.0 sp591508.sitebeat.crazydomains.com
+0.0.0.0 sp624533.sitebeat.crazydomains.com
+0.0.0.0 sp631624.sitebeat.crazydomains.com
+0.0.0.0 sp67195.sitebeat.crazydomains.com
+0.0.0.0 sp703268.sitebeat.crazydomains.com
+0.0.0.0 sp711066.sitebeat.crazydomains.com
+0.0.0.0 sp720021.sitebeat.crazydomains.com
+0.0.0.0 sp721176.sitebeat.crazydomains.com
+0.0.0.0 sp722968.sitebeat.crazydomains.com
+0.0.0.0 sp723416.sitebeat.crazydomains.com
+0.0.0.0 sp728549.sitebeat.crazydomains.com
+0.0.0.0 sp731414.sitebeat.crazydomains.com
+0.0.0.0 sp732193.sitebeat.crazydomains.com
+0.0.0.0 sp781860.sitebeat.crazydomains.com
+0.0.0.0 sp78200.sitebeat.crazydomains.com
+0.0.0.0 sp809663.sitebeat.crazydomains.com
+0.0.0.0 sp815573.sitebeat.crazydomains.com
+0.0.0.0 sp83702.sitebeat.crazydomains.com
+0.0.0.0 sp837032.sitebeat.crazydomains.com
+0.0.0.0 sp839895.sitebeat.crazydomains.com
+0.0.0.0 sp845107.sitebeat.crazydomains.com
+0.0.0.0 sp846687.sitebeat.crazydomains.com
+0.0.0.0 sp869545.sitebeat.crazydomains.com
+0.0.0.0 sp882275.sitebeat.crazydomains.com
+0.0.0.0 sp902988.sitebeat.crazydomains.com
+0.0.0.0 sp903461.sitebeat.crazydomains.com
+0.0.0.0 sp904282.sitebeat.crazydomains.com
+0.0.0.0 sp967690.sitebeat.crazydomains.com
+0.0.0.0 sp973634.sitebeat.crazydomains.com
+0.0.0.0 sp976064.sitebeat.crazydomains.com
+0.0.0.0 sp976118.sitebeat.crazydomains.com
+0.0.0.0 sp977727.sitebeat.crazydomains.com
+0.0.0.0 sp992122.sitebeat.crazydomains.com
