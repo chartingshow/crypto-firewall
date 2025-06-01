@@ -1,0 +1,11 @@
+# Crypto Firewall (w3spaces-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block w3spaces-com sub-domains
+0.0.0.0 firstclass222.w3spaces.com
