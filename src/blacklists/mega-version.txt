@@ -63073,6 +63073,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/square-site/adblock-list.txt
 !#include subdomain-filters/translate-goog/adblock-list.txt
 !#include subdomain-filters/trycloudflare-com/adblock-list.txt
+!#include subdomain-filters/ts-net/adblock-list.txt
 !#include subdomain-filters/vercel-app/adblock-list.txt
 !#include subdomain-filters/web-app/adblock-list.txt
 !#include subdomain-filters/workers-dev/adblock-list.txt
