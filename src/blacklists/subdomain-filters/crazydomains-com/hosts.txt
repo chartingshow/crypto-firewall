@@ -52,6 +52,7 @@
 0.0.0.0 sp78200.sitebeat.crazydomains.com
 0.0.0.0 sp809663.sitebeat.crazydomains.com
 0.0.0.0 sp815573.sitebeat.crazydomains.com
+0.0.0.0 sp821479.sitebeat.crazydomains.com
 0.0.0.0 sp83702.sitebeat.crazydomains.com
 0.0.0.0 sp837032.sitebeat.crazydomains.com
 0.0.0.0 sp839895.sitebeat.crazydomains.com
