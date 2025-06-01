@@ -1,0 +1,12 @@
+# Crypto Firewall (urbanairship-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block urbanairship-com sub-domains
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 wallet-api.urbanairship.com
