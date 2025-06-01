@@ -1,0 +1,11 @@
+# Crypto Firewall (translate-goog)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block translate-goog sub-domains
+0.0.0.0 k30321-infura--ipfs-io.translate.goog
