@@ -53,6 +53,7 @@
 ||sp78200.sitebeat.crazydomains.com^$third-party
 ||sp809663.sitebeat.crazydomains.com^$third-party
 ||sp815573.sitebeat.crazydomains.com^$third-party
+||sp821479.sitebeat.crazydomains.com^$third-party
 ||sp83702.sitebeat.crazydomains.com^$third-party
 ||sp837032.sitebeat.crazydomains.com^$third-party
 ||sp839895.sitebeat.crazydomains.com^$third-party
