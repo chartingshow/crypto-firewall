@@ -1,0 +1,66 @@
+# Crypto Firewall (webflow-io)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 1 June 2025
+#
+
+# Block webflow-io sub-domains
+0.0.0.0 1inch.webflow.io
+0.0.0.0 accountsdapps.webflow.io
+0.0.0.0 accountsresolveapps.webflow.io
+0.0.0.0 app-meta-restore.webflow.io
+0.0.0.0 app-restorer.webflow.io
+0.0.0.0 bitkub-lginusa.webflow.io
+0.0.0.0 bitkub-logi.webflow.io
+0.0.0.0 bitkub-loginn.webflow.io
+0.0.0.0 bitkub-loginnus.webflow.io
+0.0.0.0 bitkubblogin.webflow.io
+0.0.0.0 bitkublgin.webflow.io
+0.0.0.0 cryptofixs.webflow.io
+0.0.0.0 matemskklogin.webflow.io
+0.0.0.0 mawetamslogin.webflow.io
+0.0.0.0 meta-connect-web-restore.webflow.io
+0.0.0.0 meta-mask-app.webflow.io
+0.0.0.0 meta-mask-restore.webflow.io
+0.0.0.0 meta-solution-restore-team.webflow.io
+0.0.0.0 metamasextoin.webflow.io
+0.0.0.0 metamask-blockchain-restore-page.webflow.io
+0.0.0.0 metamask-deskdirect.webflow.io
+0.0.0.0 metamask-logio.webflow.io
+0.0.0.0 metamask-restoration-page.webflow.io
+0.0.0.0 metamask-restore-connect-web.webflow.io
+0.0.0.0 metamask-restore-solution-team.webflow.io
+0.0.0.0 metamask-restore-support-page.webflow.io
+0.0.0.0 metamask-restore.webflow.io
+0.0.0.0 metamask-restorepage.webflow.io
+0.0.0.0 metamask-restoresweb.webflow.io
+0.0.0.0 metamask-support-team.webflow.io
+0.0.0.0 metamask-support.webflow.io
+0.0.0.0 metamask-team-support.webflow.io
+0.0.0.0 metamask-web-restore.webflow.io
+0.0.0.0 metamaskioslogs.webflow.io
+0.0.0.0 metamaslklogien.webflow.io
+0.0.0.0 metamkubklogin.webflow.io
+0.0.0.0 metasekillogin.webflow.io
+0.0.0.0 metemasklogen.webflow.io
+0.0.0.0 metmaskhiologn.webflow.io
+0.0.0.0 mikasawallet.webflow.io
+0.0.0.0 mitamsklogin.webflow.io
+0.0.0.0 motmaskdlogin.webflow.io
+0.0.0.0 mtamasklogin.webflow.io
+0.0.0.0 muttamasklogin.webflow.io
+0.0.0.0 openseanftio.webflow.io
+0.0.0.0 proximus-a890d8.webflow.io
+0.0.0.0 restore-app.webflow.io
+0.0.0.0 sandboxaccountrecification.webflow.io
+0.0.0.0 support-metamasks.webflow.io
+0.0.0.0 umetamasklogin.webflow.io
+0.0.0.0 us-metamask-wallet.webflow.io
+0.0.0.0 walet-metamsk.webflow.io
+0.0.0.0 walletneutralization.webflow.io
+0.0.0.0 zerion-wallet.webflow.io
+0.0.0.0 zeriontfwallet.webflow.io
+0.0.0.0 zerionwallet.webflow.io

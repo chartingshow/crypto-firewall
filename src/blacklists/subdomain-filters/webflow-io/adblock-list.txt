@@ -1,0 +1,67 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (webflow-io)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block webflow-io sub-domains ------------------------------------------------------
+||1inch.webflow.io^$third-party
+||accountsdapps.webflow.io^$third-party
+||accountsresolveapps.webflow.io^$third-party
+||app-meta-restore.webflow.io^$third-party
+||app-restorer.webflow.io^$third-party
+||bitkub-lginusa.webflow.io^$third-party
+||bitkub-logi.webflow.io^$third-party
+||bitkub-loginn.webflow.io^$third-party
+||bitkub-loginnus.webflow.io^$third-party
+||bitkubblogin.webflow.io^$third-party
+||bitkublgin.webflow.io^$third-party
+||cryptofixs.webflow.io^$third-party
+||matemskklogin.webflow.io^$third-party
+||mawetamslogin.webflow.io^$third-party
+||meta-connect-web-restore.webflow.io^$third-party
+||meta-mask-app.webflow.io^$third-party
+||meta-mask-restore.webflow.io^$third-party
+||meta-solution-restore-team.webflow.io^$third-party
+||metamasextoin.webflow.io^$third-party
+||metamask-blockchain-restore-page.webflow.io^$third-party
+||metamask-deskdirect.webflow.io^$third-party
+||metamask-logio.webflow.io^$third-party
+||metamask-restoration-page.webflow.io^$third-party
+||metamask-restore-connect-web.webflow.io^$third-party
+||metamask-restore-solution-team.webflow.io^$third-party
+||metamask-restore-support-page.webflow.io^$third-party
+||metamask-restore.webflow.io^$third-party
+||metamask-restorepage.webflow.io^$third-party
+||metamask-restoresweb.webflow.io^$third-party
+||metamask-support-team.webflow.io^$third-party
+||metamask-support.webflow.io^$third-party
+||metamask-team-support.webflow.io^$third-party
+||metamask-web-restore.webflow.io^$third-party
+||metamaskioslogs.webflow.io^$third-party
+||metamaslklogien.webflow.io^$third-party
+||metamkubklogin.webflow.io^$third-party
+||metasekillogin.webflow.io^$third-party
+||metemasklogen.webflow.io^$third-party
+||metmaskhiologn.webflow.io^$third-party
+||mikasawallet.webflow.io^$third-party
+||mitamsklogin.webflow.io^$third-party
+||motmaskdlogin.webflow.io^$third-party
+||mtamasklogin.webflow.io^$third-party
+||muttamasklogin.webflow.io^$third-party
+||openseanftio.webflow.io^$third-party
+||proximus-a890d8.webflow.io^$third-party
+||restore-app.webflow.io^$third-party
+||sandboxaccountrecification.webflow.io^$third-party
+||support-metamasks.webflow.io^$third-party
+||umetamasklogin.webflow.io^$third-party
+||us-metamask-wallet.webflow.io^$third-party
+||walet-metamsk.webflow.io^$third-party
+||walletneutralization.webflow.io^$third-party
+||zerion-wallet.webflow.io^$third-party
+||zeriontfwallet.webflow.io^$third-party
+||zerionwallet.webflow.io^$third-party
