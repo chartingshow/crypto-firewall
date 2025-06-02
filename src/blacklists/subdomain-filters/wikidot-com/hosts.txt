@@ -1,0 +1,28 @@
+# Crypto Firewall (wikidot-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 June 2025
+#
+
+# Block wikidot-com sub-domains
+0.0.0.0 emiratesair-01.wikidot.com
+0.0.0.0 emiratesair-02.wikidot.com
+0.0.0.0 emiratesair-03.wikidot.com
+0.0.0.0 emiratesair-04.wikidot.com
+0.0.0.0 emiratesair-05.wikidot.com
+0.0.0.0 emiratesair-06.wikidot.com
+0.0.0.0 emiratesair-07.wikidot.com
+0.0.0.0 emiratesair-08.wikidot.com
+0.0.0.0 emiratesair-09.wikidot.com
+0.0.0.0 emiratesair-10.wikidot.com
+0.0.0.0 emiratesair-11.wikidot.com
+0.0.0.0 emiratesair-12.wikidot.com
+0.0.0.0 emiratesair-13.wikidot.com
+0.0.0.0 emiratesair-14.wikidot.com
+0.0.0.0 emiratesairlinesnewreservationumber00.wikidot.com
+0.0.0.0 emiratesairlinesreservationumber.wikidot.com
+0.0.0.0 emiratesairlinesreservationumber92.wikidot.com
+0.0.0.0 emiratesairlinesticketreservationumber02.wikidot.com

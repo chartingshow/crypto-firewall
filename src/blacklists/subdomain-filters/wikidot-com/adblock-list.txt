@@ -1,0 +1,29 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (wikidot-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block wikidot-com sub-domains ------------------------------------------------------
+||emiratesair-01.wikidot.com^$third-party
+||emiratesair-02.wikidot.com^$third-party
+||emiratesair-03.wikidot.com^$third-party
+||emiratesair-04.wikidot.com^$third-party
+||emiratesair-05.wikidot.com^$third-party
+||emiratesair-06.wikidot.com^$third-party
+||emiratesair-07.wikidot.com^$third-party
+||emiratesair-08.wikidot.com^$third-party
+||emiratesair-09.wikidot.com^$third-party
+||emiratesair-10.wikidot.com^$third-party
+||emiratesair-11.wikidot.com^$third-party
+||emiratesair-12.wikidot.com^$third-party
+||emiratesair-13.wikidot.com^$third-party
+||emiratesair-14.wikidot.com^$third-party
+||emiratesairlinesnewreservationumber00.wikidot.com^$third-party
+||emiratesairlinesreservationumber.wikidot.com^$third-party
+||emiratesairlinesreservationumber92.wikidot.com^$third-party
+||emiratesairlinesticketreservationumber02.wikidot.com^$third-party
