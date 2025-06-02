@@ -1,0 +1,14 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (windows-net)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block windows-net sub-domains ------------------------------------------------------
+||1a9ksj0.z1.web.core.windows.net^$third-party
+||87438288438734.z11.web.core.windows.net^$third-party
+||recoverymetacustom.z29.web.core.windows.net^$third-party
