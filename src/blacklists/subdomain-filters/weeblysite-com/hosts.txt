@@ -1,0 +1,33 @@
+# Crypto Firewall (weeblysite-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 June 2025
+#
+
+# Block weeblysite-com sub-domains
+0.0.0.0 77mpwtvdx6w3shs.weeblysite.com
+0.0.0.0 abvbg-100279-106335.weeblysite.com
+0.0.0.0 att-104997.weeblysite.com
+0.0.0.0 att-107999.weeblysite.com
+0.0.0.0 att-login107264.weeblysite.com
+0.0.0.0 attcurently05-30-2025.weeblysite.com
+0.0.0.0 bellmts-100060.weeblysite.com
+0.0.0.0 fhtfg-105248.weeblysite.com
+0.0.0.0 garcens655756677866.weeblysite.com
+0.0.0.0 home-102064.weeblysite.com
+0.0.0.0 home-104867.weeblysite.com
+0.0.0.0 home-106397.weeblysite.com
+0.0.0.0 microsoft-365-105966loginexpired.weeblysite.com
+0.0.0.0 my-site-105640-100294.weeblysite.com
+0.0.0.0 rytrewuytretyutr.weeblysite.com
+0.0.0.0 server40444.weeblysite.com
+0.0.0.0 ugrademilbox89383jnnnn.weeblysite.com
+0.0.0.0 videotron-101384.weeblysite.com
+0.0.0.0 webmail-103430.weeblysite.com
+0.0.0.0 webmail-105513.weeblysite.com
+0.0.0.0 webmail-107367.weeblysite.com
+0.0.0.0 webmail-107567.weeblysite.com
+0.0.0.0 yahoo-mail-104559.weeblysite.com
