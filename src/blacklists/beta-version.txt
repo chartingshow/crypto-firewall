@@ -63013,6 +63013,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include url-filters/google.txt
 !#include url-filters/github.txt
 !#include url-filters/telegram.txt
+!#include url-filters/turbopages.txt
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
