@@ -62759,9 +62759,6 @@
 ||web.danger.net^
 
 ! Folder blocking --------------------------------------------------------------
-||bitbucket.org/!api/2.0/snippets/rikimartinplace/^
-||bitbucket.org/clouchfair/oneproject/^
-||bitbucket.org/JulieHeilman/m100-firmware-mirror/downloads/^
 ||cdn.discordapp.com/attachments/1070589251781136486/^
 ||cdn.discordapp.com/attachments/739397897157738570/^
 ||discord.com/api/webhooks/1084897738958843984/^
@@ -62777,18 +62774,6 @@
 ||www.dropbox.com/e/scl/fi/46jyvsv3hn2k974s5idwc/^
 
 ! URL blocking -----------------------------------------------------------------
-||t.me/n3w3rras^
-||t.me/xxtetammi1k^
-||web.telegram.org/k/#6612893721^
-||web.telegram.org/k/#@Data1_Telegram_bot^
-||web.telegram.org/k/#@Data2_Telegram_bot^
-||web.telegram.org/k/#@Data3_Telegram_bot^
-||web.telegram.org/k/#@Data4_Telegram_bot^
-||web.telegram.org/k/#@JohnMacollan^
-||web.telegram.org/k/#@KAY_DATA_bot^
-||web.telegram.org/k/#@kgbcrypter^
-||web.telegram.org/k/#@Ov3r_Stealer_bot^
-||web.telegram.org/k/#@pwn3rzs_chat^
 ||www.googie-anaiytics.com/ga.js^
 ||www.googie-anaiytics.com/html/checkcachehw.js^
 ||www.shorturl.at/dKOR6^
@@ -63025,6 +63010,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include ip-adblock.txt
 
 ! URL modules ------------------------------------------------------------------
+!#include url-filters/bitbucket.txt
 !#include url-filters/telegram.txt
 
 ! Blocking subdomains ----------------------------------------------------------
@@ -63036,6 +63022,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/auto-playit-gg/adblock-list.txt
 !#include subdomain-filters/azurewebsites-net/adblock-list.txt
 !#include subdomain-filters/b-cdn-net/adblock-list.txt
+!#include subdomain-filters/bitbucket-io/adblock-list.txt
 !#include subdomain-filters/blogspot/adblock-list.txt
 !#include subdomain-filters/bluehosting-cz/adblock-list.txt
 !#include subdomain-filters/bravesites-com/adblock-list.txt
