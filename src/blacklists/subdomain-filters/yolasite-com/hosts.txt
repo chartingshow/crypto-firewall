@@ -1,0 +1,13 @@
+# Crypto Firewall (yolasite-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block yolasite-com sub-domains
+0.0.0.0 gmxhhdhddhyeghdgv88.yolasite.com
+0.0.0.0 messagerieproximusmail03255855005.yolasite.com
+0.0.0.0 seiamp-spenn-koiff.yolasite.com
