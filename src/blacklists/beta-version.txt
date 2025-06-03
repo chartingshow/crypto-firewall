@@ -62767,8 +62767,6 @@
 ||discord.com/api/webhooks/1127497008349991052/^
 ||discordapp.com/api/webhooks/1126428541945393192/^
 ||firebasestorage.googleapis.com/v0/b/fir-8c14f.appspot.com/^
-||gitlab.com/JulieHeilman/m100-firmware-mirror/raw/master/^
-||gitlab.com/saev3aeg/ugee8zee/raw/master/^
 ||matt.ucc.asn.au/dropbear/^
 ||www.dropbox.com/e/scl/fi/46jyvsv3hn2k974s5idwc/^
 
@@ -63010,8 +63008,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! URL modules ------------------------------------------------------------------
 !#include url-filters/bitbucket.txt
-!#include url-filters/google.txt
 !#include url-filters/github.txt
+!#include url-filters/gitlab.txt
+!#include url-filters/google.txt
 !#include url-filters/telegram.txt
 
 ! Blocking subdomains ----------------------------------------------------------
