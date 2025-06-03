@@ -1,0 +1,27 @@
+# Crypto Firewall (wixsite-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block wixsite-com sub-domains
+0.0.0.0 basicattention.wixsite.com
+0.0.0.0 csmetamask.wixsite.com
+0.0.0.0 czpancakeswap.wixsite.com
+0.0.0.0 dappsnodesauthenti.wixsite.com
+0.0.0.0 detma90.wixsite.com
+0.0.0.0 detmaonlinecl.wixsite.com
+0.0.0.0 fribertarth.wixsite.com
+0.0.0.0 greendotbenefits68.wixsite.com
+0.0.0.0 lessandraoody.wixsite.com
+0.0.0.0 metamaskearning.wixsite.com
+0.0.0.0 metamaskliquidation.wixsite.com
+0.0.0.0 metawinners.wixsite.com
+0.0.0.0 officialarabbank.wixsite.com
+0.0.0.0 officialpancakeswa.wixsite.com
+0.0.0.0 pancakeswapsupprt.wixsite.com
+0.0.0.0 thugtools992.wixsite.com
+0.0.0.0 valuebetic.wixsite.com
