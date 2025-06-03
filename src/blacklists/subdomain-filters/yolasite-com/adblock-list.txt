@@ -1,0 +1,14 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (yolasite-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block yolasite-com sub-domains ------------------------------------------------------
+||gmxhhdhddhyeghdgv88.yolasite.com^$third-party
+||messagerieproximusmail03255855005.yolasite.com^$third-party
+||seiamp-spenn-koiff.yolasite.com^$third-party
