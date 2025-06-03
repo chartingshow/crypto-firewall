@@ -1,0 +1,21 @@
+# Crypto Firewall (wordpress-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block wordpress-com sub-domains
+0.0.0.0 1inchusa.wordpress.com
+0.0.0.0 bestrjil.wordpress.com
+0.0.0.0 exchangepancakeswapcom.wordpress.com
+0.0.0.0 matamacklogi.wordpress.com
+0.0.0.0 metamaskwallet372459482.wordpress.com
+0.0.0.0 metameskwallet.wordpress.com
+0.0.0.0 metamskiwallet.wordpress.com
+0.0.0.0 metamskwollets.wordpress.com
+0.0.0.0 metmskwalt.wordpress.com
+0.0.0.0 pancakeswapexchange.wordpress.com
+0.0.0.0 raydiumswap.wordpress.com

@@ -1,0 +1,22 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (wordpress-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block wordpress-com sub-domains ------------------------------------------------------
+||1inchusa.wordpress.com^$third-party
+||bestrjil.wordpress.com^$third-party
+||exchangepancakeswapcom.wordpress.com^$third-party
+||matamacklogi.wordpress.com^$third-party
+||metamaskwallet372459482.wordpress.com^$third-party
+||metameskwallet.wordpress.com^$third-party
+||metamskiwallet.wordpress.com^$third-party
+||metamskwollets.wordpress.com^$third-party
+||metmskwalt.wordpress.com^$third-party
+||pancakeswapexchange.wordpress.com^$third-party
+||raydiumswap.wordpress.com^$third-party
