@@ -63036,6 +63036,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/fastly-net/adblock-list.txt
 !#include subdomain-filters/firebaseapp-com/adblock-list.txt
 !#include subdomain-filters/fleek-co/adblock-list.txt
+!#include subdomain-filters/forms-app/adblock-list.txt
 !#include subdomain-filters/github-io/adblock-list.txt
 !#include subdomain-filters/glitch-me/adblock-list.txt
 !#include subdomain-filters/godaddysites-com/adblock-list.txt
