@@ -62991,6 +62991,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
+!#include subdomain-filters/aliyuncs-com/adblock-list.txt
 !#include subdomain-filters/amazonaws-com/adblock-list.txt
 !#include subdomain-filters/appsflyer-com/adblock-list.txt
 !#include subdomain-filters/appspot-com/adblock-list.txt

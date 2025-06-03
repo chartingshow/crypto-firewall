@@ -1,4 +1,5 @@
 *.5v.pl
+*.aliyuncs.com
 *.amazonaws.com
 *.appsflyer.com
 *.appspot.com
