@@ -1,0 +1,13 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (Telegram)
+! Expires: 7 days (update frequency)
+! Last modified: 3 June 2025
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block gitlab urls ----------------------------------------------------------
+||gitlab.com/JulieHeilman/m100-firmware-mirror/raw/master/^
+||gitlab.com/saev3aeg/ugee8zee/raw/master/^
