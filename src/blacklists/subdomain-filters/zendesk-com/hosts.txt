@@ -1,0 +1,17 @@
+# Crypto Firewall (zendesk-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block zendesk-com sub-domains
+0.0.0.0 mobily2225.zendesk.com
+0.0.0.0 najmcompanyforinsuranceservices.zendesk.com
+0.0.0.0 phishforthelp.zendesk.com
+0.0.0.0 schoolsfirstfederalcreditunionhelp.zendesk.com
+0.0.0.0 schoolsfirstfederalcreditunionsupport.zendesk.com
+0.0.0.0 tlscontactsupport.zendesk.com
+0.0.0.0 trustwallet8903.zendesk.com
