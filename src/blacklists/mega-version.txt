@@ -27281,6 +27281,7 @@
 ||goodservicestax.com^$third-party
 ||goodstewardfinancial.net^$third-party
 ||goodworthspartners.com^$third-party
+||googie-anaiytics.com^$third-party
 ||googldrive.xyz^$third-party
 ||google-analytiks.com^$third-party
 ||google-chrome.info^$third-party

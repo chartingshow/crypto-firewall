@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 May 2025
+# Last modified: 3 June 2025
 #
 
 # Extras (comment out if needed)
@@ -28835,6 +28835,7 @@
 0.0.0.0 goodservicestax.com
 0.0.0.0 goodstewardfinancial.net
 0.0.0.0 goodworthspartners.com
+0.0.0.0 googie-anaiytics.com
 0.0.0.0 googldrive.xyz
 0.0.0.0 google-analytiks.com
 0.0.0.0 google-chrome.info
