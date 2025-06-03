@@ -1,0 +1,29 @@
+# Crypto Firewall (forms-app)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block forms-app sub-domains
+0.0.0.0 1726ndc6.forms.app
+0.0.0.0 4i68hpvd.forms.app
+0.0.0.0 8x2vfa7q.forms.app
+0.0.0.0 c1pm4yky.forms.app
+0.0.0.0 fl6mpga5.forms.app
+0.0.0.0 h29p6l1k.forms.app
+0.0.0.0 hi88lbx2.forms.app
+0.0.0.0 n4l2f43p.forms.app
+0.0.0.0 p3buonvs.forms.app
+0.0.0.0 qwzbsqm4.forms.app
+0.0.0.0 u5hzolw3.forms.app
+0.0.0.0 ulsgcj00.forms.app
+0.0.0.0 uny5o7at.forms.app
+0.0.0.0 v27zhnfm.forms.app
+0.0.0.0 view.forms.app
+0.0.0.0 w2wzp749.forms.app
+0.0.0.0 wie7yj60.forms.app
+0.0.0.0 yh50kjzo.forms.app
+0.0.0.0 z5jmi44g.forms.app

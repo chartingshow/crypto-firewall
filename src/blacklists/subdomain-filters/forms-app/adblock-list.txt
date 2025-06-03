@@ -1,0 +1,30 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (forms-app)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block forms-app sub-domains ------------------------------------------------------
+||1726ndc6.forms.app^$third-party
+||4i68hpvd.forms.app^$third-party
+||8x2vfa7q.forms.app^$third-party
+||c1pm4yky.forms.app^$third-party
+||fl6mpga5.forms.app^$third-party
+||h29p6l1k.forms.app^$third-party
+||hi88lbx2.forms.app^$third-party
+||n4l2f43p.forms.app^$third-party
+||p3buonvs.forms.app^$third-party
+||qwzbsqm4.forms.app^$third-party
+||u5hzolw3.forms.app^$third-party
+||ulsgcj00.forms.app^$third-party
+||uny5o7at.forms.app^$third-party
+||v27zhnfm.forms.app^$third-party
+||view.forms.app^$third-party
+||w2wzp749.forms.app^$third-party
+||wie7yj60.forms.app^$third-party
+||yh50kjzo.forms.app^$third-party
+||z5jmi44g.forms.app^$third-party
