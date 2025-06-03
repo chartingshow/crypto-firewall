@@ -8,5 +8,5 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block telegram urls ----------------------------------------------------------
+! Block bitbucket urls ----------------------------------------------------------
 ||bitbucket.org/clouchfair/oneproject/^
