@@ -63011,6 +63011,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! URL modules ------------------------------------------------------------------
 !#include url-filters/bitbucket.txt
+!#include url-filters/google.txt
 !#include url-filters/telegram.txt
 
 ! Blocking subdomains ----------------------------------------------------------

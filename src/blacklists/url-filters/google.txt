@@ -8,5 +8,5 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block bitbucket urls ----------------------------------------------------------
-||bitbucket.org/clouchfair/oneproject/^
+! Block google urls ----------------------------------------------------------
+||docs.google.com/forms/d/e/1FAIpQLSdo19SfcYEtbOqRLEkHdWy8itHPecxy86OnEfevDvzMGYpeLQ/viewform^
