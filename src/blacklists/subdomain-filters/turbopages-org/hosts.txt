@@ -1,0 +1,18 @@
+# Crypto Firewall (turbopages-org)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 3 June 2025
+#
+
+# Block turbopages-org sub-domains
+0.0.0.0 alfabank-ru.turbopages.org
+0.0.0.0 alfabank_sme.turbopages.org
+0.0.0.0 alfacapital-ru.turbopages.org
+0.0.0.0 alfaforex-ru.turbopages.org
+0.0.0.0 anti--malware-ru.turbopages.org
+0.0.0.0 bezopasnik-info.turbopages.org
+0.0.0.0 bmpd-livejournal-com.turbopages.org
+0.0.0.0 translated.turbopages.org

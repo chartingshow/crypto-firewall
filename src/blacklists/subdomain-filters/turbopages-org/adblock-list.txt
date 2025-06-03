@@ -1,0 +1,19 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (turbopages-org)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block turbopages-org sub-domains ------------------------------------------------------
+||alfabank-ru.turbopages.org^$third-party
+||alfabank_sme.turbopages.org^$third-party
+||alfacapital-ru.turbopages.org^$third-party
+||alfaforex-ru.turbopages.org^$third-party
+||anti--malware-ru.turbopages.org^$third-party
+||bezopasnik-info.turbopages.org^$third-party
+||bmpd-livejournal-com.turbopages.org^$third-party
+||translated.turbopages.org^$third-party
