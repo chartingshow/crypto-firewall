@@ -1,0 +1,18 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (zendesk-com)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block zendesk-com sub-domains ------------------------------------------------------
+||mobily2225.zendesk.com^$third-party
+||najmcompanyforinsuranceservices.zendesk.com^$third-party
+||phishforthelp.zendesk.com^$third-party
+||schoolsfirstfederalcreditunionhelp.zendesk.com^$third-party
+||schoolsfirstfederalcreditunionsupport.zendesk.com^$third-party
+||tlscontactsupport.zendesk.com^$third-party
+||trustwallet8903.zendesk.com^$third-party
