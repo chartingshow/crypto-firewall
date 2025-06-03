@@ -49,6 +49,7 @@
 ||api.telegram.org/bot6381763542^
 ||t.me/BloombergNewsCrypto^
 ||t.me/n3w3rras^
+||t.me/v00rd^
 ||t.me/xxtetammi1k^
 ||web.telegram.org/k/#6612893721^
 ||web.telegram.org/k/#@Data1_Telegram_bot^

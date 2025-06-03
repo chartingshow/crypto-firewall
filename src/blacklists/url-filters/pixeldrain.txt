@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (Google)
+! Title: Crypto Firewall (Pixeldrain)
 ! Expires: 7 days (update frequency)
 ! Last modified: 3 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,6 +8,6 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block google urls ----------------------------------------------------------
-||docs.google.com/forms/d/e/1FAIpQLSdo19SfcYEtbOqRLEkHdWy8itHPecxy86OnEfevDvzMGYpeLQ/viewform^
-||play.google.com/store/apps/details?id=im.token.app^
+! Block pixeldrain urls ----------------------------------------------------------
+||pixeldrain.com/u/ptagkS7e^
+||pixeldrain.com/u/3Akie3MP^
