@@ -62759,42 +62759,10 @@
 ||web.danger.net^
 
 ! Folder blocking --------------------------------------------------------------
-||cdn.discordapp.com/attachments/1070589251781136486/^
-||cdn.discordapp.com/attachments/739397897157738570/^
-||discord.com/api/webhooks/1084897738958843984/^
-||discord.com/api/webhooks/1109078597697802400/^
-||discord.com/api/webhooks/1123664977618817094/^
-||discord.com/api/webhooks/1127497008349991052/^
-||discordapp.com/api/webhooks/1126428541945393192/^
-||firebasestorage.googleapis.com/v0/b/fir-8c14f.appspot.com/^
 ||matt.ucc.asn.au/dropbear/^
-||www.dropbox.com/e/scl/fi/46jyvsv3hn2k974s5idwc/^
 
 ! URL blocking -----------------------------------------------------------------
-||www.googie-anaiytics.com/ga.js^
-||www.googie-anaiytics.com/html/checkcachehw.js^
 ||www.shorturl.at/dKOR6^
-||x.com/hsmyvz52^
-
-! Issue #360
-||i.stack.imgur.com/NDTUM.png^
-
-! Issue #587
-||pixeldrain.com/u/ptagkS7e^
-||pixeldrain.com/u/3Akie3MP^
-
-! Issue #602
-||apps.apple.com/us/app/imtoken-btc-eth-wallet/id1384798940^
-||play.google.com/store/apps/details?id=im.token.app^
-
-! Issue #599
-||bear-ad.oss-us-west-1.aliyuncs.com^
-
-! Issue #909
-||us06web.zoom.us/j/84525670750^
-
-! Issue #929
-||t.me/v00rd^
 
 ! coinimp.com ------------------------------------------------------------------
 ||blockchained.party
@@ -63007,11 +62975,19 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include ip-adblock.txt
 
 ! URL modules ------------------------------------------------------------------
+!#include url-filters/apple.txt
 !#include url-filters/bitbucket.txt
+!#include url-filters/discord.txt
+!#include url-filters/dropbox.txt
 !#include url-filters/github.txt
 !#include url-filters/gitlab.txt
 !#include url-filters/google.txt
+!#include url-filters/googleapis.txt
+!#include url-filters/imgur.txt
+!#include url-filters/pixeldrain.txt
 !#include url-filters/telegram.txt
+!#include url-filters/x.txt
+!#include url-filters/zoom.txt
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt

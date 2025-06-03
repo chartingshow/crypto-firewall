@@ -1,1 +1,1 @@
-^\^(?:translated\.turbopages\.org|(?:(?:docs\.google\.com/forms|view\.forms\.app|my\.forms\.app|git(?:hu|la)b\.com|forms\.app)|bitbucket\.org))/\*$
+^(https?:\/\/)?(www\.)?(zoom\.us\/.*|api\.telegram\.org\/.*|apps\.apple\.com\/.*|bitbucket\.org\/.*|cdn\.discordapp\.com\/.*|discord\.com\/.*|discordapp\.com.*|docs\.google\.com\/.*|firebasestorage\.googleapis\.com\/.*|forms\.app\/.*|github\.com\/.*|gitlab\.com\/.*|i\.stack\.imgur\.com\/.*|pixeldrain\.com\/.*|play\.google\.com\/.*|t\.me\/.*|web\.telegram\.org\/.*|www\.dropbox\.com\/.*|x\.com\/.*)$
