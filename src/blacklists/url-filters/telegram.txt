@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Telegram)
 ! Expires: 7 days (update frequency)
-! Last modified: 9 April 2025
+! Last modified: 3 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -50,3 +50,13 @@
 ||t.me/BloombergNewsCrypto^
 ||t.me/n3w3rras^
 ||t.me/xxtetammi1k^
+||web.telegram.org/k/#6612893721^
+||web.telegram.org/k/#@Data1_Telegram_bot^
+||web.telegram.org/k/#@Data2_Telegram_bot^
+||web.telegram.org/k/#@Data3_Telegram_bot^
+||web.telegram.org/k/#@Data4_Telegram_bot^
+||web.telegram.org/k/#@JohnMacollan^
+||web.telegram.org/k/#@KAY_DATA_bot^
+||web.telegram.org/k/#@kgbcrypter^
+||web.telegram.org/k/#@Ov3r_Stealer_bot^
+||web.telegram.org/k/#@pwn3rzs_chat^
