@@ -47927,6 +47927,8 @@
 ||renting-secure.info^$third-party
 ||rentry.co^$third-party
 ||rentverify.net^$third-party
+||rentvillcr.homes^$third-party
+||rentvillcr.online^$third-party
 ||renvoi-rapideqc1.info^$third-party
 ||renvoidescolis.com^$third-party
 ||renvoienattente1.info^$third-party

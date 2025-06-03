@@ -47934,6 +47934,8 @@
 0.0.0.0 renting-secure.info
 0.0.0.0 rentry.co
 0.0.0.0 rentverify.net
+0.0.0.0 rentvillcr.homes
+0.0.0.0 rentvillcr.online
 0.0.0.0 renvoi-rapideqc1.info
 0.0.0.0 renvoidescolis.com
 0.0.0.0 renvoienattente1.info
