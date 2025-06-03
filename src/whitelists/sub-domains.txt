@@ -50,6 +50,7 @@
 *.translate.goog
 *.trycloudflare.com
 *.ts.net
+*.turbopages.org
 *.urbanairship.com
 *.vercel.app
 *.w3spaces.com
