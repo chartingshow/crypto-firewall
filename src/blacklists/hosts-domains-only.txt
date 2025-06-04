@@ -2562,6 +2562,7 @@
 0.0.0.0 admiralx-hji.top
 0.0.0.0 adneedads.com
 0.0.0.0 adnndlga23cm.com
+0.0.0.0 adobe-express.com
 0.0.0.0 adobemtb.xyz
 0.0.0.0 adobepresetforyou.us
 0.0.0.0 adobtone.cn.com
@@ -2819,6 +2820,7 @@
 0.0.0.0 ahs-govab.in
 0.0.0.0 ahservicesab.com
 0.0.0.0 ahymvoxxg.com
+0.0.0.0 ai-kling.com
 0.0.0.0 ai-rbcroyalbank.com
 0.0.0.0 ai-rbcroyalbank1.com
 0.0.0.0 ai-scotiabank.com
@@ -2982,6 +2984,7 @@
 0.0.0.0 aigfa.org
 0.0.0.0 aiimtvns.com
 0.0.0.0 aiinu.xyz
+0.0.0.0 aikling.ai
 0.0.0.0 ailocal.business
 0.0.0.0 ailsakwaoukeil.xyz
 0.0.0.0 ailurophilestealer.com
@@ -3039,6 +3042,7 @@
 0.0.0.0 aisiciciaisxuusuxic.xyz
 0.0.0.0 aisiren.top
 0.0.0.0 aismexpro.com
+0.0.0.0 aisoraplus.com
 0.0.0.0 aitechmarkets.com
 0.0.0.0 aitoblelorn.com
 0.0.0.0 aitrustdefi.com
@@ -9862,6 +9866,8 @@
 0.0.0.0 boomeuro.com
 0.0.0.0 boomstortyil.com
 0.0.0.0 boordopad.com
+0.0.0.0 boostcreatives-ai.com
+0.0.0.0 boostcreatives.ai
 0.0.0.0 boostrates.com
 0.0.0.0 bootcdn.net
 0.0.0.0 bootcss.com
@@ -12815,6 +12821,11 @@
 0.0.0.0 cantxinc23.com
 0.0.0.0 cantxincom23.com
 0.0.0.0 cantxref24.com
+0.0.0.0 canva-dreamlab.com
+0.0.0.0 canvadream-lab.com
+0.0.0.0 canvadreamlab.ai
+0.0.0.0 canvadreamlab.com
+0.0.0.0 canvaproai.com
 0.0.0.0 canvas.pet
 0.0.0.0 canvasfisd.info
 0.0.0.0 canvasuphold.cn
@@ -12833,6 +12844,7 @@
 0.0.0.0 capcha-humain.site
 0.0.0.0 capchatdepartementfinance.com
 0.0.0.0 capchatform.com
+0.0.0.0 capcutproai.com
 0.0.0.0 capecod-junk.com
 0.0.0.0 capeturk.com
 0.0.0.0 capexcash.com
@@ -16694,6 +16706,9 @@
 0.0.0.0 creativehunter.world
 0.0.0.0 creativepeek.world
 0.0.0.0 creativeplus.my.id
+0.0.0.0 creativepro-ai.com
+0.0.0.0 creativepro.ai
+0.0.0.0 creativespro-ai.com
 0.0.0.0 creatorsagahub.com
 0.0.0.0 credarmor.online
 0.0.0.0 credencewaybank.com
@@ -19483,6 +19498,7 @@
 0.0.0.0 drcno.sk
 0.0.0.0 dreades.com
 0.0.0.0 dreadhack.ru
+0.0.0.0 dreamai-luma.com
 0.0.0.0 dreamcityorlando.com
 0.0.0.0 dreamkingcharlesfarmer.com
 0.0.0.0 dreamsassetltd.com
@@ -33434,6 +33450,8 @@
 0.0.0.0 klemton.us
 0.0.0.0 klij-llc.com
 0.0.0.0 klindriverfor.com
+0.0.0.0 klings-ai.com
+0.0.0.0 klingxai.com
 0.0.0.0 klinikpratamayemimamedika.com
 0.0.0.0 klintaps.org
 0.0.0.0 klistr0n.ru
@@ -35121,6 +35139,16 @@
 0.0.0.0 lululemonca.store
 0.0.0.0 lululemonsalenz.net
 0.0.0.0 lulushunshop.com
+0.0.0.0 luma-aidream.com
+0.0.0.0 luma-dream.com
+0.0.0.0 luma-dreamai.com
+0.0.0.0 luma-dreammachine.com
+0.0.0.0 lumaai-dream.com
+0.0.0.0 lumaai-lab.com
+0.0.0.0 lumaai-labs.com
+0.0.0.0 lumaaidream.com
+0.0.0.0 lumaailabs.com
+0.0.0.0 lumalabsai.in
 0.0.0.0 lumanivo.com
 0.0.0.0 lumiar.co
 0.0.0.0 luminesthemes.com
@@ -40481,6 +40509,7 @@
 0.0.0.0 novabiomedicalsystems.com
 0.0.0.0 novacation.cn
 0.0.0.0 novaconsumer.com.vn
+0.0.0.0 novaleadsai.com
 0.0.0.0 novascotia-govt.com
 0.0.0.0 novascotia-livingcredit.ca
 0.0.0.0 novascotia-redcross-en.com
@@ -46111,6 +46140,7 @@
 0.0.0.0 quimjorp.xyz
 0.0.0.0 quinquagenarian.xyz
 0.0.0.0 quirkleblip.top
+0.0.0.0 quirkquestai.com
 0.0.0.0 quitdigitalplatforwi.shop
 0.0.0.0 quittywooruy.cfd
 0.0.0.0 quixtrust.com
