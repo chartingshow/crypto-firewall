@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 3 June 2025
+! Last modified: 4 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -848,6 +848,7 @@
 ||2024olympics.shop^$third-party
 ||2024ripple.com^$third-party
 ||2024service-can.com^$third-party
+||2024sharepoint.lat^$third-party
 ||2024solutionfido.com^$third-party
 ||2024xrp.net^$third-party
 ||2028riversidecountyolympics.info^$third-party
@@ -2682,6 +2683,7 @@
 ||affiliatebash.com^$third-party
 ||affiliatesed.com^$third-party
 ||affiliosystem03.com^$third-party
+||affinitycloudenergy.com^$third-party
 ||affise.app^$third-party
 ||affixio.com^$third-party
 ||affluencedigital.net^$third-party
@@ -3829,6 +3831,7 @@
 ||america-check.com^$third-party
 ||american-check.com^$third-party
 ||americanbak.space^$third-party
+||americangiftsexpress.com^$third-party
 ||americanreliefcenter.com^$third-party
 ||americanshotcreteconstruction.com^$third-party
 ||americold.com^$third-party
@@ -4068,6 +4071,7 @@
 ||androidapk.ovh^$third-party
 ||androidappstore.online^$third-party
 ||androiddevapi.cf^$third-party
+||androiddeveloperconsole.com^$third-party
 ||androidposme.com^$third-party
 ||anee.ee^$third-party
 ||anexo.monster^$third-party
@@ -5543,6 +5547,7 @@
 ||app-secure1.com^$third-party
 ||app-token.im^$third-party
 ||app-trans-gig.online^$third-party
+||app-trello.com^$third-party
 ||app-unrecognized.click^$third-party
 ||app-verification-net.com^$third-party
 ||app-verifier.com^$third-party
@@ -5995,6 +6000,7 @@
 ||argylepets.com^$third-party
 ||arianalift.com^$third-party
 ||ariasguides.com^$third-party
+||ariba.one^$third-party
 ||aricente.com^$third-party
 ||ariesbuildingcleaning.com^$third-party
 ||arimeto.lv^$third-party
@@ -7272,6 +7278,7 @@
 ||autodeposits.ca^$third-party
 ||autodeposits.email^$third-party
 ||autodepot-cra.online^$third-party
+||autodesk.pm^$third-party
 ||autoeneuropa.com^$third-party
 ||autoengint.online^$third-party
 ||autofill-returncra.online^$third-party
@@ -9271,6 +9278,7 @@
 ||bloggcenter.com^$third-party
 ||blogofwellness.com^$third-party
 ||blogsyte.com^$third-party
+||bloomberg-t.com^$third-party
 ||bloomcloud.org^$third-party
 ||bloomfreshglobals.com^$third-party
 ||bloomhome.xyz^$third-party
@@ -10164,6 +10172,7 @@
 ||busefuleso.top^$third-party
 ||bushbaseba.com^$third-party
 ||businesnews.net^$third-party
+||business-helpcase718372649.click^$third-party
 ||business-policy.com^$third-party
 ||business-rbc.com^$third-party
 ||businessdigitally.co.in^$third-party
@@ -15454,6 +15463,10 @@
 ||concreste.com^$third-party
 ||concreteadvantagefl.com^$third-party
 ||conctrajwi.shop^$third-party
+||concur.cfd^$third-party
+||concur.pm^$third-party
+||concur.re^$third-party
+||concuur.com^$third-party
 ||condd.top^$third-party
 ||condedqpwqm.shop^$third-party
 ||conderadio.tv^$third-party
@@ -16027,6 +16040,7 @@
 ||costreward-12343113.site^$third-party
 ||costreward12343113.site^$third-party
 ||costsco.site^$third-party
+||costsco1.com^$third-party
 ||costumer-info.ca^$third-party
 ||costumer-supoort.ca^$third-party
 ||costumer-support.ca^$third-party
@@ -17407,6 +17421,8 @@
 ||cxtfadxbfcsjy4r.gq^$third-party
 ||cxz-telus.info^$third-party
 ||cyancow.com^$third-party
+||cybercloudsec.com^$third-party
+||cybercloudsecure.com^$third-party
 ||cyberetc.com^$third-party
 ||cyberhavenext.pro^$third-party
 ||cyberjustice.solutions^$third-party
@@ -19451,6 +19467,7 @@
 ||dr-xt391.online^$third-party
 ||dr.id.au^$third-party
 ||dr0id.best^$third-party
+||dr1ve.xyz^$third-party
 ||dr8lps.info^$third-party
 ||draddressi.top^$third-party
 ||draftkingspay.ca^$third-party
@@ -19501,6 +19518,8 @@
 ||drinnkysoapmzv.shop^$third-party
 ||drinz.us^$third-party
 ||dripcartel.in^$third-party
+||driv3.net^$third-party
+||driv7.com^$third-party
 ||drive-phone.online^$third-party
 ||drive-release.cloud^$third-party
 ||driveawayrentals.com^$third-party
@@ -22345,6 +22364,7 @@
 ||escrowaccepted.com^$third-party
 ||escudodeprotecao.com.br^$third-party
 ||escueladecinemza.com.ar^$third-party
+||escueladeletrados.com^$third-party
 ||escuelageneraljosedesanmartin.com^$third-party
 ||esddbbabashadaa.shop^$third-party
 ||esecure-transfer1.ca^$third-party
@@ -26915,6 +26935,7 @@
 ||gghxyy.club^$third-party
 ||ggm.pw^$third-party
 ||ggmcryptotrademarket.com^$third-party
+||ggooleauth.xyz^$third-party
 ||ggppz.online^$third-party
 ||ggpzw.pw^$third-party
 ||ggrito.icu^$third-party
@@ -27172,6 +27193,8 @@
 ||go-heard.life^$third-party
 ||go-heard.pro^$third-party
 ||go-heard.world^$third-party
+||go-ia.info^$third-party
+||go-ia.site^$third-party
 ||go-ripple.com^$third-party
 ||go-roger-info.website^$third-party
 ||go-rogers-info.website^$third-party
@@ -28281,6 +28304,7 @@
 ||harsiddhindustries.com^$third-party
 ||hartcontractorsltd.com^$third-party
 ||harvalegal.in^$third-party
+||harvardyardcollection.com^$third-party
 ||harvestlimb.top^$third-party
 ||haryanadeendayalshop.org^$third-party
 ||hasandumangeldibizelok.co.vu^$third-party
@@ -28349,6 +28373,7 @@
 ||hcaptchagoogleverify.com^$third-party
 ||hcfministries.com^$third-party
 ||hcki.info^$third-party
+||hcm-paycor.org^$third-party
 ||hcmmobile.com^$third-party
 ||hd-net.cz^$third-party
 ||hdchdcbcbd.online^$third-party
@@ -29083,6 +29108,7 @@
 ||hotihlj.shop^$third-party
 ||hotjuly.top^$third-party
 ||hotlive88.net^$third-party
+||hotnotepad.com^$third-party
 ||hotofebax.com^$third-party
 ||hotsheet.top^$third-party
 ||hotspot.mg^$third-party
@@ -29250,6 +29276,7 @@
 ||https-securelogincrassl1.info^$third-party
 ||https-secureresetrbccssll1.online^$third-party
 ||https-securityrbcssll2.online^$third-party
+||https-twitter.com^$third-party
 ||https-unlockrbccssll1.online^$third-party
 ||https-verifaccrbccsll1.online^$third-party
 ||https-verifcrasecuressl1.info^$third-party
@@ -29750,6 +29777,7 @@
 ||identity-telus.com^$third-party
 ||identity-verification-amazon.info^$third-party
 ||identity-verify.com^$third-party
+||identity-wpengine.com^$third-party
 ||identity1-auth.com^$third-party
 ||identity1auth.com^$third-party
 ||identity4anz.online^$third-party
@@ -34017,6 +34045,7 @@
 ||lexeraspotx764.co.vu^$third-party
 ||lexeraspotxx954.co.vu^$third-party
 ||lexilbk.com^$third-party
+||lexisnexis.day^$third-party
 ||lexpress-mg.xyz^$third-party
 ||lexpress.me^$third-party
 ||lfrcrypto.com^$third-party
@@ -34987,6 +35016,7 @@
 ||lordglass.com^$third-party
 ||lordjacobssgninca.info^$third-party
 ||lordliness.store^$third-party
+||lordofscan.pro^$third-party
 ||lordoutelt.com^$third-party
 ||lorenzocardoso.cfd^$third-party
 ||loribarker.ca^$third-party
@@ -35020,6 +35050,9 @@
 ||loufuelscom.xyz^$third-party
 ||louispasteur.app^$third-party
 ||louses.net^$third-party
+||louvre-event.com^$third-party
+||louvre-ticketing.com^$third-party
+||louvrebil.click^$third-party
 ||love4u.space^$third-party
 ||lovegoodfats.co^$third-party
 ||loveishqov.life^$third-party
@@ -36366,6 +36399,7 @@
 ||miguelangelparedes.com^$third-party
 ||mihantarh.com^$third-party
 ||mihojip.com^$third-party
+||miidjourney.net^$third-party
 ||miira.live^$third-party
 ||mijnonderneming-2023.click^$third-party
 ||mijnteruggave2023.info^$third-party
@@ -37749,6 +37783,7 @@
 ||multiplymyincome.com^$third-party
 ||multisigchain.online^$third-party
 ||multiwall-ads.shop^$third-party
+||multyimap.com^$third-party
 ||muluaphp.info^$third-party
 ||mum-writes.com^$third-party
 ||mumbralive.com^$third-party
@@ -39567,11 +39602,13 @@
 ||netcustomer-care.com^$third-party
 ||netdailly.com^$third-party
 ||netearnings.ca^$third-party
+||netepadtee.com^$third-party
 ||netf-supp.ca^$third-party
 ||netfbill-update.ca^$third-party
 ||netfbillserr.com^$third-party
 ||netfhxupdtemydetials.info^$third-party
 ||netfiexfilm.xyz^$third-party
+||netfiix-abofrance.com^$third-party
 ||netfiix-account-reset.online^$third-party
 ||netfiix-nopayment-chargeback.top^$third-party
 ||netfiix-payment.com^$third-party
@@ -39985,6 +40022,7 @@
 ||nexubomb.com^$third-party
 ||nexus-prime.ltd^$third-party
 ||nexusfleck.com^$third-party
+||nexuslink.click^$third-party
 ||nexustrust.online^$third-party
 ||nexxdecor.vn^$third-party
 ||neyfliiix.com^$third-party
@@ -41065,6 +41103,7 @@
 ||onemt-intreac.com^$third-party
 ||onenotegem.com^$third-party
 ||oneparcelresend1ca.info^$third-party
+||onepassreglons.com^$third-party
 ||onepercentage.org^$third-party
 ||oneplan.ai^$third-party
 ||onerbc.online^$third-party
@@ -42807,6 +42846,7 @@
 ||parfumsclub-shop.ma^$third-party
 ||paribahis731.com^$third-party
 ||paribahis776.com^$third-party
+||paris-journey.com^$third-party
 ||pariscopia.com^$third-party
 ||parismeteells.net^$third-party
 ||parkerlabs.top^$third-party
@@ -43001,6 +43041,7 @@
 ||payback-tax.ca^$third-party
 ||paybackconsumers.ca^$third-party
 ||paybackltd.org^$third-party
+||paybx.world^$third-party
 ||payca0001.co^$third-party
 ||payca10001.co^$third-party
 ||paycanada.ca^$third-party
@@ -46042,6 +46083,7 @@
 ||quickbookprime.pro^$third-party
 ||quickbooks2024.com^$third-party
 ||quickbookspay.ca^$third-party
+||quicken-install.com^$third-party
 ||quickfix1can.info^$third-party
 ||quickhire360.com^$third-party
 ||quickinterview360.com^$third-party
@@ -47371,6 +47413,7 @@
 ||redev-cana.com^$third-party
 ||redev-canadapost.ca^$third-party
 ||redevpostcanonline.com^$third-party
+||redfinneat.com^$third-party
 ||redflagdeals-goldstar.net^$third-party
 ||redflagdeals-prime.net^$third-party
 ||redfoxarmoryshop.com^$third-party
@@ -48345,6 +48388,7 @@
 ||restoreyouruserid.com^$third-party
 ||restoring.top^$third-party
 ||restplatinopacks.com^$third-party
+||restproxy.com^$third-party
 ||restrice.ru^$third-party
 ||restricted-netbank.com^$third-party
 ||restrictedsptfy.ca^$third-party
@@ -49269,6 +49313,7 @@
 ||rmdtqq.libre^$third-party
 ||rmechanicfca.top^$third-party
 ||rmit.ms^$third-party
+||rmscloud.pro^$third-party
 ||rmtrcking01.com^$third-party
 ||rmutr.ac.th^$third-party
 ||rneta-rnask.com^$third-party
@@ -49964,6 +50009,7 @@
 ||runyudh.online^$third-party
 ||ruok.org^$third-party
 ||ruoxidh.online^$third-party
+||rupaynews.com^$third-party
 ||ruretsharol.xyz^$third-party
 ||rusal.com.mx^$third-party
 ||rushb.space^$third-party
@@ -55506,6 +55552,7 @@
 ||techandgadgets.net^$third-party
 ||techbazaarshop.com^$third-party
 ||techdom.click^$third-party
+||techevolveproservice.com^$third-party
 ||techjbc.cfd^$third-party
 ||techjbc.xyz^$third-party
 ||techlink-store.com^$third-party
@@ -56449,6 +56496,7 @@
 ||thoitrangtreemmytho.com^$third-party
 ||thomassilveira.cfd^$third-party
 ||thomdock.com^$third-party
+||thomsonreuter.info^$third-party
 ||thondorbird.com^$third-party
 ||thookedaurce.com^$third-party
 ||thoroughness.top^$third-party
@@ -56619,6 +56667,7 @@
 ||titanofinances.io^$third-party
 ||titanumsheld.com^$third-party
 ||tiulycon.com^$third-party
+||tivi2.com^$third-party
 ||tixfilmz.cf^$third-party
 ||tixfilmz.ga^$third-party
 ||tixfilmz.gq^$third-party
@@ -57605,12 +57654,17 @@
 ||treasuryclearinghouse.com^$third-party
 ||trecv.xyz^$third-party
 ||trecvf.xyz^$third-party
+||tredildlngviw.shop^$third-party
+||tredildlngviw.xyz^$third-party
 ||trednig.top^$third-party
 ||tree-house-cat.org^$third-party
 ||treechop.top^$third-party
 ||treef.top^$third-party
 ||treepledeeple.fun^$third-party
 ||treffaas.com^$third-party
+||treidingviw-web.lol^$third-party
+||treidingviw-web.shop^$third-party
+||treidingviw-web.xyz^$third-party
 ||tremethaj.com^$third-party
 ||tremilline.ru^$third-party
 ||trend-marketing.com.eg^$third-party
@@ -57628,6 +57682,7 @@
 ||tres-transport.com^$third-party
 ||trewisdert.com^$third-party
 ||treylercompandium.com^$third-party
+||trezor-web.io^$third-party
 ||trezor.im^$third-party
 ||trfhrh.com^$third-party
 ||tri11ium0n.click^$third-party
@@ -57861,6 +57916,7 @@
 ||trx-market.com^$third-party
 ||trxbscg.com^$third-party
 ||trxchange.site^$third-party
+||trydropbox.com^$third-party
 ||trytiktokmedia.com^$third-party
 ||trytonpro.pro^$third-party
 ||tryyudjasudqo.shop^$third-party
@@ -60173,6 +60229,7 @@
 ||wakacuk.com^$third-party
 ||wakelet.ink^$third-party
 ||wakors.com^$third-party
+||wal-streetjournal.com^$third-party
 ||walemah.com^$third-party
 ||walidacja-konta.link^$third-party
 ||walidacja-konta.pw^$third-party
@@ -60442,6 +60499,7 @@
 ||webentrc.com^$third-party
 ||webewox.com^$third-party
 ||webex-download.com^$third-party
+||webex-install.com^$third-party
 ||webextra.com.au^$third-party
 ||webfiledata.com^$third-party
 ||webgate-mobile.info^$third-party
@@ -60615,6 +60673,7 @@
 ||westernthriftloan.net^$third-party
 ||westfieldacesso.live^$third-party
 ||westfire.shop^$third-party
+||westlaw.top^$third-party
 ||westleep.com^$third-party
 ||westline.top^$third-party
 ||westpac-3ds.online^$third-party
@@ -60989,6 +61048,7 @@
 ||wollfsoaisvz.shop^$third-party
 ||woltde.com^$third-party
 ||woltelorda.xyz^$third-party
+||womansvitamin.com^$third-party
 ||womenhealthlinekenya.org^$third-party
 ||womensecret-es.shop^$third-party
 ||womensecretesonline.shop^$third-party
@@ -61083,6 +61143,7 @@
 ||wpbizwon.com^$third-party
 ||wpc-secure-reinstate.com^$third-party
 ||wpconversionking.com^$third-party
+||wpenglneweb.com^$third-party
 ||wpg-hydroqc.com^$third-party
 ||wpg-payfees.com^$third-party
 ||wpmanager-orion.com^$third-party
@@ -61908,12 +61969,14 @@
 ||xn--72cg7aqv0asf6bd3ec3rla.com^$third-party
 ||xn--80abwh1as1b.shop^$third-party
 ||xn--b1ab7b.com^$third-party
+||xn--bitwardn-h1a.com^$third-party
 ||xn--bnkofmontreal-if2g.com^$third-party
 ||xn--c-7lmxp.com^$third-party
 ||xn--c-sga.net^$third-party
 ||xn--cbc-jua.net^$third-party
 ||xn--hsc-7xy.com^$third-party
 ||xn--hz2b15n1xfp9f.com^$third-party
+||xn--manulfe-kza.com^$third-party
 ||xn--metamask-ul5o017z.com^$third-party
 ||xn--metamsk-rgc.com^$third-party
 ||xn--montralradar-1db.ca^$third-party
@@ -62635,6 +62698,7 @@
 ||zoomania.mu^$third-party
 ||zoomdowndesktop.store^$third-party
 ||zoomenglishlesson.com^$third-party
+||zoomms-info.com^$third-party
 ||zoona.shop^$third-party
 ||zoppara.click^$third-party
 ||zorbpuft.xyz^$third-party
@@ -62765,6 +62829,7 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
+||ln.run/supportcenterbusiness^
 ||www.shorturl.at/dKOR6^
 
 ! coinimp.com ------------------------------------------------------------------
