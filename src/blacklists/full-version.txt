@@ -851,6 +851,9 @@
 ||2024sharepoint.lat^$third-party
 ||2024solutionfido.com^$third-party
 ||2024xrp.net^$third-party
+||2025sale-x.com^$third-party
+||2025token.space^$third-party
+||2025xsale.digital^$third-party
 ||2028riversidecountyolympics.info^$third-party
 ||202contactless.online^$third-party
 ||2030aguitamex.com.mx^$third-party
@@ -2297,6 +2300,7 @@
 ||accreditationprogramrog.info^$third-party
 ||accreview.com^$third-party
 ||accreview.live^$third-party
+||accs343.xyz^$third-party
 ||accsdjardins.com^$third-party
 ||accsecurity-mygov.com^$third-party
 ||accspayablecracaadmins.info^$third-party
@@ -3071,6 +3075,7 @@
 ||ajcb.pro^$third-party
 ||ajhwrhs-canadapost.online^$third-party
 ||ajhwrhs-dhl.click^$third-party
+||ajinkyap.dev^$third-party
 ||ajmoversandpackers.com^$third-party
 ||ajnewstock.com^$third-party
 ||ajoa.org^$third-party
@@ -3528,6 +3533,7 @@
 ||aloattar.com^$third-party
 ||alodokter.com^$third-party
 ||alohaplinayagot.com^$third-party
+||alokozay.digital^$third-party
 ||alomegodarks.com^$third-party
 ||alomhrouf.com^$third-party
 ||alonbyacarian.com^$third-party
@@ -5486,6 +5492,7 @@
 ||apogeehandcarft.com^$third-party
 ||apoligazanattions.com^$third-party
 ||apolitical.com.mx^$third-party
+||apollon-store.ru^$third-party
 ||apostocatering.gr^$third-party
 ||apotekmedic.com^$third-party
 ||apoxnew.com^$third-party
@@ -5799,6 +5806,8 @@
 ||applewallet-activation.org^$third-party
 ||applewalletupdate.com^$third-party
 ||applewatchpromotion.info^$third-party
+||appleworld.com.mx^$third-party
+||appleworld.tech^$third-party
 ||application-mymobililityaccount.com^$third-party
 ||application-web.com^$third-party
 ||applicationdl.shop^$third-party
@@ -8650,6 +8659,7 @@
 ||besthome.kz^$third-party
 ||besti.ga^
 ||bestintownpro.com^$third-party
+||bestionkip.com^$third-party
 ||bestiptvplan.com^$third-party
 ||bestipworldscan.xyz^$third-party
 ||bestjunggvbvqq.com^$third-party
@@ -9236,6 +9246,7 @@
 ||blastechohackopeower.pw^$third-party
 ||blastedlevels.com^$third-party
 ||blastenterprises.com.au^$third-party
+||blastindok.com^$third-party
 ||blastoporicwoff.fun^$third-party
 ||blastrex.com^$third-party
 ||blasttim1.com^$third-party
@@ -13150,6 +13161,7 @@
 ||carsruitkan.com^$third-party
 ||carstirgapcheatdeposwte.pw^$third-party
 ||cartao-informacao.com^$third-party
+||cartaoapp.store^$third-party
 ||cartaovivaz.com.br^$third-party
 ||carted.xyz^$third-party
 ||cartelac.pt^$third-party
@@ -13900,6 +13912,7 @@
 ||choosetesla.com^$third-party
 ||choosetime-arrival1.delivery^$third-party
 ||chooseyourtimeslotnow.info^$third-party
+||chopinkos.digital^$third-party
 ||chopprousite.ru^$third-party
 ||chosenglobaltrust.com^$third-party
 ||chosenlist.cc^$third-party
@@ -14335,6 +14348,7 @@
 ||clevaden4801.online^$third-party
 ||clever-france.com^$third-party
 ||cleverestinvestment.sbs^$third-party
+||cleversfor.com^$third-party
 ||cleveruhr.online^$third-party
 ||clgserv.pro^$third-party
 ||cliamate-incentive-rebate.online^$third-party
@@ -14912,6 +14926,7 @@
 ||coin-have.com^$third-party
 ||coin-milady.com^$third-party
 ||coin-squad.co^$third-party
+||coin-x-presale.digital^$third-party
 ||coin.co^$third-party
 ||coin.su^$third-party
 ||coinavia.com^$third-party
@@ -21537,6 +21552,8 @@
 ||eloasammer.com^$third-party
 ||elochka2021.store^$third-party
 ||elokijjonaut.com^$third-party
+||elon-meme.org^$third-party
+||elon-sale.live^$third-party
 ||elon-tesla2x.com^$third-party
 ||elon2025.com^$third-party
 ||elonbitx.com^$third-party
@@ -22419,6 +22436,7 @@
 ||eserverdisbursed.com^$third-party
 ||eserversupport.info^$third-party
 ||esfashionstradivarius.shop^$third-party
+||eshkere.digital^$third-party
 ||eshqy.net^$third-party
 ||esilet.com^$third-party
 ||esjpakistan.com^$third-party
@@ -25547,6 +25565,7 @@
 ||fingerbus.cn^$third-party
 ||fingerstile.xyz^$third-party
 ||fingusti.club^$third-party
+||finikistor.com^$third-party
 ||finikomoneyback.ru^$third-party
 ||finiofinance.uk^$third-party
 ||finishupworld.com^$third-party
@@ -26591,6 +26610,7 @@
 ||gabrikxuira.com^$third-party
 ||gabycampo.com.ar^$third-party
 ||gadanaycens.xyz^$third-party
+||gadget-universe.ru^$third-party
 ||gadget.land^$third-party
 ||gadlito.com^$third-party
 ||gaervchain.org^$third-party
@@ -29497,13 +29517,25 @@
 ||hzqkmp.cyou^$third-party
 ||hzsp.pw^$third-party
 ||i-bank.click^$third-party
+||i-coins.org^$third-party
 ||i-eflow-help.online^$third-party
 ||i-etsrf-elive.co^$third-party
 ||i-fashiongroup.com^$third-party
+||i-finance.top^$third-party
+||i-foundators.com^$third-party
 ||i-n-t-e-r-a-c.com^$third-party
 ||i-nte-ac-w1.cloud^$third-party
 ||i-part.com.tw^$third-party
+||i-presale.com^$third-party
+||i-sale25.com^$third-party
+||i-sales.digital^$third-party
 ||i-scotiabank.com^$third-party
+||i-token.live^$third-party
+||i-token.org^$third-party
+||i-token.sale^$third-party
+||i-token.space^$third-party
+||i-token.xyz^$third-party
+||i-tokens.com^$third-party
 ||i-ua.ml^$third-party
 ||i-ua.space^$third-party
 ||i-washi.com^$third-party
@@ -29652,6 +29684,7 @@
 ||icn.com.np^$third-party
 ||icodework.com^$third-party
 ||icoin1.com^$third-party
+||icoin2025.com^$third-party
 ||icon-mining.com^$third-party
 ||iconcss.com^$third-party
 ||iconpeak.shop^$third-party
@@ -32382,6 +32415,8 @@
 ||ipoteka-v-spb.ru^$third-party
 ||ippm.dk^$third-party
 ||ipq.co^$third-party
+||ipresale.world^$third-party
+||ipresales.top^$third-party
 ||iprommark.com.ua^$third-party
 ||ipsail.host^$third-party
 ||ipscanbestworld.xyz^$third-party
@@ -32470,6 +32505,10 @@
 ||isaacwitty.com^$third-party
 ||isabellaminipuppies.com^$third-party
 ||isabelmartin.co^$third-party
+||isale-stage.shop^$third-party
+||isale.live^$third-party
+||isale.ltd^$third-party
+||isale.run^$third-party
 ||isamaracatering.com^$third-party
 ||isasecret.com^$third-party
 ||isbake.online^$third-party
@@ -32595,6 +32634,15 @@
 ||itgusl.com^$third-party
 ||itly.link^$third-party
 ||itmax.tn^$third-party
+||itoken.foundation^$third-party
+||itoken.run^$third-party
+||itoken.sale^$third-party
+||itoken.site^$third-party
+||itoken.tech^$third-party
+||itoken2025.com^$third-party
+||itokenlaunch.com^$third-party
+||itokenpresale.com^$third-party
+||itokensale.live^$third-party
 ||itomsystem.in^$third-party
 ||itosha.top^$third-party
 ||itprofbin.site^$third-party
@@ -32669,6 +32717,7 @@
 ||jacklinemode.club^$third-party
 ||jackmoynehan.com^$third-party
 ||jackoshacko.com^$third-party
+||jackpewpew.com^$third-party
 ||jackpotguru.net^$third-party
 ||jackpotresult.me^$third-party
 ||jacksworkspace.com^$third-party
@@ -32824,6 +32873,7 @@
 ||jilkqypt.xyz^$third-party
 ||jilosrawet.com^$third-party
 ||jimmyjamtshirts.com^$third-party
+||jimmyneytronus.com^$third-party
 ||jimquasius.com^$third-party
 ||jimriehls.com^$third-party
 ||jin-tonik-boom.com^$third-party
@@ -33346,6 +33396,7 @@
 ||keppelcrypto.com^$third-party
 ||kepw.org^$third-party
 ||kerafill.com^$third-party
+||keremh.dev^$third-party
 ||kerizlersokak31.xyz^$third-party
 ||kervplun.xyz^$third-party
 ||keskecokdileyipto.top^$third-party
@@ -35077,6 +35128,7 @@
 ||lootbot.su^$third-party
 ||lopesfinance.com^$third-party
 ||lopesiodsopesldelcatx.com^$third-party
+||lopinak.com^$third-party
 ||lordfilms.app^$third-party
 ||lordglass.com^$third-party
 ||lordjacobssgninca.info^$third-party
@@ -36466,6 +36518,7 @@
 ||midigomehacibaba.net^$third-party
 ||midigomehackerbaba.net^$third-party
 ||midigomesinyalcimisinaga.com^$third-party
+||midikan.com^$third-party
 ||midlandpaper.icu^$third-party
 ||midly.in^$third-party
 ||midnightseduct.com^$third-party
@@ -38818,6 +38871,7 @@
 ||mynetflix-udapte.com^$third-party
 ||mynetflix0921.one^$third-party
 ||mynetflix1securevaiidationvcn.info^$third-party
+||mynewairplane.com^$third-party
 ||mynewdatings.life^$third-party
 ||mynewjobproject.live^$third-party
 ||mynexecss.com^$third-party
@@ -45164,6 +45218,7 @@
 ||prepcards.com^$third-party
 ||preprestamoshol.com^$third-party
 ||presaIe-roaringkitty.com^$third-party
+||presale-i.com^$third-party
 ||prescribe.top^$third-party
 ||prescriptionstorageag.fun^$third-party
 ||presencewineonnyui.shop^$third-party
@@ -49436,6 +49491,7 @@
 ||robertjameskent.com^$third-party
 ||robertlee.cfd^$third-party
 ||robertmchilespe.com^$third-party
+||robertoornick.com^$third-party
 ||robetcotraslros5234.com^$third-party
 ||robinsson.live^$third-party
 ||robloxuz.com^$third-party
@@ -50354,6 +50410,10 @@
 ||salaryearnings-se.com^$third-party
 ||salaryrevenue.ca^$third-party
 ||saldodipjesnel.com^$third-party
+||sale-x25.digital^$third-party
+||sale2025.org^$third-party
+||sale25.info^$third-party
+||sale25.org^$third-party
 ||salefreespeople.com^$third-party
 ||saleonline2023.com^$third-party
 ||saleoutdoors.com^$third-party
@@ -50362,6 +50422,7 @@
 ||salesperosominsid.shop^$third-party
 ||salesticar.xyz^$third-party
 ||salestockindonesia.com^$third-party
+||salesx.digital^$third-party
 ||salhasduaras.shop^$third-party
 ||salihogobinezdolinez.top^$third-party
 ||salin.ro^$third-party
@@ -50396,6 +50457,7 @@
 ||samplepoisonbarryntj.shop^$third-party
 ||samrathalcabs.com^$third-party
 ||sams-pay.info^$third-party
+||samsomisan.digital^$third-party
 ||samsonite-romania.com^$third-party
 ||samsunglimited.top^$third-party
 ||samsungpayca0001.ca^$third-party
@@ -56901,6 +56963,7 @@
 ||token-lon.me^$third-party
 ||token-lon.pro^$third-party
 ||token-pockets.pro^$third-party
+||token-x-sale.com^$third-party
 ||token2.club^$third-party
 ||tokenarbitrum.com^$third-party
 ||tokendl001.com^$third-party
@@ -56914,8 +56977,10 @@
 ||tokenpockets.org^$third-party
 ||tokenpro.pro^$third-party
 ||tokens-coinbase.com^$third-party
+||tokensx.store^$third-party
 ||tokentracking.info^$third-party
 ||tokenweb.online^$third-party
+||tokenxsale.com^$third-party
 ||toketiname.com^$third-party
 ||tokomella.com^$third-party
 ||tokullectibles.shop^$third-party
@@ -61476,7 +61541,12 @@
 ||wyn0t.com^$third-party
 ||wyxug.com^$third-party
 ||wzniv2jp0.info^$third-party
+||x-presale.tech^$third-party
+||x-sale25.com^$third-party
 ||x-theme.world^$third-party
+||x-token-sale.com^$third-party
+||x-token24.org^$third-party
+||x-token24.xyz^$third-party
 ||x-tremefireworks.net^$third-party
 ||x00x.online^$third-party
 ||x00xs0xs0sssqq.net^$third-party
@@ -61520,6 +61590,9 @@
 ||xclw.info^$third-party
 ||xcoin-trade.com^$third-party
 ||xcoin-trading.com^$third-party
+||xcoin25.com^$third-party
+||xcoins25.com^$third-party
+||xcoins27.com^$third-party
 ||xcryst.com^$third-party
 ||xcvsrtv201.xyz^$third-party
 ||xczh85xs5l.info^$third-party
@@ -62146,6 +62219,9 @@
 ||xpm8tfxfm.info^$third-party
 ||xpopup.com^$third-party
 ||xpopup.pe.kr^$third-party
+||xpresale.run^$third-party
+||xpresale.xyz^$third-party
+||xpresales.pro^$third-party
 ||xprescanpost.com^$third-party
 ||xpress-courrier.com^$third-party
 ||xpress-dhi.online^$third-party
@@ -62211,6 +62287,9 @@
 ||xrpsummer.com^$third-party
 ||xrptwice.com^$third-party
 ||xrpwin.com^$third-party
+||xsale-25.digital^$third-party
+||xsales.sale^$third-party
+||xsales.space^$third-party
 ||xsarb.cf^$third-party
 ||xsbuqy.tk^$third-party
 ||xseghvvdgcfdv.online^$third-party

@@ -800,6 +800,7 @@
 0.0.0.0 185.39.17.103
 0.0.0.0 185.4.135.165
 0.0.0.0 185.4.135.27
+0.0.0.0 185.43.221.144
 0.0.0.0 185.53.179.172
 0.0.0.0 185.56.175.122
 0.0.0.0 185.56.219.47
@@ -1221,6 +1222,7 @@
 0.0.0.0 29.122.243.158
 0.0.0.0 3.141.31.43
 0.0.0.0 30.10.121.157
+0.0.0.0 31.129.105.111
 0.0.0.0 31.207.89.74
 0.0.0.0 31.209.137.12
 0.0.0.0 31.210.20.231
@@ -1259,8 +1261,8 @@
 0.0.0.0 38.170.181.10
 0.0.0.0 38.180.136.155
 0.0.0.0 38.180.251.217
-0.0.0.0 38.32.68.195
 0.0.0.0 38.180.29.229
+0.0.0.0 38.32.68.195
 0.0.0.0 38.54.33.239
 0.0.0.0 38.75.137.213
 0.0.0.0 39.104.90.45
@@ -1270,6 +1272,7 @@
 0.0.0.0 41.28.188.77
 0.0.0.0 41.73.252.195
 0.0.0.0 41.76.108.46
+0.0.0.0 44.215.182.57
 0.0.0.0 45.10.69.141
 0.0.0.0 45.118.115.99
 0.0.0.0 45.118.135.203
@@ -1404,9 +1407,15 @@
 0.0.0.0 52.0.217.44
 0.0.0.0 52.10.27.176
 0.0.0.0 52.20.131.174
+0.0.0.0 52.204.15.166
 0.0.0.0 52.4.209.250
+0.0.0.0 52.54.80.210
+0.0.0.0 52.55.103.40
+0.0.0.0 52.6.59.94
 0.0.0.0 53.182.82.27
 0.0.0.0 54.111.105.80
+0.0.0.0 54.157.160.135
+0.0.0.0 54.225.230.248
 0.0.0.0 54.254.255.10
 0.0.0.0 54.37.106.167
 0.0.0.0 54.37.131.14
@@ -2478,6 +2487,9 @@
 0.0.0.0 2024sharepoint.lat
 0.0.0.0 2024solutionfido.com
 0.0.0.0 2024xrp.net
+0.0.0.0 2025sale-x.com
+0.0.0.0 2025token.space
+0.0.0.0 2025xsale.digital
 0.0.0.0 2028riversidecountyolympics.info
 0.0.0.0 202contactless.online
 0.0.0.0 2030aguitamex.com.mx
@@ -3915,6 +3927,7 @@
 0.0.0.0 accreditationprogramrog.info
 0.0.0.0 accreview.com
 0.0.0.0 accreview.live
+0.0.0.0 accs343.xyz
 0.0.0.0 accsdjardins.com
 0.0.0.0 accsecurity-mygov.com
 0.0.0.0 accspayablecracaadmins.info
@@ -4688,6 +4701,7 @@
 0.0.0.0 ajcb.pro
 0.0.0.0 ajhwrhs-canadapost.online
 0.0.0.0 ajhwrhs-dhl.click
+0.0.0.0 ajinkyap.dev
 0.0.0.0 ajmoversandpackers.com
 0.0.0.0 ajnewstock.com
 0.0.0.0 ajoa.org
@@ -5145,6 +5159,7 @@
 0.0.0.0 aloattar.com
 0.0.0.0 alodokter.com
 0.0.0.0 alohaplinayagot.com
+0.0.0.0 alokozay.digital
 0.0.0.0 alomegodarks.com
 0.0.0.0 alomhrouf.com
 0.0.0.0 alonbyacarian.com
@@ -7107,6 +7122,7 @@
 0.0.0.0 apogeehandcarft.com
 0.0.0.0 apoligazanattions.com
 0.0.0.0 apolitical.com.mx
+0.0.0.0 apollon-store.ru
 0.0.0.0 apostocatering.gr
 0.0.0.0 apotekmedic.com
 0.0.0.0 apoxnew.com
@@ -7419,6 +7435,8 @@
 0.0.0.0 applewallet-activation.org
 0.0.0.0 applewalletupdate.com
 0.0.0.0 applewatchpromotion.info
+0.0.0.0 appleworld.com.mx
+0.0.0.0 appleworld.tech
 0.0.0.0 application-mymobililityaccount.com
 0.0.0.0 application-web.com
 0.0.0.0 applicationdl.shop
@@ -10267,6 +10285,7 @@
 0.0.0.0 besthome.kz
 0.0.0.0 besti.ga
 0.0.0.0 bestintownpro.com
+0.0.0.0 bestionkip.com
 0.0.0.0 bestiptvplan.com
 0.0.0.0 bestipworldscan.xyz
 0.0.0.0 bestjunggvbvqq.com
@@ -10852,6 +10871,7 @@
 0.0.0.0 blastechohackopeower.pw
 0.0.0.0 blastedlevels.com
 0.0.0.0 blastenterprises.com.au
+0.0.0.0 blastindok.com
 0.0.0.0 blastoporicwoff.fun
 0.0.0.0 blastrex.com
 0.0.0.0 blasttim1.com
@@ -14766,6 +14786,7 @@
 0.0.0.0 carsruitkan.com
 0.0.0.0 carstirgapcheatdeposwte.pw
 0.0.0.0 cartao-informacao.com
+0.0.0.0 cartaoapp.store
 0.0.0.0 cartaovivaz.com.br
 0.0.0.0 carted.xyz
 0.0.0.0 cartelac.pt
@@ -15518,6 +15539,7 @@
 0.0.0.0 choosetesla.com
 0.0.0.0 choosetime-arrival1.delivery
 0.0.0.0 chooseyourtimeslotnow.info
+0.0.0.0 chopinkos.digital
 0.0.0.0 chopprousite.ru
 0.0.0.0 chosenglobaltrust.com
 0.0.0.0 chosenlist.cc
@@ -15953,6 +15975,7 @@
 0.0.0.0 clevaden4801.online
 0.0.0.0 clever-france.com
 0.0.0.0 cleverestinvestment.sbs
+0.0.0.0 cleversfor.com
 0.0.0.0 cleveruhr.online
 0.0.0.0 clgserv.pro
 0.0.0.0 cliamate-incentive-rebate.online
@@ -16531,6 +16554,7 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-milady.com
 0.0.0.0 coin-squad.co
+0.0.0.0 coin-x-presale.digital
 0.0.0.0 coin.co
 0.0.0.0 coin.su
 0.0.0.0 coinavia.com
@@ -23156,6 +23180,8 @@
 0.0.0.0 eloasammer.com
 0.0.0.0 elochka2021.store
 0.0.0.0 elokijjonaut.com
+0.0.0.0 elon-meme.org
+0.0.0.0 elon-sale.live
 0.0.0.0 elon-tesla2x.com
 0.0.0.0 elon2025.com
 0.0.0.0 elonbitx.com
@@ -24038,6 +24064,7 @@
 0.0.0.0 eserverdisbursed.com
 0.0.0.0 eserversupport.info
 0.0.0.0 esfashionstradivarius.shop
+0.0.0.0 eshkere.digital
 0.0.0.0 eshqy.net
 0.0.0.0 esilet.com
 0.0.0.0 esjpakistan.com
@@ -27165,6 +27192,7 @@
 0.0.0.0 fingerbus.cn
 0.0.0.0 fingerstile.xyz
 0.0.0.0 fingusti.club
+0.0.0.0 finikistor.com
 0.0.0.0 finikomoneyback.ru
 0.0.0.0 finiofinance.uk
 0.0.0.0 finishupworld.com
@@ -28212,6 +28240,7 @@
 0.0.0.0 gabrikxuira.com
 0.0.0.0 gabycampo.com.ar
 0.0.0.0 gadanaycens.xyz
+0.0.0.0 gadget-universe.ru
 0.0.0.0 gadget.land
 0.0.0.0 gadlito.com
 0.0.0.0 gaervchain.org
@@ -31117,13 +31146,25 @@
 0.0.0.0 hzqkmp.cyou
 0.0.0.0 hzsp.pw
 0.0.0.0 i-bank.click
+0.0.0.0 i-coins.org
 0.0.0.0 i-eflow-help.online
 0.0.0.0 i-etsrf-elive.co
 0.0.0.0 i-fashiongroup.com
+0.0.0.0 i-finance.top
+0.0.0.0 i-foundators.com
 0.0.0.0 i-n-t-e-r-a-c.com
 0.0.0.0 i-nte-ac-w1.cloud
 0.0.0.0 i-part.com.tw
+0.0.0.0 i-presale.com
+0.0.0.0 i-sale25.com
+0.0.0.0 i-sales.digital
 0.0.0.0 i-scotiabank.com
+0.0.0.0 i-token.live
+0.0.0.0 i-token.org
+0.0.0.0 i-token.sale
+0.0.0.0 i-token.space
+0.0.0.0 i-token.xyz
+0.0.0.0 i-tokens.com
 0.0.0.0 i-ua.ml
 0.0.0.0 i-ua.space
 0.0.0.0 i-washi.com
@@ -31271,6 +31312,7 @@
 0.0.0.0 icn.com.np
 0.0.0.0 icodework.com
 0.0.0.0 icoin1.com
+0.0.0.0 icoin2025.com
 0.0.0.0 icon-mining.com
 0.0.0.0 iconcss.com
 0.0.0.0 iconpeak.shop
@@ -34000,6 +34042,8 @@
 0.0.0.0 ipoteka-v-spb.ru
 0.0.0.0 ippm.dk
 0.0.0.0 ipq.co
+0.0.0.0 ipresale.world
+0.0.0.0 ipresales.top
 0.0.0.0 iprommark.com.ua
 0.0.0.0 ipsail.host
 0.0.0.0 ipscanbestworld.xyz
@@ -34088,6 +34132,10 @@
 0.0.0.0 isaacwitty.com
 0.0.0.0 isabellaminipuppies.com
 0.0.0.0 isabelmartin.co
+0.0.0.0 isale-stage.shop
+0.0.0.0 isale.live
+0.0.0.0 isale.ltd
+0.0.0.0 isale.run
 0.0.0.0 isamaracatering.com
 0.0.0.0 isasecret.com
 0.0.0.0 isbake.online
@@ -34212,6 +34260,15 @@
 0.0.0.0 itgusl.com
 0.0.0.0 itly.link
 0.0.0.0 itmax.tn
+0.0.0.0 itoken.foundation
+0.0.0.0 itoken.run
+0.0.0.0 itoken.sale
+0.0.0.0 itoken.site
+0.0.0.0 itoken.tech
+0.0.0.0 itoken2025.com
+0.0.0.0 itokenlaunch.com
+0.0.0.0 itokenpresale.com
+0.0.0.0 itokensale.live
 0.0.0.0 itomsystem.in
 0.0.0.0 itosha.top
 0.0.0.0 itprofbin.site
@@ -34286,6 +34343,7 @@
 0.0.0.0 jacklinemode.club
 0.0.0.0 jackmoynehan.com
 0.0.0.0 jackoshacko.com
+0.0.0.0 jackpewpew.com
 0.0.0.0 jackpotguru.net
 0.0.0.0 jackpotresult.me
 0.0.0.0 jacksworkspace.com
@@ -34441,6 +34499,7 @@
 0.0.0.0 jilkqypt.xyz
 0.0.0.0 jilosrawet.com
 0.0.0.0 jimmyjamtshirts.com
+0.0.0.0 jimmyneytronus.com
 0.0.0.0 jimquasius.com
 0.0.0.0 jimriehls.com
 0.0.0.0 jin-tonik-boom.com
@@ -34959,6 +35018,7 @@
 0.0.0.0 keppelcrypto.com
 0.0.0.0 kepw.org
 0.0.0.0 kerafill.com
+0.0.0.0 keremh.dev
 0.0.0.0 kerizlersokak31.xyz
 0.0.0.0 kervplun.xyz
 0.0.0.0 keskecokdileyipto.top
@@ -36691,6 +36751,7 @@
 0.0.0.0 lootbot.su
 0.0.0.0 lopesfinance.com
 0.0.0.0 lopesiodsopesldelcatx.com
+0.0.0.0 lopinak.com
 0.0.0.0 lordfilms.app
 0.0.0.0 lordglass.com
 0.0.0.0 lordjacobssgninca.info
@@ -38079,6 +38140,7 @@
 0.0.0.0 midigomehacibaba.net
 0.0.0.0 midigomehackerbaba.net
 0.0.0.0 midigomesinyalcimisinaga.com
+0.0.0.0 midikan.com
 0.0.0.0 midlandpaper.icu
 0.0.0.0 midly.in
 0.0.0.0 midnightseduct.com
@@ -40442,6 +40504,7 @@
 0.0.0.0 mynetflix-udapte.com
 0.0.0.0 mynetflix0921.one
 0.0.0.0 mynetflix1securevaiidationvcn.info
+0.0.0.0 mynewairplane.com
 0.0.0.0 mynewdatings.life
 0.0.0.0 mynewjobproject.live
 0.0.0.0 mynexecss.com
@@ -46795,6 +46858,7 @@
 0.0.0.0 prepcards.com
 0.0.0.0 preprestamoshol.com
 0.0.0.0 presaIe-roaringkitty.com
+0.0.0.0 presale-i.com
 0.0.0.0 prescribe.top
 0.0.0.0 prescriptionstorageag.fun
 0.0.0.0 presencewineonnyui.shop
@@ -51072,6 +51136,7 @@
 0.0.0.0 robertjameskent.com
 0.0.0.0 robertlee.cfd
 0.0.0.0 robertmchilespe.com
+0.0.0.0 robertoornick.com
 0.0.0.0 robetcotraslros5234.com
 0.0.0.0 robinsson.live
 0.0.0.0 robloxuz.com
@@ -52002,6 +52067,10 @@
 0.0.0.0 salaryearnings-se.com
 0.0.0.0 salaryrevenue.ca
 0.0.0.0 saldodipjesnel.com
+0.0.0.0 sale-x25.digital
+0.0.0.0 sale2025.org
+0.0.0.0 sale25.info
+0.0.0.0 sale25.org
 0.0.0.0 salefreespeople.com
 0.0.0.0 saleonline2023.com
 0.0.0.0 saleoutdoors.com
@@ -52010,6 +52079,7 @@
 0.0.0.0 salesperosominsid.shop
 0.0.0.0 salesticar.xyz
 0.0.0.0 salestockindonesia.com
+0.0.0.0 salesx.digital
 0.0.0.0 salhasduaras.shop
 0.0.0.0 salihogobinezdolinez.top
 0.0.0.0 salin.ro
@@ -52044,6 +52114,7 @@
 0.0.0.0 samplepoisonbarryntj.shop
 0.0.0.0 samrathalcabs.com
 0.0.0.0 sams-pay.info
+0.0.0.0 samsomisan.digital
 0.0.0.0 samsonite-romania.com
 0.0.0.0 samsunglimited.top
 0.0.0.0 samsungpayca0001.ca
@@ -58622,6 +58693,7 @@
 0.0.0.0 token-lon.me
 0.0.0.0 token-lon.pro
 0.0.0.0 token-pockets.pro
+0.0.0.0 token-x-sale.com
 0.0.0.0 token2.club
 0.0.0.0 tokenarbitrum.com
 0.0.0.0 tokendl001.com
@@ -58635,8 +58707,10 @@
 0.0.0.0 tokenpockets.org
 0.0.0.0 tokenpro.pro
 0.0.0.0 tokens-coinbase.com
+0.0.0.0 tokensx.store
 0.0.0.0 tokentracking.info
 0.0.0.0 tokenweb.online
+0.0.0.0 tokenxsale.com
 0.0.0.0 toketiname.com
 0.0.0.0 tokomella.com
 0.0.0.0 tokullectibles.shop
@@ -63225,7 +63299,12 @@
 0.0.0.0 wyn0t.com
 0.0.0.0 wyxug.com
 0.0.0.0 wzniv2jp0.info
+0.0.0.0 x-presale.tech
+0.0.0.0 x-sale25.com
 0.0.0.0 x-theme.world
+0.0.0.0 x-token-sale.com
+0.0.0.0 x-token24.org
+0.0.0.0 x-token24.xyz
 0.0.0.0 x-tremefireworks.net
 0.0.0.0 x00x.online
 0.0.0.0 x00xs0xs0sssqq.net
@@ -63269,6 +63348,9 @@
 0.0.0.0 xclw.info
 0.0.0.0 xcoin-trade.com
 0.0.0.0 xcoin-trading.com
+0.0.0.0 xcoin25.com
+0.0.0.0 xcoins25.com
+0.0.0.0 xcoins27.com
 0.0.0.0 xcryst.com
 0.0.0.0 xcvsrtv201.xyz
 0.0.0.0 xczh85xs5l.info
@@ -63896,6 +63978,9 @@
 0.0.0.0 xpm8tfxfm.info
 0.0.0.0 xpopup.com
 0.0.0.0 xpopup.pe.kr
+0.0.0.0 xpresale.run
+0.0.0.0 xpresale.xyz
+0.0.0.0 xpresales.pro
 0.0.0.0 xprescanpost.com
 0.0.0.0 xpress-courrier.com
 0.0.0.0 xpress-dhi.online
@@ -63961,6 +64046,9 @@
 0.0.0.0 xrpsummer.com
 0.0.0.0 xrptwice.com
 0.0.0.0 xrpwin.com
+0.0.0.0 xsale-25.digital
+0.0.0.0 xsales.sale
+0.0.0.0 xsales.space
 0.0.0.0 xsarb.cf
 0.0.0.0 xsbuqy.tk
 0.0.0.0 xseghvvdgcfdv.online
