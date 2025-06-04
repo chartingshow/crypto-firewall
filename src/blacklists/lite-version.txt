@@ -2573,6 +2573,7 @@
 ||admiralx-hji.top^$third-party
 ||adneedads.com^$third-party
 ||adnndlga23cm.com^$third-party
+||adobe-express.com^$third-party
 ||adobemtb.xyz^$third-party
 ||adobepresetforyou.us^$third-party
 ||adobtone.cn.com^$third-party
@@ -2829,6 +2830,7 @@
 ||ahs-govab.in^$third-party
 ||ahservicesab.com^$third-party
 ||ahymvoxxg.com^$third-party
+||ai-kling.com^$third-party
 ||ai-rbcroyalbank.com^$third-party
 ||ai-rbcroyalbank1.com^$third-party
 ||ai-scotiabank.com^$third-party
@@ -2992,6 +2994,7 @@
 ||aigfa.org^$third-party
 ||aiimtvns.com^$third-party
 ||aiinu.xyz^$third-party
+||aikling.ai^$third-party
 ||ailocal.business^$third-party
 ||ailsakwaoukeil.xyz^$third-party
 ||ailurophilestealer.com^$third-party
@@ -3049,6 +3052,7 @@
 ||aisiciciaisxuusuxic.xyz^$third-party
 ||aisiren.top^$third-party
 ||aismexpro.com^$third-party
+||aisoraplus.com^$third-party
 ||aitechmarkets.com^$third-party
 ||aitoblelorn.com^$third-party
 ||aitrustdefi.com^$third-party
@@ -9867,6 +9871,8 @@
 ||boomeuro.com^$third-party
 ||boomstortyil.com^$third-party
 ||boordopad.com^$third-party
+||boostcreatives-ai.com^$third-party
+||boostcreatives.ai^$third-party
 ||boostrates.com^$third-party
 ||bootcdn.net^$third-party
 ||bootcss.com^$third-party
@@ -12819,6 +12825,11 @@
 ||cantxinc23.com^$third-party
 ||cantxincom23.com^$third-party
 ||cantxref24.com^$third-party
+||canva-dreamlab.com^$third-party
+||canvadream-lab.com^$third-party
+||canvadreamlab.ai^$third-party
+||canvadreamlab.com^$third-party
+||canvaproai.com^$third-party
 ||canvas.pet^$third-party
 ||canvasfisd.info^$third-party
 ||canvasuphold.cn^$third-party
@@ -12837,6 +12848,7 @@
 ||capcha-humain.site^$third-party
 ||capchatdepartementfinance.com^$third-party
 ||capchatform.com^$third-party
+||capcutproai.com^$third-party
 ||capecod-junk.com^$third-party
 ||capeturk.com^$third-party
 ||capexcash.com^$third-party
@@ -16690,6 +16702,9 @@
 ||creativehunter.world^$third-party
 ||creativepeek.world^$third-party
 ||creativeplus.my.id^$third-party
+||creativepro-ai.com^$third-party
+||creativepro.ai^$third-party
+||creativespro-ai.com^$third-party
 ||creatorsagahub.com^$third-party
 ||credarmor.online^$third-party
 ||credencewaybank.com^$third-party
@@ -19476,6 +19491,7 @@
 ||drcno.sk^$third-party
 ||dreades.com^$third-party
 ||dreadhack.ru^$third-party
+||dreamai-luma.com^$third-party
 ||dreamcityorlando.com^$third-party
 ||dreamkingcharlesfarmer.com^$third-party
 ||dreamsassetltd.com^$third-party
@@ -33422,6 +33438,8 @@
 ||klemton.us^$third-party
 ||klij-llc.com^$third-party
 ||klindriverfor.com^$third-party
+||klings-ai.com^$third-party
+||klingxai.com^$third-party
 ||klinikpratamayemimamedika.com^$third-party
 ||klintaps.org^$third-party
 ||klistr0n.ru^$third-party
@@ -35103,6 +35121,16 @@
 ||lululemonca.store^$third-party
 ||lululemonsalenz.net^$third-party
 ||lulushunshop.com^$third-party
+||luma-aidream.com^$third-party
+||luma-dream.com^$third-party
+||luma-dreamai.com^$third-party
+||luma-dreammachine.com^$third-party
+||lumaai-dream.com^$third-party
+||lumaai-lab.com^$third-party
+||lumaai-labs.com^$third-party
+||lumaaidream.com^$third-party
+||lumaailabs.com^$third-party
+||lumalabsai.in^$third-party
 ||lumanivo.com^$third-party
 ||lumiar.co^$third-party
 ||luminesthemes.com^$third-party
@@ -40457,6 +40485,7 @@
 ||novabiomedicalsystems.com^$third-party
 ||novacation.cn^$third-party
 ||novaconsumer.com.vn^$third-party
+||novaleadsai.com^$third-party
 ||novascotia-govt.com^$third-party
 ||novascotia-livingcredit.ca^$third-party
 ||novascotia-redcross-en.com^$third-party
@@ -46061,6 +46090,7 @@
 ||quimjorp.xyz^$third-party
 ||quinquagenarian.xyz^$third-party
 ||quirkleblip.top^$third-party
+||quirkquestai.com^$third-party
 ||quitdigitalplatforwi.shop^$third-party
 ||quittywooruy.cfd^$third-party
 ||quixtrust.com^$third-party
