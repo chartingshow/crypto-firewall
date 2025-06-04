@@ -4087,6 +4087,8 @@
 ||angel-tn.idv.tw^$third-party
 ||angeldonationblog.com^$third-party
 ||angeldreams.nu^$third-party
+||angeloper.com^$third-party
+||angeloperonline.online^$third-party
 ||angelpllants.com^$third-party
 ||angelshoppingstore.com^$third-party
 ||angelstorehd.com^$third-party
@@ -5811,6 +5813,7 @@
 ||applreset.co.uk^$third-party
 ||apply-activation-ap.com^$third-party
 ||apply-billing.info^$third-party
+||apply-blocknovas.site^$third-party
 ||apply-et.com^$third-party
 ||apply4newdelivdate.plus^$third-party
 ||applycode.com^$third-party
@@ -6534,6 +6537,7 @@
 ||attempted-nzpost.net^$third-party
 ||attempteddispute-nz.com^$third-party
 ||attemptedpostca.com^$third-party
+||attisscmo.com^$third-party
 ||attmospherewards.com^$third-party
 ||attyclaim.com^$third-party
 ||atwebpages.com^$third-party
@@ -8789,6 +8793,7 @@
 ||bigmvfactoryoutlet.shop^$third-party
 ||bignoxplay.com^$third-party
 ||bigone-eth.com^$third-party
+||bigrocks918.com^$third-party
 ||bigsales-storeus.com^$third-party
 ||bigseapreview.com^$third-party
 ||bigwin.ml^$third-party
@@ -9284,6 +9289,7 @@
 ||blockfi.loans^$third-party
 ||blockforads.com^$third-party
 ||blockigro.xyz^$third-party
+||blocknovas.com^$third-party
 ||blocksdeer.com^$third-party
 ||blocksofnews.com^$third-party
 ||blockspam-my.xyz^$third-party
@@ -20293,6 +20299,7 @@
 ||easydhldirect.info^$third-party
 ||easydhlparcel.info^$third-party
 ||easydownloadvideo.com^$third-party
+||easydriver.cloud^$third-party
 ||easyenrollment1setup.info^$third-party
 ||easyhash.de^$third-party
 ||easyhsbc-activation.com^$third-party
@@ -30986,6 +30993,7 @@
 ||insigmarket.com^$third-party
 ||inslikesk.live^$third-party
 ||insomniaccinema.com^$third-party
+||insomnianwin.site^$third-party
 ||insource.nz^$third-party
 ||inspiration4fitness.de^$third-party
 ||inspirefitness.sbs^$third-party
@@ -34186,6 +34194,7 @@
 ||liabiliytshareodlkv.shop^$third-party
 ||liacerb.com^$third-party
 ||liangmaojing.store^$third-party
+||lianxinxiao.com^$third-party
 ||liasang-westasia.com^$third-party
 ||lib-00-1etransf-04.com^$third-party
 ||lib-00secure-1etransf-04.com^$third-party
@@ -53888,6 +53897,7 @@
 ||softdetails.in^$third-party
 ||softestimator.com^$third-party
 ||softetal.com^$third-party
+||softglide.co^$third-party
 ||softheartlend2.com^$third-party
 ||softhebale.com^$third-party
 ||softimageai.org^$third-party
@@ -61173,6 +61183,7 @@
 ||wondersoutlet.shop^$third-party
 ||wone-3ds-secure.info^$third-party
 ||wongnai.com^$third-party
+||wonthegame.site^$third-party
 ||woodcat.xyz^$third-party
 ||woodencube.co^$third-party
 ||woodfeetumhblefepoj.shop^$third-party
@@ -62081,6 +62092,7 @@
 ||xmyia.com^$third-party
 ||xmzayi.com^$third-party
 ||xn----6hcdbtd7ej4ac.co.il^$third-party
+||xn--12c5eglc5bd7i.site^$third-party
 ||xn--500gouvdpot-ibb.world^$third-party
 ||xn--72cg7aqv0asf6bd3ec3rla.com^$third-party
 ||xn--80abwh1as1b.shop^$third-party

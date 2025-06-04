@@ -5705,6 +5705,8 @@
 0.0.0.0 angel-tn.idv.tw
 0.0.0.0 angeldonationblog.com
 0.0.0.0 angeldreams.nu
+0.0.0.0 angeloper.com
+0.0.0.0 angeloperonline.online
 0.0.0.0 angelpllants.com
 0.0.0.0 angelshoppingstore.com
 0.0.0.0 angelstorehd.com
@@ -7431,6 +7433,7 @@
 0.0.0.0 applreset.co.uk
 0.0.0.0 apply-activation-ap.com
 0.0.0.0 apply-billing.info
+0.0.0.0 apply-blocknovas.site
 0.0.0.0 apply-et.com
 0.0.0.0 apply4newdelivdate.plus
 0.0.0.0 applycode.com
@@ -8155,6 +8158,7 @@
 0.0.0.0 attempted-nzpost.net
 0.0.0.0 attempteddispute-nz.com
 0.0.0.0 attemptedpostca.com
+0.0.0.0 attisscmo.com
 0.0.0.0 attmospherewards.com
 0.0.0.0 attyclaim.com
 0.0.0.0 atwebpages.com
@@ -10405,6 +10409,7 @@
 0.0.0.0 bigmvfactoryoutlet.shop
 0.0.0.0 bignoxplay.com
 0.0.0.0 bigone-eth.com
+0.0.0.0 bigrocks918.com
 0.0.0.0 bigsales-storeus.com
 0.0.0.0 bigseapreview.com
 0.0.0.0 bigwin.ml
@@ -10900,6 +10905,7 @@
 0.0.0.0 blockfi.loans
 0.0.0.0 blockforads.com
 0.0.0.0 blockigro.xyz
+0.0.0.0 blocknovas.com
 0.0.0.0 blocksdeer.com
 0.0.0.0 blocksofnews.com
 0.0.0.0 blockspam-my.xyz
@@ -21912,6 +21918,7 @@
 0.0.0.0 easydhldirect.info
 0.0.0.0 easydhlparcel.info
 0.0.0.0 easydownloadvideo.com
+0.0.0.0 easydriver.cloud
 0.0.0.0 easyenrollment1setup.info
 0.0.0.0 easyhash.de
 0.0.0.0 easyhsbc-activation.com
@@ -32606,6 +32613,7 @@
 0.0.0.0 insigmarket.com
 0.0.0.0 inslikesk.live
 0.0.0.0 insomniaccinema.com
+0.0.0.0 insomnianwin.site
 0.0.0.0 insource.nz
 0.0.0.0 inspiration4fitness.de
 0.0.0.0 inspirefitness.sbs
@@ -35800,6 +35808,7 @@
 0.0.0.0 liabiliytshareodlkv.shop
 0.0.0.0 liacerb.com
 0.0.0.0 liangmaojing.store
+0.0.0.0 lianxinxiao.com
 0.0.0.0 liasang-westasia.com
 0.0.0.0 lib-00-1etransf-04.com
 0.0.0.0 lib-00secure-1etransf-04.com
@@ -55612,6 +55621,7 @@
 0.0.0.0 softdetails.in
 0.0.0.0 softestimator.com
 0.0.0.0 softetal.com
+0.0.0.0 softglide.co
 0.0.0.0 softheartlend2.com
 0.0.0.0 softhebale.com
 0.0.0.0 softimageai.org
@@ -62894,6 +62904,7 @@
 0.0.0.0 wondersoutlet.shop
 0.0.0.0 wone-3ds-secure.info
 0.0.0.0 wongnai.com
+0.0.0.0 wonthegame.site
 0.0.0.0 woodcat.xyz
 0.0.0.0 woodencube.co
 0.0.0.0 woodfeetumhblefepoj.shop
@@ -63831,6 +63842,7 @@
 0.0.0.0 xmyia.com
 0.0.0.0 xmzayi.com
 0.0.0.0 xn----6hcdbtd7ej4ac.co.il
+0.0.0.0 xn--12c5eglc5bd7i.site
 0.0.0.0 xn--500gouvdpot-ibb.world
 0.0.0.0 xn--72cg7aqv0asf6bd3ec3rla.com
 0.0.0.0 xn--80abwh1as1b.shop
