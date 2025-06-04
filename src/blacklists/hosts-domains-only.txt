@@ -2821,6 +2821,8 @@
 0.0.0.0 ahservicesab.com
 0.0.0.0 ahymvoxxg.com
 0.0.0.0 ai-kling.com
+0.0.0.0 ai-creatify.org
+0.0.0.0 ai-deepseek.org
 0.0.0.0 ai-rbcroyalbank.com
 0.0.0.0 ai-rbcroyalbank1.com
 0.0.0.0 ai-scotiabank.com
@@ -3523,6 +3525,7 @@
 0.0.0.0 alpaosaatsat.shop
 0.0.0.0 alpatrik.com
 0.0.0.0 alpcex.com
+0.0.0.0 alpha-gen-3.com
 0.0.0.0 alpha-pc.net
 0.0.0.0 alpha35.org
 0.0.0.0 alphabulltrades.com
@@ -5504,6 +5507,9 @@
 0.0.0.0 app-coinbase.co
 0.0.0.0 app-connexion.com
 0.0.0.0 app-connexion1.com
+0.0.0.0 app-creatify.com
+0.0.0.0 app-deepseek.org
+0.0.0.0 app-deepspeek.com
 0.0.0.0 app-enligne1.com
 0.0.0.0 app-enlignes-ca.com
 0.0.0.0 app-enligneweb.com
@@ -5516,6 +5522,7 @@
 0.0.0.0 app-importante-ca.com
 0.0.0.0 app-imtoken.com.cn
 0.0.0.0 app-imtoken.net.cn
+0.0.0.0 app-ispring.com
 0.0.0.0 app-lnloggen.online
 0.0.0.0 app-login1.com
 0.0.0.0 app-melis.io
@@ -5528,6 +5535,7 @@
 0.0.0.0 app-online-banking-cib.com
 0.0.0.0 app-online-update.com
 0.0.0.0 app-online2.com
+0.0.0.0 app-openai.com
 0.0.0.0 app-pay-reconnect.net
 0.0.0.0 app-pay1.com
 0.0.0.0 app-payment.net
@@ -5541,7 +5549,10 @@
 0.0.0.0 app-sc-au.com
 0.0.0.0 app-scotiabank.com
 0.0.0.0 app-secure1.com
+0.0.0.0 app-sora.org
+0.0.0.0 app-technology.org
 0.0.0.0 app-token.im
+0.0.0.0 app-tools.info
 0.0.0.0 app-trans-gig.online
 0.0.0.0 app-trello.com
 0.0.0.0 app-unrecognized.click
@@ -9216,6 +9227,7 @@
 0.0.0.0 bleednumberrottern.homes
 0.0.0.0 bleivrrd.life
 0.0.0.0 blelly.bond
+0.0.0.0 blender-ai.com
 0.0.0.0 blendmagazine.it
 0.0.0.0 blerg.ltd
 0.0.0.0 blessdeckite.fun
@@ -13749,6 +13761,7 @@
 0.0.0.0 cheapsmmservice.com
 0.0.0.0 cheapwebinars.com
 0.0.0.0 cheapwholater.top
+0.0.0.0 check-airdrop.org
 0.0.0.0 check-bendigo-info.com
 0.0.0.0 check-ee-superfast.online
 0.0.0.0 check-it-online.com
@@ -14282,6 +14295,7 @@
 0.0.0.0 clckr.xyz
 0.0.0.0 cleanvr.xyz
 0.0.0.0 cleanwaterforcarllsriver.com
+0.0.0.0 clear-trip-ae.com
 0.0.0.0 clearanceonline2023.com
 0.0.0.0 clearchoiceairtreatment.com
 0.0.0.0 clearlypay0001.ca
@@ -14291,6 +14305,7 @@
 0.0.0.0 clearrypalsidn.shop
 0.0.0.0 clearscorenation.com
 0.0.0.0 clearscoretsb.com
+0.0.0.0 cleartrip.voyage
 0.0.0.0 clearyourtextupdaterslover.xyz
 0.0.0.0 cleponditailthingerprofing.xyz
 0.0.0.0 clericalref.info
@@ -16701,6 +16716,8 @@
 0.0.0.0 creamtaretio.shop
 0.0.0.0 creamwhitegr4home.com
 0.0.0.0 creatiefmedia.in
+0.0.0.0 creatify-ai.org
+0.0.0.0 creatify-app.com
 0.0.0.0 creation-web-artisan.fr
 0.0.0.0 creativeadvancer.com
 0.0.0.0 creativehunter.world
@@ -17815,6 +17832,7 @@
 0.0.0.0 deeppoetry.xyz
 0.0.0.0 deepseaarts.io
 0.0.0.0 deepseek-ai.link
+0.0.0.0 deepseek-download.com
 0.0.0.0 deeptrickday.org
 0.0.0.0 deercocoa.life
 0.0.0.0 default-coinbase.com
@@ -18452,6 +18470,7 @@
 0.0.0.0 descendacme.top
 0.0.0.0 descontaododia.com.br
 0.0.0.0 descontohot.com
+0.0.0.0 descript-ai.com
 0.0.0.0 descriptionappleoj.shop
 0.0.0.0 descriptionscripts.com
 0.0.0.0 deseabas.nl
@@ -24291,6 +24310,7 @@
 0.0.0.0 evokeoutlooklits.shop
 0.0.0.0 evokgtis.gq
 0.0.0.0 evolucionindustrial.com
+0.0.0.0 evoto-ai.me
 0.0.0.0 evotronx.com
 0.0.0.0 evotronx.net
 0.0.0.0 evri-customs-delivery.com
@@ -26763,6 +26783,9 @@
 0.0.0.0 gemiste-aanmaning.com
 0.0.0.0 gemmyfaithkw.shop
 0.0.0.0 gemstonebookkeepingservices.com
+0.0.0.0 gen-3-alpha.com
+0.0.0.0 gen3-alpha.com
+0.0.0.0 gen3alpha.org
 0.0.0.0 genantha.com
 0.0.0.0 genccagdas.com.tr
 0.0.0.0 gendan-adgang.com
@@ -26771,6 +26794,7 @@
 0.0.0.0 general-techsup.live
 0.0.0.0 generaladministrationca.com
 0.0.0.0 generalcomfort.com.mx
+0.0.0.0 generate-ai.org
 0.0.0.0 generatorulubabanu.ro
 0.0.0.0 genesea.co
 0.0.0.0 genesis-continent-io.com
@@ -26853,7 +26877,11 @@
 0.0.0.0 get-balances.com
 0.0.0.0 get-bob.com
 0.0.0.0 get-coupon-reward.ca
+0.0.0.0 get-deepseek.com
 0.0.0.0 get-fundsnow.com
+0.0.0.0 get-hiper.me
+0.0.0.0 get-loom.com
+0.0.0.0 get-loom.org
 0.0.0.0 get-member-personal-reward.ca
 0.0.0.0 get-member-reward.ca
 0.0.0.0 get-member-rewards.ca
@@ -26863,6 +26891,7 @@
 0.0.0.0 get-new-loan.com
 0.0.0.0 get-personal-reward.ca
 0.0.0.0 get-the-loan.com
+0.0.0.0 get-tradingview.org
 0.0.0.0 get-x-game-casino.ru
 0.0.0.0 get1red1go.top
 0.0.0.0 get4pc.click
@@ -30539,6 +30568,8 @@
 0.0.0.0 indelible.beauty
 0.0.0.0 indemnitypayment.com
 0.0.0.0 index-digital.ltd
+0.0.0.0 index-my.com
+0.0.0.0 index-sora-ai-video.com
 0.0.0.0 indexterityszcoxp.shop
 0.0.0.0 indexverify.com
 0.0.0.0 indiafinancelimited.com
@@ -34328,6 +34359,7 @@
 0.0.0.0 litescape.com.my
 0.0.0.0 litnet.work
 0.0.0.0 litrazalilibe.xyz
+0.0.0.0 little-mouse.net
 0.0.0.0 little-pet.com
 0.0.0.0 littletikesale.shop
 0.0.0.0 littletikestoy.store
@@ -35009,6 +35041,8 @@
 0.0.0.0 looksalein.life
 0.0.0.0 lookwhoscookingtv.com
 0.0.0.0 lookydeal-france.com
+0.0.0.0 loom-download.com
+0.0.0.0 loom-rewind.com
 0.0.0.0 loool.com
 0.0.0.0 loopalive.com
 0.0.0.0 loosesadora.xyz
@@ -35154,6 +35188,7 @@
 0.0.0.0 luminesthemes.com
 0.0.0.0 lumino-box.online
 0.0.0.0 luminor-apsaugotas.com
+0.0.0.0 lumion2024.com
 0.0.0.0 lumotunes.com
 0.0.0.0 lumrex.com
 0.0.0.0 lumusrmj.com.br
@@ -35581,6 +35616,7 @@
 0.0.0.0 manavkaradas.shop
 0.0.0.0 manchesterslt.co.uk
 0.0.0.0 mandala95.com
+0.0.0.0 mandarin-ca.com
 0.0.0.0 manddarinn.art
 0.0.0.0 mandemutworld.com
 0.0.0.0 manderatapple.com
@@ -35815,6 +35851,7 @@
 0.0.0.0 maxiaztr.top
 0.0.0.0 maxinfacemeasurecan247ca.com
 0.0.0.0 maxlux.xyz
+0.0.0.0 maxon-cinema4d.com
 0.0.0.0 maxpatrol.net
 0.0.0.0 maxpayeers.com
 0.0.0.0 maxpread.io
@@ -36233,6 +36270,7 @@
 0.0.0.0 meta-log.site
 0.0.0.0 meta-spy.help
 0.0.0.0 meta-spy365.com
+0.0.0.0 meta-trader5.com
 0.0.0.0 meta-ua.space
 0.0.0.0 meta-ua.top
 0.0.0.0 meta1trader.com
@@ -37678,6 +37716,7 @@
 0.0.0.0 mowuqn.ga
 0.0.0.0 mowuqn.ml
 0.0.0.0 moxii.com
+0.0.0.0 moxon4d.com
 0.0.0.0 mozg55.com
 0.0.0.0 mozilaupgrade.com
 0.0.0.0 mozillaupdate.com
@@ -37930,6 +37969,7 @@
 0.0.0.0 my-bell.co
 0.0.0.0 my-bell.net
 0.0.0.0 my-billoverpay.com
+0.0.0.0 my-bisc.network
 0.0.0.0 my-blllupdates.com
 0.0.0.0 my-ca2023rev.com
 0.0.0.0 my-caalberta.com
@@ -37956,17 +37996,23 @@
 0.0.0.0 my-coupon-reward.ca
 0.0.0.0 my-cra-entitlement.ca
 0.0.0.0 my-crataxre-fund.com
+0.0.0.0 my-creatify.org
+0.0.0.0 my-creativity.org
 0.0.0.0 my-dashboard.at
 0.0.0.0 my-dashboard.ca
 0.0.0.0 my-dashboard.me
+0.0.0.0 my-deepseek.com
+0.0.0.0 my-deepseek.org
 0.0.0.0 my-deposet.com
 0.0.0.0 my-deposit.com
 0.0.0.0 my-deposit.ink
 0.0.0.0 my-deposit.services
+0.0.0.0 my-descript.com
 0.0.0.0 my-ee-pay.com
 0.0.0.0 my-etdirect.ca
 0.0.0.0 my-etrack.com
 0.0.0.0 my-executive-reward.ca
+0.0.0.0 my-exodus.com
 0.0.0.0 my-game.biz
 0.0.0.0 my-gov-account.com
 0.0.0.0 my-gov-au-newupdatedservice.com
@@ -38000,14 +38046,17 @@
 0.0.0.0 my-govloginsecure.com
 0.0.0.0 my-govservices.com
 0.0.0.0 my-govservices.org
+0.0.0.0 my-hotgame.com
 0.0.0.0 my-idaccess.com
 0.0.0.0 my-idauth.com
 0.0.0.0 my-identityid.com
 0.0.0.0 my-indefication.one
 0.0.0.0 my-kinsta.com
 0.0.0.0 my-kinsta.net
+0.0.0.0 my-koinly.com
 0.0.0.0 my-lnterct.info
 0.0.0.0 my-login2id.com
+0.0.0.0 my-loom.org
 0.0.0.0 my-medi-gov-services.net
 0.0.0.0 my-member-reward-coupon.ca
 0.0.0.0 my-membership-reward-coupon.ca
@@ -38028,6 +38077,8 @@
 0.0.0.0 my-parcel.online
 0.0.0.0 my-payee-update.com
 0.0.0.0 my-personal-reward-coupon.ca
+0.0.0.0 my-pica.art
+0.0.0.0 my-pica.com
 0.0.0.0 my-portal-update.com
 0.0.0.0 my-profil-telus.top
 0.0.0.0 my-reimbursement.com
@@ -42106,6 +42157,8 @@
 0.0.0.0 open24web-accreviewservice.com
 0.0.0.0 open24web-accverficationservice.com
 0.0.0.0 open24web-reviewaccservice.com
+0.0.0.0 openai-index-sora.com
+0.0.0.0 openai-index.org
 0.0.0.0 opencart-destek.com
 0.0.0.0 opendesa.id
 0.0.0.0 openifc.com
@@ -43769,6 +43822,8 @@
 0.0.0.0 pifine.shop
 0.0.0.0 piggrowers.com
 0.0.0.0 pihafi.com
+0.0.0.0 piica-art.com
+0.0.0.0 piica.org
 0.0.0.0 piirata-ee-lhv.info
 0.0.0.0 pikcherstoka.com
 0.0.0.0 pikniktupu2534.com
@@ -50037,6 +50092,7 @@
 0.0.0.0 run-server.com
 0.0.0.0 run.app
 0.0.0.0 run.place
+0.0.0.0 runaway-gen3.com
 0.0.0.0 runayanx.com
 0.0.0.0 runbig.xyz
 0.0.0.0 runcloud.link
@@ -54033,6 +54089,13 @@
 0.0.0.0 sonykulaklik61.com
 0.0.0.0 sooperhub.com
 0.0.0.0 sophisticatedsstyle.com
+0.0.0.0 sora-ai-download-now.com
+0.0.0.0 sora-ai-explore.com
+0.0.0.0 sora-install-now.com
+0.0.0.0 sora-installs.com
+0.0.0.0 sora-library.com
+0.0.0.0 soraai-install-now.com
+0.0.0.0 soraai-install.com
 0.0.0.0 sorderatoluca.com
 0.0.0.0 soridok2kpop.com
 0.0.0.0 sorotele.yachts
@@ -56737,7 +56800,9 @@
 0.0.0.0 tijunaitiene.lt
 0.0.0.0 tiki.vn
 0.0.0.0 tiksbit.com
+0.0.0.0 tiktok-studio-download.com
 0.0.0.0 tiktokby.com
+0.0.0.0 tiktoklivestudio.com
 0.0.0.0 tiktraders-online-algebris.com
 0.0.0.0 tillit-hjarta.se
 0.0.0.0 timberlandonlinesouthafrica.com
@@ -57376,6 +57441,8 @@
 0.0.0.0 tradinglabs.app
 0.0.0.0 tradingtorch.com
 0.0.0.0 tradingvein.xyz
+0.0.0.0 tradingview-app.org
+0.0.0.0 tradingview-exchange.com
 0.0.0.0 tradingwithmanny.com
 0.0.0.0 tradominers.com
 0.0.0.0 tradowin.com
@@ -57390,6 +57457,7 @@
 0.0.0.0 trafomo.com
 0.0.0.0 traftech.pro
 0.0.0.0 traholic.com
+0.0.0.0 traidingview-app.com
 0.0.0.0 trailrunning.top
 0.0.0.0 trailsift.com
 0.0.0.0 trainbit.com
@@ -57754,6 +57822,7 @@
 0.0.0.0 trasurbanpro.com
 0.0.0.0 travel-city.biz
 0.0.0.0 travel-villas.com
+0.0.0.0 travel-watch.org
 0.0.0.0 travelfareonline.com
 0.0.0.0 travellers-autobarnrv.com
 0.0.0.0 travelmiso.com
@@ -58763,6 +58832,7 @@
 0.0.0.0 untypicaldesign9.com
 0.0.0.0 unusual-anztransactions.info
 0.0.0.0 unusual-anztransactions.online
+0.0.0.0 unusual-whales.com
 0.0.0.0 unwielldyzpwo.shop
 0.0.0.0 uochut.shop
 0.0.0.0 uoldid.ru
@@ -59003,6 +59073,7 @@
 0.0.0.0 uproductslive.com
 0.0.0.0 ups01-23.com
 0.0.0.0 upscalifornia.us
+0.0.0.0 upscayl-ai.org
 0.0.0.0 upsettymsnqwk.shop
 0.0.0.0 upss.cc
 0.0.0.0 upstoxcalculator.com
@@ -59861,6 +59932,8 @@
 0.0.0.0 videolan-web.org
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 videopool.ru
+0.0.0.0 videoproconv.org
+0.0.0.0 videopto.com
 0.0.0.0 videorecruitpro.com
 0.0.0.0 videospots.ru
 0.0.0.0 videosthatsuck.com
@@ -61042,6 +61115,7 @@
 0.0.0.0 windowsprodcutkey.com
 0.0.0.0 windowstimes.online
 0.0.0.0 windowsupdatesc.com
+0.0.0.0 windscriibe.org
 0.0.0.0 windsystem.hu
 0.0.0.0 windy-store.com
 0.0.0.0 wineadam.com
@@ -61502,6 +61576,7 @@
 0.0.0.0 wzniv2jp0.info
 0.0.0.0 x-theme.world
 0.0.0.0 x-tremefireworks.net
+0.0.0.0 x00x.online
 0.0.0.0 x00xs0xs0sssqq.net
 0.0.0.0 x0xs00sx0xsa0xsakksxak.net
 0.0.0.0 x1-exchange.com
@@ -62281,6 +62356,7 @@
 0.0.0.0 xyvok.xyz
 0.0.0.0 xywktd.cc
 0.0.0.0 xyysub4ama.pw
+0.0.0.0 xyz-domination.com
 0.0.0.0 xyzchornotranscan247.com
 0.0.0.0 xyzeuphor247can.com
 0.0.0.0 xyzshimber247manuresolution-can.com

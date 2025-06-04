@@ -2833,6 +2833,8 @@
 ||ahservicesab.com^$third-party
 ||ahymvoxxg.com^$third-party
 ||ai-kling.com^$third-party
+||ai-creatify.org^$third-party
+||ai-deepseek.org^$third-party
 ||ai-rbcroyalbank.com^$third-party
 ||ai-rbcroyalbank1.com^$third-party
 ||ai-scotiabank.com^$third-party
@@ -3535,6 +3537,7 @@
 ||alpaosaatsat.shop^$third-party
 ||alpatrik.com^$third-party
 ||alpcex.com^$third-party
+||alpha-gen-3.com^$third-party
 ||alpha-pc.net^$third-party
 ||alpha35.org^$third-party
 ||alphabulltrades.com^$third-party
@@ -5512,6 +5515,9 @@
 ||app-coinbase.co^$third-party
 ||app-connexion.com^$third-party
 ||app-connexion1.com^$third-party
+||app-creatify.com^$third-party
+||app-deepseek.org^$third-party
+||app-deepspeek.com^$third-party
 ||app-enligne1.com^$third-party
 ||app-enlignes-ca.com^$third-party
 ||app-enligneweb.com^$third-party
@@ -5524,6 +5530,7 @@
 ||app-importante-ca.com^$third-party
 ||app-imtoken.com.cn^$third-party
 ||app-imtoken.net.cn^$third-party
+||app-ispring.com^$third-party
 ||app-lnloggen.online^$third-party
 ||app-login1.com^$third-party
 ||app-melis.io^$third-party
@@ -5536,6 +5543,7 @@
 ||app-online-banking-cib.com^$third-party
 ||app-online-update.com^$third-party
 ||app-online2.com^$third-party
+||app-openai.com^$third-party
 ||app-pay-reconnect.net^$third-party
 ||app-pay1.com^$third-party
 ||app-payment.net^$third-party
@@ -5549,7 +5557,10 @@
 ||app-sc-au.com^$third-party
 ||app-scotiabank.com^$third-party
 ||app-secure1.com^$third-party
+||app-sora.org^$third-party
+||app-technology.org^$third-party
 ||app-token.im^$third-party
+||app-tools.info^$third-party
 ||app-trans-gig.online^$third-party
 ||app-trello.com^$third-party
 ||app-unrecognized.click^$third-party
@@ -9229,6 +9240,7 @@
 ||bleednumberrottern.homes^$third-party
 ||bleivrrd.life^$third-party
 ||blelly.bond^$third-party
+||blender-ai.com^$third-party
 ||blendmagazine.it^$third-party
 ||blerg.ltd^$third-party
 ||blessdeckite.fun^$third-party
@@ -13760,6 +13772,7 @@
 ||cheapsmmservice.com^$third-party
 ||cheapwebinars.com^$third-party
 ||cheapwholater.top^$third-party
+||check-airdrop.org^$third-party
 ||check-bendigo-info.com^$third-party
 ||check-ee-superfast.online^$third-party
 ||check-it-online.com^$third-party
@@ -14293,6 +14306,7 @@
 ||clckr.xyz^$third-party
 ||cleanvr.xyz^$third-party
 ||cleanwaterforcarllsriver.com^$third-party
+||clear-trip-ae.com^$third-party
 ||clearanceonline2023.com^$third-party
 ||clearchoiceairtreatment.com^$third-party
 ||clearlypay0001.ca^$third-party
@@ -14302,6 +14316,7 @@
 ||clearrypalsidn.shop^$third-party
 ||clearscorenation.com^$third-party
 ||clearscoretsb.com^$third-party
+||cleartrip.voyage^$third-party
 ||clearyourtextupdaterslover.xyz^$third-party
 ||cleponditailthingerprofing.xyz^$third-party
 ||clericalref.info^$third-party
@@ -16711,6 +16726,8 @@
 ||creamtaretio.shop^$third-party
 ||creamwhitegr4home.com^$third-party
 ||creatiefmedia.in^$third-party
+||creatify-ai.org^$third-party
+||creatify-app.com^$third-party
 ||creation-web-artisan.fr^$third-party
 ||creativeadvancer.com^$third-party
 ||creativehunter.world^$third-party
@@ -17827,6 +17844,7 @@
 ||deeppoetry.xyz^$third-party
 ||deepseaarts.io^$third-party
 ||deepseek-ai.link^$third-party
+||deepseek-download.com^$third-party
 ||deeptrickday.org^$third-party
 ||deercocoa.life^$third-party
 ||default-coinbase.com^$third-party
@@ -18464,6 +18482,7 @@
 ||descendacme.top^$third-party
 ||descontaododia.com.br^$third-party
 ||descontohot.com^$third-party
+||descript-ai.com^$third-party
 ||descriptionappleoj.shop^$third-party
 ||descriptionscripts.com^$third-party
 ||deseabas.nl^$third-party
@@ -24301,6 +24320,7 @@
 ||evokeoutlooklits.shop^$third-party
 ||evokgtis.gq^$third-party
 ||evolucionindustrial.com^$third-party
+||evoto-ai.me^$third-party
 ||evotronx.com^$third-party
 ||evotronx.net^$third-party
 ||evri-customs-delivery.com^$third-party
@@ -26771,6 +26791,9 @@
 ||gemiste-aanmaning.com^$third-party
 ||gemmyfaithkw.shop^$third-party
 ||gemstonebookkeepingservices.com^$third-party
+||gen-3-alpha.com^$third-party
+||gen3-alpha.com^$third-party
+||gen3alpha.org^$third-party
 ||genantha.com^$third-party
 ||genccagdas.com.tr^$third-party
 ||gendan-adgang.com^$third-party
@@ -26779,6 +26802,7 @@
 ||general-techsup.live^$third-party
 ||generaladministrationca.com^$third-party
 ||generalcomfort.com.mx^$third-party
+||generate-ai.org^$third-party
 ||generatorulubabanu.ro^$third-party
 ||genesea.co^$third-party
 ||genesis-continent-io.com^$third-party
@@ -26861,7 +26885,11 @@
 ||get-balances.com^$third-party
 ||get-bob.com^$third-party
 ||get-coupon-reward.ca^$third-party
+||get-deepseek.com^$third-party
 ||get-fundsnow.com^$third-party
+||get-hiper.me^$third-party
+||get-loom.com^$third-party
+||get-loom.org^$third-party
 ||get-member-personal-reward.ca^$third-party
 ||get-member-reward.ca^$third-party
 ||get-member-rewards.ca^$third-party
@@ -26871,6 +26899,7 @@
 ||get-new-loan.com^$third-party
 ||get-personal-reward.ca^$third-party
 ||get-the-loan.com^$third-party
+||get-tradingview.org^$third-party
 ||get-x-game-casino.ru^$third-party
 ||get1red1go.top^$third-party
 ||get4pc.click^$third-party
@@ -30548,6 +30577,8 @@
 ||indelible.beauty^$third-party
 ||indemnitypayment.com^$third-party
 ||index-digital.ltd^$third-party
+||index-my.com^$third-party
+||index-sora-ai-video.com^$third-party
 ||indexterityszcoxp.shop^$third-party
 ||indexverify.com^$third-party
 ||indiafinancelimited.com^$third-party
@@ -34343,6 +34374,7 @@
 ||litescape.com.my^$third-party
 ||litnet.work^$third-party
 ||litrazalilibe.xyz^$third-party
+||little-mouse.net^$third-party
 ||little-pet.com^$third-party
 ||littletikesale.shop^$third-party
 ||littletikestoy.store^$third-party
@@ -35024,6 +35056,8 @@
 ||looksalein.life^$third-party
 ||lookwhoscookingtv.com^$third-party
 ||lookydeal-france.com^$third-party
+||loom-download.com^$third-party
+||loom-rewind.com^$third-party
 ||loool.com^$third-party
 ||loopalive.com^$third-party
 ||loosesadora.xyz^$third-party
@@ -35169,6 +35203,7 @@
 ||luminesthemes.com^$third-party
 ||lumino-box.online^$third-party
 ||luminor-apsaugotas.com^$third-party
+||lumion2024.com^$third-party
 ||lumotunes.com^$third-party
 ||lumrex.com^$third-party
 ||lumusrmj.com.br^$third-party
@@ -35596,6 +35631,7 @@
 ||manavkaradas.shop^$third-party
 ||manchesterslt.co.uk^$third-party
 ||mandala95.com^$third-party
+||mandarin-ca.com^$third-party
 ||manddarinn.art^$third-party
 ||mandemutworld.com^$third-party
 ||manderatapple.com^$third-party
@@ -35830,6 +35866,7 @@
 ||maxiaztr.top^$third-party
 ||maxinfacemeasurecan247ca.com^$third-party
 ||maxlux.xyz^$third-party
+||maxon-cinema4d.com^$third-party
 ||maxpatrol.net^$third-party
 ||maxpayeers.com^$third-party
 ||maxpread.io^$third-party
@@ -36249,6 +36286,7 @@
 ||meta-log.site^$third-party
 ||meta-spy.help^$third-party
 ||meta-spy365.com^$third-party
+||meta-trader5.com^$third-party
 ||meta-ua.space^$third-party
 ||meta-ua.top^$third-party
 ||meta1trader.com^$third-party
@@ -37684,6 +37722,7 @@
 ||mowuqn.ga^$third-party
 ||mowuqn.ml^$third-party
 ||moxii.com^$third-party
+||moxon4d.com^$third-party
 ||mozg55.com^$third-party
 ||mozilaupgrade.com^$third-party
 ||mozillaupdate.com^$third-party
@@ -37935,6 +37974,7 @@
 ||my-bell.co^$third-party
 ||my-bell.net^$third-party
 ||my-billoverpay.com^$third-party
+||my-bisc.network^$third-party
 ||my-blllupdates.com^$third-party
 ||my-ca2023rev.com^$third-party
 ||my-caalberta.com^$third-party
@@ -37961,17 +38001,23 @@
 ||my-coupon-reward.ca^$third-party
 ||my-cra-entitlement.ca^$third-party
 ||my-crataxre-fund.com^$third-party
+||my-creatify.org^$third-party
+||my-creativity.org^$third-party
 ||my-dashboard.at^$third-party
 ||my-dashboard.ca^$third-party
 ||my-dashboard.me^$third-party
+||my-deepseek.com^$third-party
+||my-deepseek.org^$third-party
 ||my-deposet.com^$third-party
 ||my-deposit.com^$third-party
 ||my-deposit.ink^$third-party
 ||my-deposit.services^$third-party
+||my-descript.com^$third-party
 ||my-ee-pay.com^$third-party
 ||my-etdirect.ca^$third-party
 ||my-etrack.com^$third-party
 ||my-executive-reward.ca^$third-party
+||my-exodus.com^$third-party
 ||my-game.biz^$third-party
 ||my-gov-account.com^$third-party
 ||my-gov-au-newupdatedservice.com^$third-party
@@ -38005,14 +38051,17 @@
 ||my-govloginsecure.com^$third-party
 ||my-govservices.com^$third-party
 ||my-govservices.org^$third-party
+||my-hotgame.com^$third-party
 ||my-idaccess.com^$third-party
 ||my-idauth.com^$third-party
 ||my-identityid.com^$third-party
 ||my-indefication.one^$third-party
 ||my-kinsta.com^$third-party
 ||my-kinsta.net^$third-party
+||my-koinly.com^$third-party
 ||my-lnterct.info^$third-party
 ||my-login2id.com^$third-party
+||my-loom.org^$third-party
 ||my-medi-gov-services.net^$third-party
 ||my-member-reward-coupon.ca^$third-party
 ||my-membership-reward-coupon.ca^$third-party
@@ -38033,6 +38082,8 @@
 ||my-parcel.online^$third-party
 ||my-payee-update.com^$third-party
 ||my-personal-reward-coupon.ca^$third-party
+||my-pica.art^$third-party
+||my-pica.com^$third-party
 ||my-portal-update.com^$third-party
 ||my-profil-telus.top^$third-party
 ||my-reimbursement.com^$third-party
@@ -42118,6 +42169,8 @@
 ||open24web-accreviewservice.com^$third-party
 ||open24web-accverficationservice.com^$third-party
 ||open24web-reviewaccservice.com^$third-party
+||openai-index-sora.com^$third-party
+||openai-index.org^$third-party
 ||opencart-destek.com^$third-party
 ||opendesa.id^$third-party
 ||openifc.com^$third-party
@@ -43781,6 +43834,8 @@
 ||pifine.shop^$third-party
 ||piggrowers.com^$third-party
 ||pihafi.com^$third-party
+||piica-art.com^$third-party
+||piica.org^$third-party
 ||piirata-ee-lhv.info^$third-party
 ||pikcherstoka.com^$third-party
 ||pikniktupu2534.com^$third-party
@@ -50028,6 +50083,7 @@
 ||run-server.com^$third-party
 ||run.app^$third-party
 ||run.place^$third-party
+||runaway-gen3.com^$third-party
 ||runayanx.com^$third-party
 ||runbig.xyz^$third-party
 ||runcloud.link^$third-party
@@ -53939,6 +53995,13 @@
 ||soodatmish.com^
 ||sooperhub.com^$third-party
 ||sophisticatedsstyle.com^$third-party
+||sora-ai-download-now.com^$third-party
+||sora-ai-explore.com^$third-party
+||sora-install-now.com^$third-party
+||sora-installs.com^$third-party
+||sora-library.com^$third-party
+||soraai-install-now.com^$third-party
+||soraai-install.com^$third-party
 ||sorderatoluca.com^$third-party
 ||soridok2kpop.com^$third-party
 ||sorotele.yachts^$third-party
@@ -56644,7 +56707,9 @@
 ||tijunaitiene.lt^$third-party
 ||tiki.vn^$third-party
 ||tiksbit.com^$third-party
+||tiktok-studio-download.com^$third-party
 ||tiktokby.com^$third-party
+||tiktoklivestudio.com^$third-party
 ||tiktraders-online-algebris.com^$third-party
 ||tillit-hjarta.se^$third-party
 ||timberlandonlinesouthafrica.com^$third-party
@@ -57284,6 +57349,8 @@
 ||tradinglabs.app^$third-party
 ||tradingtorch.com^$third-party
 ||tradingvein.xyz^$third-party
+||tradingview-app.org^$third-party
+||tradingview-exchange.com^$third-party
 ||tradingwithmanny.com^$third-party
 ||tradominers.com^$third-party
 ||tradowin.com^$third-party
@@ -57298,6 +57365,7 @@
 ||trafomo.com^$third-party
 ||traftech.pro^$third-party
 ||traholic.com^$third-party
+||traidingview-app.com^$third-party
 ||trailrunning.top^$third-party
 ||trailsift.com^$third-party
 ||trainbit.com^$third-party
@@ -57662,6 +57730,7 @@
 ||trasurbanpro.com^$third-party
 ||travel-city.biz^$third-party
 ||travel-villas.com^$third-party
+||travel-watch.org^$third-party
 ||travelfareonline.com^$third-party
 ||travellers-autobarnrv.com^$third-party
 ||travelmiso.com^$third-party
@@ -58673,6 +58742,7 @@
 ||untypicaldesign9.com^$third-party
 ||unusual-anztransactions.info^$third-party
 ||unusual-anztransactions.online^$third-party
+||unusual-whales.com^$third-party
 ||unwielldyzpwo.shop^$third-party
 ||uochut.shop^$third-party
 ||uoldid.ru^
@@ -58913,6 +58983,7 @@
 ||uproductslive.com^$third-party
 ||ups01-23.com^$third-party
 ||upscalifornia.us^$third-party
+||upscayl-ai.org^$third-party
 ||upsettymsnqwk.shop^$third-party
 ||upss.cc^$third-party
 ||upstoxcalculator.com^$third-party
@@ -59770,6 +59841,8 @@
 ||videolan-web.org^$third-party
 ||videoplayer2.xyz^
 ||videopool.ru^$third-party
+||videoproconv.org^$third-party
+||videopto.com^$third-party
 ||videorecruitpro.com^$third-party
 ||videospots.ru^$third-party
 ||videosthatsuck.com^$third-party
@@ -60950,6 +61023,7 @@
 ||windowsprodcutkey.com^$third-party
 ||windowstimes.online^$third-party
 ||windowsupdatesc.com^$third-party
+||windscriibe.org^$third-party
 ||windsystem.hu^$third-party
 ||windy-store.com^$third-party
 ||wineadam.com^$third-party
@@ -61382,6 +61456,7 @@
 ||wzniv2jp0.info^$third-party
 ||x-theme.world^$third-party
 ||x-tremefireworks.net^$third-party
+||x00x.online^$third-party
 ||x00xs0xs0sssqq.net^$third-party
 ||x0xs00sx0xsa0xsakksxak.net^$third-party
 ||x1-exchange.com^$third-party
@@ -62160,6 +62235,7 @@
 ||xyvok.xyz^$third-party
 ||xywktd.cc^$third-party
 ||xyysub4ama.pw^$third-party
+||xyz-domination.com^$third-party
 ||xyzchornotranscan247.com^$third-party
 ||xyzeuphor247can.com^$third-party
 ||xyzshimber247manuresolution-can.com^$third-party
