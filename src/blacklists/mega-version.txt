@@ -2832,9 +2832,9 @@
 ||ahs-govab.in^$third-party
 ||ahservicesab.com^$third-party
 ||ahymvoxxg.com^$third-party
-||ai-kling.com^$third-party
 ||ai-creatify.org^$third-party
 ||ai-deepseek.org^$third-party
+||ai-kling.com^$third-party
 ||ai-rbcroyalbank.com^$third-party
 ||ai-rbcroyalbank1.com^$third-party
 ||ai-scotiabank.com^$third-party
@@ -10246,6 +10246,7 @@
 ||bxcrypt.com^$third-party
 ||by-the-life.com^$third-party
 ||bybeko.com^$third-party
+||bybit-assessment.com^$third-party
 ||bybk.zclasned.top^$third-party
 ||bydmex.top^$third-party
 ||bydylyejjdx.info^$third-party
@@ -20296,6 +20297,7 @@
 ||easyhash.de^$third-party
 ||easyhsbc-activation.com^$third-party
 ||easyhsbc-activation.net^$third-party
+||easyinterview360.com^$third-party
 ||easylev.online^$third-party
 ||easylifeart.com^$third-party
 ||easyline-web2factortd.com^$third-party
@@ -26923,6 +26925,7 @@
 ||getfam.in^$third-party
 ||getfastloaninstantly.com^$third-party
 ||getgoingjourney.com^$third-party
+||gethirednow.org^$third-party
 ||getid.top^$third-party
 ||getidlocaltangpersonnal.info^$third-party
 ||getitquick.rw^$third-party
@@ -28861,6 +28864,7 @@
 ||hirededicatedstaff.com^$third-party
 ||hirefundca.online^$third-party
 ||hireja.com^$third-party
+||hiringinterview.org^$third-party
 ||hirobot.ca^$third-party
 ||hirschfeld.biz^$third-party
 ||hisac.top^$third-party
@@ -51080,6 +51084,7 @@
 ||scre-myrbcacc.info^$third-party
 ||scre02-rbc.com^$third-party
 ||screenconnect.live^$third-party
+||screenquestion.com^$third-party
 ||scriptbaran.com^$third-party
 ||scriptsplatform.com^$third-party
 ||scrtrn-bca.info^$third-party
@@ -53637,7 +53642,9 @@
 ||skicloud-my.xyz^$third-party
 ||skid.uno^$third-party
 ||skidmark.kr^$third-party
+||skill-share.org^$third-party
 ||skillhiretrack.com^$third-party
+||skillmasteryhub.org^$third-party
 ||skillprooflab.com^$third-party
 ||skillsagilitylab.com^$third-party
 ||skinclass.in^$third-party
@@ -55230,6 +55237,7 @@
 ||takween-acad.com^$third-party
 ||talatlarholdngltd.net^$third-party
 ||talentcheck.pro^$third-party
+||talentcompetency.com^$third-party
 ||talented-friendly-price.glitch.me^$third-party
 ||talenthiring360.com^$third-party
 ||talentree.fi^$third-party
@@ -60999,9 +61007,12 @@
 ||wildfireincentives-bcgov.info^$third-party
 ||wildfires-alberta.ca^$third-party
 ||wilenters.com^$third-party
+||wilio-talent.net^$third-party
 ||willchar.com^$third-party
 ||williamswelding.com.au^$third-party
 ||willingyhollowsk.shop^$third-party
+||willoassessment.com^$third-party
+||willorecruit.com^$third-party
 ||willywankersfilthfactory.com^$third-party
 ||willywijayapowerequipment.com^$third-party
 ||wilsoncallert.com^$third-party

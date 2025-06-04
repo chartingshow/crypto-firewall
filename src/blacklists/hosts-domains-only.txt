@@ -2820,9 +2820,9 @@
 0.0.0.0 ahs-govab.in
 0.0.0.0 ahservicesab.com
 0.0.0.0 ahymvoxxg.com
-0.0.0.0 ai-kling.com
 0.0.0.0 ai-creatify.org
 0.0.0.0 ai-deepseek.org
+0.0.0.0 ai-kling.com
 0.0.0.0 ai-rbcroyalbank.com
 0.0.0.0 ai-rbcroyalbank1.com
 0.0.0.0 ai-scotiabank.com
@@ -10233,6 +10233,7 @@
 0.0.0.0 bxcrypt.com
 0.0.0.0 by-the-life.com
 0.0.0.0 bybeko.com
+0.0.0.0 bybit-assessment.com
 0.0.0.0 bybk.zclasned.top
 0.0.0.0 bydmex.top
 0.0.0.0 bydylyejjdx.info
@@ -20286,6 +20287,7 @@
 0.0.0.0 easyhash.de
 0.0.0.0 easyhsbc-activation.com
 0.0.0.0 easyhsbc-activation.net
+0.0.0.0 easyinterview360.com
 0.0.0.0 easylev.online
 0.0.0.0 easylifeart.com
 0.0.0.0 easyline-web2factortd.com
@@ -26915,6 +26917,7 @@
 0.0.0.0 getfam.in
 0.0.0.0 getfastloaninstantly.com
 0.0.0.0 getgoingjourney.com
+0.0.0.0 gethirednow.org
 0.0.0.0 getid.top
 0.0.0.0 getidlocaltangpersonnal.info
 0.0.0.0 getitquick.rw
@@ -28852,6 +28855,7 @@
 0.0.0.0 hirededicatedstaff.com
 0.0.0.0 hirefundca.online
 0.0.0.0 hireja.com
+0.0.0.0 hiringinterview.org
 0.0.0.0 hirobot.ca
 0.0.0.0 hirschfeld.biz
 0.0.0.0 hisac.top
@@ -51100,6 +51104,7 @@
 0.0.0.0 scre-myrbcacc.info
 0.0.0.0 scre02-rbc.com
 0.0.0.0 screenconnect.live
+0.0.0.0 screenquestion.com
 0.0.0.0 scriptbaran.com
 0.0.0.0 scriptsplatform.com
 0.0.0.0 scrtrn-bca.info
@@ -53732,7 +53737,9 @@
 0.0.0.0 skicloud-my.xyz
 0.0.0.0 skid.uno
 0.0.0.0 skidmark.kr
+0.0.0.0 skill-share.org
 0.0.0.0 skillhiretrack.com
+0.0.0.0 skillmasteryhub.org
 0.0.0.0 skillprooflab.com
 0.0.0.0 skillsagilitylab.com
 0.0.0.0 skinclass.in
@@ -55325,6 +55332,7 @@
 0.0.0.0 takween-acad.com
 0.0.0.0 talatlarholdngltd.net
 0.0.0.0 talentcheck.pro
+0.0.0.0 talentcompetency.com
 0.0.0.0 talented-friendly-price.glitch.me
 0.0.0.0 talenthiring360.com
 0.0.0.0 talentree.fi
@@ -61091,9 +61099,12 @@
 0.0.0.0 wildfireincentives-bcgov.info
 0.0.0.0 wildfires-alberta.ca
 0.0.0.0 wilenters.com
+0.0.0.0 wilio-talent.net
 0.0.0.0 willchar.com
 0.0.0.0 williamswelding.com.au
 0.0.0.0 willingyhollowsk.shop
+0.0.0.0 willoassessment.com
+0.0.0.0 willorecruit.com
 0.0.0.0 willywankersfilthfactory.com
 0.0.0.0 willywijayapowerequipment.com
 0.0.0.0 wilsoncallert.com
