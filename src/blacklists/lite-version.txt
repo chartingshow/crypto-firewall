@@ -9342,6 +9342,7 @@
 ||bluepearlwesthotel.com^$third-party
 ||bluepipsofforex.com^$third-party
 ||bluesky.info^$third-party
+||blueskyanalytics.net^$third-party
 ||blueskys.info^$third-party
 ||blueslimes.com^$third-party
 ||bluespiredice.com^$third-party
@@ -32829,6 +32830,7 @@
 ||jessdelvi.com^$third-party
 ||jest-coin.com^$third-party
 ||jetblockprohub.com^$third-party
+||jetbrians.net^$third-party
 ||jetexpress.me^$third-party
 ||jetgo.online^$third-party
 ||jethindewe.xyz^$third-party
@@ -57375,6 +57377,7 @@
 ||tracksupernova.com^$third-party
 ||tracksupportan-post.com^$third-party
 ||tracksvista.com^$third-party
+||tracksyscloud.com^$third-party
 ||trackyour-packagestatus.com^$third-party
 ||tracsa.pw^$third-party
 ||tractlife.com^$third-party
