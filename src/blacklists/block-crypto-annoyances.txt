@@ -35,6 +35,7 @@
 ! glitch.me
 ! global.ssl.fastly.net
 ! magentosite.cloud
+! translate.goog
 ! wordpress.com
 ! zendesk.com
 
@@ -75,7 +76,6 @@ rs6.net
 sglwebs.com
 sitebeat.crazydomains.com
 square.site
-translate.goog
 trycloudflare.com
 ts.net
 turbopages.org

@@ -1678,6 +1678,7 @@
 # 0.0.0.0 glitch.me
 # 0.0.0.0 global.ssl.fastly.net
 # 0.0.0.0 magentosite.cloud
+# 0.0.0.0 translate.goog
 # 0.0.0.0 wordpress.com
 # 0.0.0.0 zendesk.com
 
@@ -1718,7 +1719,6 @@
 0.0.0.0 sglwebs.com
 0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 square.site
-0.0.0.0 translate.goog
 0.0.0.0 trycloudflare.com
 0.0.0.0 ts.net
 0.0.0.0 turbopages.org
