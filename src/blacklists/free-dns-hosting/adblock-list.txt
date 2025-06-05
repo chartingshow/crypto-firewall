@@ -186,4 +186,4 @@
 ||zz.am^$third-party
 
 ! Block free dns and hosting sub-domains ---------------------------------------
-||at.ply.gg^
+||at.ply.gg^$third-party
