@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 May 2025
+# Last modified: 5 June 2025
 #
 
 # Domains
@@ -88,6 +88,7 @@ homelinux.net
 hopto.org
 hoptp.org
 ignorelist.com
+infinityfreeapp.com
 ipq.co
 is-a-doctor.com
 is-by.us
@@ -141,6 +142,7 @@ publicvm.com
 redirectme.net
 rootlayer.net
 scienceontheweb.net
+secureserver.net
 selfhost.de
 selfhost.tk
 selfip.com
@@ -187,6 +189,3 @@ zz.am
 
 # Sub-Domains
 at.ply.gg
-
-# Free Developer Subdomains
-trycloudflare.com

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 29 May 2025
+! Last modified: 5 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -86,6 +86,7 @@
 ||hopto.org^$third-party
 ||hoptp.org^$third-party
 ||ignorelist.com^$third-party
+||infinityfreeapp.com^$third-party
 ||ipq.co^$third-party
 ||is-a-doctor.com^$third-party
 ||is-by.us^$third-party
@@ -139,6 +140,7 @@
 ||redirectme.net^$third-party
 ||rootlayer.net^$third-party
 ||scienceontheweb.net^$third-party
+||secureserver.net^$third-party
 ||selfhost.de^$third-party
 ||selfhost.tk^$third-party
 ||selfip.com^$third-party
