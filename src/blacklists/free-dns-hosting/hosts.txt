@@ -187,4 +187,4 @@
 0.0.0.0 zz.am
 
 # Sub-Domains
-at.ply.gg
+0.0.0.0 at.ply.gg
