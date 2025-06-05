@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 May 2025
+# Last modified: 5 June 2025
 #
 
 # Block Free dns and hosting
@@ -87,6 +87,7 @@
 0.0.0.0 hopto.org
 0.0.0.0 hoptp.org
 0.0.0.0 ignorelist.com
+0.0.0.0 infinityfreeapp.com
 0.0.0.0 ipq.co
 0.0.0.0 is-a-doctor.com
 0.0.0.0 is-by.us
@@ -140,6 +141,7 @@
 0.0.0.0 redirectme.net
 0.0.0.0 rootlayer.net
 0.0.0.0 scienceontheweb.net
+0.0.0.0 secureserver.net
 0.0.0.0 selfhost.de
 0.0.0.0 selfhost.tk
 0.0.0.0 selfip.com
@@ -184,5 +186,5 @@
 0.0.0.0 zyns.com
 0.0.0.0 zz.am
 
-# Block free developer subdomains
-0.0.0.0 trycloudflare.com
+# Sub-Domains
+0.0.0.0 at.ply.gg
