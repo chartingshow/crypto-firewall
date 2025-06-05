@@ -187,6 +187,3 @@
 
 ! Block free dns and hosting sub-domains ---------------------------------------
 ||at.ply.gg^
-
-! Block free developer sub-domains ---------------------------------------------
-||trycloudflare.com^$third-party

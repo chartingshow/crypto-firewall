@@ -186,5 +186,5 @@
 0.0.0.0 zyns.com
 0.0.0.0 zz.am
 
-# Block free developer subdomains
-0.0.0.0 trycloudflare.com
+# Sub-Domains
+at.ply.gg
