@@ -18,8 +18,7 @@
 
 !----------------------------- ABUSED SUBDOMAINS --------------------------------
 ! These domains are known for frequent abuse (e.g., phishing, malware, scams).
-! By default, these are recommended to be blocked.
-! To disable blocking, comment out the relevant lines.
+! By default, these are comment out to not break the internet.
 !--------------------------------------------------------------------------------
 
 ! aliyuncs.com
@@ -348,12 +347,10 @@ section#cookieconsentpopup
 
 !--------------------------- TRADINGVIEW ANNOYANCES -----------------------------
 ! This section blocks common annoyances on TradingView such as popups,
-! overlays, and promotional elements to improve user experience.
+! overlays and promotional elements to improve user experience.
 ! Enable or disable entries as needed.
 !--------------------------------------------------------------------------------
 
-! Example domains or URLs related to TradingView annoyances can be listed here.
-! (Replace with actual entries as needed)
 www.tradingview.com###tv-toasts
 www.tradingview.com##.tv-toasts
 www.tradingview.com##:matches-path(/ideas) body.i-no-scroll:style(overflow: auto !important)
@@ -386,16 +383,11 @@ www.tradingview.com##div[data-dialog-name=gopro]
 
 !--------------------------- EXCHANGE BLOCKS -----------------------------------
 ! Block elements and domains related to exchanges.
-! Uncomment as needed.
 !-------------------------------------------------------------------------------
 
 ! binance.com
 accounts.binance.com###global-banner-compliance-check
 www.binance.com###global-banner-compliance-check
-
-!---------------------------- CRYPTO BLOCKS ------------------------------------
-! Add additional crypto-related domains or elements to block below.
-!-------------------------------------------------------------------------------
 
 ! coinbase.com
 login.coinbase.com##[class^=ds-backgroundAlternate]
@@ -403,6 +395,10 @@ www.coinbase.com##[class^=cds-backgroundAlternate]
 www.coinbase.com##[class^=cds-borderedBottom]
 www.coinbase.com##[class^=ContentBanner__StyledHStack]
 www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer]
+
+!---------------------------- CRYPTO BLOCKS ------------------------------------
+! Add additional crypto-related domains or elements to block below.
+!-------------------------------------------------------------------------------
 
 ! coingecko.com
 @@||widgets.coingecko.com/coingecko-coin-compare-chart-widget.js$script,domain=file-scheme

@@ -1659,8 +1659,7 @@
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
 # These domains are known for frequent abuse (e.g., phishing, malware, scams).
-# By default, these are recommended to be blocked.
-# To disable blocking, comment out the relevant lines.
+# By default, these are comment out to not break the internet.
 #--------------------------------------------------------------------------------
 
 # 0.0.0.0 aliyuncs.com
