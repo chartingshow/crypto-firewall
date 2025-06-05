@@ -8,12 +8,97 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! General Blocks ---------------------------------------------------------------
-! Moved to advert server folder
+!------------------------------- GENERAL BLOCKS --------------------------------
+! These blocks have been moved to the advert server folder.
+!-------------------------------------------------------------------------------
 
-! Social Media Blocks ----------------------------------------------------------
+!---------------------------- SOCIAL MEDIA BLOCKS ------------------------------
+! Add social media domains to block below.
+!-------------------------------------------------------------------------------
 
-! Cookie and Consent Banner Blocks ---------------------------------------------
+!----------------------------- ABUSED SUBDOMAINS --------------------------------
+! These domains are known for frequent abuse (e.g., phishing, malware, scams).
+! By default, these are recommended to be blocked.
+! To disable blocking, comment out the relevant lines.
+!--------------------------------------------------------------------------------
+
+! aliyuncs.com
+! amazonaws.com
+! bitbucket.io
+! blogspot.co.uk
+! blogspot.co.za
+! blogspot.com
+! blogspot.mx
+! cloudapp.azure.com
+! cloudfront.net
+! forms.app
+! github.io
+! glitch.me
+! global.ssl.fastly.net
+! magentosite.cloud
+! wordpress.com
+! zendesk.com
+
+!---------------------- HIGH-RISK / MAY BREAK LEGITIMATE SITES ------------------
+! WARNING: Blocking these may break legitimate services and parts of the internet.
+! Enable or disable based on your specific needs.
+!--------------------------------------------------------------------------------
+
+5v.pl
+appsflyer.com
+appspot.com
+at.playit.gg
+auto.playit.gg
+azurewebsites.net
+b-cdn.net
+bluehosting.cz
+bravesites.com
+business.site
+cloud-ara.tyk.io
+cprapid.com
+easterndns.com
+firebaseapp.com
+fleek.co
+godaddysites.com
+herokuapp.com
+jetserver.net
+liveblog365.com
+netlify.app
+ngrok-free.app
+nicepage.io
+nimbusweb.me
+pages.dev
+pantheonsite.io
+plesk.page
+r2.dev
+repl.co
+rs6.net
+sglwebs.com
+sitebeat.crazydomains.com
+square.site
+translate.goog
+trycloudflare.com
+ts.net
+turbopages.org
+urbanairship.com
+vercel.app
+w3spaces.com
+web.app
+webflow.io
+weebly.com
+weeblysite.com
+wikidot.com
+windows.net
+wixsite.com
+workers.dev
+yolasite.com
+
+!------------------------- COOKIE AND CONSENT BANNER BLOCKS ---------------------
+! Blocks common cookie consent banners and related pop-ups.
+! Enable to improve browsing experience by hiding consent requests.
+! Disable if you prefer to manage consent manually.
+!-------------------------------------------------------------------------------
+
 #bbccookies
 #BorlabsCookieBox
 #ccpa_consent_banner
@@ -261,7 +346,14 @@ main[data-consent-main]
 section#cookie-banner
 section#cookieconsentpopup
 
-! TradingView Annoyances -------------------------------------------------------
+!--------------------------- TRADINGVIEW ANNOYANCES -----------------------------
+! This section blocks common annoyances on TradingView such as popups,
+! overlays, and promotional elements to improve user experience.
+! Enable or disable entries as needed.
+!--------------------------------------------------------------------------------
+
+! Example domains or URLs related to TradingView annoyances can be listed here.
+! (Replace with actual entries as needed)
 www.tradingview.com###tv-toasts
 www.tradingview.com##.tv-toasts
 www.tradingview.com##:matches-path(/ideas) body.i-no-scroll:style(overflow: auto !important)
@@ -292,13 +384,18 @@ www.tradingview.com##div[data-dialog-name=gopro]
 ||telemetry.tradingview.com^
 ||tradingview.com/ping
 
-! Exchange Blocks --------------------------------------------------------------
+!--------------------------- EXCHANGE BLOCKS -----------------------------------
+! Block elements and domains related to exchanges.
+! Uncomment as needed.
+!-------------------------------------------------------------------------------
 
 ! binance.com
 accounts.binance.com###global-banner-compliance-check
 www.binance.com###global-banner-compliance-check
 
-! Crypto Blocks ----------------------------------------------------------------
+!---------------------------- CRYPTO BLOCKS ------------------------------------
+! Add additional crypto-related domains or elements to block below.
+!-------------------------------------------------------------------------------
 
 ! coinbase.com
 login.coinbase.com##[class^=ds-backgroundAlternate]

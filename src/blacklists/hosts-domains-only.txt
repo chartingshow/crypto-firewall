@@ -4,28 +4,121 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 4 June 2025
+# Last modified: 5 June 2025
 #
 
-# Extras (comment out if needed)
-127.0.0.1 localhost
-255.255.255.255 broadcasthost
-::1 localhost
+#--------------------------- DEVELOPER LOCATIONS -------------------------------
+# These are default loopback and broadcast addresses.
+# Comment out entries below if you need to disable them.
+#-------------------------------------------------------------------------------
 
-# Bad I2P domains
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+#----------------------------- ABUSED SUBDOMAINS --------------------------------
+# These domains are known for frequent abuse (e.g., phishing, malware, scams).
+# By default, these are recommended to be blocked.
+# To disable blocking, comment out the relevant lines.
+#--------------------------------------------------------------------------------
+
+# 0.0.0.0 aliyuncs.com
+# 0.0.0.0 amazonaws.com
+# 0.0.0.0 bitbucket.io
+# 0.0.0.0 blogspot.co.uk
+# 0.0.0.0 blogspot.co.za
+# 0.0.0.0 blogspot.com
+# 0.0.0.0 blogspot.mx
+# 0.0.0.0 cloudapp.azure.com
+# 0.0.0.0 cloudfront.net
+# 0.0.0.0 forms.app
+# 0.0.0.0 github.io
+# 0.0.0.0 glitch.me
+# 0.0.0.0 global.ssl.fastly.net
+# 0.0.0.0 magentosite.cloud
+# 0.0.0.0 wordpress.com
+# 0.0.0.0 zendesk.com
+
+#---------------------- HIGH-RISK / MAY BREAK LEGITIMATE SITES ------------------
+# WARNING: Blocking these may break legitimate services and parts of the internet.
+# Enable or disable based on your specific needs.
+#--------------------------------------------------------------------------------
+
+0.0.0.0 5v.pl
+0.0.0.0 appsflyer.com
+0.0.0.0 appspot.com
+0.0.0.0 at.playit.gg
+0.0.0.0 auto.playit.gg
+0.0.0.0 azurewebsites.net
+0.0.0.0 b-cdn.net
+0.0.0.0 bluehosting.cz
+0.0.0.0 bravesites.com
+0.0.0.0 business.site
+0.0.0.0 cloud-ara.tyk.io
+0.0.0.0 cprapid.com
+0.0.0.0 easterndns.com
+0.0.0.0 firebaseapp.com
+0.0.0.0 fleek.co
+0.0.0.0 godaddysites.com
+0.0.0.0 herokuapp.com
+0.0.0.0 jetserver.net
+0.0.0.0 liveblog365.com
+0.0.0.0 netlify.app
+0.0.0.0 ngrok-free.app
+0.0.0.0 nicepage.io
+0.0.0.0 nimbusweb.me
+0.0.0.0 pages.dev
+0.0.0.0 pantheonsite.io
+0.0.0.0 plesk.page
+0.0.0.0 r2.dev
+0.0.0.0 repl.co
+0.0.0.0 rs6.net
+0.0.0.0 sglwebs.com
+0.0.0.0 sitebeat.crazydomains.com
+0.0.0.0 square.site
+0.0.0.0 translate.goog
+0.0.0.0 trycloudflare.com
+0.0.0.0 ts.net
+0.0.0.0 turbopages.org
+0.0.0.0 urbanairship.com
+0.0.0.0 vercel.app
+0.0.0.0 w3spaces.com
+0.0.0.0 web.app
+0.0.0.0 webflow.io
+0.0.0.0 weebly.com
+0.0.0.0 weeblysite.com
+0.0.0.0 wikidot.com
+0.0.0.0 windows.net
+0.0.0.0 wixsite.com
+0.0.0.0 workers.dev
+0.0.0.0 yolasite.com
+
+#-------------------------- I2P DOMAINS (BLOCKED) ------------------------------
+# Known malicious or abused I2P domains.
+#-------------------------------------------------------------------------------
+
 0.0.0.0 mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.b32.i2p
 
-# Bad IPFS domains
+#------------------------- IPFS DOMAINS (BLOCKED) ------------------------------
+# Known malicious or abused IPFS gateway domains.
+#-------------------------------------------------------------------------------
+
 0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.cf-ipfs.com
 0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.dweb.link
 0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 0.0.0.0 bafybeiffhd5pqf5yb4r734sqw7j4cnjow3356m3tzrookkda6vhyrar4fi.ipfs.dweb.link
 0.0.0.0 bafybeih66y422foovraku6twm2ajjxww4frb7rxlxu7zbqridm2xkszy2a.ipfs.dweb.link
 
-# Block Tor2web domains
+#------------------------ TOR2WEB DOMAINS (BLOCKED) ----------------------------
+# Known Tor2web gateways used to access Tor (.onion) sites from the clearnet.
+#-------------------------------------------------------------------------------
+
 0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 
-# Bad Tor domains
+#-------------------------- TOR DOMAINS (BLOCKED) ------------------------------
+# Known malicious or abused Tor (.onion) domains.
+#-------------------------------------------------------------------------------
+
 0.0.0.0 225ppqutwykx2or3.onion
 0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
 0.0.0.0 2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
@@ -83,7 +176,10 @@
 0.0.0.0 x6rciduomtjt25xigz7onkgxmusuwwuxqvidjkcramwg3lb5vvpsm7ad.onion
 0.0.0.0 xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 
-# Bad Crypto domains
+#------------------------ CRYPTO DOMAINS (BLOCKED) -----------------------------
+# Known malicious or phishing crypto-related domains.
+#-------------------------------------------------------------------------------
+
 0.0.0.0 0-scotiabank.com
 0.0.0.0 0-td.com
 0.0.0.0 00-id13365.ca
