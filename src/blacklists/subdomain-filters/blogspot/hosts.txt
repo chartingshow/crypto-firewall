@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 November 2023
+# Last modified: 6 June 2025
 #
 
 # Block blogspot sub-domains
@@ -31,4 +31,6 @@
 0.0.0.0 ronaldo7streams.blogspot.com
 0.0.0.0 signin-opensea.blogspot.com
 0.0.0.0 tax-form-docoments.blogspot.com
+0.0.0.0 unitedairlinescustomerservicenumber.blogspot.com
 0.0.0.0 website2080.blogspot.com
+0.0.0.0 xrp-gives.blogspot.com
