@@ -30,6 +30,7 @@
 ||p2qwz.blogspot.com^$third-party
 ||pancakeswapflnance.blogspot.com^$third-party
 ||ronaldo7streams.blogspot.com^$third-party
+||senibudayasia.blogspot.com^$third-party
 ||signin-opensea.blogspot.com^$third-party
 ||tax-form-docoments.blogspot.com^$third-party
 ||unitedairlinescustomerservicenumber.blogspot.com^$third-party
