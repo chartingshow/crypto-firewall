@@ -66897,6 +66897,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include malware-filters/adblock-list.txt
 !#include phishing-filters/adblock-list.txt
 !#include phishing-other-filters/adblock-list.txt
+!#include pig-butchering-filters/adblock-list.txt
 !#include pup-filters/adblock-list.txt
 !#include ransomware-filters/adblock-list.txt
 !#include scam-filters/adblock-list.txt

@@ -66802,12 +66802,14 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
 !#include ad-servers/adblock-list.txt
+!#include adverts-filters/adblock-list.txt
 !#include fraud-filters/adblock-list.txt
 !#include free-dns-hosting/adblock-list.txt
 !#include malicious-filters/adblock-list.txt
 !#include malware-filters/adblock-list.txt
 !#include phishing-filters/adblock-list.txt
 !#include phishing-other-filters/adblock-list.txt
+!#include pig-butchering-filters/adblock-list.txt
 !#include pup-filters/adblock-list.txt
 !#include ransomware-filters/adblock-list.txt
 !#include scam-filters/adblock-list.txt
