@@ -1,11 +1,11 @@
-[AdblockPlus3.0]
-!Title:CryptoFirewall
-!Expires:7days(updatefrequency)
-!Lastmodified:6June2025
-!Homepage:https://github.com/chartingshow/crypto-firewall/
-!Contribute:https://github.com/chartingshow/crypto-firewall/issues
-!License:GPL-3.0license
-!Description:BlockingWebBrowserCryptoMalwareandPhishingWebsites
+[Adblock Plus 3.0]
+! Title: Crypto Firewall
+! Expires: 7 days (update frequency)
+! Last modified: 6 June 2025
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
 ||100ulife.com^
