@@ -376,6 +376,7 @@ This repo contains various filter list modules, which users can check out in the
 - [Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-filters)
 - [Phishing Other Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-other-filters)
 - [PUP Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pup-filters)
+- [Pig Butchering List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pig-butchering-filters)
 - [Ransomware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ransomware-filters)
 - [Scam Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/scam-filters)
 - [Subdomain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/subdomain-filters)
