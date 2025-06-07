@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (cprapid-com)
+! Title: Crypto Firewall (your-server-de)
 ! Expires: 7 days (update frequency)
 ! Last modified: [Adblock Plus 3.0]
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,9 +8,5 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block cprapid-com sub-domains ------------------------------------------------------
-||162-33-179-116.cprapid.com^$third-party
-||77-91-76-9.cprapid.com^$third-party
-||gbo.italia.87-120-254-28.cprapid.com^$third-party
-||generali-banking.80-76-51-175.cprapid.com^$third-party
-||poste.185-72-199-99.cprapid.com^$third-party
+! Block your-server-de sub-domains ------------------------------------------------------
+||static.117.166.109.65.clients.your-server.de^$third-party

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 6 June 2025
+! Last modified: 7 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -724,6 +724,7 @@
 ||1ccan4daan0fee3servi1c3e860.com^$third-party
 ||1claimeth.one^$third-party
 ||1click-2buy.com^$third-party
+||1co.net^$third-party
 ||1cosmos.io^$third-party
 ||1costcowholesale.com^$third-party
 ||1cr-gv1mt.com^$third-party
@@ -5065,6 +5066,7 @@
 ||almasryelyuom.com^$third-party
 ||almazova.space^$third-party
 ||almesara.info^$third-party
+||almostmy.com^$third-party
 ||almukhtarqatar.com^$third-party
 ||almuntakhaba.com^$third-party
 ||almurshidimed.com^$third-party
@@ -5511,6 +5513,7 @@
 ||amerfirstfbs.online^$third-party
 ||america-check.com^$third-party
 ||american-check.com^$third-party
+||americanauth0.com^$third-party
 ||americanbak.space^$third-party
 ||americanbalance.su^$third-party
 ||americanbullytoken.com^$third-party
@@ -8675,6 +8678,7 @@
 ||arhwaytechnology.com^$third-party
 ||arhwstore.com^$third-party
 ||arhzo.com^$third-party
+||aria21.pw^$third-party
 ||arianalift.com^$third-party
 ||arianpardaz.com^$third-party
 ||ariasguides.com^$third-party
@@ -9248,6 +9252,7 @@
 ||assurasaaq.com^$third-party
 ||assuredcrystalprofit.com^$third-party
 ||assuro.co^$third-party
+||astachk0809.xyz^$third-party
 ||astacoin.com^$third-party
 ||astar-network.live^$third-party
 ||astar.run^$third-party
@@ -10633,6 +10638,7 @@
 ||awardglobal.com.au^$third-party
 ||awardlandscareposiw.shop^$third-party
 ||awards-chain.link^$third-party
+||awards2go.org^$third-party
 ||aware-comm.net^$third-party
 ||aware-ebank.com^$third-party
 ||awarfaregaming.com^$third-party
@@ -38821,6 +38827,7 @@
 ||flyguyzio.xyz^$third-party
 ||flyingavocadocat.com^$third-party
 ||flyinglands.com^$third-party
+||flyingpigpest.com^$third-party
 ||flyingtogether.info^$third-party
 ||flyingtogether.live^$third-party
 ||flylineaeru.com^$third-party
@@ -40214,6 +40221,7 @@
 ||garbagewellduno.com^$third-party
 ||garbarini-scher.com^$third-party
 ||garciasmith.co^$third-party
+||gard-ner-toyota.com^$third-party
 ||garda.ie^$third-party
 ||gardemeubles-europeen.fr^$third-party
 ||gardenersdubai.com^$third-party
@@ -47862,6 +47870,7 @@
 ||iownyour.org^$third-party
 ||iowuas.online^$third-party
 ||ip-151-106-38.eu^$third-party
+||ip-162-19-175.eu^$third-party
 ||ip-167-114-188.net^$third-party
 ||ip-51-222-31.net^$third-party
 ||ip-api.com^$third-party
@@ -48649,6 +48658,7 @@
 ||joecoinerc.com^$third-party
 ||joekairbos.com^$third-party
 ||joetsu.ne.jp^$third-party
+||joeyrichl.top^$third-party
 ||joezyz.com^$third-party
 ||joga.team^$third-party
 ||jogweeklive.live^$third-party
@@ -53125,6 +53135,7 @@
 ||luxisew.com^$third-party
 ||luxjean.shop^$third-party
 ||luxorvip.cc^$third-party
+||luxspal.com^$third-party
 ||luxurity.store^$third-party
 ||luxurybuilding.com.mx^$third-party
 ||luxuryglam.co.in^$third-party
@@ -53457,6 +53468,7 @@
 ||mailchimp-sso.com^$third-party
 ||mailchimp-ssologin.com^$third-party
 ||maildeliveryrequest.info^$third-party
+||mailempower.com^$third-party
 ||mailexpresstracking.com^$third-party
 ||mailfees.com^$third-party
 ||mailfees.net^$third-party
@@ -67566,6 +67578,7 @@
 ||plasf.com^$third-party
 ||plasmabloc.com^$third-party
 ||plasmacoinerc.com^$third-party
+||plasmans.online^$third-party
 ||plastcmoont.com^$third-party
 ||plasticospuente.com^$third-party
 ||plasticsurgerydubaiuae.com^$third-party
@@ -70082,6 +70095,7 @@
 ||ptfx-pros.com^$third-party
 ||ptibook.com^$third-party
 ||ptilselr.com^$third-party
+||ptkick.com^$third-party
 ||ptlclaim.xyz^$third-party
 ||ptpemd.top^$third-party
 ||ptpeuc.top^$third-party
@@ -82009,6 +82023,7 @@
 ||sportive.run^$third-party
 ||sportjogiszakjogasz.hu^$third-party
 ||sportjump.ru^$third-party
+||sportlearningcenters.info^$third-party
 ||sports-mdg.xyz^$third-party
 ||sports-zilla.com^$third-party
 ||sports24world.com^$third-party
@@ -87724,6 +87739,7 @@
 ||tpl-bd.com^$third-party
 ||tpoints-friend.tech^$third-party
 ||tposalons.ru^$third-party
+||tppen-op.one^$third-party
 ||tpqcnt1.za.com^$third-party
 ||tps-dev.com^$third-party
 ||tps-refund.info^$third-party
@@ -89834,6 +89850,7 @@
 ||ulitey.com^$third-party
 ||ulkarturk.com^$third-party
 ||ullerolaru.xyz^$third-party
+||ultasrv.net^$third-party
 ||ultimate-coinmining.com^$third-party
 ||ultimateactive.site^$third-party
 ||ultimateactive.xyz^$third-party
@@ -96598,6 +96615,7 @@
 ||ykasandbox.com^$third-party
 ||yket.info^$third-party
 ||ykhxedu.com^$third-party
+||yksdemg.top^$third-party
 ||ylatyamama.xyz^$third-party
 ||yldzevlerevler.tk^$third-party
 ||ylehmed.top^$third-party
@@ -97853,7 +97871,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/github-io/adblock-list.txt
 !#include subdomain-filters/glitch-me/adblock-list.txt
 !#include subdomain-filters/godaddysites-com/adblock-list.txt
+!#include subdomain-filters/googleusercontent-com/adblock-list.txt
 !#include subdomain-filters/herokuapp-com/adblock-list.txt
+!#include subdomain-filters/hostwindsdns-com/adblock-list.txt
 !#include subdomain-filters/jetserver-net/adblock-list.txt
 !#include subdomain-filters/liveblog365-com/adblock-list.txt
 !#include subdomain-filters/magentosite-cloud/adblock-list.txt
@@ -97877,6 +97897,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/vercel-app/adblock-list.txt
 !#include subdomain-filters/w3spaces-com/adblock-list.txt
 !#include subdomain-filters/web-app/adblock-list.txt
+!#include subdomain-filters/web-hosting-com/adblock-list.txt
 !#include subdomain-filters/webflow-io/adblock-list.txt
 !#include subdomain-filters/weebly-com/adblock-list.txt
 !#include subdomain-filters/weeblysite-com/adblock-list.txt
@@ -97886,6 +97907,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/wordpress-com/adblock-list.txt
 !#include subdomain-filters/workers-dev/adblock-list.txt
 !#include subdomain-filters/yolasite-com/adblock-list.txt
+!#include subdomain-filters/your-server-de/adblock-list.txt
 !#include subdomain-filters/zendesk-com/adblock-list.txt
 
 ! Blocking domains -------------------------------------------------------------

@@ -4,10 +4,11 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 7 June 2025
 #
 
 # Block cprapid-com sub-domains
+0.0.0.0 162-33-179-116.cprapid.com
 0.0.0.0 77-91-76-9.cprapid.com
 0.0.0.0 gbo.italia.87-120-254-28.cprapid.com
 0.0.0.0 generali-banking.80-76-51-175.cprapid.com

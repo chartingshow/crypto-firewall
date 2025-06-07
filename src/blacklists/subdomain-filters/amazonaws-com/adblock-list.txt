@@ -9,8 +9,15 @@
 !-------------------------------------------------------------------------------
 
 ! Block amazonaws-com sub-domains ------------------------------------------------------
+||ec2-13-215-227-78.ap-southeast-1.compute.amazonaws.com^$third-party
+||ec2-13-215-228-73.ap-southeast-1.compute.amazonaws.com^$third-party
+||ec2-13-59-168-154.us-east-2.compute.amazonaws.com^$third-party
 ||ec2-18-222-171-22.us-east-2.compute.amazonaws.com^$third-party
 ||ec2-3-1-91-70.ap-southeast-1.compute.amazonaws.com^$third-party
+||ec2-3-76-100-131.eu-central-1.compute.amazonaws.com^$third-party
+||ec2-34-207-174-202.compute-1.amazonaws.com^$third-party
+||ec2-34-219-121-232.us-west-2.compute.amazonaws.com^$third-party
 ||ec2-35-173-202-104.compute-1.amazonaws.com^$third-party
+||ec2-54-193-91-232.us-west-1.compute.amazonaws.com^$third-party
 ||trezwezxb.s3.us-east-2.amazonaws.com^$third-party
 ||xrpgive.s3.amazonaws.com^$third-party

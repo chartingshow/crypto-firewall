@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 June 2025
+# Last modified: 7 June 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -819,6 +819,7 @@
 0.0.0.0 1ccan4daan0fee3servi1c3e860.com
 0.0.0.0 1claimeth.one
 0.0.0.0 1click-2buy.com
+0.0.0.0 1co.net
 0.0.0.0 1cosmos.io
 0.0.0.0 1costcowholesale.com
 0.0.0.0 1cr-gv1mt.com
@@ -5148,6 +5149,7 @@
 0.0.0.0 almasryelyuom.com
 0.0.0.0 almazova.space
 0.0.0.0 almesara.info
+0.0.0.0 almostmy.com
 0.0.0.0 almukhtarqatar.com
 0.0.0.0 almuntakhaba.com
 0.0.0.0 almurshidimed.com
@@ -5595,6 +5597,7 @@
 0.0.0.0 amerfirstfbs.online
 0.0.0.0 america-check.com
 0.0.0.0 american-check.com
+0.0.0.0 americanauth0.com
 0.0.0.0 americanbak.space
 0.0.0.0 americanbalance.su
 0.0.0.0 americanbullytoken.com
@@ -8761,6 +8764,7 @@
 0.0.0.0 arhwaytechnology.com
 0.0.0.0 arhwstore.com
 0.0.0.0 arhzo.com
+0.0.0.0 aria21.pw
 0.0.0.0 arianalift.com
 0.0.0.0 arianpardaz.com
 0.0.0.0 ariasguides.com
@@ -9335,6 +9339,7 @@
 0.0.0.0 assurasaaq.com
 0.0.0.0 assuredcrystalprofit.com
 0.0.0.0 assuro.co
+0.0.0.0 astachk0809.xyz
 0.0.0.0 astacoin.com
 0.0.0.0 astar-network.live
 0.0.0.0 astar.run
@@ -10719,6 +10724,7 @@
 0.0.0.0 awardglobal.com.au
 0.0.0.0 awardlandscareposiw.shop
 0.0.0.0 awards-chain.link
+0.0.0.0 awards2go.org
 0.0.0.0 aware-comm.net
 0.0.0.0 aware-ebank.com
 0.0.0.0 awarfaregaming.com
@@ -38907,6 +38913,7 @@
 0.0.0.0 flyguyzio.xyz
 0.0.0.0 flyingavocadocat.com
 0.0.0.0 flyinglands.com
+0.0.0.0 flyingpigpest.com
 0.0.0.0 flyingtogether.info
 0.0.0.0 flyingtogether.live
 0.0.0.0 flylineaeru.com
@@ -40301,6 +40308,7 @@
 0.0.0.0 garbagewellduno.com
 0.0.0.0 garbarini-scher.com
 0.0.0.0 garciasmith.co
+0.0.0.0 gard-ner-toyota.com
 0.0.0.0 garda.ie
 0.0.0.0 gardemeubles-europeen.fr
 0.0.0.0 gardenersdubai.com
@@ -47945,6 +47953,7 @@
 0.0.0.0 iownyour.org
 0.0.0.0 iowuas.online
 0.0.0.0 ip-151-106-38.eu
+0.0.0.0 ip-162-19-175.eu
 0.0.0.0 ip-167-114-188.net
 0.0.0.0 ip-51-222-31.net
 0.0.0.0 ip-api.com
@@ -48730,6 +48739,7 @@
 0.0.0.0 joecoinerc.com
 0.0.0.0 joekairbos.com
 0.0.0.0 joetsu.ne.jp
+0.0.0.0 joeyrichl.top
 0.0.0.0 joezyz.com
 0.0.0.0 joga.team
 0.0.0.0 jogweeklive.live
@@ -53203,6 +53213,7 @@
 0.0.0.0 luxisew.com
 0.0.0.0 luxjean.shop
 0.0.0.0 luxorvip.cc
+0.0.0.0 luxspal.com
 0.0.0.0 luxurity.store
 0.0.0.0 luxurybuilding.com.mx
 0.0.0.0 luxuryglam.co.in
@@ -53535,6 +53546,7 @@
 0.0.0.0 mailchimp-sso.com
 0.0.0.0 mailchimp-ssologin.com
 0.0.0.0 maildeliveryrequest.info
+0.0.0.0 mailempower.com
 0.0.0.0 mailexpresstracking.com
 0.0.0.0 mailfees.com
 0.0.0.0 mailfees.net
@@ -67647,6 +67659,7 @@
 0.0.0.0 plasf.com
 0.0.0.0 plasmabloc.com
 0.0.0.0 plasmacoinerc.com
+0.0.0.0 plasmans.online
 0.0.0.0 plastcmoont.com
 0.0.0.0 plasticospuente.com
 0.0.0.0 plasticsurgerydubaiuae.com
@@ -70184,6 +70197,7 @@
 0.0.0.0 ptfx-pros.com
 0.0.0.0 ptibook.com
 0.0.0.0 ptilselr.com
+0.0.0.0 ptkick.com
 0.0.0.0 ptlclaim.xyz
 0.0.0.0 ptpemd.top
 0.0.0.0 ptpeuc.top
@@ -82193,6 +82207,7 @@
 0.0.0.0 sportive.run
 0.0.0.0 sportjogiszakjogasz.hu
 0.0.0.0 sportjump.ru
+0.0.0.0 sportlearningcenters.info
 0.0.0.0 sports-mdg.xyz
 0.0.0.0 sports-zilla.com
 0.0.0.0 sports24world.com
@@ -87909,6 +87924,7 @@
 0.0.0.0 tpl-bd.com
 0.0.0.0 tpoints-friend.tech
 0.0.0.0 tposalons.ru
+0.0.0.0 tppen-op.one
 0.0.0.0 tpqcnt1.za.com
 0.0.0.0 tps-dev.com
 0.0.0.0 tps-refund.info
@@ -90016,6 +90032,7 @@
 0.0.0.0 ulitey.com
 0.0.0.0 ulkarturk.com
 0.0.0.0 ullerolaru.xyz
+0.0.0.0 ultasrv.net
 0.0.0.0 ultimate-coinmining.com
 0.0.0.0 ultimateactive.site
 0.0.0.0 ultimateactive.xyz
@@ -96811,6 +96828,7 @@
 0.0.0.0 ykasandbox.com
 0.0.0.0 yket.info
 0.0.0.0 ykhxedu.com
+0.0.0.0 yksdemg.top
 0.0.0.0 ylatyamama.xyz
 0.0.0.0 yldzevlerevler.tk
 0.0.0.0 ylehmed.top
