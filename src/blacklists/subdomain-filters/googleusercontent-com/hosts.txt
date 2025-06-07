@@ -1,0 +1,11 @@
+# Crypto Firewall (googleusercontent-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 7 June 2025
+#
+
+# Block googleusercontent-com sub-domains
+0.0.0.0 136.169.29.34.bc.googleusercontent.com
