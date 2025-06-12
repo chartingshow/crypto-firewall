@@ -97931,6 +97931,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/github/adblock-list.txt
 !#include domain-filters/htx-com/adblock-list.txt
 !#include domain-filters/kucoin-com/adblock-list.txt
+!#include domain-filters/okx-com/adblock-list.txt
 !#include domain-filters/revoke-cash/adblock-list.txt
 
 ! Blocking modules -------------------------------------------------------------
