@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 June 2025
+# Last modified: 12 June 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -6251,6 +6251,7 @@
 0.0.0.0 alacritylsd.com
 0.0.0.0 aladdaican.xyz
 0.0.0.0 aladdin-sihirli.com
+0.0.0.0 alanpower.net
 0.0.0.0 alapige.com
 0.0.0.0 alappuraheritage.in
 0.0.0.0 alarmcamfat.pw
@@ -7689,6 +7690,7 @@
 0.0.0.0 anmeldung-at.link
 0.0.0.0 anmeldung-online-hilfe.com
 0.0.0.0 annagroup.net
+0.0.0.0 annalanyi.com
 0.0.0.0 annalinda.at
 0.0.0.0 annaniskanen.com
 0.0.0.0 annapromote.com
@@ -16428,6 +16430,8 @@
 0.0.0.0 bobadorato.makeup
 0.0.0.0 bobafinance.network
 0.0.0.0 bobby1.xyz
+0.0.0.0 bobbybradley.net
+0.0.0.0 bobbyweisman.com
 0.0.0.0 bobersok.top
 0.0.0.0 bobeth.vip
 0.0.0.0 bobethtokens.com
@@ -28814,6 +28818,7 @@
 0.0.0.0 davidashley.cfd
 0.0.0.0 davidjukes.com
 0.0.0.0 davidkujawa.com
+0.0.0.0 davidlesnick.com
 0.0.0.0 davidwalkerbass.com
 0.0.0.0 davigoldcolors.com
 0.0.0.0 davilago.com.br
@@ -33369,6 +33374,7 @@
 0.0.0.0 eduvu.top
 0.0.0.0 eduzyte.com
 0.0.0.0 edwardcaputo.shop
+0.0.0.0 edwarddhall.com
 0.0.0.0 edwardgregory.mom
 0.0.0.0 edx-maketsvbn.top
 0.0.0.0 edxmrly.top
@@ -34836,6 +34842,7 @@
 0.0.0.0 emergemetal.com
 0.0.0.0 emergencybenefitscanada-portal.ca
 0.0.0.0 emergencybenefitscanada.ca
+0.0.0.0 emersonkelly.com
 0.0.0.0 emeteentertainment.com
 0.0.0.0 emf-automation-notification.online
 0.0.0.0 emfr-automated-notification.autos
@@ -51370,6 +51377,7 @@
 0.0.0.0 kilopelooksrare.com
 0.0.0.0 kilowebs.com
 0.0.0.0 kim-tec.de
+0.0.0.0 kimberlykamara.com
 0.0.0.0 kimicar.shop
 0.0.0.0 kimjohan.com
 0.0.0.0 kimmwhite.com
@@ -54605,6 +54613,7 @@
 0.0.0.0 lordsociety.org
 0.0.0.0 lorenzocardoso.cfd
 0.0.0.0 loribarker.ca
+0.0.0.0 lorinash.com
 0.0.0.0 lorraineairport.com
 0.0.0.0 lortson.com
 0.0.0.0 lortyl.com
@@ -55353,6 +55362,7 @@
 0.0.0.0 malaysiia.com
 0.0.0.0 malceon.yachts
 0.0.0.0 maldivemusic.com
+0.0.0.0 malenebutler.com
 0.0.0.0 malenursenect.fun
 0.0.0.0 malikhosting.com
 0.0.0.0 malil.xyz

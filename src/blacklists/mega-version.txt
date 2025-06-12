@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 7 June 2025
+! Last modified: 12 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -4525,6 +4525,7 @@
 ||alacritylsd.com^$third-party
 ||aladdaican.xyz^$third-party
 ||aladdin-sihirli.com^$third-party
+||alanpower.net^$third-party
 ||alapige.com^$third-party
 ||alappuraheritage.in^$third-party
 ||alarmcamfat.pw^$third-party
@@ -5962,6 +5963,7 @@
 ||anmeldung-at.link^$third-party
 ||anmeldung-online-hilfe.com^$third-party
 ||annagroup.net^$third-party
+||annalanyi.com^$third-party
 ||annalinda.at^$third-party
 ||annaniskanen.com^$third-party
 ||annapromote.com^$third-party
@@ -14704,6 +14706,8 @@
 ||bobadorato.makeup^$third-party
 ||bobafinance.network^$third-party
 ||bobby1.xyz^$third-party
+||bobbybradley.net^$third-party
+||bobbyweisman.com^$third-party
 ||bobersok.top^$third-party
 ||bobeth.vip^$third-party
 ||bobethtokens.com^$third-party
@@ -27089,6 +27093,7 @@
 ||davidashley.cfd^$third-party
 ||davidjukes.com^$third-party
 ||davidkujawa.com^$third-party
+||davidlesnick.com^$third-party
 ||davidwalkerbass.com^$third-party
 ||davigoldcolors.com^$third-party
 ||davilago.com.br^$third-party
@@ -31642,6 +31647,7 @@
 ||eduvu.top^$third-party
 ||eduzyte.com^$third-party
 ||edwardcaputo.shop^$third-party
+||edwarddhall.com^$third-party
 ||edwardgregory.mom^$third-party
 ||edx-maketsvbn.top^$third-party
 ||edxmrly.top^$third-party
@@ -33109,6 +33115,7 @@
 ||emergemetal.com^$third-party
 ||emergencybenefitscanada-portal.ca^$third-party
 ||emergencybenefitscanada.ca^$third-party
+||emersonkelly.com^$third-party
 ||emeteentertainment.com^$third-party
 ||emf-automation-notification.online^$third-party
 ||emfr-automated-notification.autos^$third-party
@@ -49650,6 +49657,7 @@
 ||kilopelooksrare.com^$third-party
 ||kilowebs.com^$third-party
 ||kim-tec.de^$third-party
+||kimberlykamara.com^$third-party
 ||kimicar.shop^$third-party
 ||kimjohan.com^$third-party
 ||kimmwhite.com^$third-party
@@ -52884,6 +52892,7 @@
 ||lordsociety.org^$third-party
 ||lorenzocardoso.cfd^$third-party
 ||loribarker.ca^$third-party
+||lorinash.com^$third-party
 ||lorraineairport.com^$third-party
 ||lortson.com^$third-party
 ||lortyl.com^$third-party
@@ -53632,6 +53641,7 @@
 ||malaysiia.com^$third-party
 ||malceon.yachts^$third-party
 ||maldivemusic.com^$third-party
+||malenebutler.com^$third-party
 ||malenursenect.fun^$third-party
 ||malikhosting.com^$third-party
 ||malil.xyz^$third-party
