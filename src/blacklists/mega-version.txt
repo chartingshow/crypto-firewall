@@ -97949,6 +97949,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/mexc-com/adblock-list.txt
 !#include domain-filters/okx-com/adblock-list.txt
 !#include domain-filters/phemex-com/adblock-list.txt
+!#include domain-filters/pionex-com/adblock-list.txt
 !#include domain-filters/poloniex-com/adblock-list.txt
 !#include domain-filters/revoke-cash/adblock-list.txt
 !#include domain-filters/upbit-com/adblock-list.txt
