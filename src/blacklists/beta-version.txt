@@ -97955,6 +97955,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/poloniex-com/adblock-list.txt
 !#include domain-filters/revoke-cash/adblock-list.txt
 !#include domain-filters/upbit-com/adblock-list.txt
+!#include domain-filters/whitebit-com/adblock-list.txt
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
