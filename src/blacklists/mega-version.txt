@@ -97925,6 +97925,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/altdentifier-com/adblock-list.txt
 !#include domain-filters/bilaxy-com/adblock-list.txt
 !#include domain-filters/binance-com/adblock-list.txt
+!#include domain-filters/binance-tr/adblock-list.txt
 !#include domain-filters/binance-us/adblock-list.txt
 !#include domain-filters/bingx-com/adblock-list.txt
 !#include domain-filters/bitfinex-com/adblock-list.txt
