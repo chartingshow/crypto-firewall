@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Binance US)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 June 2025
+! Last modified: 16 June 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -130,7 +130,6 @@
 ||binance.cf^$third-party
 ||binance.cn^$third-party
 ||binance.co^$third-party
-||binance.com^$third-party
 ||binance.de^$third-party
 ||binance.eu^$third-party
 ||binance.ga^$third-party
