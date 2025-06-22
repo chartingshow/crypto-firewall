@@ -396,6 +396,9 @@ www.coinbase.com##[class^=cds-borderedBottom]
 www.coinbase.com##[class^=ContentBanner__StyledHStack]
 www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer]
 
+! htx.com
+www.htx.com##.popup
+
 !---------------------------- CRYPTO BLOCKS ------------------------------------
 ! Add additional crypto-related domains or elements to block below.
 !-------------------------------------------------------------------------------
