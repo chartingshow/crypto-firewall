@@ -8,7 +8,7 @@
  *              projects, alerting users when they encounter potentially harmful content.
  *              Enhanced protection against malicious packages/extensions with JSON-based
  *              threat intelligence.
- * @version 2.0.3
+ * @version 2.0.4
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -23,6 +23,8 @@
 ;(async function () {
   // Updated JSON blacklist endpoints
   const blacklistURLs = {
+    'apps.apple.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/apple-app-store.txt',
     'chrome.extension':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extension-ids.txt',
     'chrome.google.com/webstore':
@@ -138,6 +140,7 @@
     const {hostname, href} = window.location
 
     const domainHandlers = {
+      'apps.apple.com': () => checkURLAgainstBlacklist(hostname),
       'chrome.google.com': () =>
         href.includes('/webstore')
           ? checkURLAgainstBlacklist('chrome.google.com/webstore')
