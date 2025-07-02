@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 12 June 2025
+# Last modified: 2 July 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -2981,6 +2981,7 @@
 0.0.0.0 accweb-mouv-desjardins2.com
 0.0.0.0 accxxxx-imidiat.cfd
 0.0.0.0 accxxxx-imidiat.click
+0.0.0.0 acdcdn.com
 0.0.0.0 acdconnexion.com
 0.0.0.0 acdeposit.website
 0.0.0.0 ace-grow.com
@@ -43953,6 +43954,7 @@
 0.0.0.0 honourofjesusinternationalassembly.com
 0.0.0.0 honqruilite.com
 0.0.0.0 hontinetalmanged.com
+0.0.0.0 hoo.be
 0.0.0.0 hoo.com
 0.0.0.0 hoodiehiv.com
 0.0.0.0 hoodrichserbia.com
@@ -47731,6 +47733,7 @@
 0.0.0.0 intrsc00income.net
 0.0.0.0 intrsxc00income.net
 0.0.0.0 intrtanac-deposit.online
+0.0.0.0 intrustedzone.site
 0.0.0.0 intsanc.com
 0.0.0.0 intsasent.ca
 0.0.0.0 intseca.com
