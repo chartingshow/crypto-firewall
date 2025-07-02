@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 16 June 2025
+! Last modified: 2 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -2897,6 +2897,7 @@
 ||accweb-mouv-desjardins2.com^$third-party
 ||accxxxx-imidiat.cfd^$third-party
 ||accxxxx-imidiat.click^$third-party
+||acdcdn.com^$third-party
 ||acdconnexion.com^$third-party
 ||acdeposit.website^$third-party
 ||ace-grow.com^$third-party
@@ -43867,6 +43868,7 @@
 ||honourofjesusinternationalassembly.com^$third-party
 ||honqruilite.com^$third-party
 ||hontinetalmanged.com^$third-party
+||hoo.be^$third-party
 ||hoo.com^$third-party
 ||hoodiehiv.com^$third-party
 ||hoodrichserbia.com^$third-party
@@ -47648,6 +47650,7 @@
 ||intrsc00income.net^$third-party
 ||intrsxc00income.net^$third-party
 ||intrtanac-deposit.online^$third-party
+||intrustedzone.site^$third-party
 ||intsanc.com^$third-party
 ||intsasent.ca^$third-party
 ||intseca.com^$third-party
