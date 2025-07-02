@@ -2046,6 +2046,7 @@
 0.0.0.0 997-webshop.net
 0.0.0.0 99816.id
 0.0.0.0 99996665550.fun
+0.0.0.0 99ai.world
 0.0.0.0 99fetch.com
 0.0.0.0 99p.ru
 0.0.0.0 99wc.top
@@ -2791,6 +2792,7 @@
 0.0.0.0 accesstelematics.com
 0.0.0.0 accesstomyclientcard.info
 0.0.0.0 accessunified.online
+0.0.0.0 accgngrid.com
 0.0.0.0 accikunity.org
 0.0.0.0 accindiaonline.com
 0.0.0.0 accinfosec.info
@@ -5005,6 +5007,8 @@
 0.0.0.0 alixblog.com
 0.0.0.0 aliyuncs.com
 0.0.0.0 aliyuncs.info
+0.0.0.0 aliyung.com
+0.0.0.0 aliyung.org
 0.0.0.0 alizatehairspa.com
 0.0.0.0 aljazeeraperfumes.net
 0.0.0.0 alkentbartkert1231.com
@@ -15969,6 +15973,7 @@
 0.0.0.0 bytcl.com
 0.0.0.0 bytebus.com
 0.0.0.0 bytedesign.net
+0.0.0.0 byteepic.vip
 0.0.0.0 bytefederal.com
 0.0.0.0 bytesendesign.nl
 0.0.0.0 bytesons-bueno.art
@@ -38402,6 +38407,7 @@
 0.0.0.0 fipub.com
 0.0.0.0 firdose.pro
 0.0.0.0 firebaseio.com
+0.0.0.0 firebaseo.com
 0.0.0.0 fireblocks.cloud
 0.0.0.0 fireblocks.space
 0.0.0.0 fireblocksets.top
@@ -40045,6 +40051,7 @@
 0.0.0.0 fxmugen.com
 0.0.0.0 fxngmd.com
 0.0.0.0 fxprocoin.com
+0.0.0.0 fxsdk.com
 0.0.0.0 fxshieldtrade.com
 0.0.0.0 fxsinyalleri.com
 0.0.0.0 fxsmart-trade.com
@@ -41563,6 +41570,7 @@
 0.0.0.0 google-search.online
 0.0.0.0 googleapi8449.pw
 0.0.0.0 googleapis.online
+0.0.0.0 googleapps.top
 0.0.0.0 googleauth.pro
 0.0.0.0 googlechat.xyz
 0.0.0.0 googlecloud.live
@@ -50564,6 +50572,9 @@
 0.0.0.0 lanuchmynft.com
 0.0.0.0 lanuchnynft.io
 0.0.0.0 laomao.run
+0.0.0.0 laoqianf14.top
+0.0.0.0 laoqianf15.top
+0.0.0.0 laoqianf51.top
 0.0.0.0 lapakbidaracina.com
 0.0.0.0 lapampa.co
 0.0.0.0 lapassover.site
@@ -95346,6 +95357,7 @@
 0.0.0.0 wyf666.com
 0.0.0.0 wyldcollection.cc
 0.0.0.0 wyn0t.com
+0.0.0.0 wyxbmh.cn
 0.0.0.0 wyxug.com
 0.0.0.0 wzniv2jp0.info
 0.0.0.0 wzrdzofweb3.com
@@ -96061,6 +96073,7 @@
 0.0.0.0 xinchen.space
 0.0.0.0 xinjpwk.vip
 0.0.0.0 xinmoshiwang.com
+0.0.0.0 xinqianf38.top 
 0.0.0.0 xintagma.com
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xion-burnt.com

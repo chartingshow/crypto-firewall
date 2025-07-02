@@ -1,0 +1,21 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 July 2025
+#
+
+com.atvnewsonline.app
+com.crownplay.luckyaddress1
+com.feidu.pay
+com.lc.btdj
+com.safew.messenger
+com.thpay.bank
+com.websea.exchange
+com.wetink.chat
+com.wukongwaimai.client
+io.aicean.chat
+xyz.starohm.chat

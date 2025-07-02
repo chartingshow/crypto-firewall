@@ -5,21 +5,24 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 21 April 2025
+# Last modified: 2 July 2025
 #
 
 co.mona.android
 com.alemankarima.dating
 com.arkea.android.application.cmb
 com.asiandate
+com.atvnewsonline.app
 com.axabanque.fr
 com.bancocajasocial.geolocation
 com.bankinter.launcher
 com.bbva.bbvacontigo
 com.bbwkarima.dating
 com.binance.dev
+com.bintiger.mall.android
 com.blackwhitemeet
 com.boursorama.android.clients
+com.bs.feifubao
 com.caisseepargne.android.mobilebanking
 com.cajasur.android
 com.canadakarima.dating
@@ -30,6 +33,7 @@ com.conseguir.sol.pe
 com.CredemMobile
 com.credit.orange.enespeces.mtn.ouest.wave.argent.tresor.payer.pret
 com.credito.iprestamos.dinero.en.linea.chile
+com.crownplay.vanity.address
 com.cupidmedia.wrapper.internationalcupid
 com.curvydating
 com.denizbank.mobildeniz
@@ -84,6 +88,8 @@ com.restrict.bright.cowboy
 com.rosekarima.dating
 com.rsi	com.sella.BancaSella
 com.rupiahkilat.best
+com.sapp.chatai
+com.sapp.starcoin
 com.sbbqcfnvd.skgkkvba
 com.securegroup.assistant
 com.seplatmsm.skfplzbh
@@ -91,6 +97,7 @@ com.talkielive
 com.targoes_prod.bad
 com.tecnocom.cajalaboral
 com.tmobtech.halkbank
+com.tonghui.paybank
 com.uang.belanja
 com.unicredit
 com.vakifbank.mobile
@@ -98,6 +105,7 @@ com.vay.cashloan.cash
 com.vipera.chebanca
 com.voscp.rapido
 com.waplog.social
+com.websea.exchange
 com.winner.rupiahcl
 com.wrx.wazirx
 com.ykb.android	com.ziraat.ziraatmobil
@@ -132,6 +140,8 @@ it.popso.SCRIGNOapp
 mobi.societegenerale.mobile.lappli
 net.bnpparibas.mescomptes
 net.inverline.bancosabadell.officelocator.android
+org.safew.messenger
+org.safew.messenger.store
 ouyudz.wqrecg.blxal
 plnfexcq.fehlwuggm.kyxvb
 posteitaliane.posteapp.appbpol

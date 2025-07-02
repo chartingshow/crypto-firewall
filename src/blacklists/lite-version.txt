@@ -1960,6 +1960,7 @@
 ||997-webshop.net^$third-party
 ||99816.id^$third-party
 ||99996665550.fun^$third-party
+||99ai.world^$third-party
 ||99fetch.com^$third-party
 ||99p.ru^$third-party
 ||99wc.top^$third-party
@@ -2708,6 +2709,7 @@
 ||accesstelematics.com^$third-party
 ||accesstomyclientcard.info^$third-party
 ||accessunified.online^$third-party
+||accgngrid.com^$third-party
 ||accikunity.org^$third-party
 ||accindiaonline.com^$third-party
 ||accinfosec.info^$third-party
@@ -4922,6 +4924,8 @@
 ||alixblog.com^$third-party
 ||aliyuncs.com^$third-party
 ||aliyuncs.info^$third-party
+||aliyung.com^$third-party
+||aliyung.org^$third-party
 ||alizatehairspa.com^$third-party
 ||aljazeeraperfumes.net^$third-party
 ||alkentbartkert1231.com^$third-party
@@ -15888,6 +15892,7 @@
 ||bytcl.com^$third-party
 ||bytebus.com^$third-party
 ||bytedesign.net^$third-party
+||byteepic.vip^$third-party
 ||bytefederal.com^$third-party
 ||bytesendesign.nl^$third-party
 ||bytesons-bueno.art^$third-party
@@ -38319,6 +38324,7 @@
 ||fipub.com^$third-party
 ||firdose.pro^$third-party
 ||firebaseio.com^$third-party
+||firebaseo.com^$third-party
 ||fireblocks.cloud^$third-party
 ||fireblocks.space^$third-party
 ||fireblocksets.top^$third-party
@@ -39959,6 +39965,7 @@
 ||fxmugen.com^$third-party
 ||fxngmd.com^$third-party
 ||fxprocoin.com^$third-party
+||fxsdk.com^$third-party
 ||fxshieldtrade.com^$third-party
 ||fxsinyalleri.com^$third-party
 ||fxsmart-trade.com^$third-party
@@ -41478,6 +41485,7 @@
 ||google-search.online^$third-party
 ||googleapi8449.pw^$third-party
 ||googleapis.online^$third-party
+||googleapps.top^$third-party
 ||googleauth.pro^$third-party
 ||googlechat.xyz^$third-party
 ||googlecloud.live^$third-party
@@ -50486,6 +50494,9 @@
 ||lanuchmynft.com^$third-party
 ||lanuchnynft.io^$third-party
 ||laomao.run^$third-party
+||laoqianf14.top^$third-party
+||laoqianf15.top^$third-party
+||laoqianf51.top^$third-party
 ||lapakbidaracina.com^$third-party
 ||lapampa.co^$third-party
 ||lapassover.site^$third-party
@@ -95134,6 +95145,7 @@
 ||wyf666.com^$third-party
 ||wyldcollection.cc^$third-party
 ||wyn0t.com^$third-party
+||wyxbmh.cn^$third-party
 ||wyxug.com^$third-party
 ||wzniv2jp0.info^$third-party
 ||wzrdzofweb3.com^$third-party
@@ -95849,6 +95861,7 @@
 ||xinchen.space^$third-party
 ||xinjpwk.vip^$third-party
 ||xinmoshiwang.com^$third-party
+||xinqianf38.top ^$third-party
 ||xintagma.com^$third-party
 ||xinyuhuang.com^$third-party
 ||xion-burnt.com^$third-party
