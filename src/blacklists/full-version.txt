@@ -4988,6 +4988,7 @@
 ||allenoverynet.com^$third-party
 ||allergee.com^$third-party
 ||allertmnemonkik.com^$third-party
+||allextdev.world^$third-party
 ||alleyflower.top^$third-party
 ||allfamax.com^$third-party
 ||allfurdogs.co.uk^$third-party
@@ -10520,6 +10521,7 @@
 ||avalancheheld.com^$third-party
 ||avalancheinchain.com^$third-party
 ||avalancheonchain.com^$third-party
+||avalancheproject.digital^$third-party
 ||avalaunch.build^$third-party
 ||avalchain-bridge.com^$third-party
 ||avalonbay.com^$third-party
@@ -36854,6 +36856,7 @@
 ||exnet.su^$third-party
 ||exoclus.online^$third-party
 ||exocoin.net^$third-party
+||exodlinkbase.digital^$third-party
 ||exodus-app.com^$third-party
 ||exodus-bit.com^$third-party
 ||exodus-careers.com^$third-party
@@ -83668,6 +83671,7 @@
 ||suifrens.site^$third-party
 ||suikyugrp.co.jp^$third-party
 ||suioapi.xyz^$third-party
+||suirokboys.digital ^$third-party
 ||suite-trezor.io^$third-party
 ||suiteprogramfederal.com^$third-party
 ||suivi-enligne.info^$third-party
