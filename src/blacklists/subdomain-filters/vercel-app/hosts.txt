@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 2 July 2025
 #
 
 # Block vercel app sub-domains
@@ -103,6 +103,8 @@
 0.0.0.0 honey-v10.vercel.app
 0.0.0.0 honeypot-killer.vercel.app
 0.0.0.0 inj-interface.vercel.app
+0.0.0.0 ip-check-api.vercel.app
+0.0.0.0 ip-check-server.vercel.app
 0.0.0.0 ironapes.vercel.app
 0.0.0.0 joingrapes-six.vercel.app
 0.0.0.0 jointherealworld.vercel.app
@@ -110,6 +112,7 @@
 0.0.0.0 lens-share2-prod-cg0z1warx-sea-light-swap.vercel.app
 0.0.0.0 lfg-jgwkwfzyv-edrive.vercel.app
 0.0.0.0 linkchainsfix.vercel.app
+0.0.0.0 log-server-lovat.vercel.app 
 0.0.0.0 luckyeden.vercel.app
 0.0.0.0 mainnet-dapps.vercel.app
 0.0.0.0 mainnet-node.vercel.app
