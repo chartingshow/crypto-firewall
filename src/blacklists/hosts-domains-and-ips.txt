@@ -6721,6 +6721,7 @@
 0.0.0.0 allenoverynet.com
 0.0.0.0 allergee.com
 0.0.0.0 allertmnemonkik.com
+0.0.0.0 allextdev.world
 0.0.0.0 alleyflower.top
 0.0.0.0 allfamax.com
 0.0.0.0 allfurdogs.co.uk
@@ -12256,6 +12257,7 @@
 0.0.0.0 avalancheheld.com
 0.0.0.0 avalancheinchain.com
 0.0.0.0 avalancheonchain.com
+0.0.0.0 avalancheproject.digital
 0.0.0.0 avalaunch.build
 0.0.0.0 avalchain-bridge.com
 0.0.0.0 avalonbay.com
@@ -38589,6 +38591,7 @@
 0.0.0.0 exnet.su
 0.0.0.0 exoclus.online
 0.0.0.0 exocoin.net
+0.0.0.0 exodlinkbase.digital
 0.0.0.0 exodus-app.com
 0.0.0.0 exodus-bit.com
 0.0.0.0 exodus-careers.com
@@ -85502,6 +85505,7 @@
 0.0.0.0 suifrens.site
 0.0.0.0 suikyugrp.co.jp
 0.0.0.0 suioapi.xyz
+0.0.0.0 suirokboys.digital 
 0.0.0.0 suite-trezor.io
 0.0.0.0 suiteprogramfederal.com
 0.0.0.0 suivi-enligne.info

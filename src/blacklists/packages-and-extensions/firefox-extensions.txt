@@ -1,0 +1,54 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 2 July 2025
+#
+
+bitget-by-addon
+bitget-by-addons
+bitget-extension
+btc-wallet
+coinbasewallet
+developer-trust
+eth-for-edition
+eth-wallet
+ethereum-wallet
+ethereum-wallet-crypto
+fil-project
+filfox
+filfox-wallet
+is-a-block-explorer
+keplr-wallet
+leap-wallet
+metamask-addons
+metamask-crypto-official
+metamask-for-firefox
+metamask-for-wallet
+metamask-the-extension
+metamaskext
+mew-wallet-ethereum-defi-web3
+mymonero-wallet
+official-metamask
+official-metamask-wallet
+okx-add
+okx-addons
+okx-wallet-extension
+okx-wallet-extension1
+phantom-ext-off
+phantom-wallet-extension
+trust-app
+trust-application
+trust-bestwallet
+trust-cryp
+trust-developer
+trust-extension-wallet
+trust-for-mozilla
+trust-wallet-mozilla-add
+wallet-for-bitcoin
+wallet-for-trusr-crypto-wallet
+wallet-for-trust
+wallet-metamask-crypto-wallet
