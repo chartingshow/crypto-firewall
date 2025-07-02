@@ -97950,6 +97950,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bithumb-com/adblock-list.txt
 !#include domain-filters/bitmart-com/adblock-list.txt
 !#include domain-filters/bitmex-com/adblock-list.txt
+!#include domain-filters/bitopro-com/adblock-list.txt
 !#include domain-filters/bitrue-com/adblock-list.txt
 !#include domain-filters/bitso-com/adblock-list.txt
 !#include domain-filters/bitstamp-net/adblock-list.txt
