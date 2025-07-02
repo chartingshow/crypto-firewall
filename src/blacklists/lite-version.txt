@@ -19395,6 +19395,7 @@
 ||cdnhelpdesk-uber.com^$third-party
 ||cdninternal.cloud^$third-party
 ||cdnjs-storage.com^$third-party
+||cdnkit.io ^$third-party
 ||cdnofficecloud.com^$third-party
 ||cdnpaidsecure.ca^$third-party
 ||cdnportalreturn-ca.com^$third-party
