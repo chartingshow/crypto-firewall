@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 2 July 2025
+! Last modified: 3 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -27060,6 +27060,7 @@
 ||datasheet.fun^$third-party
 ||datasits.com^$third-party
 ||datastor.top^$third-party
+||dataupload.store^$third-party
 ||datauser.cf^$third-party
 ||datavedas.com^$third-party
 ||datavibe.sbs^$third-party
@@ -38384,6 +38385,7 @@
 ||firsteuropeancreditunion.online^$third-party
 ||firstfaresearch.com^$third-party
 ||firstfitschool.com^$third-party
+||firstfromsep.online^$third-party
 ||firstgrouprhconsulting.com^$third-party
 ||firsthandyw.cfd^$third-party
 ||firsthelpcharitabletrust.org^$third-party
@@ -76376,6 +76378,7 @@
 ||safetyfactor.online^$third-party
 ||safetyinitiative.online^$third-party
 ||safetyuser.com^$third-party
+||safeup.store^$third-party
 ||safewallet.cloud^$third-party
 ||safewallet.ltd^$third-party
 ||safewayintltransfer.com^$third-party
@@ -90810,6 +90813,10 @@
 ||us-unreconized.com^$third-party
 ||us-xrp.com^$third-party
 ||us.to^$third-party
+||us05web-zoom.cloud^$third-party
+||us05web-zoom.forum^$third-party
+||us05web-zoom.pro^$third-party
+||us06web-zoom.online^$third-party
 ||us776.com^$third-party
 ||us778.com^$third-party
 ||us779.com^$third-party
@@ -94861,6 +94868,7 @@
 ||wriash.shop^$third-party
 ||wrisstytenewj.shop^$third-party
 ||writerospzm.shop^$third-party
+||writeup.live ^$third-party
 ||writtern.com^$third-party
 ||wrldcoin.io^$third-party
 ||wrldcoin.site^$third-party
