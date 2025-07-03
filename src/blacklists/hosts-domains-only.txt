@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 July 2025
+# Last modified: 3 July 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -27144,6 +27144,7 @@
 0.0.0.0 datasheet.fun
 0.0.0.0 datasits.com
 0.0.0.0 datastor.top
+0.0.0.0 dataupload.store
 0.0.0.0 datauser.cf
 0.0.0.0 datavedas.com
 0.0.0.0 datavibe.sbs
@@ -38470,6 +38471,7 @@
 0.0.0.0 firsteuropeancreditunion.online
 0.0.0.0 firstfaresearch.com
 0.0.0.0 firstfitschool.com
+0.0.0.0 firstfromsep.online
 0.0.0.0 firstgrouprhconsulting.com
 0.0.0.0 firsthandyw.cfd
 0.0.0.0 firsthelpcharitabletrust.org
@@ -76491,6 +76493,7 @@
 0.0.0.0 safetyfactor.online
 0.0.0.0 safetyinitiative.online
 0.0.0.0 safetyuser.com
+0.0.0.0 safeup.store
 0.0.0.0 safewallet.cloud
 0.0.0.0 safewallet.ltd
 0.0.0.0 safewayintltransfer.com
@@ -90997,6 +91000,10 @@
 0.0.0.0 us-xrp.com
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 us.to
+0.0.0.0 us05web-zoom.cloud
+0.0.0.0 us05web-zoom.forum
+0.0.0.0 us05web-zoom.pro
+0.0.0.0 us06web-zoom.online
 0.0.0.0 us776.com
 0.0.0.0 us778.com
 0.0.0.0 us779.com
@@ -95050,6 +95057,7 @@
 0.0.0.0 wriash.shop
 0.0.0.0 wrisstytenewj.shop
 0.0.0.0 writerospzm.shop
+0.0.0.0 writeup.live 
 0.0.0.0 writtern.com
 0.0.0.0 wrldcoin.io
 0.0.0.0 wrldcoin.site
