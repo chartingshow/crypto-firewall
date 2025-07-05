@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 3 July 2025
+! Last modified: 5 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -97951,7 +97951,10 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! Blocking domains -------------------------------------------------------------
 !#include domain-filters/1inch-io/adblock-list.txt
+!#include domain-filters/aerodrome-finance/adblock-list.txt
+!#include domain-filters/aftermath-finance/adblock-list.txt
 !#include domain-filters/altdentifier-com/adblock-list.txt
+!#include domain-filters/balancer-fi/adblock-list.txt
 !#include domain-filters/bilaxy-com/adblock-list.txt
 !#include domain-filters/binance-com/adblock-list.txt
 !#include domain-filters/binance-tr/adblock-list.txt
@@ -97966,14 +97969,21 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitrue-com/adblock-list.txt
 !#include domain-filters/bitso-com/adblock-list.txt
 !#include domain-filters/bitstamp-net/adblock-list.txt
+!#include domain-filters/bluefin-io/adblock-list.txt
 !#include domain-filters/bullish-com/adblock-list.txt
 !#include domain-filters/bybit-com/adblock-list.txt
 !#include domain-filters/calendly-com/adblock-list.txt
+!#include domain-filters/camelot-exchange/adblock-list.txt
+!#include domain-filters/cellana-finance/adblock-list.txt
+!#include domain-filters/cetus-zone/adblock-list.txt
+!#include domain-filters/chainflip-io/adblock-list.txt
+!#include domain-filters/changenow-io/adblock-list.txt
 !#include domain-filters/coinbase-com/adblock-list.txt
 !#include domain-filters/coinex-com/adblock-list.txt
 !#include domain-filters/coinlist-co/adblock-list.txt
 !#include domain-filters/coinw-com/adblock-list.txt
 !#include domain-filters/crypto-com/adblock-list.txt
+!#include domain-filters/curve-finance/adblock-list.txt
 !#include domain-filters/digifinex-com/adblock-list.txt
 !#include domain-filters/gate-com/adblock-list.txt
 !#include domain-filters/gemini-com/adblock-list.txt
