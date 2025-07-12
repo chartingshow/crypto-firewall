@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 3 July 2025
+# Last modified: 12 July 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -31265,6 +31265,7 @@
 0.0.0.0 eaglecom.net
 0.0.0.0 eaglecontract-wallet.com
 0.0.0.0 eagledex.website
+0.0.0.0 eaglekl.digital
 0.0.0.0 eaglepawnoy.store
 0.0.0.0 eaglevideomx.com
 0.0.0.0 eagleyecapitals.com
@@ -48171,6 +48172,7 @@
 0.0.0.0 ismaelburciaga.com
 0.0.0.0 ismartrium.com
 0.0.0.0 ismarttechnologies.com
+0.0.0.0 isnimitz.com
 0.0.0.0 isocertificationindia.net
 0.0.0.0 isolafoods.com
 0.0.0.0 isolde-richter.de
@@ -66245,6 +66247,7 @@
 0.0.0.0 payablefees-online.com
 0.0.0.0 payaccess-id.com
 0.0.0.0 payaccountbills.website
+0.0.0.0 payandhay.online
 0.0.0.0 payanpost-customfee.com
 0.0.0.0 payanpost-customfees.com
 0.0.0.0 payantexchange.com
@@ -67692,6 +67695,7 @@
 0.0.0.0 plasmans.online
 0.0.0.0 plastcmoont.com
 0.0.0.0 plasticospuente.com
+0.0.0.0 plasticshark.shop
 0.0.0.0 plasticsurgerydubaiuae.com
 0.0.0.0 plastock.cl
 0.0.0.0 plastofab.com
@@ -67816,6 +67820,7 @@
 0.0.0.0 plokoto.cf
 0.0.0.0 plorjixy.top
 0.0.0.0 plorod.com
+0.0.0.0 plotoraus.shop
 0.0.0.0 plowson.site
 0.0.0.0 ploxqenj.top
 0.0.0.0 plp7.ru
@@ -72375,6 +72380,7 @@
 0.0.0.0 receive-your-mygov.com
 0.0.0.0 receive-your-right.com
 0.0.0.0 receive.bio
+0.0.0.0 receive.llc
 0.0.0.0 receive4u.online
 0.0.0.0 receivebenefit.ca
 0.0.0.0 received-benefit.com
@@ -76132,6 +76138,7 @@
 0.0.0.0 rubiodiazhnos.com
 0.0.0.0 rubjbz.fun
 0.0.0.0 rubrik.id
+0.0.0.0 rubyhall.in.net
 0.0.0.0 rucksendung-post-at.com
 0.0.0.0 ructin.com
 0.0.0.0 rudolfstarkeps.com
@@ -85607,6 +85614,7 @@
 0.0.0.0 tele-mars-poolinfi.com
 0.0.0.0 tele-mobilerefund.ml
 0.0.0.0 tele-web.su
+0.0.0.0 tele2.se
 0.0.0.0 tele24.online
 0.0.0.0 teleact247can.com
 0.0.0.0 teleappis.com
@@ -92850,6 +92858,7 @@
 0.0.0.0 vnuefff555hr.top
 0.0.0.0 vocesdelatinoamerica.com
 0.0.0.0 vocoptions.net
+0.0.0.0 vodafonedsl.it
 0.0.0.0 vodafoneegypt.tech
 0.0.0.0 vodafonegypt.com
 0.0.0.0 voditelaux.icu
@@ -94629,6 +94638,7 @@
 0.0.0.0 wimsa.top
 0.0.0.0 wimuawzice.xyz
 0.0.0.0 win-mbox.com
+0.0.0.0 win2officialgray.win
 0.0.0.0 win365vn.org
 0.0.0.0 winbitok.com
 0.0.0.0 winbvp.com
