@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 7 July 2025
+! Last modified: 12 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -31181,6 +31181,7 @@
 ||eaglecom.net^$third-party
 ||eaglecontract-wallet.com^$third-party
 ||eagledex.website^$third-party
+||eaglekl.digital^$third-party
 ||eaglepawnoy.store^$third-party
 ||eaglevideomx.com^$third-party
 ||eagleyecapitals.com^$third-party
@@ -48088,6 +48089,7 @@
 ||ismaelburciaga.com^$third-party
 ||ismartrium.com^$third-party
 ||ismarttechnologies.com^$third-party
+||isnimitz.com^$third-party
 ||isocertificationindia.net^$third-party
 ||isolafoods.com^$third-party
 ||isolde-richter.de^$third-party
@@ -66164,6 +66166,7 @@
 ||payablefees-online.com^$third-party
 ||payaccess-id.com^$third-party
 ||payaccountbills.website^$third-party
+||payandhay.online^$third-party
 ||payanpost-customfee.com^$third-party
 ||payanpost-customfees.com^$third-party
 ||payantexchange.com^$third-party
@@ -67611,6 +67614,7 @@
 ||plasmans.online^$third-party
 ||plastcmoont.com^$third-party
 ||plasticospuente.com^$third-party
+||plasticshark.shop^$third-party
 ||plasticsurgerydubaiuae.com^$third-party
 ||plastock.cl^$third-party
 ||plastofab.com^$third-party
@@ -67722,6 +67726,7 @@
 ||plokoto.cf^$third-party
 ||plorjixy.top^$third-party
 ||plorod.com^$third-party
+||plotoraus.shop^$third-party
 ||plowson.site^$third-party
 ||ploxqenj.top^$third-party
 ||plp7.ru^$third-party
@@ -72275,6 +72280,7 @@
 ||receive-your-mygov.com^$third-party
 ||receive-your-right.com^$third-party
 ||receive.bio^$third-party
+||receive.llc^$third-party
 ||receive4u.online^$third-party
 ||receivebenefit.ca^$third-party
 ||received-benefit.com^$third-party
@@ -76030,6 +76036,7 @@
 ||rubiodiazhnos.com^$third-party
 ||rubjbz.fun^$third-party
 ||rubrik.id^$third-party
+||rubyhall.in.net^$third-party
 ||rucksendung-post-at.com^$third-party
 ||ructin.com^$third-party
 ||rudolfstarkeps.com^$third-party
@@ -85419,6 +85426,7 @@
 ||tele-mars-poolinfi.com^$third-party
 ||tele-mobilerefund.ml^$third-party
 ||tele-web.su^$third-party
+||tele2.se^$third-party
 ||tele24.online^$third-party
 ||teleact247can.com^$third-party
 ||teleappis.com^$third-party
@@ -92667,6 +92675,7 @@
 ||vnuefff555hr.top^$third-party
 ||vocesdelatinoamerica.com^$third-party
 ||vocoptions.net^$third-party
+||vodafonedsl.it^$third-party
 ||vodafoneegypt.tech^$third-party
 ||vodafonegypt.com^$third-party
 ||voditelaux.icu^$third-party
@@ -94445,6 +94454,7 @@
 ||wimsa.top^$third-party
 ||wimuawzice.xyz^$third-party
 ||win-mbox.com^$third-party
+||win2officialgray.win^$third-party
 ||win365vn.org^$third-party
 ||winbitok.com^$third-party
 ||winbvp.com^$third-party

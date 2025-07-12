@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 3 July 2025
+# Last modified: 12 July 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -764,6 +764,7 @@
 0.0.0.0 185.148.168.220
 0.0.0.0 185.149.120.137
 0.0.0.0 185.149.146.171
+0.0.0.0 185.156.72.80
 0.0.0.0 185.157.82.209
 0.0.0.0 185.157.82.211
 0.0.0.0 185.158.249.37
@@ -1343,6 +1344,11 @@
 0.0.0.0 45.93.20.58
 0.0.0.0 45.93.201.92
 0.0.0.0 45.94.47.102
+0.0.0.0 45.94.47.145
+0.0.0.0 45.94.47.146
+0.0.0.0 45.94.47.147
+0.0.0.0 45.94.47.157
+0.0.0.0 45.94.47.158
 0.0.0.0 46.165.249.8
 0.0.0.0 46.173.214.12
 0.0.0.0 46.173.214.32
@@ -1639,6 +1645,7 @@
 0.0.0.0 94.140.112.15
 0.0.0.0 94.140.115.0
 0.0.0.0 94.140.115.98
+0.0.0.0 94.141.12.182 
 0.0.0.0 94.142.138.61
 0.0.0.0 94.156.8.251
 0.0.0.0 94.176.237.229
@@ -32921,6 +32928,7 @@
 0.0.0.0 eaglecom.net
 0.0.0.0 eaglecontract-wallet.com
 0.0.0.0 eagledex.website
+0.0.0.0 eaglekl.digital
 0.0.0.0 eaglepawnoy.store
 0.0.0.0 eaglevideomx.com
 0.0.0.0 eagleyecapitals.com
@@ -49827,6 +49835,7 @@
 0.0.0.0 ismaelburciaga.com
 0.0.0.0 ismartrium.com
 0.0.0.0 ismarttechnologies.com
+0.0.0.0 isnimitz.com
 0.0.0.0 isocertificationindia.net
 0.0.0.0 isolafoods.com
 0.0.0.0 isolde-richter.de
@@ -67901,6 +67910,7 @@
 0.0.0.0 payablefees-online.com
 0.0.0.0 payaccess-id.com
 0.0.0.0 payaccountbills.website
+0.0.0.0 payandhay.online
 0.0.0.0 payanpost-customfee.com
 0.0.0.0 payanpost-customfees.com
 0.0.0.0 payantexchange.com
@@ -69348,6 +69358,7 @@
 0.0.0.0 plasmans.online
 0.0.0.0 plastcmoont.com
 0.0.0.0 plasticospuente.com
+0.0.0.0 plasticshark.shop
 0.0.0.0 plasticsurgerydubaiuae.com
 0.0.0.0 plastock.cl
 0.0.0.0 plastofab.com
@@ -69472,6 +69483,7 @@
 0.0.0.0 plokoto.cf
 0.0.0.0 plorjixy.top
 0.0.0.0 plorod.com
+0.0.0.0 plotoraus.shop
 0.0.0.0 plowson.site
 0.0.0.0 ploxqenj.top
 0.0.0.0 plp7.ru
@@ -74031,6 +74043,7 @@
 0.0.0.0 receive-your-mygov.com
 0.0.0.0 receive-your-right.com
 0.0.0.0 receive.bio
+0.0.0.0 receive.llc
 0.0.0.0 receive4u.online
 0.0.0.0 receivebenefit.ca
 0.0.0.0 received-benefit.com
@@ -77788,6 +77801,7 @@
 0.0.0.0 rubiodiazhnos.com
 0.0.0.0 rubjbz.fun
 0.0.0.0 rubrik.id
+0.0.0.0 rubyhall.in.net
 0.0.0.0 rucksendung-post-at.com
 0.0.0.0 ructin.com
 0.0.0.0 rudolfstarkeps.com
@@ -87263,6 +87277,7 @@
 0.0.0.0 tele-mars-poolinfi.com
 0.0.0.0 tele-mobilerefund.ml
 0.0.0.0 tele-web.su
+0.0.0.0 tele2.se
 0.0.0.0 tele24.online
 0.0.0.0 teleact247can.com
 0.0.0.0 teleappis.com
@@ -94506,6 +94521,7 @@
 0.0.0.0 vnuefff555hr.top
 0.0.0.0 vocesdelatinoamerica.com
 0.0.0.0 vocoptions.net
+0.0.0.0 vodafonedsl.it
 0.0.0.0 vodafoneegypt.tech
 0.0.0.0 vodafonegypt.com
 0.0.0.0 voditelaux.icu
@@ -96285,6 +96301,7 @@
 0.0.0.0 wimsa.top
 0.0.0.0 wimuawzice.xyz
 0.0.0.0 win-mbox.com
+0.0.0.0 win2officialgray.win
 0.0.0.0 win365vn.org
 0.0.0.0 winbitok.com
 0.0.0.0 winbvp.com
