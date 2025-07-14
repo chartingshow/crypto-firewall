@@ -98039,7 +98039,17 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/poloniex-com/adblock-list.txt
 !#include domain-filters/pulsex-com/adblock-list.txt
 !#include domain-filters/pump-fun/adblock-list.txt
+!#include domain-filters/quickswap-exchange
+!#include domain-filters/ramses-exchange
+!#include domain-filters/raydium-io
 !#include domain-filters/revoke-cash/adblock-list.txt
+!#include domain-filters/roninchain-com
+!#include domain-filters/sailor-finance
+!#include domain-filters/saucerswap-finance
+!#include domain-filters/shadow-so
+!#include domain-filters/squadswap-com
+!#include domain-filters/stabble-org
+!#include domain-filters/sun-io
 !#include domain-filters/toobit-com/adblock-list.txt
 !#include domain-filters/upbit-com/adblock-list.txt
 !#include domain-filters/whitebit-com/adblock-list.txt
