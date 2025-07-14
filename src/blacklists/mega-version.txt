@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 12 July 2025
+! Last modified: 14 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -98023,12 +98023,22 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/magmafinance-io/adblock-list.txt
 !#include domain-filters/mav-xyz/adblock-list.txt
 !#include domain-filters/merchantmoe-com/adblock-list.txt
+!#include domain-filters/metalx-com/adblock-list.txt
+!#include domain-filters/meteora-ag/adblock-list.txt
 !#include domain-filters/mexc-com/adblock-list.txt
+!#include domain-filters/minswap-org/adblock-list.txt
 !#include domain-filters/okx-com/adblock-list.txt
+!#include domain-filters/openocean-finance/adblock-list.txt
 !#include domain-filters/orangex-com/adblock-list.txt
+!#include domain-filters/orca-so/adblock-list.txt
+!#include domain-filters/osmosis-zone/adblock-list.txt
+!#include domain-filters/pancakeswap-finance/adblock-list.txt
+!#include domain-filters/pharaoh-exchange/adblock-list.txt
 !#include domain-filters/phemex-com/adblock-list.txt
 !#include domain-filters/pionex-com/adblock-list.txt
 !#include domain-filters/poloniex-com/adblock-list.txt
+!#include domain-filters/pulsex-com/adblock-list.txt
+!#include domain-filters/pump-fun/adblock-list.txt
 !#include domain-filters/revoke-cash/adblock-list.txt
 !#include domain-filters/toobit-com/adblock-list.txt
 !#include domain-filters/upbit-com/adblock-list.txt
