@@ -5,13 +5,16 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 July 2025
+# Last modified: 16 July 2025
 #
 
+1v1-lol
 bitget-by-addon
 bitget-by-addons
 bitget-extension
 btc-wallet
+bubble-spinner
+calsyncmaster
 coinbasewallet
 developer-trust
 eth-for-edition
@@ -21,9 +24,14 @@ ethereum-wallet-crypto
 fil-project
 filfox
 filfox-wallet
+five-nights-at-freddy-s
+fnaf-animatronics
+gimmegimme
 is-a-block-explorer
 keplr-wallet
+krunker-io-game
 leap-wallet
+little-alchemy-2
 metamask-addons
 metamask-crypto-official
 metamask-for-firefox
@@ -48,6 +56,7 @@ trust-developer
 trust-extension-wallet
 trust-for-mozilla
 trust-wallet-mozilla-add
+vpn-grab-a-proxy-free
 wallet-for-bitcoin
 wallet-for-trusr-crypto-wallet
 wallet-for-trust
