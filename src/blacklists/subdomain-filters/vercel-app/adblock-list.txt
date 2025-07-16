@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Vercel App)
 ! Expires: 7 days (update frequency)
-! Last modified: 2 July 2025
+! Last modified: 16 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -113,7 +113,7 @@
 ||lens-share2-prod-cg0z1warx-sea-light-swap.vercel.app^$third-party
 ||lfg-jgwkwfzyv-edrive.vercel.app^$third-party
 ||linkchainsfix.vercel.app^$third-party
-||log-server-lovat.vercel.app ^$third-party
+||log-server-lovat.vercel.app^$third-party
 ||luckyeden.vercel.app^$third-party
 ||mainnet-dapps.vercel.app^$third-party
 ||mainnet-node.vercel.app^$third-party
