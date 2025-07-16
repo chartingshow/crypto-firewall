@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 July 2025
+# Last modified: 16 July 2025
 #
 
 co.mona.android
@@ -26,6 +26,7 @@ com.bs.feifubao
 com.caisseepargne.android.mobilebanking
 com.cajasur.android
 com.canadakarima.dating
+com.carromboard.friends.game
 com.chinalove
 com.cic_prod.bad
 com.cm_prod.bad
@@ -48,6 +49,9 @@ com.fullsix.android.labanquepostale.accountaccess
 com.garanti.cepsubesi
 com.gotoloan.cash
 com.grupocajamar.wefferent
+com.herocraft.game.free.medieval
+com.herocraft.game.freemium.catchthecandy
+com.herocraft.game.yumsters.free
 com.hm.happy.money
 com.hotornot.app
 com.huaynamoney.prestamos.creditos.peru.loan.credit
@@ -96,6 +100,7 @@ com.seplatmsm.skfplzbh
 com.talkielive
 com.targoes_prod.bad
 com.tecnocom.cajalaboral
+com.temperament.nearme.gamecenter
 com.tmobtech.halkbank
 com.tonghui.paybank
 com.uang.belanja
@@ -110,6 +115,7 @@ com.winner.rupiahcl
 com.wrx.wazirx
 com.ykb.android	com.ziraat.ziraatmobil
 com.yourchristiandate
+com.zddapps.totke
 com.zoosk.zoosk
 es.bancosantander.apps
 es.caixagalicia.activamovil
@@ -143,6 +149,7 @@ net.inverline.bancosabadell.officelocator.android
 org.safew.messenger
 org.safew.messenger.store
 ouyudz.wqrecg.blxal
+physics.physics.physics
 plnfexcq.fehlwuggm.kyxvb
 posteitaliane.posteapp.appbpol
 posteitaliane.posteapp.apppostepay
