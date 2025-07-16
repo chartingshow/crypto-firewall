@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 14 July 2025
+! Last modified: 16 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -39853,6 +39853,7 @@
 ||funestotal.com^$third-party
 ||funextrade.com^$third-party
 ||funflask.com^$third-party
+||funformathgame.com^$third-party
 ||fungalaxyca.com^$third-party
 ||fungible-token.club^$third-party
 ||funhaus.com.br^$third-party

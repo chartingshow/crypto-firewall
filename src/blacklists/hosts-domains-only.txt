@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 12 July 2025
+# Last modified: 16 July 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -39939,6 +39939,7 @@
 0.0.0.0 funestotal.com
 0.0.0.0 funextrade.com
 0.0.0.0 funflask.com
+0.0.0.0 funformathgame.com 
 0.0.0.0 fungalaxyca.com
 0.0.0.0 fungible-token.club
 0.0.0.0 funhaus.com.br
