@@ -104,7 +104,6 @@
 ||honey-v10.vercel.app^$third-party
 ||honeypot-killer.vercel.app^$third-party
 ||inj-interface.vercel.app^$third-party
-||ip-check-api.vercel.app ^$third-party
 ||ip-check-api.vercel.app^$third-party
 ||ip-check-server.vercel.app^$third-party
 ||ironapes.vercel.app^$third-party
