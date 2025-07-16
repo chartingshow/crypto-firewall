@@ -5899,6 +5899,7 @@
 ||angelarolle.com^$third-party
 ||angeldonationblog.com^$third-party
 ||angeldreams.nu^$third-party
+||angelic.su^$third-party
 ||angeliquecabezas.com^$third-party
 ||angelopastorino.com^$third-party
 ||angeloper.com^$third-party
@@ -52222,6 +52223,7 @@
 ||lmcaz7353.info^$third-party
 ||lmeer.ink^$third-party
 ||lmele.cc^$third-party
+||lmfao.su^$third-party
 ||lmi.claims^$third-party
 ||lminoeubybyvq.com^$third-party
 ||lmlsolutions.lk^$third-party
@@ -59876,6 +59878,7 @@
 ||mystkl.com^$third-party
 ||mystoreleathery.com^$third-party
 ||mystoreproduct.com^$third-party
+||mystr1.xyz^$third-party
 ||mystrikingly.com^$third-party
 ||mystycl.com^$third-party
 ||mystykscents.shop^$third-party
@@ -82413,6 +82416,7 @@
 ||staketoken.xyz^$third-party
 ||staketokens.team^$third-party
 ||staketokens.xyz^$third-party
+||staketree.net^$third-party
 ||stakevetme.tech^$third-party
 ||stakewies.io^$third-party
 ||stakewiise.in^$third-party
@@ -94828,6 +94832,7 @@
 ||worthless.top^$third-party
 ||worthsuwqp.shop^$third-party
 ||worthy-nft.online^$third-party
+||wortindely.com^$third-party
 ||woservicewindows10update.xyz^$third-party
 ||wothy.shop^$third-party
 ||wotousfrcool.xyz^$third-party
