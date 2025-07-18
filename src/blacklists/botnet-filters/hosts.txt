@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 June 2025
+# Last modified: 18 July 2025
 #
 
 0.0.0.0 100ulife.com
@@ -349,6 +349,7 @@
 0.0.0.0 guanacogame.com
 0.0.0.0 guidestek.com
 0.0.0.0 h5cloudgame.com
+0.0.0.0 h5game1.com
 0.0.0.0 h5gameapp.com
 0.0.0.0 h5gameweb.top
 0.0.0.0 h5playzone.com
@@ -657,6 +658,7 @@
 0.0.0.0 redbudgames.com
 0.0.0.0 redhotter.com
 0.0.0.0 redtamatofeed.com
+0.0.0.0 registrea.com
 0.0.0.0 resergame.com
 0.0.0.0 retrofitxer.com
 0.0.0.0 returnlitnews.com
