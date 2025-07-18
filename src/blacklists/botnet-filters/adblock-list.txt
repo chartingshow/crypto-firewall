@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 6 June 2025
+! Last modified: 18 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -11,7 +11,7 @@
 ||100ulife.com^
 ||179wg.com^
 ||1day.gift^
-||1ztop.work ^
+||1ztop.work^
 ||24kgames.com^
 ||5game1.com^
 ||99soya.shop^
@@ -20,7 +20,7 @@
 ||acrenews.top^
 ||acruy.fun^
 ||ad3g.com^
-||admoyu.com ^
+||admoyu.com^
 ||ads-goal.com^
 ||adstormsurge.com^
 ||adxtocloud.com^
@@ -151,7 +151,7 @@
 ||custgame.com^
 ||customcommercialcranes.icu^
 ||cutgamer.com^
-||cxlcyy.com ^
+||cxlcyy.com^
 ||cxzyr.com^
 ||daareco.com^
 ||dailygames.top^
@@ -161,9 +161,9 @@
 ||davegas-casino-online.com^
 ||days4.com^
 ||dazzl.vip^
-||dc16888888.com ^
+||dc16888888.com^
 ||dceuneb.com^
-||dcylog.com ^
+||dcylog.com^
 ||dddyizhan.com^
 ||delienanch.com^
 ||delishcravings56.top^
@@ -201,7 +201,7 @@
 ||duoduodev.com^
 ||dustpangame.com^
 ||earthsignse.com^
-||easyjoy.me ^
+||easyjoy.me^
 ||echojoy.xyz^
 ||echoloot.pro^
 ||econotrend.us^
@@ -263,7 +263,7 @@
 ||fosugufen.com^
 ||fourleafcookies.com^
 ||fridayol.com^
-||fuhidd.com ^
+||fuhidd.com^
 ||fun-goal.com^
 ||funchat.ai^
 ||funfiction567.top^
@@ -350,6 +350,7 @@
 ||guanacogame.com^
 ||guidestek.com^
 ||h5cloudgame.com^
+||h5game1.com^
 ||h5gameapp.com^
 ||h5gameweb.top^
 ||h5playzone.com^
@@ -383,7 +384,7 @@
 ||humbertohah.com^
 ||hunkgame.top^
 ||huqigame.com^
-||huulog.com ^
+||huulog.com^
 ||huuww.com^
 ||ideaechoes.top^
 ||idlemaze.com^
@@ -400,7 +401,7 @@
 ||investaifuture.com^
 ||investdiary.top^
 ||ipforyou.top^
-||ipmoyu.com ^
+||ipmoyu.com^
 ||ishoptoday.com^
 ||jacperhos.com^
 ||jaeergame.com^
@@ -412,7 +413,7 @@
 ||jino.fun^
 ||jo2yx.com^
 ||jokez.fun^
-||jolted.vip ^
+||jolted.vip^
 ||joyfulnovels1.top^
 ||joyfulxx.com^
 ||jtp42.com^
@@ -420,7 +421,7 @@
 ||jumbogames.top^
 ||jumboinsur.com^
 ||junglygames.top^
-||jutux.work ^
+||jutux.work^
 ||jzfreegames.com^
 ||jzird.com^
 ||keelgames.top^
@@ -456,7 +457,7 @@
 ||loan-3346973.info^
 ||lobgamer.com^
 ||loftjoy.fun^
-||logcer.com ^
+||logcer.com^
 ||lolagamers.com^
 ||lollyroom.top^
 ||long.tv^
@@ -491,21 +492,21 @@
 ||moonhub.work^
 ||moorick.com^
 ||mopgamer.com^
-||motiyu.net ^
+||motiyu.net^
 ||mowergame.com^
 ||moyix.com^
-||moyu88.xyz ^
+||moyu88.xyz^
 ||msohu.online^
-||msohu.shop ^
+||msohu.shop^
 ||mtcpmpm.com^
-||mtcprogram.com ^
+||mtcprogram.com^
 ||mtcpuouo.com^
 ||mubacare.com^
 ||mustgamer.com^
 ||myhtmlcode.com^
 ||mymoyu.shop^
 ||navelgame.com^
-||navnow.xyz ^
+||navnow.xyz^
 ||naxru.top^
 ||ndsgame.top^
 ||nebulegames.top^
@@ -584,7 +585,7 @@
 ||pinupyeniadresimobi.com^
 ||pixarz.com^
 ||pixelquestarena.fun^
-||pixelscast.com ^
+||pixelscast.com^
 ||pixelsprout.lol^
 ||pixlo.cc^
 ||platgamer.com^
@@ -629,7 +630,7 @@
 ||puzzlid.com^
 ||qazwsxedc.xyz^
 ||qcggow.com^
-||qocoll.com ^
+||qocoll.com^
 ||qsadewnt.com^
 ||quadgames.top^
 ||quanitumgamer.com^
@@ -658,6 +659,7 @@
 ||redbudgames.com^
 ||redhotter.com^
 ||redtamatofeed.com^
+||registrea.com^
 ||resergame.com^
 ||retrofitxer.com^
 ||returnlitnews.com^
@@ -712,7 +714,7 @@
 ||solareclipsex.top^
 ||solargames.top^
 ||solitudetop.top^
-||soyatea.online ^
+||soyatea.online^
 ||sparkgamet.com^
 ||sparkgamey.com^
 ||sparkinfoy.com^
@@ -740,10 +742,10 @@
 ||sumokata.com^
 ||sunrisegamey.com^
 ||supportdatainput.top^
-||sustat.com ^
+||sustat.com^
 ||sweatergamer.com^
 ||swiftaihubx.com^
-||swiftcode.work ^
+||swiftcode.work^
 ||swiftflexa.com^
 ||swiftflownews.com^
 ||swiftlytips.com^
