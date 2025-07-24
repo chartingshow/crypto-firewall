@@ -118,13 +118,14 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - A DNS-based host blocker for Android.
 
+- ![Blokada](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blokada.png) **[Blokada Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-android-instructions.md)** and **[Blokada iOS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-ios-instructions.md)** - Block ads and trackers in apps and games, comes with a fast and private DNS and VPN.
+
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
 
 ### Adblockers ☀️
 
-- ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
 - ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 
 ### Perimeter Blocking 🔓
