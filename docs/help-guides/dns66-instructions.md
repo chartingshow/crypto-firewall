@@ -57,15 +57,6 @@ Then use one of the following URLs depending on your preference:
 
 ### ✅ Recommended Hosts Lists
 
-| Version             | Description                       | URL                                                                                                     |
-| ------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Lite** (stable)   | Basic blocklist, fast performance | `https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt` |
-| **Full** (stable)   | More aggressive blocking          | `https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt` |
-| **Mega** (stable)   | Maximum protection                | `https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt` |
-| **Beta** (unstable) | Cutting edge updates              | `https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt` |
-
-📝 You can also try these **HOSTS-format lists** (use these under "Hosts" tab only):
-
 * **Domains Only**
   `https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt`
 
