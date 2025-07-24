@@ -45,7 +45,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Browser Blocking](#browser-blocking-)
     - [Recommended Choice](#recommended-choice-)
     - [Other Browser Choices](#other-browser-choices-)
-  - [Ad Blockers](#adblockers-%EF%B8%8F)
+  - [Ad Blockers](ad-blockers-%EF%B8%8F)
   - [Perimeter Blocking](#perimeter-blocking-)
   - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
   - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
