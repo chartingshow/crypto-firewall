@@ -64741,6 +64741,7 @@
 0.0.0.0 org-polygon-v3-defi.site
 0.0.0.0 org-tether.com
 0.0.0.0 orga-energy.store
+0.0.0.0 organica.tv
 0.0.0.0 organicflowers.site
 0.0.0.0 organiclub.in
 0.0.0.0 organics.com.ec
@@ -72236,6 +72237,7 @@
 0.0.0.0 reaexpress.com
 0.0.0.0 reagoofydwqioo.shop
 0.0.0.0 reaiio.network
+0.0.0.0 reaitek.com
 0.0.0.0 reaktivieren-icscard.nl
 0.0.0.0 reaktivieren-icsservice.nl
 0.0.0.0 reaktivierung.link
@@ -81627,6 +81629,7 @@
 0.0.0.0 soficave.com
 0.0.0.0 sofidefi.com
 0.0.0.0 soft-ex.icu
+0.0.0.0 soft-gets.com
 0.0.0.0 soft-got.org
 0.0.0.0 soft-take.com
 0.0.0.0 soft98.org
