@@ -20990,6 +20990,7 @@
 0.0.0.0 cbaid.hair
 0.0.0.0 cbaid1.com
 0.0.0.0 cbaid2.com
+0.0.0.0 cbakk.xyz
 0.0.0.0 cbapayments.online
 0.0.0.0 cbase789.com
 0.0.0.0 cbasec.com
@@ -21655,6 +21656,7 @@
 0.0.0.0 cex-io.info
 0.0.0.0 cex-vip.cc
 0.0.0.0 cexalp.com
+0.0.0.0 cexpxg.xyz
 0.0.0.0 cexqbit.com
 0.0.0.0 cexqbit.online
 0.0.0.0 cexrpc.com
@@ -22566,6 +22568,7 @@
 0.0.0.0 cistateslimited.com
 0.0.0.0 cited.top
 0.0.0.0 citedgrinyn.biz
+0.0.0.0 citellcagt.top
 0.0.0.0 citexb2c.com
 0.0.0.0 citexott.com
 0.0.0.0 cithernista.ru
@@ -30823,6 +30826,7 @@
 0.0.0.0 didianacozinha.com.br
 0.0.0.0 didimax.xyz
 0.0.0.0 didthereading.com
+0.0.0.0 diecam.top
 0.0.0.0 dieselaustralia.net
 0.0.0.0 dieseltimeframesfrance.com
 0.0.0.0 dietpepsiwrap.com
@@ -31505,6 +31509,7 @@
 0.0.0.0 dkepostnatures.com
 0.0.0.0 dkim.capital
 0.0.0.0 dkjshoping.com
+0.0.0.0 dkkig.xyz
 0.0.0.0 dkknitbd.com
 0.0.0.0 dkmantloetdapps.net
 0.0.0.0 dkstocks.com
@@ -32441,6 +32446,7 @@
 0.0.0.0 dzmanga.com
 0.0.0.0 dzpp.pw
 0.0.0.0 dzspsp.online
+0.0.0.0 dzyzb.xyz
 0.0.0.0 e--transfer.com
 0.0.0.0 e-000tr.info
 0.0.0.0 e-100001tr.ca
@@ -35955,6 +35961,7 @@
 0.0.0.0 esbopehan.xyz
 0.0.0.0 escalate-coinbase.com
 0.0.0.0 escapiko.com
+0.0.0.0 escczlv.top
 0.0.0.0 escrowaccepted.com
 0.0.0.0 escrowspayment.com
 0.0.0.0 escudodeprotecao.com.br
@@ -40200,6 +40207,7 @@
 0.0.0.0 fittogo.ba
 0.0.0.0 fitzconltd.com
 0.0.0.0 fitzfotonv.com
+0.0.0.0 fiuylj.top
 0.0.0.0 fivatrade.com
 0.0.0.0 five-elevenboutique.com
 0.0.0.0 five403.com
@@ -51757,6 +51765,7 @@
 0.0.0.0 korkyt.net
 0.0.0.0 kormala.com
 0.0.0.0 kormoran.bid
+0.0.0.0 korxddl.top
 0.0.0.0 kosar.ac.ir
 0.0.0.0 kosettto-api.com
 0.0.0.0 kotakajair.xyz
@@ -54020,6 +54029,7 @@
 0.0.0.0 lnntecad.pw
 0.0.0.0 lnnteracc-emmt-deposiit.icu
 0.0.0.0 lnnteracelt.icu
+0.0.0.0 lnofi.xyz
 0.0.0.0 lnpay.pw
 0.0.0.0 lnssaless.com
 0.0.0.0 lnstagram-activate-account.com
@@ -54302,6 +54312,7 @@
 0.0.0.0 localdelivery.ga
 0.0.0.0 localegem.net
 0.0.0.0 localhedgies.com
+0.0.0.0 localixbiw.top
 0.0.0.0 locallistinguae.com
 0.0.0.0 locallyext.ink
 0.0.0.0 localto.net
@@ -54348,6 +54359,7 @@
 0.0.0.0 lodestar.claims
 0.0.0.0 lodev7.com
 0.0.0.0 lodgeglaciares.com
+0.0.0.0 lodib.xyz
 0.0.0.0 lofipepe.io
 0.0.0.0 lofvingshop.com
 0.0.0.0 lofyam.top
@@ -62017,6 +62029,7 @@
 0.0.0.0 narkasanol.com
 0.0.0.0 narlelalik.xyz
 0.0.0.0 narmash.com
+0.0.0.0 narrathfpt.top
 0.0.0.0 narrowpathcreative.com
 0.0.0.0 nasa2000.com.mx
 0.0.0.0 nasakaachau.com.vn
@@ -62151,6 +62164,7 @@
 0.0.0.0 nbchat.asia
 0.0.0.0 nbcisntel.com
 0.0.0.0 nbcsecure.top
+0.0.0.0 nbcsfar.xyz
 0.0.0.0 nbcsupporte.website
 0.0.0.0 nbcverif.online
 0.0.0.0 nbcverifenligne.xyz
@@ -69362,6 +69376,7 @@
 0.0.0.0 plantagm.com
 0.0.0.0 plantilla-openxml.com
 0.0.0.0 planway.in
+0.0.0.0 plapwf.top
 0.0.0.0 plascobril.com.br
 0.0.0.0 plasf.com
 0.0.0.0 plasmabloc.com
@@ -74085,6 +74100,7 @@
 0.0.0.0 recipientloginnz.com
 0.0.0.0 recipientnabcancel.com
 0.0.0.0 recipientpostloginnz.com
+0.0.0.0 reckdp.pics
 0.0.0.0 recl-mn1tsrvc1.info
 0.0.0.0 reclaim-annual-reward.com
 0.0.0.0 reclaim-mobility-funds.ca
@@ -77948,6 +77964,7 @@
 0.0.0.0 ryoshimotocat.xyz
 0.0.0.0 rysonworld.com
 0.0.0.0 rystrom.com
+0.0.0.0 ryxpq.xyz
 0.0.0.0 rzbinfo.com
 0.0.0.0 rzbpo.com.br
 0.0.0.0 rzelev11pt.top
@@ -83308,6 +83325,7 @@
 0.0.0.0 softwarebeast.live
 0.0.0.0 softwarein1.com
 0.0.0.0 softwarekeep.info
+0.0.0.0 softwarescr.info
 0.0.0.0 softwareulike.com
 0.0.0.0 softwinmeod.com
 0.0.0.0 softworldnet.com
@@ -84003,6 +84021,7 @@
 0.0.0.0 spyvision.in
 0.0.0.0 sqcaags.com
 0.0.0.0 sqcaagv.com
+0.0.0.0 sqgzl.xyz
 0.0.0.0 sqhx.info
 0.0.0.0 sqouterr.com
 0.0.0.0 sqoutit.com
@@ -85192,6 +85211,7 @@
 0.0.0.0 stnicholaschurch.ca
 0.0.0.0 stocard.cc
 0.0.0.0 stocexpress.com
+0.0.0.0 stochalyqp.xyz
 0.0.0.0 stockandview.com
 0.0.0.0 stockbit.com
 0.0.0.0 stockexpert.online
@@ -86171,6 +86191,7 @@
 0.0.0.0 swell.gift
 0.0.0.0 swell.gifts
 0.0.0.0 swellfrrgwwos.xyz
+0.0.0.0 swenku.xyz
 0.0.0.0 swiccatch.com
 0.0.0.0 swicklehealth.com
 0.0.0.0 swift-carrierservice.online
@@ -90632,6 +90653,7 @@
 0.0.0.0 trsttocancel05.com
 0.0.0.0 trsttocancel06.com
 0.0.0.0 trsttocancel07.com
+0.0.0.0 trsuv.xyz
 0.0.0.0 tru-denp-ognnm.com
 0.0.0.0 tru1st24-7.online
 0.0.0.0 tru1stsecu1re.com
@@ -91618,6 +91640,7 @@
 0.0.0.0 uhlswap.one
 0.0.0.0 uhotw.com
 0.0.0.0 uhrdc.top
+0.0.0.0 ui3.fit
 0.0.0.0 uibegets.com
 0.0.0.0 uid2458.com
 0.0.0.0 uid29921.com
@@ -92625,6 +92648,7 @@
 0.0.0.0 uqho.info
 0.0.0.0 uqin.ru
 0.0.0.0 uraja.or.jp
+0.0.0.0 urarfx.xyz
 0.0.0.0 urban-orthodontics.com
 0.0.0.0 urbaneglobal-investment.com
 0.0.0.0 urbanliving-decor.com
@@ -94037,6 +94061,7 @@
 0.0.0.0 vfevg.tk
 0.0.0.0 vffgt67yu.cfd
 0.0.0.0 vfreedomorn.top
+0.0.0.0 vfy2.help
 0.0.0.0 vfyu.net
 0.0.0.0 vgcb.website
 0.0.0.0 vgeuytunal.com
@@ -98425,6 +98450,7 @@
 0.0.0.0 ycra.net
 0.0.0.0 ycs-agoda.online
 0.0.0.0 ycs-traveloka.com
+0.0.0.0 ycvduc.xyz 
 0.0.0.0 ydbentle.com
 0.0.0.0 ydenjanteani.xyz
 0.0.0.0 ydfym8f6erifpvk.gq
