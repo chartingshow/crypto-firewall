@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 July 2025
+# Last modified: 24 July 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -63940,6 +63940,7 @@
 0.0.0.0 npc-land.com
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 npgel.com
+0.0.0.0 npnjs.com
 0.0.0.0 npovver.com
 0.0.0.0 nppnguyenduc.com
 0.0.0.0 nprofitpnb.top
