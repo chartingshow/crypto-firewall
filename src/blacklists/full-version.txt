@@ -19239,6 +19239,7 @@
 ||cbaid.hair^$third-party
 ||cbaid1.com^$third-party
 ||cbaid2.com^$third-party
+||cbakk.xyz^$third-party
 ||cbapayments.online^$third-party
 ||cbase789.com^$third-party
 ||cbasec.com^$third-party
@@ -19900,6 +19901,7 @@
 ||cex-io.info^$third-party
 ||cex-vip.cc^$third-party
 ||cexalp.com^$third-party
+||cexpxg.xyz^$third-party
 ||cexqbit.com^$third-party
 ||cexqbit.online^$third-party
 ||cexrpc.com^$third-party
@@ -20813,6 +20815,7 @@
 ||cistateslimited.com^$third-party
 ||cited.top^$third-party
 ||citedgrinyn.biz^$third-party
+||citellcagt.top^$third-party
 ||citexb2c.com^$third-party
 ||citexott.com^$third-party
 ||cithernista.ru^$third-party
@@ -29070,6 +29073,7 @@
 ||didianacozinha.com.br^$third-party
 ||didimax.xyz^$third-party
 ||didthereading.com^$third-party
+||diecam.top^$third-party
 ||dieselaustralia.net^$third-party
 ||dieseltimeframesfrance.com^$third-party
 ||dietpepsiwrap.com^$third-party
@@ -29751,6 +29755,7 @@
 ||dkepostnatures.com^$third-party
 ||dkim.capital^$third-party
 ||dkjshoping.com^$third-party
+||dkkig.xyz^$third-party
 ||dkknitbd.com^$third-party
 ||dkmantloetdapps.net^$third-party
 ||dkstocks.com^$third-party
@@ -30687,6 +30692,7 @@
 ||dzmanga.com^$third-party
 ||dzpp.pw^$third-party
 ||dzspsp.online^$third-party
+||dzyzb.xyz^$third-party
 ||e--transfer.com^$third-party
 ||e-000tr.info^$third-party
 ||e-100001tr.ca^$third-party
@@ -34201,6 +34207,7 @@
 ||esbopehan.xyz^$third-party
 ||escalate-coinbase.com^$third-party
 ||escapiko.com^$third-party
+||escczlv.top^$third-party
 ||escrowaccepted.com^$third-party
 ||escrowspayment.com^$third-party
 ||escudodeprotecao.com.br^$third-party
@@ -38447,6 +38454,7 @@
 ||fittogo.ba^$third-party
 ||fitzconltd.com^$third-party
 ||fitzfotonv.com^$third-party
+||fiuylj.top^$third-party
 ||fivatrade.com^$third-party
 ||five-elevenboutique.com^$third-party
 ||five403.com^$third-party
@@ -50010,6 +50018,7 @@
 ||korkyt.net^$third-party
 ||kormala.com^$third-party
 ||kormoran.bid^$third-party
+||korxddl.top^$third-party
 ||kosar.ac.ir^$third-party
 ||kosettto-api.com^$third-party
 ||kotakajair.xyz^$third-party
@@ -52272,6 +52281,7 @@
 ||lnntecad.pw^$third-party
 ||lnnteracc-emmt-deposiit.icu^$third-party
 ||lnnteracelt.icu^$third-party
+||lnofi.xyz^$third-party
 ||lnpay.pw^$third-party
 ||lnssaless.com^$third-party
 ||lnstagram-activate-account.com^$third-party
@@ -52554,6 +52564,7 @@
 ||localdelivery.ga^$third-party
 ||localegem.net^$third-party
 ||localhedgies.com^$third-party
+||localixbiw.top^$third-party
 ||locallistinguae.com^$third-party
 ||locallyext.ink^$third-party
 ||localto.net^$third-party
@@ -52600,6 +52611,7 @@
 ||lodestar.claims^$third-party
 ||lodev7.com^$third-party
 ||lodgeglaciares.com^$third-party
+||lodib.xyz^$third-party
 ||lofipepe.io^$third-party
 ||lofvingshop.com^$third-party
 ||lofyam.top^$third-party
@@ -60261,6 +60273,7 @@
 ||narkasanol.com^$third-party
 ||narlelalik.xyz^$third-party
 ||narmash.com^$third-party
+||narrathfpt.top^$third-party
 ||narrowpathcreative.com^$third-party
 ||nasa2000.com.mx^$third-party
 ||nasakaachau.com.vn^$third-party
@@ -60395,6 +60408,7 @@
 ||nbchat.asia^$third-party
 ||nbcisntel.com^$third-party
 ||nbcsecure.top^$third-party
+||nbcsfar.xyz^$third-party
 ||nbcsupporte.website^$third-party
 ||nbcverif.online^$third-party
 ||nbcverifenligne.xyz^$third-party
@@ -67612,6 +67626,7 @@
 ||plantagm.com^$third-party
 ||plantilla-openxml.com^$third-party
 ||planway.in^$third-party
+||plapwf.top^$third-party
 ||plascobril.com.br^$third-party
 ||plasf.com^$third-party
 ||plasmabloc.com^$third-party
@@ -72316,6 +72331,7 @@
 ||recipientloginnz.com^$third-party
 ||recipientnabcancel.com^$third-party
 ||recipientpostloginnz.com^$third-party
+||reckdp.pics^$third-party
 ||recl-mn1tsrvc1.info^$third-party
 ||reclaim-annual-reward.com^$third-party
 ||reclaim-mobility-funds.ca^$third-party
@@ -76177,6 +76193,7 @@
 ||ryoshimotocat.xyz^$third-party
 ||rysonworld.com^$third-party
 ||rystrom.com^$third-party
+||ryxpq.xyz^$third-party
 ||rzbinfo.com^$third-party
 ||rzbpo.com.br^$third-party
 ||rzelev11pt.top^$third-party
@@ -81451,6 +81468,7 @@
 ||softwarebeast.live^$third-party
 ||softwarein1.com^$third-party
 ||softwarekeep.info^$third-party
+||softwarescr.info^$third-party
 ||softwareulike.com^$third-party
 ||softwinmeod.com^$third-party
 ||softworldnet.com^$third-party
@@ -82150,6 +82168,7 @@
 ||spyvision.in^$third-party
 ||sqcaags.com^$third-party
 ||sqcaagv.com^$third-party
+||sqgzl.xyz^$third-party
 ||sqhx.info^$third-party
 ||sqouterr.com^$third-party
 ||sqoutit.com^$third-party
@@ -83340,6 +83359,7 @@
 ||stnicholaschurch.ca^$third-party
 ||stocard.cc^$third-party
 ||stocexpress.com^$third-party
+||stochalyqp.xyz^$third-party
 ||stockandview.com^$third-party
 ||stockbit.com^$third-party
 ||stockexpert.online^$third-party
@@ -84318,6 +84338,7 @@
 ||swell.gift^$third-party
 ||swell.gifts^$third-party
 ||swellfrrgwwos.xyz^$third-party
+||swenku.xyz^$third-party
 ||swiccatch.com^$third-party
 ||swicklehealth.com^$third-party
 ||swift-carrierservice.online^$third-party
@@ -88779,6 +88800,7 @@
 ||trsttocancel05.com^$third-party
 ||trsttocancel06.com^$third-party
 ||trsttocancel07.com^$third-party
+||trsuv.xyz^$third-party
 ||tru-denp-ognnm.com^$third-party
 ||tru1st24-7.online^$third-party
 ||tru1stsecu1re.com^$third-party
@@ -89767,6 +89789,7 @@
 ||uhlswap.one^$third-party
 ||uhotw.com^$third-party
 ||uhrdc.top^$third-party
+||ui3.fit^$third-party
 ||uibegets.com^$third-party
 ||uid2458.com^$third-party
 ||uid29921.com^$third-party
@@ -90774,6 +90797,7 @@
 ||uqho.info^$third-party
 ||uqin.ru^$third-party
 ||uraja.or.jp^$third-party
+||urarfx.xyz^$third-party
 ||urban-orthodontics.com^$third-party
 ||urbaneglobal-investment.com^$third-party
 ||urbanliving-decor.com^$third-party
@@ -92186,6 +92210,7 @@
 ||vfevg.tk^$third-party
 ||vffgt67yu.cfd^$third-party
 ||vfreedomorn.top^$third-party
+||vfy2.help^$third-party
 ||vfyu.net^$third-party
 ||vgcb.website^$third-party
 ||vgeuytunal.com^$third-party
@@ -96543,6 +96568,7 @@
 ||ycra.net^$third-party
 ||ycs-agoda.online^$third-party
 ||ycs-traveloka.com^$third-party
+||ycvduc.xyz ^$third-party
 ||ydbentle.com^$third-party
 ||ydenjanteani.xyz^$third-party
 ||ydfym8f6erifpvk.gq^$third-party
