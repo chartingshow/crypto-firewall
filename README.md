@@ -45,8 +45,10 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Browser Blocking](#browser-blocking-)
     - [Recommended Choice](#recommended-choice-)
     - [Other Browser Choices](#other-browser-choices-)
-    - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
-    - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
+  - [Adblockers](#adblockers-%EF%B8%8F)
+  - [Perimeter blocking](#perimeter-blocking-)
+  - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
+  - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Operating System Blocking](#operating-system-blocking-)
 - [Basic usage](#basic-usage-)
 - [Recommended versions](#recommended-versions-)
@@ -56,8 +58,6 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Mega Version](#mega-version)
   - [Unstable Beta Version](#unstable-beta-version-%EF%B8%8F)
 - [Hosts based blocking](#hosts-based-blocking-)
-  - [Adblockers](#adblockers-%EF%B8%8F)
-  - [Perimeter blocking](#perimeter-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
 - [Bad Browser Extensions & Package Names blocking](#bad-browser-extensions--package-names-blocking-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
@@ -120,13 +120,27 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
 
-#### Crypto Annoyances (Optional Step) 🚀
+### Adblockers ☀️
+
+- ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
+- ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
+- ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
+- ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
+
+### Perimeter blocking 🔓
+
+You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+
+- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
+- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+- 
+### Crypto Annoyances (Optional Step) 🚀
 
 This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
 
-#### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
+### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
 
 Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
 
@@ -245,20 +259,6 @@ For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_
 - [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
 
 Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
-
-### Adblockers ☀️
-
-- ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
-- ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
-- ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
-- ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
-
-### Perimeter blocking 🔓
-
-You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
-
-- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
-- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
 
 ## Free DNS / Hosting blocking 🆓
 
