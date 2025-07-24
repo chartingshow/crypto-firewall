@@ -116,7 +116,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser** - Available for Android and iOS devices with built-in ad blocking.
 
-- ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - a DNS-based host blocker for Android.
+- ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - A DNS-based host blocker for Android.
 
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
