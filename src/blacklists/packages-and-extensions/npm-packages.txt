@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 July 2025
+# Last modified: 24 July 2025
 #
 
 12octsportsday
@@ -21,9 +21,19 @@
 @nomisfoundation/hardhat-config
 @nomisfoundation/hardhat-configure
 @theoretical123/providers
+@toptal/picasso-charts
+@toptal/picasso-forms
+@toptal/picasso-provider
+@toptal/picasso-quote
+@toptal/picasso-select
+@toptal/picasso-shared
+@toptal/picasso-tailwind
+@toptal/picasso-typography
+@toptal/picasso-utils
 @travix/ui-themes
 @veniceswap/eslint-config-pancake
 @veniceswap/uikit
+@xene/core
 accumulate-win
 admin-id
 all-star-2019
