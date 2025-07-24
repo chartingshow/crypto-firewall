@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 16 July 2025
+! Last modified: 24 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -62190,6 +62190,7 @@
 ||npbloccare.com^$third-party
 ||npc-land.com^$third-party
 ||npgel.com^$third-party
+||npnjs.com^$third-party
 ||npovver.com^$third-party
 ||nppnguyenduc.com^$third-party
 ||nprofitpnb.top^$third-party
