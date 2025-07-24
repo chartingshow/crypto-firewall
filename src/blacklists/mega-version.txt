@@ -64660,6 +64660,7 @@
 ||org-polygon-v3-defi.site^$third-party
 ||org-tether.com^$third-party
 ||orga-energy.store^$third-party
+||organica.tv^$third-party
 ||organicflowers.site^$third-party
 ||organiclub.in^$third-party
 ||organics.com.ec^$third-party
@@ -72136,6 +72137,7 @@
 ||reaexpress.com^$third-party
 ||reagoofydwqioo.shop^$third-party
 ||reaiio.network^$third-party
+||reaitek.com^$third-party
 ||reaktivieren-icscard.nl^$third-party
 ||reaktivieren-icsservice.nl^$third-party
 ||reaktivierung.link^$third-party
@@ -81439,6 +81441,7 @@
 ||soficave.com^$third-party
 ||sofidefi.com^$third-party
 ||soft-ex.icu^$third-party
+||soft-gets.com^$third-party
 ||soft-got.org^$third-party
 ||soft-take.com^$third-party
 ||soft98.org^$third-party
