@@ -57,7 +57,6 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Full Version](#full-version)
     - [Mega Version](#mega-version)
   - [Unstable Beta Version](#unstable-beta-version-%EF%B8%8F)
-- [Hosts based blocking](#hosts-based-blocking-)
 - [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
 - [Bad Browser Extensions & Package Names blocking](#bad-browser-extensions--package-names-blocking-)
 - [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
@@ -157,6 +156,13 @@ For system-wide protection, consider modifying your device's hosts file:
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
 </ul>
 
+For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
+
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
+
+Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
+
 ## Basic usage 🔥
 
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
@@ -245,21 +251,6 @@ There are two methods to install into your adblocker:
 2. Copy and paste the link in the settings of the ad-blocker:
 
 - https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt
-
-## Hosts based blocking 💢
-
-For more instructions check out our Hosts File instructions guides:
-
-- [Linux Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)
-- [MacOS Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)
-- [Windows Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)
-
-For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
-
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
-
-Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
 
 ## Free DNS / Hosting blocking 🆓
 
