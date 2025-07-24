@@ -50,6 +50,7 @@ If you discover a false positive or need to add a new block, then feel free to r
   - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
   - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Operating System Blocking](#operating-system-blocking-)
+    - [Hosts based blocking](#hosts-based-blocking-)
 - [Basic usage](#basic-usage-)
 - [Recommended versions](#recommended-versions-)
   - [Stable Versions](#stable-versions-)
@@ -155,6 +156,8 @@ For system-wide protection, consider modifying your device's hosts file:
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" alt="MacOS" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md"><strong>MacOS Hosts File Instructions Guide</strong></a> - Modify the hosts file to prevent access to specific websites and services.</p></li>
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
 </ul>
+
+#### Hosts based blocking 💢
 
 For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
