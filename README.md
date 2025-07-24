@@ -112,7 +112,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
 
-- ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **AdGuard Browser Extension** - Comprehensive ad and tracker blocking solution.
+- ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)** - Comprehensive ad and tracker blocking solution.
 
 - ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser** - Available for Android and iOS devices with built-in ad blocking.
 
@@ -125,7 +125,6 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 - ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
 - ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
 - ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
-- ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
 ### Perimeter Blocking 🔓
 
