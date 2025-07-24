@@ -46,7 +46,7 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Recommended Choice](#recommended-choice-)
     - [Other Browser Choices](#other-browser-choices-)
   - [Adblockers](#adblockers-%EF%B8%8F)
-  - [Perimeter blocking](#perimeter-blocking-)
+  - [Perimeter Blocking](#perimeter-blocking-)
   - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
   - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Operating System Blocking](#operating-system-blocking-)
@@ -127,7 +127,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 - ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 - ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
-### Perimeter blocking 🔓
+### Perimeter Blocking 🔓
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
 
