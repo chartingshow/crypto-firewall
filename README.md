@@ -104,7 +104,7 @@ Brave Browser offers built-in ad and tracker blocking, making it an excellent ch
 
 Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
 
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)** - Is a fast, secure, and ad-free web browser developed by the Adblock Plus team.
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)** - Is a fast, secure, and ad-free web browser developed by the Adblock Plus team.
 
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
