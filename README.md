@@ -104,6 +104,8 @@ Brave Browser offers built-in ad and tracker blocking, making it an excellent ch
 
 Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
 
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)** - Is a fast, secure, and ad-free web browser developed by the Adblock Plus team.
+
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
@@ -115,8 +117,6 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 - ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)** - Is a free and open-source ad-blocking application for the Android mobile operating system.
 
 - ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **[AdBlock Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-instructions.md)** - Is a user-supported browser extension that lets you surf the web ad-free.
-
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **AdBlock Browser** - Available for Android and iOS devices with built-in ad blocking.
 
 - ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **[AdBlock Plus Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-plus-instructions.md)** - Popular ad-blocking extension for various browsers.
 
