@@ -118,7 +118,7 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **AdBlock Browser** - Available for Android and iOS devices with built-in ad blocking.
 
-- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **AdBlock Plus** - Popular ad-blocking extension for various browsers.
+- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **[AdBlock Plus Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-plus-instructions.md)** - Popular ad-blocking extension for various browsers.
 
 - ![AdGuard](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)** - Comprehensive ad and tracker blocking solution.
 
