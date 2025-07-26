@@ -114,7 +114,7 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 ### Ad Blockers ☀️
 
-You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, NextDNS and others to block malicious crypto-related domains and trackers.
+You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, AdBlock Plus and others to block malicious crypto-related domains and trackers.
 
 - ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)** - Is a free and open-source ad-blocking application for the Android mobile operating system.
 
@@ -128,8 +128,6 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - Is a DNS-based host blocker for Android.
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" alt="NextDNS" width="16" height="16" /> **[NextDNS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
-
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)** - Efficient, wide-spectrum content blocker.
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
@@ -138,6 +136,7 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
 
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" alt="NextDNS" width="16" height="16" /> **[NextDNS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
 - ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
 - ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
 
