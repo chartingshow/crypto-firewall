@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 July 2025
+# Last modified: 26 July 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -733,6 +733,7 @@
 0.0.0.0 177.87.70.10
 0.0.0.0 178.128.83.165
 0.0.0.0 178.132.6.150
+0.0.0.0 178.220.112.53
 0.0.0.0 178.236.247.73
 0.0.0.0 178.62.112.199
 0.0.0.0 178.63.25.185
@@ -47032,6 +47033,7 @@
 0.0.0.0 iidoclamfi.com
 0.0.0.0 iieb.com.mx
 0.0.0.0 iiidsinbjvcsdvbg.top
+0.0.0.0 iili.io
 0.0.0.0 iilliuvium.io
 0.0.0.0 iilluvium.io
 0.0.0.0 iinteractindepodit.online

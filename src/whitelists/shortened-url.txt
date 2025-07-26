@@ -33,6 +33,7 @@ su.pr
 t.co
 t.ly
 t.me
+tiny.cc
 tiny.one
 tinyurl.com
 url.pm
