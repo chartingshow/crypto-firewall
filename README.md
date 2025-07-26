@@ -110,6 +110,8 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
 
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/vivaldi.png" alt="Vivaldi" width="16" height="16" /> **Vivaldi Browser** - Browse with desktop-style tabs, block ads and trackers, and sync data between devices safely.
+
 ### Ad Blockers ☀️
 
 You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, NextDNS and others to block malicious crypto-related domains and trackers.
