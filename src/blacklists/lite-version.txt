@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 24 July 2025
+! Last modified: 26 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -45278,6 +45278,7 @@
 ||iidoclamfi.com^$third-party
 ||iieb.com.mx^$third-party
 ||iiidsinbjvcsdvbg.top^$third-party
+||iili.io^$third-party
 ||iilliuvium.io^$third-party
 ||iilluvium.io^$third-party
 ||iinteractindepodit.online^$third-party
@@ -97700,6 +97701,7 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
+||i.imgs.ovh/2025/07/17/DGlLc.jpeg^
 ||ln.run/supportcenterbusiness^
 ||www.shorturl.at/dKOR6^
 
