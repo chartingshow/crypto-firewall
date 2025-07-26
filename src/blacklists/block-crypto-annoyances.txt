@@ -1606,6 +1606,7 @@ form.a8c-cookie-banner
 main[data-consent-main]
 section#cookie-banner
 section#cookieconsentpopup
+www.msn.com##.intra-article-relatedcontent
 
 !--------------------------- TRADINGVIEW ANNOYANCES -----------------------------
 ! This section blocks common annoyances on TradingView such as popups,
