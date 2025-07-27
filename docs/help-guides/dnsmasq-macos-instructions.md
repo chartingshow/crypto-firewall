@@ -36,47 +36,138 @@ It allows you to control DNS responses on your local network, which means you ca
 | Real-time per-site control          | ❌ No    | ✅ Yes                          |
 | Blocks network-wide                 | ✅ Yes   | ❌ No (per browser)             |
 
-## 🍏 macOS Instructions (Homebrew Method)
+# 🍏 Crypto-Firewall: macOS setup with dnsmasq
 
-### 🧰 Prerequisites:
+This guide walks you through using `dnsmasq` with the Crypto-Firewall blocklist on macOS.
 
-* [Homebrew](https://brew.sh/) installed
+## 1. Install `dnsmasq`
 
-### 1. Install `dnsmasq` via Homebrew
+Use [Homebrew](https://brew.sh) to install:
 
 ```bash
 brew install dnsmasq
-```
+````
 
-### 2. Configure
+## 2. Create dnsmasq configuration
+
+Create a config directory if it doesn’t exist:
 
 ```bash
 sudo mkdir -p /usr/local/etc/dnsmasq.d
+```
+
+## 3. Download the Crypto-Firewall blocklist
+
+Fetch the blocklist, which is already formatted for `dnsmasq` (using `address=/domain/0.0.0.0`):
+
+```bash
+sudo curl -L https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -o /usr/local/etc/dnsmasq.d/crypto-firewall.conf
+```
+
+The file includes lines like:
+
+```
+address=/ads.example.com/0.0.0.0
+address=/tracker.example.org/0.0.0.0
+```
+
+No need to convert or reformat the file.
+
+## 4. Configure dnsmasq
+
+Edit or create the main config file:
+
+```bash
 sudo nano /usr/local/etc/dnsmasq.conf
 ```
 
 Add this line:
 
 ```conf
-addn-hosts=/usr/local/etc/dnsmasq.d/crypto-firewall-lite.hosts
+conf-dir=/usr/local/etc/dnsmasq.d
 ```
 
-Then download the Crypto Firewall blocklist:
+Save and exit.
 
-```bash
-sudo curl -o /usr/local/etc/dnsmasq.d/crypto-firewall-lite.hosts https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
-```
+## 5. Start and enable dnsmasq
 
-### 3. Start and enable `dnsmasq`:
+Set up `dnsmasq` to run automatically:
 
 ```bash
 sudo brew services start dnsmasq
 ```
 
-### 4. Use `dnsmasq` as your DNS:
+If already running, restart it:
 
-* Go to **System Preferences > Network > Advanced > DNS**
-* Add `127.0.0.1` as the top DNS server
+```bash
+sudo brew services restart dnsmasq
+```
+
+## 6. Point macOS to use dnsmasq
+
+### Option A: Modify `/etc/resolv.conf`
+
+Not persistent (resets on reboot):
+
+```bash
+sudo bash -c 'echo "nameserver 127.0.0.1" > /etc/resolv.conf'
+```
+
+### Option B: Use network settings (more persistent)
+
+You can add 127.0.0.1 as a DNS server in:
+
+**System Settings > Network > Advanced > DNS**
+
+Move it to the top of the list.
+
+## 7. Test the blocklist
+
+Try looking up a known blocked domain:
+
+```bash
+dig ads.example.com @127.0.0.1
+```
+
+It should return:
+
+```
+;; ANSWER SECTION:
+ads.example.com. 0 IN A 0.0.0.0
+```
+
+## 8. Automate updates (optional)
+
+You can create a cron job or script to auto-update the blocklist.
+
+Create a script, e.g. `~/update-firewall.sh`:
+
+```bash
+#!/bin/bash
+curl -sL https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -o /usr/local/etc/dnsmasq.d/crypto-firewall.conf
+brew services restart dnsmasq
+```
+
+Make it executable:
+
+```bash
+chmod +x ~/update-firewall.sh
+```
+
+Schedule it with `cron`, `launchd`, or a reminder.
+
+## Summary
+
+| Step | Action                                     |
+| ---- | ------------------------------------------ |
+| 1    | Install `dnsmasq` via Homebrew             |
+| 2    | Download the correctly formatted blocklist |
+| 3    | Store it in `/usr/local/etc/dnsmasq.d/`    |
+| 4    | Configure `dnsmasq.conf`                   |
+| 5    | Start dnsmasq with `brew services`         |
+| 6    | Set system DNS to `127.0.0.1`              |
+| 7    | Test with `dig` or `nslookup`              |
+| 8    | (Optional) Schedule automatic updates      |
 
 ## 💡 Tips & Notes
 
