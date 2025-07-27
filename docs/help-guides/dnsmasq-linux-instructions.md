@@ -1,4 +1,4 @@
-# 🛡️ Dnsmasq + Crypto Firewall Installation Guide
+# 🛡️ Dnsmasq on Linux + Crypto Firewall Installation Guide
 
 This guide explains how to:
 
