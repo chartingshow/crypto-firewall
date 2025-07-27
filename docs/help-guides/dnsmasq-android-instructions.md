@@ -40,38 +40,94 @@ It allows you to control DNS responses on your local network, which means you ca
 
 > ⚠️ Android must be **rooted** to use system-wide `dnsmasq`
 
-### Option 1: Use `dnsmasq` via Termux + Root
+This guide shows how to install the Crypto‑Firewall blocklist using `dnsmasq` on Android (e.g. via Termux, Android‑based routers, etc.).
 
-1. Install [Termux](https://f-droid.org/packages/com.termux/) and open it.
-2. Install packages:
+## 1. Install `dnsmasq`
 
-```bash
-pkg update && pkg install dnsmasq curl
-```
-
-3. Download the Crypto Firewall list:
+If using Termux:
 
 ```bash
-mkdir -p ~/crypto-fw
-curl -o ~/crypto-fw/hosts.txt https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
-```
+pkg install dnsmasq
+````
 
-4. Start `dnsmasq` with config:
+If using an Android‑based router (e.g. OpenWrt, LibreRouter), install via the respective package manager.
+
+## 2. Download the correct blocklist file
+
+Use the `dnsmasq.txt` file as a blocklist. This file is formatted for `dnsmasq address=/domain/0.0.0.0` entries. Download it directly:
 
 ```bash
-dnsmasq --addn-hosts=~/crypto-fw/hosts.txt --no-daemon
+wget https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -O crypto-firewall-dnsmasq.txt
 ```
 
-> But this won’t apply unless you redirect the system DNS to `127.0.0.1`, which **requires root or Magisk module**.
+The `dnsmasq.txt` file contains entries like:
 
-### Option 2: Use a Root App Like **AdAway** (Simpler)
-
-* [AdAway](https://adaway.org/) supports **hosts-based blocking** and can use Crypto Firewall lists.
-* Just import the URL into AdAway as a **custom hosts source**:
-
-```text
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
 ```
+address=/ads.example.com/0.0.0.0
+address=/tracker.example.net/0.0.0.0
+...
+```
+
+(⚠️ Not host‑file style; it's already in `dnsmasq` format.)
+
+## 3. Configure `dnsmasq`
+
+Place the downloaded file in a `dnsmasq.d/` directory:
+
+```bash
+mkdir -p ~/dnsmasq.d
+mv crypto-firewall-dnsmasq.txt ~/dnsmasq.d/crypto-firewall.conf
+```
+
+Update your `dnsmasq.conf` or include this with:
+
+```conf
+conf-file=~/dnsmasq.d/crypto-firewall.conf
+```
+
+or
+
+```conf
+conf-dir=~/dnsmasq.d
+```
+
+## 4. Restart `dnsmasq`
+
+Restart the DNS service to apply the new blocklist:
+
+```bash
+pkill dnsmasq
+dnsmasq
+```
+
+## 5. Verify blocking
+
+Test that domains are blocked:
+
+```bash
+dig ads.example.com @127.0.0.1
+# Should return 0.0.0.0
+```
+
+## 6. Keeping the list updated
+
+The `dnsmasq.txt` file is updated periodically (e.g. **Last modified: 24 July 2025**). It should automatically expire/reload if you set up a scheduled update (e.g. via cron or an Android scheduler).
+
+```bash
+wget -N https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -O ~/dnsmasq.d/crypto-firewall.conf
+pkill dnsmasq && dnsmasq
+```
+
+## Summary
+
+| Step | Action                                                            |
+| ---- | ----------------------------------------------------------------- |
+| 1    | Install `dnsmasq`                                                 |
+| 2    | Download **dnsmasq.txt** (already properly formatted)             |
+| 3    | Move it to `dnsmasq.d/` and include via `conf-file` or `conf-dir` |
+| 4    | Restart `dnsmasq`                                                 |
+| 5    | Test via lookup                                                   |
+| 6    | Schedule regular updates as needed                                |
 
 ✅ This method doesn't need `dnsmasq`, but gives the same result.
 
