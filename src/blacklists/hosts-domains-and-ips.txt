@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 July 2025
+# Last modified: 27 July 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -79291,6 +79291,7 @@
 0.0.0.0 scr0ll.network
 0.0.0.0 scrapedirtyieoqk.shop
 0.0.0.0 scratchedcards.com
+0.0.0.0 scratchy-document.pro
 0.0.0.0 scre-myrbcacc.info
 0.0.0.0 scre02-rbc.com
 0.0.0.0 screenconnect.live

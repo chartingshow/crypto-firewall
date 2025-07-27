@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 26 July 2025
+! Last modified: 27 July 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -77507,6 +77507,7 @@
 ||scr0ll.network^$third-party
 ||scrapedirtyieoqk.shop^$third-party
 ||scratchedcards.com^$third-party
+||scratchy-document.pro^$third-party
 ||scre-myrbcacc.info^$third-party
 ||scre02-rbc.com^$third-party
 ||screenconnect.live^$third-party
