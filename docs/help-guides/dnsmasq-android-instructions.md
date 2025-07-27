@@ -6,8 +6,6 @@ This guide explains how to:
 2. 🔒 Add Crypto Firewall blocklists to `dnsmasq`
 3. 🚀 Restart and verify your setup
 
-> **Works on**: Linux (Debian, Ubuntu, Fedora, etc.) / WSL / Raspberry Pi
-
 ## 🧱 What dnsmasq Is
 
 **dnsmasq** is a lightweight DNS forwarder and DHCP server. It is commonly used on:
