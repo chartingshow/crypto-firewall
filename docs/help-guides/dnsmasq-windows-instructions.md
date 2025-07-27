@@ -36,102 +36,145 @@ It allows you to control DNS responses on your local network, which means you ca
 | Real-time per-site control          | ❌ No    | ✅ Yes                          |
 | Blocks network-wide                 | ✅ Yes   | ❌ No (per browser)             |
 
-## ✅ Option 1: Use WSL (Windows Subsystem for Linux) – *Recommended*
+# Crypto-Firewall: Windows setup with dnsmasq
 
-This is the **easiest and most reliable** way to run `dnsmasq` on Windows.
+This guide helps you set up the Crypto-Firewall blocklist on Windows using `dnsmasq` via WSL, Docker, or a third-party DNS appliance.
 
-### 🔧 Steps:
+## ⚙️ Method 1: Using WSL (Windows Subsystem for Linux)
 
-1. **Install WSL + Ubuntu**
-   Follow the Microsoft guide:
-   [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
+### Step 1: Install WSL and a Linux distro (e.g. Ubuntu)
 
-2. **Open Ubuntu in WSL** and install `dnsmasq`:
+Open PowerShell as Administrator:
+
+```powershell
+wsl --install
+````
+
+Restart your computer if prompted.
+
+### Step 2: Launch Ubuntu (or your distro), then install `dnsmasq`
 
 ```bash
 sudo apt update
-sudo apt install dnsmasq curl -y
+sudo apt install dnsmasq curl
 ```
 
-3. **Configure and use it** just like on Linux
-   (Use the same Crypto Firewall guide I gave earlier)
-
-4. **Forward Windows DNS to WSL (`127.0.0.1`)**
-
-   * Go to `Control Panel > Network and Sharing > Adapter Settings`
-   * Right-click your network > Properties > IPv4 > DNS
-   * Set Preferred DNS to `127.0.0.1`
-
-> 🧠 Note: You may need to run WSL and `dnsmasq` on startup manually, or create a task to do it.
-
-## 🐳 Option 2: Run `dnsmasq` in Docker (on Windows)
-
-If you have **Docker Desktop** installed:
+### Step 3: Download the Crypto-Firewall blocklist
 
 ```bash
-docker run --name dnsmasq -d -p 53:53/udp jpillora/dnsmasq \
-  -A /#/127.0.0.1 \
-  --addn-hosts=/etc/dnsmasq/crypto-hosts
+sudo mkdir -p /etc/dnsmasq.d
+sudo curl -L https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -o /etc/dnsmasq.d/crypto-firewall.conf
 ```
 
-But first, mount the Crypto Firewall hosts file into the container.
+This file is already formatted correctly for `dnsmasq`:
 
-### Steps:
+```
+address=/ads.example.com/0.0.0.0
+address=/trackers.example.net/0.0.0.0
+```
 
-1. Download the list:
+### Step 4: Configure `dnsmasq`
+
+Edit `/etc/dnsmasq.conf`:
 
 ```bash
-curl -o crypto-hosts https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
+sudo nano /etc/dnsmasq.conf
 ```
 
-2. Start container with volume mount:
+Add:
+
+```conf
+conf-dir=/etc/dnsmasq.d
+```
+
+Save and exit.
+
+### Step 5: Run `dnsmasq` manually
+
+Start `dnsmasq` in WSL:
 
 ```bash
-docker run --name dnsmasq -d -p 53:53/udp \
-  -v ${PWD}/crypto-hosts:/etc/dnsmasq/crypto-hosts \
-  jpillora/dnsmasq --addn-hosts=/etc/dnsmasq/crypto-hosts
+sudo dnsmasq --no-daemon
 ```
 
-## ❌ Option 3: Native Windows Port (Not Recommended)
+This will run it interactively. You can also run it in the background with:
 
-There’s no official native port of `dnsmasq` for Windows. Old forks exist, but they are:
-
-* ❌ Outdated
-* ❌ Unsupported
-* ❌ May have compatibility issues or security risks
-
-Use **WSL** or **Docker** instead.
-
-## 🧪 Bonus: Use Simple DNSCrypt or Technitium DNS (as Alternatives)
-
-If you're mainly using `dnsmasq` for **DNS-level blocking**, consider:
-
-### 🟦 [Technitium DNS Server](https://technitium.com/dns/)
-
-* Free, cross-platform
-* GUI, runs on Windows natively
-* Supports blocklists and `hosts`-style filters
-
-You can easily import the Crypto Firewall list into Technitium:
-
-1. Open Technitium GUI
-2. Go to **Blocklist** settings
-3. Add this URL:
-
-```text
-https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
+```bash
+sudo dnsmasq
 ```
 
-> ✅ No Linux knowledge needed
+### Step 6: Set Windows DNS to 127.0.0.1
 
-## ✅ Summary: Best Way for Windows Users
+1. Open **Control Panel > Network and Sharing Center > Change adapter settings**
+2. Right-click your network adapter → Properties
+3. Select `Internet Protocol Version 4 (TCP/IPv4)` → Properties
+4. Use the following DNS server:
 
-| Method         | Difficulty | Notes                        |
-| -------------- | ---------- | ---------------------------- |
-| WSL + Ubuntu   | ⭐ Easy     | Most like native Linux       |
-| Docker         | ⭐⭐ Medium  | Portable & isolated          |
-| Technitium DNS | ⭐ Easiest  | Windows native + GUI support |
-| Native Port    | ❌ Avoid    | Outdated, unsupported        |
+   * Preferred: `127.0.0.1`
+   * Alternate: Leave blank or use a fallback (e.g., `1.1.1.1`)
+
+### Step 7: Test
+
+Open CMD or PowerShell:
+
+```powershell
+nslookup ads.example.com 127.0.0.1
+```
+
+Should return `0.0.0.0`.
+
+## ⚙️ Method 2: Using Docker on Windows
+
+If you prefer not to use WSL, run dnsmasq in a Docker container:
+
+### Step 1: Create a custom blocklist directory
+
+Create a folder like `C:\dnsmasq\conf` and save the blocklist:
+
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt" -OutFile "C:\dnsmasq\conf\crypto-firewall.conf"
+```
+
+### Step 2: Run dnsmasq container
+
+```powershell
+docker run -d --name crypto-dnsmasq `
+  -p 53:53/udp `
+  -v C:\dnsmasq\conf:/etc/dnsmasq.d `
+  --restart unless-stopped `
+  andyshinn/dnsmasq:2.78
+```
+
+Make sure your system’s DNS points to `127.0.0.1` as above.
+
+## 🛠️ Updating the blocklist
+
+To update:
+
+### WSL:
+
+```bash
+sudo curl -L https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -o /etc/dnsmasq.d/crypto-firewall.conf
+sudo pkill dnsmasq && sudo dnsmasq
+```
+
+### Docker:
+
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt" -OutFile "C:\dnsmasq\conf\crypto-firewall.conf"
+docker restart crypto-dnsmasq
+```
+
+## ✅ Summary
+
+| Step | Action                                           |
+| ---- | ------------------------------------------------ |
+| 1    | Use WSL or Docker to run `dnsmasq`               |
+| 2    | Download Crypto-Firewall `dnsmasq.txt` blocklist |
+| 3    | Place it in a dnsmasq config directory           |
+| 4    | Point Windows DNS to `127.0.0.1`                 |
+| 5    | Test with `nslookup`                             |
+| 6    | Set up auto-update scripts if desired            |
 
 ## 💡 Tips & Notes
 
