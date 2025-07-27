@@ -38,117 +38,136 @@ It allows you to control DNS responses on your local network, which means you ca
 | Real-time per-site control          | ❌ No    | ✅ Yes                          |
 | Blocks network-wide                 | ✅ Yes   | ❌ No (per browser)             |
 
-## 📦 Step 1: Install `dnsmasq`
+# Crypto-Firewall: Linux setup with dnsmasq
 
-### Ubuntu / Debian
+This guide helps you set up Crypto-Firewall's domain blocklist on a Linux system using `dnsmasq`.
 
-Open a terminal and run:
+## 1. Install `dnsmasq`
+
+Install via your package manager:
+
+**Debian/Ubuntu:**
 
 ```bash
 sudo apt update
-sudo apt install dnsmasq -y
-```
+sudo apt install dnsmasq
+````
 
-### Fedora
+**Fedora:**
 
 ```bash
-sudo dnf install dnsmasq -y
+sudo dnf install dnsmasq
 ```
 
-### Arch / Manjaro
+**Arch:**
 
 ```bash
 sudo pacman -S dnsmasq
 ```
 
-## 📁 Step 2: Configure `dnsmasq`
+## 2. Download the Crypto-Firewall blocklist
 
-### 1. Edit `dnsmasq.conf`
-
-Open the config file:
+Download the preformatted `dnsmasq` blocklist file (uses `address=/domain/0.0.0.0` format):
 
 ```bash
-sudo nano /etc/dnsmasq.conf
+sudo wget https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -O /etc/dnsmasq.d/crypto-firewall.conf
 ```
 
-Scroll to the bottom and **add these lines**:
+This file is already in the correct format. Example entries:
 
-```conf
-# Crypto Firewall Blacklists (Lite version example)
-addn-hosts=/etc/dnsmasq.d/crypto-firewall-lite.hosts
+```
+address=/ads.example.com/0.0.0.0
+address=/tracker.example.org/0.0.0.0
 ```
 
-> 🔄 You can replace `lite` with `full`, `mega`, `beta`, or a hosts version (see below).
+## 3. Configure `dnsmasq` to load the blocklist
 
-## ⬇️ Step 3: Download the Crypto Firewall Lists
-
-### 1. Create a config folder
+Make sure your main config file includes the blocklist directory:
 
 ```bash
-sudo mkdir -p /etc/dnsmasq.d
-cd /etc/dnsmasq.d
+# In /etc/dnsmasq.conf
+conf-dir=/etc/dnsmasq.d
 ```
 
-### 2. Choose your preferred list and download it
-
-**Lite Version (domains only):**
+Or include the file directly:
 
 ```bash
-sudo curl -o crypto-firewall-lite.hosts https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
+conf-file=/etc/dnsmasq.d/crypto-firewall.conf
 ```
 
-**Or use another version:**
+## 4. Restart `dnsmasq`
 
-* 🔥 Full: `hosts-domains-and-ips.txt`
-* 🧱 IP Only: `ip-AdBlock Plus.txt`
-* 🧪 Beta: `beta-version.txt`
-* 💥 Mega: `mega-version.txt`
-
-> You can rename the file as needed and update the path in your `dnsmasq.conf`.
-
-## 🔄 Step 4: Restart Dnsmasq
+After adding the blocklist, restart the service:
 
 ```bash
 sudo systemctl restart dnsmasq
 ```
 
-To enable on boot:
+Or, if not using systemd:
 
 ```bash
-sudo systemctl enable dnsmasq
+sudo service dnsmasq restart
 ```
 
-## ✅ Step 5: Test if It’s Working
+## 5. Point your system to use `dnsmasq` as the DNS server
 
-Try resolving a blocked crypto domain (from the list):
+Edit your DNS settings (e.g., `/etc/resolv.conf` or Network Manager) to use:
+
+```
+nameserver 127.0.0.1
+```
+
+Make sure no other DNS servers override this.
+
+For persistent setup on NetworkManager systems:
 
 ```bash
-dig badcryptoexample.com @127.0.0.1
+sudo nmcli device modify <your-interface> ipv4.dns "127.0.0.1"
+sudo nmcli connection up <your-interface>
 ```
 
-You should get:
+## 6. Test the blocking
 
-```none
-;; ->>HEADER<<- ... NXDOMAIN ...
-```
-
-Or simply check with:
+You can test if blocking is active:
 
 ```bash
-nslookup badcryptoexample.com 127.0.0.1
+dig ads.example.com @127.0.0.1
+# Should return 0.0.0.0
 ```
 
-If blocked, it means the DNS is working as a firewall ✅
-
-## 🔄 Updating the Blocklist (Recommended Weekly)
+Or with `nslookup`:
 
 ```bash
-cd /etc/dnsmasq.d
-sudo curl -o crypto-firewall-lite.hosts https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
-sudo systemctl restart dnsmasq
+nslookup tracker.example.org 127.0.0.1
 ```
 
-You can automate this with a cron job if desired.
+## 7. Keep the list up to date
+
+Set up a cron job to auto-update the blocklist weekly:
+
+```bash
+sudo crontab -e
+```
+
+Add the line:
+
+```cron
+0 4 * * 1 wget -q https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/dnsmasq.txt -O /etc/dnsmasq.d/crypto-firewall.conf && systemctl restart dnsmasq
+```
+
+This downloads the latest list every Monday at 4:00 AM and restarts `dnsmasq`.
+
+## Summary
+
+| Step | Action                                                  |
+| ---- | ------------------------------------------------------- |
+| 1    | Install `dnsmasq`                                       |
+| 2    | Download `dnsmasq.txt` (already formatted)              |
+| 3    | Place in `/etc/dnsmasq.d/` and configure `dnsmasq.conf` |
+| 4    | Restart service                                         |
+| 5    | Set `127.0.0.1` as DNS server                           |
+| 6    | Test blocklist                                          |
+| 7    | Schedule automatic updates                              |
 
 ## 💡 Tips & Notes
 
