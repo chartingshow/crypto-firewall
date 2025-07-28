@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block fastly-net sub-domains ------------------------------------------------------
-||ezmoney.global.ssl.fastly.net^$third-party
+||ezmoney.global.ssl.fastly.net^

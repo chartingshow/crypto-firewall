@@ -9,5 +9,5 @@
 !-------------------------------------------------------------------------------
 
 ! Block urbanairship-com sub-domains ------------------------------------------------------
-||device-api.urbanairship.com^$third-party
-||wallet-api.urbanairship.com^$third-party
+||device-api.urbanairship.com^
+||wallet-api.urbanairship.com^

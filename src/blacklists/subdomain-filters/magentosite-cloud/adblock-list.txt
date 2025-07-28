@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block magentosite-cloud sub-domains ------------------------------------------------------
-||integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud^$third-party
+||integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud^

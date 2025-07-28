@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block nimbusweb-me sub-domains ------------------------------------------------------
-||remco-tevreden.nimbusweb.me^$third-party
+||remco-tevreden.nimbusweb.me^

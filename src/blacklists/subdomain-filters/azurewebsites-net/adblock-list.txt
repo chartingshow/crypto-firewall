@@ -9,10 +9,10 @@
 !-------------------------------------------------------------------------------
 
 ! Block azurewebsites-net sub-domains ------------------------------------------
-||blurrnftio.azurewebsites.net^$third-party
-||ciscowebex.azurewebsites.net^$third-party
-||coianabselogq.azurewebsites.net^$third-party
-||mematsmsuk-log.azurewebsites.net^$third-party
-||mememshivmask.azurewebsites.net^$third-party
-||mmetamksalog.azurewebsites.net^$third-party
-||mtaetammasks.azurewebsites.net^$third-party
+||blurrnftio.azurewebsites.net^
+||ciscowebex.azurewebsites.net^
+||coianabselogq.azurewebsites.net^
+||mematsmsuk-log.azurewebsites.net^
+||mememshivmask.azurewebsites.net^
+||mmetamksalog.azurewebsites.net^
+||mtaetammasks.azurewebsites.net^

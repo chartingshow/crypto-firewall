@@ -9,6 +9,6 @@
 !-------------------------------------------------------------------------------
 
 ! Block appspot-com sub-domains ------------------------------------------------------
-||flandria171.appspot.com^$third-party
-||incentiveswidget.appspot.com^$third-party
-||newyan-1e09d.appspot.com^$third-party
+||flandria171.appspot.com^
+||incentiveswidget.appspot.com^
+||newyan-1e09d.appspot.com^

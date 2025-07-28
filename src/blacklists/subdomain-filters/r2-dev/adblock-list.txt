@@ -9,20 +9,20 @@
 !-------------------------------------------------------------------------------
 
 ! Block r2 dev sub-domains --------------------------------------------------
-||pub-04d374bc3c5846c5b2be121fb89a8304.r2.dev^$third-party
-||pub-07de391a022d4da1becd7ab6f6ac5b08.r2.dev^$third-party
-||pub-0cfe3415fa8c4bf1a3062aea01c52f88.r2.dev^$third-party
-||pub-1514c6066e0d411f9f23cffd7cf79203.r2.dev^$third-party
-||pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev^$third-party
-||pub-31d0e3f969d24c2683b89cdec7b424c1.r2.dev^$third-party
-||pub-494a6033e65c4242a7370986f32557a1.r2.dev^$third-party
-||pub-6253c28159de4477bd2f95217cda845b.r2.dev^$third-party
-||pub-6822434d132849e99478186a07e8d67c.r2.dev^$third-party
-||pub-7a0525921ff54f1193db83d7303c6ee8.r2.dev^$third-party
-||pub-7c944b35bb444156bc0c5fa96575a8ab.r2.dev^$third-party
-||pub-86bcfdb5c8f244d2bfc98c86780eea34.r2.dev^$third-party
-||pub-9b1cae59981642f9bca7f6d52817b372.r2.dev^$third-party
-||pub-a5838f65652541d69d95fd7010df5bb4.r2.dev^$third-party
-||pub-ce5a5ccd63af4c588d315685ef307aad.r2.dev^$third-party
-||pub-e14f81606c7e471e8c107440821d078f.r2.dev^$third-party
-||pub-fded30cee8c747af8ca95e3996da6f13.r2.dev^$third-party
+||pub-04d374bc3c5846c5b2be121fb89a8304.r2.dev^
+||pub-07de391a022d4da1becd7ab6f6ac5b08.r2.dev^
+||pub-0cfe3415fa8c4bf1a3062aea01c52f88.r2.dev^
+||pub-1514c6066e0d411f9f23cffd7cf79203.r2.dev^
+||pub-17e2d2e910694763a8cb5ff43c671f14.r2.dev^
+||pub-31d0e3f969d24c2683b89cdec7b424c1.r2.dev^
+||pub-494a6033e65c4242a7370986f32557a1.r2.dev^
+||pub-6253c28159de4477bd2f95217cda845b.r2.dev^
+||pub-6822434d132849e99478186a07e8d67c.r2.dev^
+||pub-7a0525921ff54f1193db83d7303c6ee8.r2.dev^
+||pub-7c944b35bb444156bc0c5fa96575a8ab.r2.dev^
+||pub-86bcfdb5c8f244d2bfc98c86780eea34.r2.dev^
+||pub-9b1cae59981642f9bca7f6d52817b372.r2.dev^
+||pub-a5838f65652541d69d95fd7010df5bb4.r2.dev^
+||pub-ce5a5ccd63af4c588d315685ef307aad.r2.dev^
+||pub-e14f81606c7e471e8c107440821d078f.r2.dev^
+||pub-fded30cee8c747af8ca95e3996da6f13.r2.dev^

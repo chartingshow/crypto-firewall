@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block your-server-de sub-domains ------------------------------------------------------
-||static.117.166.109.65.clients.your-server.de^$third-party
+||static.117.166.109.65.clients.your-server.de^

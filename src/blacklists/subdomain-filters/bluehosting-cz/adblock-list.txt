@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block bluehosting-cz sub-domains ---------------------------------------------
-||carlsberg-13.w2.bluehosting.cz^$third-party
+||carlsberg-13.w2.bluehosting.cz^

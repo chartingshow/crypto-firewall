@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block googleusercontent-com sub-domains ------------------------------------------------------
-||136.169.29.34.bc.googleusercontent.com^$third-party
+||136.169.29.34.bc.googleusercontent.com^

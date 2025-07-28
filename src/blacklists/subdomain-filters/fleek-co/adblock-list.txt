@@ -9,7 +9,7 @@
 !-------------------------------------------------------------------------------
 
 ! Block fleek-co sub-domains ------------------------------------------------------
-||green-haze-3357.on.fleek.co^$third-party
-||multidappconnect.on.fleek.co^$third-party
-||validatewallets.on.fleek.co^$third-party
-||walletshub.on.fleek.co^$third-party
+||green-haze-3357.on.fleek.co^
+||multidappconnect.on.fleek.co^
+||validatewallets.on.fleek.co^
+||walletshub.on.fleek.co^

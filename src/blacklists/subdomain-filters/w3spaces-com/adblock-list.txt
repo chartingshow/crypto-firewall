@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block w3spaces-com sub-domains ------------------------------------------------------
-||firstclass222.w3spaces.com^$third-party
+||firstclass222.w3spaces.com^

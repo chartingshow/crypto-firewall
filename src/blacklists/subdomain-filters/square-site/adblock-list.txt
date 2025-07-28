@@ -9,8 +9,8 @@
 !-------------------------------------------------------------------------------
 
 ! Block square-site sub-domains ------------------------------------------------------
-||authentiicate-wallett.square.site^$third-party
-||proximus-be-103045.square.site^$third-party
-||syncroniize-wallet.square.site^$third-party
-||wallet-validatoor.square.site^$third-party
-||walletautheticator.square.site^$third-party
+||authentiicate-wallett.square.site^
+||proximus-be-103045.square.site^
+||syncroniize-wallet.square.site^
+||wallet-validatoor.square.site^
+||walletautheticator.square.site^

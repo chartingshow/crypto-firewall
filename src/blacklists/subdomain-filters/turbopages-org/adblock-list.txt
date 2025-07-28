@@ -9,11 +9,11 @@
 !-------------------------------------------------------------------------------
 
 ! Block turbopages-org sub-domains ------------------------------------------------------
-||alfabank-ru.turbopages.org^$third-party
-||alfabank_sme.turbopages.org^$third-party
-||alfacapital-ru.turbopages.org^$third-party
-||alfaforex-ru.turbopages.org^$third-party
-||anti--malware-ru.turbopages.org^$third-party
-||bezopasnik-info.turbopages.org^$third-party
-||bmpd-livejournal-com.turbopages.org^$third-party
-||translated.turbopages.org^$third-party
+||alfabank-ru.turbopages.org^
+||alfabank_sme.turbopages.org^
+||alfacapital-ru.turbopages.org^
+||alfaforex-ru.turbopages.org^
+||anti--malware-ru.turbopages.org^
+||bezopasnik-info.turbopages.org^
+||bmpd-livejournal-com.turbopages.org^
+||translated.turbopages.org^

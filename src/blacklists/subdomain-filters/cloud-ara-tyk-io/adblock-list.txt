@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block tyk-io sub-domains -----------------------------------------------------
-||worried-trigonometry-gw.aws-euw2.cloud-ara.tyk.io^$third-party
+||worried-trigonometry-gw.aws-euw2.cloud-ara.tyk.io^

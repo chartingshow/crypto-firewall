@@ -9,11 +9,11 @@
 !-------------------------------------------------------------------------------
 
 ! Block cloudapp-azure-com sub-domains -----------------------------------------
-||hilcfacdigitaelpichipt.norwayeast.cloudapp.azure.com^$third-party
-||jghskd9kfx7.brazilsouth.cloudapp.azure.com^$third-party
-||officebusinessaccount.eastus.cloudapp.azure.com^$third-party
-||onwfacttasunslahf.norwayeast.cloudapp.azure.com^$third-party
-||redhack.uksouth.cloudapp.azure.com^$third-party
-||restauranterota152.brazilsouth.cloudapp.azure.com^$third-party
-||servicerevenueza.southeastasia.cloudapp.azure.com^$third-party
-||topgearagainsix.uksouth.cloudapp.azure.com^$third-party
+||hilcfacdigitaelpichipt.norwayeast.cloudapp.azure.com^
+||jghskd9kfx7.brazilsouth.cloudapp.azure.com^
+||officebusinessaccount.eastus.cloudapp.azure.com^
+||onwfacttasunslahf.norwayeast.cloudapp.azure.com^
+||redhack.uksouth.cloudapp.azure.com^
+||restauranterota152.brazilsouth.cloudapp.azure.com^
+||servicerevenueza.southeastasia.cloudapp.azure.com^
+||topgearagainsix.uksouth.cloudapp.azure.com^

@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block hostwindsdns-com sub-domains ------------------------------------------------------
-||hwsrv-1091010.hostwindsdns.com^$third-party
+||hwsrv-1091010.hostwindsdns.com^

@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block github-io sub-domains ------------------------------------------------------
-||reviewchannel6.github.io^$third-party
+||reviewchannel6.github.io^

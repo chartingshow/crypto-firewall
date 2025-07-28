@@ -9,20 +9,20 @@
 !-------------------------------------------------------------------------------
 
 ! Block wixsite-com sub-domains ------------------------------------------------------
-||basicattention.wixsite.com^$third-party
-||csmetamask.wixsite.com^$third-party
-||czpancakeswap.wixsite.com^$third-party
-||dappsnodesauthenti.wixsite.com^$third-party
-||detma90.wixsite.com^$third-party
-||detmaonlinecl.wixsite.com^$third-party
-||fribertarth.wixsite.com^$third-party
-||greendotbenefits68.wixsite.com^$third-party
-||lessandraoody.wixsite.com^$third-party
-||metamaskearning.wixsite.com^$third-party
-||metamaskliquidation.wixsite.com^$third-party
-||metawinners.wixsite.com^$third-party
-||officialarabbank.wixsite.com^$third-party
-||officialpancakeswa.wixsite.com^$third-party
-||pancakeswapsupprt.wixsite.com^$third-party
-||thugtools992.wixsite.com^$third-party
-||valuebetic.wixsite.com^$third-party
+||basicattention.wixsite.com^
+||csmetamask.wixsite.com^
+||czpancakeswap.wixsite.com^
+||dappsnodesauthenti.wixsite.com^
+||detma90.wixsite.com^
+||detmaonlinecl.wixsite.com^
+||fribertarth.wixsite.com^
+||greendotbenefits68.wixsite.com^
+||lessandraoody.wixsite.com^
+||metamaskearning.wixsite.com^
+||metamaskliquidation.wixsite.com^
+||metawinners.wixsite.com^
+||officialarabbank.wixsite.com^
+||officialpancakeswa.wixsite.com^
+||pancakeswapsupprt.wixsite.com^
+||thugtools992.wixsite.com^
+||valuebetic.wixsite.com^

@@ -9,6 +9,6 @@
 !-------------------------------------------------------------------------------
 
 ! Block windows-net sub-domains ------------------------------------------------------
-||1a9ksj0.z1.web.core.windows.net^$third-party
-||87438288438734.z11.web.core.windows.net^$third-party
-||recoverymetacustom.z29.web.core.windows.net^$third-party
+||1a9ksj0.z1.web.core.windows.net^
+||87438288438734.z11.web.core.windows.net^
+||recoverymetacustom.z29.web.core.windows.net^
