@@ -46,9 +46,9 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Recommended Choice](#recommended-choice-)
     - [Other Browser Choices](#other-browser-choices-)
   - [Ad Blockers](ad-blockers-%EF%B8%8F)
+    - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Perimeter Blocking](#perimeter-blocking-)
   - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
-  - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Operating System Blocking](#operating-system-blocking-)
     - [Hosts based blocking](#hosts-based-blocking-)
 - [Basic usage](#basic-usage-)
@@ -86,7 +86,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Installation ❤️
 
-Choose whether to install the crypto firewall at the browser and/or operating system level.
+Choose where to deploy the crypto firewall—at the browser level, operating system level, and/or network perimeter—for layered, comprehensive protection.
 
 ### Browser Blocking 🌟
 
@@ -132,6 +132,12 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
 
+#### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
+
+Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
+
+While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
+
 ### Perimeter Blocking 🔓
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
@@ -151,12 +157,6 @@ You may use the hosts file with below applications to block these miners on whol
 This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
-
-### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
-
-Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
-
-While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
 
 ### Operating System Blocking 🌟
 
