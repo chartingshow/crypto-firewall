@@ -86,7 +86,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Installation ❤️
 
-Choose where to deploy the crypto firewall—at the browser level, operating system level, and/or network perimeter—for layered, comprehensive protection.
+Choose where to deploy the crypto firewall at the browser level, operating system level, and/or network perimeter - for layered, comprehensive protection.
 
 ### Browser Blocking 🌟
 
