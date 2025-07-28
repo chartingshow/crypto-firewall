@@ -69,7 +69,6 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC sanctioned digital currency addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
-- [Ad server blocking](#ad-server-blocking-)
 - [Modules](#modules-%EF%B8%8F)
 - [Issues](#issues-)
 - [Changelog](#changelog-)
@@ -363,19 +362,12 @@ Sanctioned entities refer to entities listed on economic/trade embargo lists, su
 
 You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
 
-## Ad server blocking 🇦🇩
-
-The ad banners that you see all over the web are stored on servers. Stopping your computer communicating with another computer can be quite simple. So, if you have a list of the servers used for ad banners, it's easy to stop ad banners even getting to your browser.
-
-These custom ad server filter block lists can be found in the folder:
-
-- [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
-
 ## Modules ⚙️
 
 This repo contains various filter list modules, which users can check out in the following folders:
 
 - [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
+- [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
 - [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
 - [Botnet Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/botnet-filters)
 - [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
