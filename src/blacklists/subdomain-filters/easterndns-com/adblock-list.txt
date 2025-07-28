@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block easterndns-com sub-domains ------------------------------------------------------
-||metamaskverifydefii.easterndns.com^$third-party
+||metamaskverifydefii.easterndns.com^

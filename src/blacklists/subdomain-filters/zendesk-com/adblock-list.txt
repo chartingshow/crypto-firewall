@@ -9,10 +9,10 @@
 !-------------------------------------------------------------------------------
 
 ! Block zendesk-com sub-domains ------------------------------------------------------
-||mobily2225.zendesk.com^$third-party
-||najmcompanyforinsuranceservices.zendesk.com^$third-party
-||phishforthelp.zendesk.com^$third-party
-||schoolsfirstfederalcreditunionhelp.zendesk.com^$third-party
-||schoolsfirstfederalcreditunionsupport.zendesk.com^$third-party
-||tlscontactsupport.zendesk.com^$third-party
-||trustwallet8903.zendesk.com^$third-party
+||mobily2225.zendesk.com^
+||najmcompanyforinsuranceservices.zendesk.com^
+||phishforthelp.zendesk.com^
+||schoolsfirstfederalcreditunionhelp.zendesk.com^
+||schoolsfirstfederalcreditunionsupport.zendesk.com^
+||tlscontactsupport.zendesk.com^
+||trustwallet8903.zendesk.com^

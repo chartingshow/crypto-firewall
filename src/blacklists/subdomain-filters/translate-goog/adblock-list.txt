@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block translate-goog sub-domains ------------------------------------------------------
-||k30321-infura--ipfs-io.translate.goog^$third-party
+||k30321-infura--ipfs-io.translate.goog^

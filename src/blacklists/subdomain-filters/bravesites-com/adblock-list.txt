@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block BraveSites sub-domains --------------------------------------------------
-||metamaskchrome.bravesites.com^$third-party
+||metamaskchrome.bravesites.com^

@@ -9,5 +9,5 @@
 !-------------------------------------------------------------------------------
 
 ! Block appsflyer-com sub-domains ------------------------------------------------------
-||conversions.appsflyer.com^$third-party
-||inapps.appsflyer.com^$third-party
+||conversions.appsflyer.com^
+||inapps.appsflyer.com^

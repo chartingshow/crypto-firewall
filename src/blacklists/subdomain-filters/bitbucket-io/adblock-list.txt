@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block bitbucket-io sub-domains ------------------------------------------------------
-||casino-https.bitbucket.io^$third-party
+||casino-https.bitbucket.io^

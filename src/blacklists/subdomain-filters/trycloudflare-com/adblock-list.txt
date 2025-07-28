@@ -9,5 +9,5 @@
 !-------------------------------------------------------------------------------
 
 ! Block trycloudflare-com sub-domains ------------------------------------------------------
-||term-restore-satisfied-hence.trycloudflare.com^$third-party
-||ways-sms-pmc-shareholders.trycloudflare.com^$third-party
+||term-restore-satisfied-hence.trycloudflare.com^
+||ways-sms-pmc-shareholders.trycloudflare.com^

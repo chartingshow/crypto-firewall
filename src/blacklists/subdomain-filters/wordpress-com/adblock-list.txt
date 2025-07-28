@@ -9,14 +9,14 @@
 !-------------------------------------------------------------------------------
 
 ! Block wordpress-com sub-domains ------------------------------------------------------
-||1inchusa.wordpress.com^$third-party
-||bestrjil.wordpress.com^$third-party
-||exchangepancakeswapcom.wordpress.com^$third-party
-||matamacklogi.wordpress.com^$third-party
-||metamaskwallet372459482.wordpress.com^$third-party
-||metameskwallet.wordpress.com^$third-party
-||metamskiwallet.wordpress.com^$third-party
-||metamskwollets.wordpress.com^$third-party
-||metmskwalt.wordpress.com^$third-party
-||pancakeswapexchange.wordpress.com^$third-party
-||raydiumswap.wordpress.com^$third-party
+||1inchusa.wordpress.com^
+||bestrjil.wordpress.com^
+||exchangepancakeswapcom.wordpress.com^
+||matamacklogi.wordpress.com^
+||metamaskwallet372459482.wordpress.com^
+||metameskwallet.wordpress.com^
+||metamskiwallet.wordpress.com^
+||metamskwollets.wordpress.com^
+||metmskwalt.wordpress.com^
+||pancakeswapexchange.wordpress.com^
+||raydiumswap.wordpress.com^

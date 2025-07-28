@@ -9,6 +9,6 @@
 !-------------------------------------------------------------------------------
 
 ! Block yolasite-com sub-domains ------------------------------------------------------
-||gmxhhdhddhyeghdgv88.yolasite.com^$third-party
-||messagerieproximusmail03255855005.yolasite.com^$third-party
-||seiamp-spenn-koiff.yolasite.com^$third-party
+||gmxhhdhddhyeghdgv88.yolasite.com^
+||messagerieproximusmail03255855005.yolasite.com^
+||seiamp-spenn-koiff.yolasite.com^

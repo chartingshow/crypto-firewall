@@ -9,5 +9,5 @@
 !-------------------------------------------------------------------------------
 
 ! Block herokuapp-com sub-domains ------------------------------------------------------
-||clone-logs.herokuapp.com^$third-party
-||trustcheck.herokuapp.com^$third-party
+||clone-logs.herokuapp.com^
+||trustcheck.herokuapp.com^

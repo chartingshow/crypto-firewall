@@ -9,7 +9,7 @@
 !-------------------------------------------------------------------------------
 
 ! Block BusinessSites sub-domains --------------------------------------------------
-||jio-fiber-outlet.business.site^$third-party
-||jio-fiber-partner.business.site^$third-party
-||jiofiber.business.site^$third-party
-||united-airline-booking-customer-service.business.site^$third-party
+||jio-fiber-outlet.business.site^
+||jio-fiber-partner.business.site^
+||jiofiber.business.site^
+||united-airline-booking-customer-service.business.site^

@@ -9,6 +9,6 @@
 !-------------------------------------------------------------------------------
 
 ! Block at-playit-gg sub-domains -----------------------------------------------
-||involved-stars.at.playit.gg^$third-party
-||tell-academic.at.playit.gg^$third-party
-||this-france.at.playit.gg^$third-party
+||involved-stars.at.playit.gg^
+||tell-academic.at.playit.gg^
+||this-france.at.playit.gg^

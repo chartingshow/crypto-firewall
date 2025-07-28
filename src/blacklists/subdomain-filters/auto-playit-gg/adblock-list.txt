@@ -9,10 +9,10 @@
 !-------------------------------------------------------------------------------
 
 ! Block auto-playit-gg sub-domains ---------------------------------------------
-||chivalrous-condition.auto.playit.gg^$third-party
-||jumpy-advice.auto.playit.gg^$third-party
-||roasted-flag.auto.playit.gg^$third-party
-||sparkling-desk.auto.playit.gg^$third-party
-||warm-voyage.auto.playit.gg^$third-party
-||weak-edge.auto.playit.gg^$third-party
-||woebegone-smoke.auto.playit.gg^$third-party
+||chivalrous-condition.auto.playit.gg^
+||jumpy-advice.auto.playit.gg^
+||roasted-flag.auto.playit.gg^
+||sparkling-desk.auto.playit.gg^
+||warm-voyage.auto.playit.gg^
+||weak-edge.auto.playit.gg^
+||woebegone-smoke.auto.playit.gg^

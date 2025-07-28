@@ -9,8 +9,8 @@
 !-------------------------------------------------------------------------------
 
 ! Block cprapid-com sub-domains ------------------------------------------------------
-||162-33-179-116.cprapid.com^$third-party
-||77-91-76-9.cprapid.com^$third-party
-||gbo.italia.87-120-254-28.cprapid.com^$third-party
-||generali-banking.80-76-51-175.cprapid.com^$third-party
-||poste.185-72-199-99.cprapid.com^$third-party
+||162-33-179-116.cprapid.com^
+||77-91-76-9.cprapid.com^
+||gbo.italia.87-120-254-28.cprapid.com^
+||generali-banking.80-76-51-175.cprapid.com^
+||poste.185-72-199-99.cprapid.com^

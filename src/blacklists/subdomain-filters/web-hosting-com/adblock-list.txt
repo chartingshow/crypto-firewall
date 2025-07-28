@@ -9,4 +9,4 @@
 !-------------------------------------------------------------------------------
 
 ! Block web-hosting-com sub-domains ------------------------------------------------------
-||as-fall.quarantine-pnap-vlan51.web-hosting.com^$third-party
+||as-fall.quarantine-pnap-vlan51.web-hosting.com^
