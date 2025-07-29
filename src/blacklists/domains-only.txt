@@ -7,15 +7,6 @@
 # Last modified: 29 July 2025
 #
 
-#--------------------------- DEVELOPER LOCATIONS -------------------------------
-# These are default loopback and broadcast addresses.
-# Comment out entries below if you need to disable them.
-#-------------------------------------------------------------------------------
-
-127.0.0.1       localhost
-255.255.255.255 broadcasthost
-::1             localhost
-
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
 # These domains are known for frequent abuse (e.g., phishing, malware, scams).
 # By default, these are comment out to not break the internet.
