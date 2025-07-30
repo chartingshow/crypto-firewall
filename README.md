@@ -157,6 +157,8 @@ You may use the hosts file with below applications to block these miners on whol
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/snort-logo.png" alt="Snort3" width="16" height="16" /> **[Snort3 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/snort3-instructions.md)** - Is a high-performance, open-source network intrusion detection and prevention system (IDS/IPS) that analyzes traffic in real time to detect and block malicious activity.
 
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata" width="16" height="16" /> **[Suricata Linux & Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-linux-macos-instructions.md)** and **[Suricata Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-windows-instructions.md)** - Is an open-source intrusion detection system (IDS) and intrusion prevention system (IPS) developed by the Open Information Security Foundation (OISF).
+
 ### Crypto Annoyances (Optional Step) 🚀
 
 This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
