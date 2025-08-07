@@ -2328,3 +2328,10 @@ www.cookie.fun##html > body > nav > div:nth-of-type(2)
 ! cryptocraft.com
 www.cryptocraft.com##.footer__branding
 www.cryptocraft.com##.sidebar__panel--adbit.sidebar__panel.adbit.panel
+
+! thestreet.com
+www.thestreet.com###customComponent-0
+www.thestreet.com##.has-fixed-bottom-ad
+www.thestreet.com##.jw-reset.jw-media
+www.thestreet.com##.l-inline.mm-embed--twitter.m-embed
+www.thestreet.com##.m-in-content-recommendation
