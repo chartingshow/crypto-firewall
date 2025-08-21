@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 20 August 2025
+# Last modified: 21 August 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -350,6 +350,7 @@
 0.0.0.0 146.70.79.75
 0.0.0.0 147.139.166.154
 0.0.0.0 147.189.168.74
+0.0.0.0 147.45.78.102
 0.0.0.0 148.72.177.212
 0.0.0.0 148.72.192.206
 0.0.0.0 148.72.53.144
@@ -726,6 +727,7 @@
 0.0.0.0 176.113.115.66
 0.0.0.0 176.113.115.67
 0.0.0.0 176.124.198.213
+0.0.0.0 176.124.206.88
 0.0.0.0 176.124.216.159
 0.0.0.0 176.31.68.242
 0.0.0.0 176.31.73.90
@@ -739,6 +741,7 @@
 0.0.0.0 178.128.83.165
 0.0.0.0 178.132.6.150
 0.0.0.0 178.220.112.53
+0.0.0.0 178.236.246.241
 0.0.0.0 178.236.247.73
 0.0.0.0 178.62.112.199
 0.0.0.0 178.63.25.185
@@ -951,6 +954,8 @@
 0.0.0.0 194.5.98.184
 0.0.0.0 194.5.98.207
 0.0.0.0 194.5.98.222
+0.0.0.0 194.87.189.171
+0.0.0.0 194.87.189.19
 0.0.0.0 194.87.232.26
 0.0.0.0 194.9.172.107
 0.0.0.0 195.133.39.202
@@ -1311,6 +1316,7 @@
 0.0.0.0 45.133.44.24
 0.0.0.0 45.133.44.25
 0.0.0.0 45.137.116.156
+0.0.0.0 45.138.74.238
 0.0.0.0 45.138.98.34
 0.0.0.0 45.139.105.105
 0.0.0.0 45.142.114.231
@@ -1368,6 +1374,7 @@
 0.0.0.0 46.173.214.12
 0.0.0.0 46.173.214.32
 0.0.0.0 46.173.214.50
+0.0.0.0 46.226.163.67
 0.0.0.0 46.55.222.11
 0.0.0.0 46.99.175.149
 0.0.0.0 46.99.175.217
@@ -1473,6 +1480,9 @@
 0.0.0.0 62.204.41.71
 0.0.0.0 62.204.41.98
 0.0.0.0 62.60.154.3
+0.0.0.0 62.60.237.116
+0.0.0.0 62.60.237.38
+0.0.0.0 62.60.238.81
 0.0.0.0 62.99.76.213
 0.0.0.0 62.99.79.77
 0.0.0.0 64.121.114.87
@@ -2510,6 +2520,7 @@
 0.0.0.0 1customr-srvcesmaintenance.info
 0.0.0.0 1december2022etransfer-intrac.ca
 0.0.0.0 1december2022neltflix.com
+0.0.0.0 1drv.us.com
 0.0.0.0 1e001.co
 0.0.0.0 1e01.co
 0.0.0.0 1e011.co
@@ -21050,6 +21061,7 @@
 0.0.0.0 cbridgecelernetwork.online
 0.0.0.0 cbridgee-celer.network
 0.0.0.0 cbrldge.click
+0.0.0.0 cbro.win
 0.0.0.0 cbroy.com
 0.0.0.0 cbryt.buzz
 0.0.0.0 cbrzduckz.com
@@ -25895,6 +25907,7 @@
 0.0.0.0 correctionimpotqc.com
 0.0.0.0 correctionimpots.com
 0.0.0.0 correctionroute0423.co.uk
+0.0.0.0 correctiv.sbs
 0.0.0.0 correctsolve.org
 0.0.0.0 corredoresvyg.cl
 0.0.0.0 correioindependente.com.br
@@ -28082,6 +28095,7 @@
 0.0.0.0 cwcwac3f422af.com
 0.0.0.0 cwesternb.com
 0.0.0.0 cwiagro.com.br
+0.0.0.0 cwise.store
 0.0.0.0 cwmining.biz
 0.0.0.0 cwr-uber.ca
 0.0.0.0 cwrsmemb.info
@@ -30516,6 +30530,7 @@
 0.0.0.0 devnet-starknet.io
 0.0.0.0 devnet-starknet.net
 0.0.0.0 devolks.com
+0.0.0.0 devolredir.com
 0.0.0.0 devopspdx.com
 0.0.0.0 devopszone.org
 0.0.0.0 devosla0459.online
@@ -33293,6 +33308,7 @@
 0.0.0.0 economartbd.com
 0.0.0.0 economelogainyjusk.shop
 0.0.0.0 economiicsosoq.shop
+0.0.0.0 economistjournal.cloud
 0.0.0.0 econtroll.com
 0.0.0.0 ecooterra.com
 0.0.0.0 ecopayroll-ca.com
@@ -50665,6 +50681,7 @@
 0.0.0.0 jotaki.co.jp
 0.0.0.0 jotunheim.name
 0.0.0.0 joulesclearance.store
+0.0.0.0 journalctd.live
 0.0.0.0 journalide.org
 0.0.0.0 journeotravel.com
 0.0.0.0 journeymantle.xyz
@@ -74343,6 +74360,8 @@
 0.0.0.0 redi-livraison.fr
 0.0.0.0 redi-rect1.info
 0.0.0.0 redins.com
+0.0.0.0 redirconnectwise.cloud
+0.0.0.0 redircorrectiv.com
 0.0.0.0 redirect-bunq-client.ru
 0.0.0.0 redirect-cabenefits.com
 0.0.0.0 redirect-captcha.com
@@ -74384,6 +74403,7 @@
 0.0.0.0 redistribution-ftx.com
 0.0.0.0 redistributiondupaquet.info
 0.0.0.0 reditcoin.tech
+0.0.0.0 redjournal.cloud
 0.0.0.0 redkite-polkafoundry.online
 0.0.0.0 redliant.capital
 0.0.0.0 redline-pm.com
@@ -96886,6 +96906,7 @@
 0.0.0.0 www-4519-xxxx-online-rbc.us
 0.0.0.0 www-4724-auth-mytd-online.xyz
 0.0.0.0 www-accesopersonaswps.cc
+0.0.0.0 www-account-booking.com
 0.0.0.0 www-arbitrum.gift
 0.0.0.0 www-auth-4519-xxxx-rbc-card.info
 0.0.0.0 www-auth-bmo-mobile-ca.xyz

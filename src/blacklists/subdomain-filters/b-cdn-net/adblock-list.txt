@@ -45,4 +45,5 @@
 ||metrodown-2.b-cdn.net^
 ||metrodown-3.b-cdn.net^
 ||techsheck.b-cdn.net^
+||updatessoftware.b-cdn.net^
 ||zexodown-2.b-cdn.net^

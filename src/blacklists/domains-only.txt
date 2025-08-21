@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 July 2025
+# Last modified: 21 August 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -819,6 +819,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1customr-srvcesmaintenance.info
 1december2022etransfer-intrac.ca
 1december2022neltflix.com
+1drv.us.com
 1e001.co
 1e01.co
 1e011.co
@@ -19359,6 +19360,7 @@ cbridgecelernetwork.com
 cbridgecelernetwork.online
 cbridgee-celer.network
 cbrldge.click
+cbro.win
 cbroy.com
 cbryt.buzz
 cbrzduckz.com
@@ -24204,6 +24206,7 @@ correctionimpotca.com
 correctionimpotqc.com
 correctionimpots.com
 correctionroute0423.co.uk
+correctiv.sbs
 correctsolve.org
 corredoresvyg.cl
 correioindependente.com.br
@@ -26391,6 +26394,7 @@ cwbnetcode.click
 cwcwac3f422af.com
 cwesternb.com
 cwiagro.com.br
+cwise.store
 cwmining.biz
 cwr-uber.ca
 cwrsmemb.info
@@ -28825,6 +28829,7 @@ devmetatime.com
 devnet-starknet.io
 devnet-starknet.net
 devolks.com
+devolredir.com
 devopspdx.com
 devopszone.org
 devosla0459.online
@@ -31602,6 +31607,7 @@ econews.site
 economartbd.com
 economelogainyjusk.shop
 economiicsosoq.shop
+economistjournal.cloud
 econtroll.com
 ecooterra.com
 ecopayroll-ca.com
@@ -48974,6 +48980,7 @@ josuecosmetic.com.ec
 jotaki.co.jp
 jotunheim.name
 joulesclearance.store
+journalctd.live
 journalide.org
 journeotravel.com
 journeymantle.xyz
@@ -72652,6 +72659,8 @@ redgmhchemical.com
 redi-livraison.fr
 redi-rect1.info
 redins.com
+redirconnectwise.cloud
+redircorrectiv.com
 redirect-bunq-client.ru
 redirect-cabenefits.com
 redirect-captcha.com
@@ -72693,6 +72702,7 @@ redirt.top
 redistribution-ftx.com
 redistributiondupaquet.info
 reditcoin.tech
+redjournal.cloud
 redkite-polkafoundry.online
 redliant.capital
 redline-pm.com
@@ -95195,6 +95205,7 @@ www-1lnchnetwork.com
 www-4519-xxxx-online-rbc.us
 www-4724-auth-mytd-online.xyz
 www-accesopersonaswps.cc
+www-account-booking.com
 www-arbitrum.gift
 www-auth-4519-xxxx-rbc-card.info
 www-auth-bmo-mobile-ca.xyz

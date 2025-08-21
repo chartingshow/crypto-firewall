@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 20 August 2025
+# Last modified: 21 August 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -350,6 +350,7 @@
 146.70.79.75
 147.139.166.154
 147.189.168.74
+147.45.78.102
 148.72.177.212
 148.72.192.206
 148.72.53.144
@@ -726,6 +727,7 @@
 176.113.115.66
 176.113.115.67
 176.124.198.213
+176.124.206.88
 176.124.216.159
 176.31.68.242
 176.31.73.90
@@ -739,6 +741,7 @@
 178.128.83.165
 178.132.6.150
 178.220.112.53
+178.236.246.241
 178.236.247.73
 178.62.112.199
 178.63.25.185
@@ -951,6 +954,8 @@
 194.5.98.184
 194.5.98.207
 194.5.98.222
+194.87.189.171
+194.87.189.19
 194.87.232.26
 194.9.172.107
 195.133.39.202
@@ -1311,6 +1316,7 @@
 45.133.44.24
 45.133.44.25
 45.137.116.156
+45.138.74.238
 45.138.98.34
 45.139.105.105
 45.142.114.231
@@ -1368,6 +1374,7 @@
 46.173.214.12
 46.173.214.32
 46.173.214.50
+46.226.163.67
 46.55.222.11
 46.99.175.149
 46.99.175.217
@@ -1473,6 +1480,9 @@
 62.204.41.71
 62.204.41.98
 62.60.154.3
+62.60.237.116
+62.60.237.38
+62.60.238.81
 62.99.76.213
 62.99.79.77
 64.121.114.87
@@ -2501,6 +2511,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1customr-srvcesmaintenance.info
 1december2022etransfer-intrac.ca
 1december2022neltflix.com
+1drv.us.com
 1e001.co
 1e01.co
 1e011.co
@@ -21041,6 +21052,7 @@ cbridgecelernetwork.com
 cbridgecelernetwork.online
 cbridgee-celer.network
 cbrldge.click
+cbro.win
 cbroy.com
 cbryt.buzz
 cbrzduckz.com
@@ -25886,6 +25898,7 @@ correctionimpotca.com
 correctionimpotqc.com
 correctionimpots.com
 correctionroute0423.co.uk
+correctiv.sbs
 correctsolve.org
 corredoresvyg.cl
 correioindependente.com.br
@@ -28073,6 +28086,7 @@ cwbnetcode.click
 cwcwac3f422af.com
 cwesternb.com
 cwiagro.com.br
+cwise.store
 cwmining.biz
 cwr-uber.ca
 cwrsmemb.info
@@ -30507,6 +30521,7 @@ devmetatime.com
 devnet-starknet.io
 devnet-starknet.net
 devolks.com
+devolredir.com
 devopspdx.com
 devopszone.org
 devosla0459.online
@@ -33284,6 +33299,7 @@ econews.site
 economartbd.com
 economelogainyjusk.shop
 economiicsosoq.shop
+economistjournal.cloud
 econtroll.com
 ecooterra.com
 ecopayroll-ca.com
@@ -50656,6 +50672,7 @@ josuecosmetic.com.ec
 jotaki.co.jp
 jotunheim.name
 joulesclearance.store
+journalctd.live
 journalide.org
 journeotravel.com
 journeymantle.xyz
@@ -74334,6 +74351,8 @@ redgmhchemical.com
 redi-livraison.fr
 redi-rect1.info
 redins.com
+redirconnectwise.cloud
+redircorrectiv.com
 redirect-bunq-client.ru
 redirect-cabenefits.com
 redirect-captcha.com
@@ -74375,6 +74394,7 @@ redirt.top
 redistribution-ftx.com
 redistributiondupaquet.info
 reditcoin.tech
+redjournal.cloud
 redkite-polkafoundry.online
 redliant.capital
 redline-pm.com
@@ -96877,6 +96897,7 @@ www-1lnchnetwork.com
 www-4519-xxxx-online-rbc.us
 www-4724-auth-mytd-online.xyz
 www-accesopersonaswps.cc
+www-account-booking.com
 www-arbitrum.gift
 www-auth-4519-xxxx-rbc-card.info
 www-auth-bmo-mobile-ca.xyz

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 July 2025
+# Last modified: 21 August 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -828,6 +828,7 @@
 0.0.0.0 1customr-srvcesmaintenance.info
 0.0.0.0 1december2022etransfer-intrac.ca
 0.0.0.0 1december2022neltflix.com
+0.0.0.0 1drv.us.com
 0.0.0.0 1e001.co
 0.0.0.0 1e01.co
 0.0.0.0 1e011.co
@@ -19368,6 +19369,7 @@
 0.0.0.0 cbridgecelernetwork.online
 0.0.0.0 cbridgee-celer.network
 0.0.0.0 cbrldge.click
+0.0.0.0 cbro.win
 0.0.0.0 cbroy.com
 0.0.0.0 cbryt.buzz
 0.0.0.0 cbrzduckz.com
@@ -24213,6 +24215,7 @@
 0.0.0.0 correctionimpotqc.com
 0.0.0.0 correctionimpots.com
 0.0.0.0 correctionroute0423.co.uk
+0.0.0.0 correctiv.sbs
 0.0.0.0 correctsolve.org
 0.0.0.0 corredoresvyg.cl
 0.0.0.0 correioindependente.com.br
@@ -26400,6 +26403,7 @@
 0.0.0.0 cwcwac3f422af.com
 0.0.0.0 cwesternb.com
 0.0.0.0 cwiagro.com.br
+0.0.0.0 cwise.store
 0.0.0.0 cwmining.biz
 0.0.0.0 cwr-uber.ca
 0.0.0.0 cwrsmemb.info
@@ -28834,6 +28838,7 @@
 0.0.0.0 devnet-starknet.io
 0.0.0.0 devnet-starknet.net
 0.0.0.0 devolks.com
+0.0.0.0 devolredir.com
 0.0.0.0 devopspdx.com
 0.0.0.0 devopszone.org
 0.0.0.0 devosla0459.online
@@ -31611,6 +31616,7 @@
 0.0.0.0 economartbd.com
 0.0.0.0 economelogainyjusk.shop
 0.0.0.0 economiicsosoq.shop
+0.0.0.0 economistjournal.cloud
 0.0.0.0 econtroll.com
 0.0.0.0 ecooterra.com
 0.0.0.0 ecopayroll-ca.com
@@ -48983,6 +48989,7 @@
 0.0.0.0 jotaki.co.jp
 0.0.0.0 jotunheim.name
 0.0.0.0 joulesclearance.store
+0.0.0.0 journalctd.live
 0.0.0.0 journalide.org
 0.0.0.0 journeotravel.com
 0.0.0.0 journeymantle.xyz
@@ -72661,6 +72668,8 @@
 0.0.0.0 redi-livraison.fr
 0.0.0.0 redi-rect1.info
 0.0.0.0 redins.com
+0.0.0.0 redirconnectwise.cloud
+0.0.0.0 redircorrectiv.com
 0.0.0.0 redirect-bunq-client.ru
 0.0.0.0 redirect-cabenefits.com
 0.0.0.0 redirect-captcha.com
@@ -72702,6 +72711,7 @@
 0.0.0.0 redistribution-ftx.com
 0.0.0.0 redistributiondupaquet.info
 0.0.0.0 reditcoin.tech
+0.0.0.0 redjournal.cloud
 0.0.0.0 redkite-polkafoundry.online
 0.0.0.0 redliant.capital
 0.0.0.0 redline-pm.com
@@ -95204,6 +95214,7 @@
 0.0.0.0 www-4519-xxxx-online-rbc.us
 0.0.0.0 www-4724-auth-mytd-online.xyz
 0.0.0.0 www-accesopersonaswps.cc
+0.0.0.0 www-account-booking.com
 0.0.0.0 www-arbitrum.gift
 0.0.0.0 www-auth-4519-xxxx-rbc-card.info
 0.0.0.0 www-auth-bmo-mobile-ca.xyz
