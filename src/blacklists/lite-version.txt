@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 27 July 2025
+! Last modified: 21 August 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -733,6 +733,7 @@
 ||1customr-srvcesmaintenance.info^
 ||1december2022etransfer-intrac.ca^
 ||1december2022neltflix.com^
+||1drv.us.com^
 ||1e001.co^
 ||1e01.co^
 ||1e011.co^
@@ -3232,7 +3233,7 @@
 ||admin-support.info^
 ||admin-supportsca.com^
 ||admin-sysserv.pro^
-||admin.mikifox.com ^
+||admin.mikifox.com^
 ||admin.pl^
 ||admincentr.com^
 ||admincomtls.online^
@@ -19287,6 +19288,7 @@
 ||cbridgecelernetwork.online^
 ||cbridgee-celer.network^
 ||cbrldge.click^
+||cbro.win^
 ||cbroy.com^
 ||cbryt.buzz^
 ||cbrzduckz.com^
@@ -19399,7 +19401,7 @@
 ||cdnhelpdesk-uber.com^
 ||cdninternal.cloud^
 ||cdnjs-storage.com^
-||cdnkit.io ^
+||cdnkit.io^
 ||cdnofficecloud.com^
 ||cdnpaidsecure.ca^
 ||cdnportalreturn-ca.com^
@@ -24128,6 +24130,7 @@
 ||correctionimpotqc.com^
 ||correctionimpots.com^
 ||correctionroute0423.co.uk^
+||correctiv.sbs^
 ||correctsolve.org^
 ||corredoresvyg.cl^
 ||correioindependente.com.br^
@@ -26318,6 +26321,7 @@
 ||cwcwac3f422af.com^
 ||cwesternb.com^
 ||cwiagro.com.br^
+||cwise.store^
 ||cwmining.biz^
 ||cwr-uber.ca^
 ||cwrsmemb.info^
@@ -28750,6 +28754,7 @@
 ||devnet-starknet.io^
 ||devnet-starknet.net^
 ||devolks.com^
+||devolredir.com^
 ||devopspdx.com^
 ||devopszone.org^
 ||devosla0459.online^
@@ -31527,6 +31532,7 @@
 ||economartbd.com^
 ||economelogainyjusk.shop^
 ||economiicsosoq.shop^
+||economistjournal.cloud^
 ||econtroll.com^
 ||ecooterra.com^
 ||ecopayroll-ca.com^
@@ -45742,7 +45748,7 @@
 ||inboxalert-govau.com^
 ||inboxalert-mygovlogin.com^
 ||inboxau-mygov.com^
-||inboxhub.net ^
+||inboxhub.net^
 ||inboxlogin-mygov.com^
 ||inboxsecure-mygov.com^
 ||inc-a9.site^
@@ -47962,8 +47968,8 @@
 ||iptvalfa.com^
 ||ipule.cn^
 ||ipunku.es^
-||ipv4.mikifox.com ^
-||ipv6.mikifox.com ^
+||ipv4.mikifox.com^
+||ipv6.mikifox.com^
 ||ipworldbestscan.xyz^
 ||ipworldscanbest.xyz^
 ||iqcademy.in^
@@ -48902,6 +48908,7 @@
 ||jotaki.co.jp^
 ||jotunheim.name^
 ||joulesclearance.store^
+||journalctd.live^
 ||journalide.org^
 ||journeotravel.com^
 ||journeymantle.xyz^
@@ -72561,6 +72568,8 @@
 ||redi-livraison.fr^
 ||redi-rect1.info^
 ||redins.com^
+||redirconnectwise.cloud^
+||redircorrectiv.com^
 ||redirect-bunq-client.ru^
 ||redirect-cabenefits.com^
 ||redirect-captcha.com^
@@ -72602,6 +72611,7 @@
 ||redistribution-ftx.com^
 ||redistributiondupaquet.info^
 ||reditcoin.tech^
+||redjournal.cloud^
 ||redkite-polkafoundry.online^
 ||redliant.capital^
 ||redline-pm.com^
@@ -83712,7 +83722,7 @@
 ||suifrens.site^
 ||suikyugrp.co.jp^
 ||suioapi.xyz^
-||suirokboys.digital ^
+||suirokboys.digital^
 ||suite-trezor.io^
 ||suiteprogramfederal.com^
 ||suivi-enligne.info^
@@ -94919,7 +94929,7 @@
 ||wriash.shop^
 ||wrisstytenewj.shop^
 ||writerospzm.shop^
-||writeup.live ^
+||writeup.live^
 ||writtern.com^
 ||wrldcoin.io^
 ||wrldcoin.site^
@@ -95017,6 +95027,7 @@
 ||www-4519-xxxx-online-rbc.us^
 ||www-4724-auth-mytd-online.xyz^
 ||www-accesopersonaswps.cc^
+||www-account-booking.com^
 ||www-arbitrum.gift^
 ||www-auth-4519-xxxx-rbc-card.info^
 ||www-auth-bmo-mobile-ca.xyz^
@@ -95921,7 +95932,7 @@
 ||xinchen.space^
 ||xinjpwk.vip^
 ||xinmoshiwang.com^
-||xinqianf38.top ^
+||xinqianf38.top^
 ||xintagma.com^
 ||xinyuhuang.com^
 ||xion-burnt.com^
@@ -96573,7 +96584,7 @@
 ||ycra.net^
 ||ycs-agoda.online^
 ||ycs-traveloka.com^
-||ycvduc.xyz ^
+||ycvduc.xyz^
 ||ydbentle.com^
 ||ydenjanteani.xyz^
 ||ydfym8f6erifpvk.gq^
@@ -96820,6 +96831,7 @@
 ||yourewrdscos.info^
 ||yourgeminiassets.com^
 ||yourgeminiclaim.net^
+||yourgeminiclaims.net^
 ||yourgeminiclaims.net^
 ||yourgolf.world^
 ||yourgroceries.top^
