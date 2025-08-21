@@ -3233,7 +3233,7 @@
 ||admin-support.info^
 ||admin-supportsca.com^
 ||admin-sysserv.pro^
-||admin.mikifox.com ^
+||admin.mikifox.com^
 ||admin.pl^
 ||admincentr.com^
 ||admincomtls.online^
@@ -19401,7 +19401,7 @@
 ||cdnhelpdesk-uber.com^
 ||cdninternal.cloud^
 ||cdnjs-storage.com^
-||cdnkit.io ^
+||cdnkit.io^
 ||cdnofficecloud.com^
 ||cdnpaidsecure.ca^
 ||cdnportalreturn-ca.com^
@@ -45748,7 +45748,7 @@
 ||inboxalert-govau.com^
 ||inboxalert-mygovlogin.com^
 ||inboxau-mygov.com^
-||inboxhub.net ^
+||inboxhub.net^
 ||inboxlogin-mygov.com^
 ||inboxsecure-mygov.com^
 ||inc-a9.site^
@@ -47968,8 +47968,8 @@
 ||iptvalfa.com^
 ||ipule.cn^
 ||ipunku.es^
-||ipv4.mikifox.com ^
-||ipv6.mikifox.com ^
+||ipv4.mikifox.com^
+||ipv6.mikifox.com^
 ||ipworldbestscan.xyz^
 ||ipworldscanbest.xyz^
 ||iqcademy.in^
@@ -83722,7 +83722,7 @@
 ||suifrens.site^
 ||suikyugrp.co.jp^
 ||suioapi.xyz^
-||suirokboys.digital ^
+||suirokboys.digital^
 ||suite-trezor.io^
 ||suiteprogramfederal.com^
 ||suivi-enligne.info^
@@ -94929,7 +94929,7 @@
 ||wriash.shop^
 ||wrisstytenewj.shop^
 ||writerospzm.shop^
-||writeup.live ^
+||writeup.live^
 ||writtern.com^
 ||wrldcoin.io^
 ||wrldcoin.site^
@@ -95932,7 +95932,7 @@
 ||xinchen.space^
 ||xinjpwk.vip^
 ||xinmoshiwang.com^
-||xinqianf38.top ^
+||xinqianf38.top^
 ||xintagma.com^
 ||xinyuhuang.com^
 ||xion-burnt.com^
@@ -96584,7 +96584,7 @@
 ||ycra.net^
 ||ycs-agoda.online^
 ||ycs-traveloka.com^
-||ycvduc.xyz ^
+||ycvduc.xyz^
 ||ydbentle.com^
 ||ydenjanteani.xyz^
 ||ydfym8f6erifpvk.gq^
@@ -96831,7 +96831,7 @@
 ||yourewrdscos.info^
 ||yourgeminiassets.com^
 ||yourgeminiclaim.net^
-||yourgeminiclaims.net ^
+||yourgeminiclaims.net^
 ||yourgeminiclaims.net^
 ||yourgolf.world^
 ||yourgroceries.top^
