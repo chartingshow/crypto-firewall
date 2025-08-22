@@ -29,6 +29,7 @@ inbox.com
 inbox.ru
 internet.ru
 italymail.com
+keemail.me
 lenta.ru
 list.ru
 live.com
@@ -60,6 +61,11 @@ runbox.email
 runbox.me
 softbank.jp
 startmail.com
+tuta.com
+tuta.io
+tutamail.com
+tutanota.com
+tutanota.de
 usa.com
 worker.com
 workmail.com
