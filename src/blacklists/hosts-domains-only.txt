@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 21 August 2025
+# Last modified: 22 August 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -134,6 +134,7 @@
 0.0.0.0 contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion
 0.0.0.0 dppnmjep33rf6ct3.onion
 0.0.0.0 dreambusweduybcp.onion
+0.0.0.0 ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion
 0.0.0.0 fndqgtdkj4v6g4aq.onion
 0.0.0.0 fylszpcqfel7joif.onion
 0.0.0.0 gb7ni5rgeexdcncj.onion
