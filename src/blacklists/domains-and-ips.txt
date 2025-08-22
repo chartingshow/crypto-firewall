@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 21 August 2025
+# Last modified: 22 August 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -1817,6 +1817,7 @@ continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
 contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion
 dppnmjep33rf6ct3.onion
 dreambusweduybcp.onion
+ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion
 fndqgtdkj4v6g4aq.onion
 fylszpcqfel7joif.onion
 gb7ni5rgeexdcncj.onion

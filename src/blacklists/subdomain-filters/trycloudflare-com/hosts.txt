@@ -4,9 +4,11 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 22 August 2025
 #
 
 # Block trycloudflare-com sub-domains
+0.0.0.0 sublime-tragedy-counties-sculpture.trycloudflare.com
 0.0.0.0 term-restore-satisfied-hence.trycloudflare.com
+0.0.0.0 varying-rentals-calgary-predict.trycloudflare.com
 0.0.0.0 ways-sms-pmc-shareholders.trycloudflare.com
