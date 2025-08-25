@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 22 August 2025
+# Last modified: 25 August 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -63348,7 +63348,6 @@ oneclickactive.com
 oneclickinsurances.com
 oneconnects.ca
 onedocshare.com
-onedrive.live.com
 onedumb.com
 oneenchi.com
 oneex.top

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 22 August 2025
+! Last modified: 25 August 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -63274,7 +63274,6 @@
 ||oneclickinsurances.com^
 ||oneconnects.ca^
 ||onedocshare.com^
-||onedrive.live.com^
 ||onedumb.com^
 ||oneenchi.com^
 ||oneex.top^
