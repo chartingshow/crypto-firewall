@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 22 August 2025
+# Last modified: 25 August 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -63357,7 +63357,6 @@
 0.0.0.0 oneclickinsurances.com
 0.0.0.0 oneconnects.ca
 0.0.0.0 onedocshare.com
-0.0.0.0 onedrive.live.com
 0.0.0.0 onedumb.com
 0.0.0.0 oneenchi.com
 0.0.0.0 oneex.top
