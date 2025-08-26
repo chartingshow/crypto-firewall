@@ -1,0 +1,14 @@
+# Crypto Firewall (tistory-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 25 August 2025
+#
+
+# Block tistory-com sub-domains
+0.0.0.0 blomming25.tistory.com
+0.0.0.0 gotspot.tistory.com
+0.0.0.0 issue-tree1.tistory.com
+0.0.0.0 sugohaesseo.tistory.com

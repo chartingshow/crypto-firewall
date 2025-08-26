@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (appspot-com)
+! Title: Crypto Firewall (tistory-com)
 ! Expires: 7 days (update frequency)
 ! Last modified: [Adblock Plus 3.0]
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,9 +8,8 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block appspot-com sub-domains ------------------------------------------------------
-||flandria171.appspot.com^
-||incentiveswidget.appspot.com^
-||newyan-1e09d.appspot.com^
-||topprioritys.appspot.com^
-||websitespage.appspot.com^
+! Block tistory-com sub-domains ------------------------------------------------------
+||blomming25.tistory.com^
+||gotspot.tistory.com^
+||issue-tree1.tistory.com^
+||sugohaesseo.tistory.com^
