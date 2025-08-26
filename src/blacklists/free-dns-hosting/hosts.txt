@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 June 2025
+# Last modified: 26 August 2025
 #
 
 # Block Free dns and hosting
@@ -22,6 +22,7 @@
 0.0.0.0 blogsyte.com
 0.0.0.0 bo-ip.biz
 0.0.0.0 bounceme.net
+0.0.0.0 bplaced.net
 0.0.0.0 buyshouses.net
 0.0.0.0 cable-modem.org
 0.0.0.0 camdvr.org
@@ -165,6 +166,7 @@
 0.0.0.0 sinsincity.com
 0.0.0.0 softcom.net
 0.0.0.0 spdns.eu
+0.0.0.0 square7.ch
 0.0.0.0 strangled.net
 0.0.0.0 swtest.ru
 0.0.0.0 sytes.net

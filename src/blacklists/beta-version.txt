@@ -99877,6 +99877,7 @@
 ||laurellkhamilton.shubhmishra.com^
 ||marketdriven.chevronmarcom.com^
 ||officepackage.sourceforge.io^
+||oniym.holy.jp^
 ||panda.sect.kr^
 ||peat-sparkly-option.glitch.me^
 ||pengadaan.undip.ac.id^
@@ -99886,6 +99887,7 @@
 ||sas185.sas.edu.pk^
 ||saw4.playit.gg^
 ||scmm.netlify.app^
+||srbfm.square7.ch^
 ||staging.api.sanchezbutron.staging-01.sq1.io^
 ||student.cac.edu.au^
 ||t1.misu.se^
@@ -100174,6 +100176,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/sglwebs-com/adblock-list.txt
 !#include subdomain-filters/square-site/adblock-list.txt
+!#include subdomain-filters/tistory-com/adblock-list.txt
 !#include subdomain-filters/translate-goog/adblock-list.txt
 !#include subdomain-filters/trycloudflare-com/adblock-list.txt
 !#include subdomain-filters/ts-net/adblock-list.txt

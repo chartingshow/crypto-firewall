@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 June 2025
+# Last modified: 26 August 2025
 #
 
 # Domains
@@ -23,6 +23,7 @@ biz.ua
 blogsyte.com
 bo-ip.biz
 bounceme.net
+bplaced.net
 buyshouses.net
 cable-modem.org
 camdvr.org
@@ -166,6 +167,7 @@ servequake.com
 sinsincity.com
 softcom.net
 spdns.eu
+square7.ch
 strangled.net
 swtest.ru
 sytes.net

@@ -12,3 +12,5 @@
 ||flandria171.appspot.com^
 ||incentiveswidget.appspot.com^
 ||newyan-1e09d.appspot.com^
+||topprioritys.appspot.com^
+||websitespage.appspot.com^
