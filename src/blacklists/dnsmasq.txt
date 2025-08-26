@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 August 2025
+# Last modified: 26 August 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -15,10 +15,14 @@
 # address=/aliyuncs.com/0.0.0.0
 # address=/amazonaws.com/0.0.0.0
 # address=/bitbucket.io/0.0.0.0
+# address=/blogspot.ca/0.0.0.0
+# address=/blogspot.co.id/0.0.0.0
 # address=/blogspot.co.uk/0.0.0.0
 # address=/blogspot.co.za/0.0.0.0
+# address=/blogspot.com.ee/0.0.0.0
 # address=/blogspot.com/0.0.0.0
 # address=/blogspot.mx/0.0.0.0
+# address=/blogspot.pt/0.0.0.0
 # address=/cloudapp.azure.com/0.0.0.0
 # address=/cloudfront.net/0.0.0.0
 # address=/forms.app/0.0.0.0

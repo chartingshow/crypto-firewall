@@ -100176,6 +100176,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/sglwebs-com/adblock-list.txt
 !#include subdomain-filters/square-site/adblock-list.txt
+!#include subdomain-filters/tistory-com/adblock-list.txt
 !#include subdomain-filters/translate-goog/adblock-list.txt
 !#include subdomain-filters/trycloudflare-com/adblock-list.txt
 !#include subdomain-filters/ts-net/adblock-list.txt
