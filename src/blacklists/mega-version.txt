@@ -99840,6 +99840,7 @@
 ||amg.rmutk.ac.th^
 ||api-help.100px.com^
 ||artwork.siddavisart.com^
+||ascenti-stage.fiora.agency^
 ||at.ply.gg^
 ||banhang.shopee.vn^
 ||beta.voxpublica.no^
@@ -99861,6 +99862,7 @@
 ||form.haysllc.net^
 ||forms.cac.edu.au^
 ||frp1.freefrp.net^
+||ftp.aigirlfriend.altervista.org ^
 ||g66.onelink.me^
 ||hacker1236.hoto.org^
 ||hd.kp.gov.pk^

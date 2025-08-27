@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Pages Dev)
 ! Expires: 7 days (update frequency)
-! Last modified: 30 May 2025
+! Last modified: 27 August 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -546,6 +546,7 @@
 ||neutron-org.pages.dev^
 ||newdappsync.pages.dev^
 ||news18.pages.dev^
+||nextpage-gwg.pages.dev^
 ||nftcellframe.pages.dev^
 ||nftmetis.pages.dev^
 ||nmbnbhjgnbnm.pages.dev^
