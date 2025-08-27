@@ -99862,7 +99862,7 @@
 ||form.haysllc.net^
 ||forms.cac.edu.au^
 ||frp1.freefrp.net^
-||ftp.aigirlfriend.altervista.org ^
+||ftp.aigirlfriend.altervista.org^
 ||g66.onelink.me^
 ||hacker1236.hoto.org^
 ||hd.kp.gov.pk^
