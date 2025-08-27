@@ -4,9 +4,26 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 28 May 2025
+# Last modified: 27 August 2025
 #
 
 # Block herokuapp-com sub-domains
+0.0.0.0 clear-sign-e69444a8e4ea.herokuapp.com
 0.0.0.0 clone-logs.herokuapp.com
+0.0.0.0 collab-sign-8e36fa762841.herokuapp.com
+0.0.0.0 docsign-hub-3295a03470c3.herokuapp.com
+0.0.0.0 john-deer-apple-0c6f34d9c276.herokuapp.com
+0.0.0.0 legal-sign-8ec8b9f1edb2.herokuapp.com
+0.0.0.0 mail-serve-9a5d4f13e3a7.herokuapp.com
+0.0.0.0 sharespace-link-360b265f3942.herokuapp.com
+0.0.0.0 signcentral-7df32454744c.herokuapp.com
+0.0.0.0 signcentral-vault-33ce0aff08dc.herokuapp.com
+0.0.0.0 signflow-e15eda21396d.herokuapp.com
+0.0.0.0 signforge-a61a5975a04b.herokuapp.com
+0.0.0.0 signhub-view-09a16562134b.herokuapp.com
+0.0.0.0 signlink-portal-37c581992418.herokuapp.com
+0.0.0.0 signstream-docs-de3fa399b173.herokuapp.com
+0.0.0.0 signtrack-docs-6a96b334b140.herokuapp.com
 0.0.0.0 trustcheck.herokuapp.com
+0.0.0.0 viewshare-4a47630892e1.herokuapp.com
+0.0.0.0 webmailapp-0e6cff4089a4.herokuapp.com 

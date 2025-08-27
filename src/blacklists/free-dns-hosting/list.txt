@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 August 2025
+# Last modified: 27 August 2025
 #
 
 # Domains
@@ -166,6 +166,7 @@ servepics.com
 servequake.com
 sinsincity.com
 softcom.net
+softether.net
 spdns.eu
 square7.ch
 strangled.net

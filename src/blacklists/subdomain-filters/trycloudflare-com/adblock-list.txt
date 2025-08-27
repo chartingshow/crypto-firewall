@@ -11,5 +11,6 @@
 ! Block trycloudflare-com sub-domains ------------------------------------------------------
 ||sublime-tragedy-counties-sculpture.trycloudflare.com^
 ||term-restore-satisfied-hence.trycloudflare.com^
+||tie-cent-orleans-arrival.trycloudflare.com^
 ||varying-rentals-calgary-predict.trycloudflare.com^
 ||ways-sms-pmc-shareholders.trycloudflare.com^

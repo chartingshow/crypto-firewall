@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 May 2025
+# Last modified: 27 August 2025
 #
 
 # Block pages dev sub-domains
@@ -545,6 +545,7 @@
 0.0.0.0 neutron-org.pages.dev
 0.0.0.0 newdappsync.pages.dev
 0.0.0.0 news18.pages.dev
+0.0.0.0 nextpage-gwg.pages.dev
 0.0.0.0 nftcellframe.pages.dev
 0.0.0.0 nftmetis.pages.dev
 0.0.0.0 nmbnbhjgnbnm.pages.dev
