@@ -103785,16 +103785,24 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 ! Blocking domains -------------------------------------------------------------
 !#include domain-filters/1inch-io/adblock-list.txt
 !#include domain-filters/aerodrome-finance/adblock-list.txt
+!#include domain-filters/aevo-xyz/adblock-list.txt
 !#include domain-filters/aftermath-finance/adblock-list.txt
 !#include domain-filters/altdentifier-com/adblock-list.txt
+!#include domain-filters/apex-exchange/adblock-list.txt
+!#include domain-filters/arkm-com/adblock-list.txt
+!#include domain-filters/ascendex-com/adblock-list.txt
 !#include domain-filters/axieinfinity-com/adblock-list.txt
+!#include domain-filters/backpack-exchange/adblock-list.txt
 !#include domain-filters/balancer-fi/adblock-list.txt
+!#include domain-filters/biconomy-com/adblock-list.txt
+!#include domain-filters/bigone-com/adblock-list.txt
 !#include domain-filters/bilaxy-com/adblock-list.txt
 !#include domain-filters/binance-com/adblock-list.txt
 !#include domain-filters/binance-tr/adblock-list.txt
 !#include domain-filters/binance-us/adblock-list.txt
 !#include domain-filters/bingx-com/adblock-list.txt
 !#include domain-filters/bitfinex-com/adblock-list.txt
+!#include domain-filters/bitflyer-com/adblock-list.txt
 !#include domain-filters/bitget-com/adblock-list.txt
 !#include domain-filters/bithumb-com/adblock-list.txt
 !#include domain-filters/bitmart-com/adblock-list.txt
@@ -103803,6 +103811,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitrue-com/adblock-list.txt
 !#include domain-filters/bitso-com/adblock-list.txt
 !#include domain-filters/bitstamp-net/adblock-list.txt
+!#include domain-filters/bitunix-com/adblock-list.txt
+!#include domain-filters/blitz-exchange/adblock-list.txt
 !#include domain-filters/bluefin-io/adblock-list.txt
 !#include domain-filters/blur-io/adblock-list.txt
 !#include domain-filters/bullish-com/adblock-list.txt
