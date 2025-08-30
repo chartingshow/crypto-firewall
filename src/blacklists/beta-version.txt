@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 29 August 2025
+! Last modified: 30 August 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -104393,10 +104393,14 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitstamp-net/adblock-list.txt
 !#include domain-filters/bitunix-com/adblock-list.txt
 !#include domain-filters/blitz-exchange/adblock-list.txt
+!#include domain-filters/blofin-com/adblock-list.txt
 !#include domain-filters/bluefin-io/adblock-list.txt
 !#include domain-filters/blur-io/adblock-list.txt
+!#include domain-filters/btse-com/adblock-list.txt
 !#include domain-filters/bullish-com/adblock-list.txt
+!#include domain-filters/bvox-com/adblock-list.txt
 !#include domain-filters/bybit-com/adblock-list.txt
+!#include domain-filters/bydfi-com/adblock-list.txt
 !#include domain-filters/calendly-com/adblock-list.txt
 !#include domain-filters/camelot-exchange/adblock-list.txt
 !#include domain-filters/cellana-finance/adblock-list.txt
@@ -104404,12 +104408,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/chainflip-io/adblock-list.txt
 !#include domain-filters/changenow-io/adblock-list.txt
 !#include domain-filters/coinbase-com/adblock-list.txt
+!#include domain-filters/coincall-com/adblock-list.txt
+!#include domain-filters/coincatch-com/adblock-list.txt
 !#include domain-filters/coinex-com/adblock-list.txt
 !#include domain-filters/coinlist-co/adblock-list.txt
 !#include domain-filters/coinw-com/adblock-list.txt
 !#include domain-filters/crypto-com/adblock-list.txt
 !#include domain-filters/curve-finance/adblock-list.txt
 !#include domain-filters/decentraland-org/adblock-list.txt
+!#include domain-filters/deepcoin-top/adblock-list.txt
+!#include domain-filters/defx-com/adblock-list.txt
+!#include domain-filters/delta-exchange/adblock-list.txt
+!#include domain-filters/dem-exchange/adblock-list.txt
 !#include domain-filters/dexalot-com/adblock-list.txt
 !#include domain-filters/digifinex-com/adblock-list.txt
 !#include domain-filters/dodoex-io/adblock-list.txt
