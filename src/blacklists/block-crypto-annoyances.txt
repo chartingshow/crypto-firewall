@@ -2338,3 +2338,10 @@ www.thestreet.com##.m-in-content-recommendation
 
 ! mail.proton.me
 mail.proton.me##.button-promotion--full-gradient.button-promotion--icon-gradient
+
+! msn.com
+www.msn.com##.copyright
+www.msn.com##.intra-article-relatedcontent
+
+! wikipedia.org
+en.wikipedia.org##.frb-annual-enabled
