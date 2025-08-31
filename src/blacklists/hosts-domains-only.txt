@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 August 2025
+# Last modified: 31 August 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -1862,6 +1862,7 @@
 0.0.0.0 599508.com
 0.0.0.0 5a8777db35d45d0a.live
 0.0.0.0 5adiletasarim.com
+0.0.0.0 5b7crp.com
 0.0.0.0 5biribizidurdursun36.xyz
 0.0.0.0 5biribizidurdursun361.net
 0.0.0.0 5biribizidurdursun536.com
@@ -2307,6 +2308,7 @@
 0.0.0.0 9kmovies.tube
 0.0.0.0 9kyd.com
 0.0.0.0 9m3cc42refde39li7.online
+0.0.0.0 9mdp5f.com
 0.0.0.0 9minecraft.net
 0.0.0.0 9ow.us
 0.0.0.0 9prefabhouse.com
@@ -2645,6 +2647,7 @@
 0.0.0.0 abelco.se
 0.0.0.0 abendrothbolivia.com
 0.0.0.0 abersuin.com
+0.0.0.0 abf26u.com
 0.0.0.0 abgcrot.life
 0.0.0.0 abgov-ref.in
 0.0.0.0 abhbdiiaehdejgh.top
@@ -7931,6 +7934,7 @@
 0.0.0.0 apc-rewards.com
 0.0.0.0 apdashboard-renew.com
 0.0.0.0 apdfhost.online
+0.0.0.0 apdft.com
 0.0.0.0 apdft.net
 0.0.0.0 apdft.online
 0.0.0.0 apdfty.net
@@ -8771,6 +8775,7 @@
 0.0.0.0 appstarknet-claim.xyz
 0.0.0.0 appstarknet-quantomleap.xyz
 0.0.0.0 appstoreuk.online
+0.0.0.0 appsuites.ai
 0.0.0.0 appsurvmultiverse.pro
 0.0.0.0 appsv3-panskiekprotocol.top
 0.0.0.0 appswallet-updates.com
@@ -16865,6 +16870,7 @@
 0.0.0.0 businessdogs.xyz
 0.0.0.0 businessneedrules.com
 0.0.0.0 businessnews18.online
+0.0.0.0 businesspdf.com
 0.0.0.0 businesspdf.net
 0.0.0.0 businessplanwriterz.com
 0.0.0.0 businessvideonews.com
@@ -33379,6 +33385,7 @@
 0.0.0.0 easylinkdeposit.ca
 0.0.0.0 easymarkets.vip
 0.0.0.0 easyonestartpdf.com
+0.0.0.0 easypdfbox.com
 0.0.0.0 easyrebate-incentives.com
 0.0.0.0 easyrefund.website
 0.0.0.0 easysample.ca
@@ -42132,6 +42139,7 @@
 0.0.0.0 fullminelogistics.co.ug
 0.0.0.0 fullmoongames.org
 0.0.0.0 fullness-safety.com
+0.0.0.0 fullpdf.com
 0.0.0.0 fullphimzz.com
 0.0.0.0 fullphimzz.net
 0.0.0.0 fullppc.xyz
@@ -43315,6 +43323,7 @@
 0.0.0.0 getmyusdt.com
 0.0.0.0 getnewdate4misseddispatch.info
 0.0.0.0 getonestart.co
+0.0.0.0 getonestartpdf.com
 0.0.0.0 getornics.com
 0.0.0.0 getpankceike.org
 0.0.0.0 getpanksaceswap.com
@@ -44142,6 +44151,7 @@
 0.0.0.0 goox6.shop
 0.0.0.0 gopaktor.com
 0.0.0.0 gopdfhub.com
+0.0.0.0 gopdfmanuals.com
 0.0.0.0 gopeerclick.com
 0.0.0.0 gophamanapr.site
 0.0.0.0 gopluslabs.icu
@@ -50490,6 +50500,7 @@
 0.0.0.0 internetbanking4.com
 0.0.0.0 internetbanking4.net
 0.0.0.0 internetdocss.com
+0.0.0.0 internetdownloadhub.biz
 0.0.0.0 internetdownloadmanager.pro
 0.0.0.0 internetfibraperu.com
 0.0.0.0 internetipank-lhv-ee.com
@@ -51288,6 +51299,7 @@
 0.0.0.0 itoyokado.cf
 0.0.0.0 itoyokado.ga
 0.0.0.0 itoyokado.gq
+0.0.0.0 itpdf.com
 0.0.0.0 itpdf.net
 0.0.0.0 itpdf.org
 0.0.0.0 itprofbin.site
@@ -52314,6 +52326,7 @@
 0.0.0.0 justns.ru
 0.0.0.0 justoplatf.online
 0.0.0.0 justowear.shop
+0.0.0.0 justpdflab.com
 0.0.0.0 justprocess.xyz
 0.0.0.0 justsolve.site
 0.0.0.0 justswallows.com
@@ -60737,6 +60750,7 @@
 0.0.0.0 mjssm.me
 0.0.0.0 mk-rex.com
 0.0.0.0 mk-rex.top
+0.0.0.0 mka3e8.com
 0.0.0.0 mkccr.com
 0.0.0.0 mkcoin.site
 0.0.0.0 mkd-news.com
@@ -67459,6 +67473,7 @@
 0.0.0.0 onestartemplates.com
 0.0.0.0 onestartmanuals.com
 0.0.0.0 onestartpdf.com
+0.0.0.0 onestartpdfdirect.com
 0.0.0.0 onestartpdfs.com
 0.0.0.0 onestartprint.com
 0.0.0.0 onestats.top
@@ -70995,13 +71010,18 @@
 0.0.0.0 pdddk.xyz
 0.0.0.0 pdentim.cam
 0.0.0.0 pdf-central.com
+0.0.0.0 pdf-kiosk.com
 0.0.0.0 pdf-kiosk.net
 0.0.0.0 pdf-kiosks.net
 0.0.0.0 pdf-working.com
 0.0.0.0 pdfadjunto.com
+0.0.0.0 pdfadmin.com
 0.0.0.0 pdfappsuite.com
+0.0.0.0 pdfartisan.com
 0.0.0.0 pdfavm.com
 0.0.0.0 pdfbyappsuite.com
+0.0.0.0 pdfdoccentral.com
+0.0.0.0 pdfeditorplus.com
 0.0.0.0 pdffacts.com
 0.0.0.0 pdffacts.net
 0.0.0.0 pdffilehub.com
@@ -71012,13 +71032,19 @@
 0.0.0.0 pdfhubspot.com
 0.0.0.0 pdfhubtoday.com
 0.0.0.0 pdfideas.com
+0.0.0.0 pdfmeta.com
 0.0.0.0 pdfonestart.ai
 0.0.0.0 pdfonestart.com
 0.0.0.0 pdfonestarthub.com
+0.0.0.0 pdfonestartlive.com
+0.0.0.0 pdfonestarttoday.com
 0.0.0.0 pdforsmartminds.com
 0.0.0.0 pdfplusconvert.com
+0.0.0.0 pdfreplace.com
 0.0.0.0 pdfscraper.com
 0.0.0.0 pdfscraper.site
+0.0.0.0 pdfsmartkit.com
+0.0.0.0 pdftraining.com
 0.0.0.0 pdfts.site
 0.0.0.0 pdfunity.com
 0.0.0.0 pdfviewer.app
@@ -74637,6 +74663,8 @@
 0.0.0.0 proofly.win
 0.0.0.0 proofofpepe.space
 0.0.0.0 proofunhatched.xyz
+0.0.0.0 proonestarthub.com
+0.0.0.0 proonestartpdf.com
 0.0.0.0 propbloq.com
 0.0.0.0 propertier.com.pk
 0.0.0.0 propertiesbecho.com
@@ -75714,6 +75742,7 @@
 0.0.0.0 quickom.com
 0.0.0.0 quickorange.net
 0.0.0.0 quickpads.top
+0.0.0.0 quickpdfmanuals.com
 0.0.0.0 quickportal.info
 0.0.0.0 quickportals.info
 0.0.0.0 quickrestore.site
@@ -86484,6 +86513,7 @@
 0.0.0.0 smartdistincdapp.xyz
 0.0.0.0 smartdistinctdapp.xyz
 0.0.0.0 smartdriverfix.cloud
+0.0.0.0 smarteasypdf.com
 0.0.0.0 smartechnode.com
 0.0.0.0 smartencryptdapp.com
 0.0.0.0 smartenergie.online
@@ -86511,6 +86541,7 @@
 0.0.0.0 smartlivemultiverse.online
 0.0.0.0 smartliveuniverse.website
 0.0.0.0 smartlnus.com
+0.0.0.0 smartmanualspdf.com
 0.0.0.0 smartmarketprolive.com
 0.0.0.0 smartmarkettrades.org
 0.0.0.0 smartmetafx.com
@@ -86529,6 +86560,7 @@
 0.0.0.0 smartmultiverse.net
 0.0.0.0 smartmydeposit.com
 0.0.0.0 smartnitroverseapp.org
+0.0.0.0 smartonestartpdf.com
 0.0.0.0 smartoptions.live
 0.0.0.0 smartoverpay.com
 0.0.0.0 smartoverpayed.com
@@ -86566,6 +86598,7 @@
 0.0.0.0 smartup.io
 0.0.0.0 smartusdmining.cloud
 0.0.0.0 smartversevalidation.pro
+0.0.0.0 smartviewpdf.com
 0.0.0.0 smartvisioncargo.com
 0.0.0.0 smartvizx.com
 0.0.0.0 smartwhitelisttradeverse.pro
@@ -92256,6 +92289,7 @@
 0.0.0.0 thepaperden.com
 0.0.0.0 theparrotlounge.com
 0.0.0.0 thepathwayacademy.co.uk
+0.0.0.0 thepdfbox.com
 0.0.0.0 thepepeskillers.io
 0.0.0.0 thepepetoken.net
 0.0.0.0 thepepeworld.fun
@@ -102794,6 +102828,7 @@
 0.0.0.0 xzyia.com
 0.0.0.0 y-pred.com
 0.0.0.0 y00ts.today
+0.0.0.0 y2iax5.com
 0.0.0.0 y2k-fashiononline.com
 0.0.0.0 y2mate.com
 0.0.0.0 y2meta.tube

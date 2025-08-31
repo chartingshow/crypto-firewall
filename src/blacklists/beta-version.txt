@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 30 August 2025
+! Last modified: 31 August 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1760,6 +1760,7 @@
 ||599508.com^
 ||5a8777db35d45d0a.live^
 ||5adiletasarim.com^
+||5b7crp.com^
 ||5biribizidurdursun36.xyz^
 ||5biribizidurdursun361.net^
 ||5biribizidurdursun536.com^
@@ -2205,6 +2206,7 @@
 ||9kmovies.tube^
 ||9kyd.com^
 ||9m3cc42refde39li7.online^
+||9mdp5f.com^
 ||9minecraft.net^
 ||9ow.us^
 ||9prefabhouse.com^
@@ -2543,6 +2545,7 @@
 ||abelco.se^
 ||abendrothbolivia.com^
 ||abersuin.com^
+||abf26u.com^
 ||abgcrot.life^
 ||abgov-ref.in^
 ||abhbdiiaehdejgh.top^
@@ -7829,6 +7832,7 @@
 ||apc-rewards.com^
 ||apdashboard-renew.com^
 ||apdfhost.online^
+||apdft.com^
 ||apdft.net^
 ||apdft.online^
 ||apdfty.net^
@@ -8669,6 +8673,7 @@
 ||appstarknet-claim.xyz^
 ||appstarknet-quantomleap.xyz^
 ||appstoreuk.online^
+||appsuites.ai^
 ||appsurvmultiverse.pro^
 ||appsv3-panskiekprotocol.top^
 ||appswallet-updates.com^
@@ -16763,6 +16768,7 @@
 ||businessdogs.xyz^
 ||businessneedrules.com^
 ||businessnews18.online^
+||businesspdf.com^
 ||businesspdf.net^
 ||businessplanwriterz.com^
 ||businessvideonews.com^
@@ -33277,6 +33283,7 @@
 ||easylinkdeposit.ca^
 ||easymarkets.vip^
 ||easyonestartpdf.com^
+||easypdfbox.com^
 ||easyrebate-incentives.com^
 ||easyrefund.website^
 ||easysample.ca^
@@ -42030,6 +42037,7 @@
 ||fullminelogistics.co.ug^
 ||fullmoongames.org^
 ||fullness-safety.com^
+||fullpdf.com^
 ||fullphimzz.com^
 ||fullphimzz.net^
 ||fullppc.xyz^
@@ -43213,6 +43221,7 @@
 ||getmyusdt.com^
 ||getnewdate4misseddispatch.info^
 ||getonestart.co^
+||getonestartpdf.com^
 ||getornics.com^
 ||getpankceike.org^
 ||getpanksaceswap.com^
@@ -44040,6 +44049,7 @@
 ||goox6.shop^
 ||gopaktor.com^
 ||gopdfhub.com^
+||gopdfmanuals.com^
 ||gopeerclick.com^
 ||gophamanapr.site^
 ||gopluslabs.icu^
@@ -50388,6 +50398,7 @@
 ||internetbanking4.com^
 ||internetbanking4.net^
 ||internetdocss.com^
+||internetdownloadhub.biz^
 ||internetdownloadmanager.pro^
 ||internetfibraperu.com^
 ||internetipank-lhv-ee.com^
@@ -51186,6 +51197,7 @@
 ||itoyokado.cf^
 ||itoyokado.ga^
 ||itoyokado.gq^
+||itpdf.com^
 ||itpdf.net^
 ||itpdf.org^
 ||itprofbin.site^
@@ -52212,6 +52224,7 @@
 ||justns.ru^
 ||justoplatf.online^
 ||justowear.shop^
+||justpdflab.com^
 ||justprocess.xyz^
 ||justsolve.site^
 ||justswallows.com^
@@ -60635,6 +60648,7 @@
 ||mjssm.me^
 ||mk-rex.com^
 ||mk-rex.top^
+||mka3e8.com^
 ||mkccr.com^
 ||mkcoin.site^
 ||mkd-news.com^
@@ -67357,6 +67371,7 @@
 ||onestartemplates.com^
 ||onestartmanuals.com^
 ||onestartpdf.com^
+||onestartpdfdirect.com^
 ||onestartpdfs.com^
 ||onestartprint.com^
 ||onestats.top^
@@ -70893,13 +70908,18 @@
 ||pdddk.xyz^
 ||pdentim.cam^
 ||pdf-central.com^
+||pdf-kiosk.com^
 ||pdf-kiosk.net^
 ||pdf-kiosks.net^
 ||pdf-working.com^
 ||pdfadjunto.com^
+||pdfadmin.com^
 ||pdfappsuite.com^
+||pdfartisan.com^
 ||pdfavm.com^
 ||pdfbyappsuite.com^
+||pdfdoccentral.com^
+||pdfeditorplus.com^
 ||pdffacts.com^
 ||pdffacts.net^
 ||pdffilehub.com^
@@ -70910,13 +70930,19 @@
 ||pdfhubspot.com^
 ||pdfhubtoday.com^
 ||pdfideas.com^
+||pdfmeta.com^
 ||pdfonestart.ai^
 ||pdfonestart.com^
 ||pdfonestarthub.com^
+||pdfonestartlive.com^
+||pdfonestarttoday.com^
 ||pdforsmartminds.com^
 ||pdfplusconvert.com^
+||pdfreplace.com^
 ||pdfscraper.com^
 ||pdfscraper.site^
+||pdfsmartkit.com^
+||pdftraining.com^
 ||pdfts.site^
 ||pdfunity.com^
 ||pdfviewer.app^
@@ -74535,6 +74561,8 @@
 ||proofly.win^
 ||proofofpepe.space^
 ||proofunhatched.xyz^
+||proonestarthub.com^
+||proonestartpdf.com^
 ||propbloq.com^
 ||propertier.com.pk^
 ||propertiesbecho.com^
@@ -75612,6 +75640,7 @@
 ||quickom.com^
 ||quickorange.net^
 ||quickpads.top^
+||quickpdfmanuals.com^
 ||quickportal.info^
 ||quickportals.info^
 ||quickrestore.site^
@@ -86382,6 +86411,7 @@
 ||smartdistincdapp.xyz^
 ||smartdistinctdapp.xyz^
 ||smartdriverfix.cloud^
+||smarteasypdf.com^
 ||smartechnode.com^
 ||smartencryptdapp.com^
 ||smartenergie.online^
@@ -86409,6 +86439,7 @@
 ||smartlivemultiverse.online^
 ||smartliveuniverse.website^
 ||smartlnus.com^
+||smartmanualspdf.com^
 ||smartmarketprolive.com^
 ||smartmarkettrades.org^
 ||smartmetafx.com^
@@ -86427,6 +86458,7 @@
 ||smartmultiverse.net^
 ||smartmydeposit.com^
 ||smartnitroverseapp.org^
+||smartonestartpdf.com^
 ||smartoptions.live^
 ||smartoverpay.com^
 ||smartoverpayed.com^
@@ -86464,6 +86496,7 @@
 ||smartup.io^
 ||smartusdmining.cloud^
 ||smartversevalidation.pro^
+||smartviewpdf.com^
 ||smartvisioncargo.com^
 ||smartvizx.com^
 ||smartwhitelisttradeverse.pro^
@@ -92154,6 +92187,7 @@
 ||thepaperden.com^
 ||theparrotlounge.com^
 ||thepathwayacademy.co.uk^
+||thepdfbox.com^
 ||thepepeskillers.io^
 ||thepepetoken.net^
 ||thepepeworld.fun^
@@ -102692,6 +102726,7 @@
 ||xzyia.com^
 ||y-pred.com^
 ||y00ts.today^
+||y2iax5.com^
 ||y2k-fashiononline.com^
 ||y2mate.com^
 ||y2meta.tube^

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 29 August 2025
+# Last modified: 31 August 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -1853,6 +1853,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 599508.com
 5a8777db35d45d0a.live
 5adiletasarim.com
+5b7crp.com
 5biribizidurdursun36.xyz
 5biribizidurdursun361.net
 5biribizidurdursun536.com
@@ -2298,6 +2299,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 9kmovies.tube
 9kyd.com
 9m3cc42refde39li7.online
+9mdp5f.com
 9minecraft.net
 9ow.us
 9prefabhouse.com
@@ -2636,6 +2638,7 @@ abegtunes.com
 abelco.se
 abendrothbolivia.com
 abersuin.com
+abf26u.com
 abgcrot.life
 abgov-ref.in
 abhbdiiaehdejgh.top
@@ -7922,6 +7925,7 @@ apayupdate-au.com
 apc-rewards.com
 apdashboard-renew.com
 apdfhost.online
+apdft.com
 apdft.net
 apdft.online
 apdfty.net
@@ -8762,6 +8766,7 @@ appss.top
 appstarknet-claim.xyz
 appstarknet-quantomleap.xyz
 appstoreuk.online
+appsuites.ai
 appsurvmultiverse.pro
 appsv3-panskiekprotocol.top
 appswallet-updates.com
@@ -16856,6 +16861,7 @@ businessdogs.cc
 businessdogs.xyz
 businessneedrules.com
 businessnews18.online
+businesspdf.com
 businesspdf.net
 businessplanwriterz.com
 businessvideonews.com
@@ -33370,6 +33376,7 @@ easyline-web2factortd.com
 easylinkdeposit.ca
 easymarkets.vip
 easyonestartpdf.com
+easypdfbox.com
 easyrebate-incentives.com
 easyrefund.website
 easysample.ca
@@ -42123,6 +42130,7 @@ fullimpio.cl
 fullminelogistics.co.ug
 fullmoongames.org
 fullness-safety.com
+fullpdf.com
 fullphimzz.com
 fullphimzz.net
 fullppc.xyz
@@ -43306,6 +43314,7 @@ getmyusdc.com
 getmyusdt.com
 getnewdate4misseddispatch.info
 getonestart.co
+getonestartpdf.com
 getornics.com
 getpankceike.org
 getpanksaceswap.com
@@ -44133,6 +44142,7 @@ goovv-retuurrnn.info
 goox6.shop
 gopaktor.com
 gopdfhub.com
+gopdfmanuals.com
 gopeerclick.com
 gophamanapr.site
 gopluslabs.icu
@@ -50481,6 +50491,7 @@ internetbank-au.com
 internetbanking4.com
 internetbanking4.net
 internetdocss.com
+internetdownloadhub.biz
 internetdownloadmanager.pro
 internetfibraperu.com
 internetipank-lhv-ee.com
@@ -51279,6 +51290,7 @@ itosha.top
 itoyokado.cf
 itoyokado.ga
 itoyokado.gq
+itpdf.com
 itpdf.net
 itpdf.org
 itprofbin.site
@@ -52305,6 +52317,7 @@ justmilfpussy.com
 justns.ru
 justoplatf.online
 justowear.shop
+justpdflab.com
 justprocess.xyz
 justsolve.site
 justswallows.com
@@ -60728,6 +60741,7 @@ mjllfuytze.top
 mjssm.me
 mk-rex.com
 mk-rex.top
+mka3e8.com
 mkccr.com
 mkcoin.site
 mkd-news.com
@@ -67450,6 +67464,7 @@ onestartconverter.com
 onestartemplates.com
 onestartmanuals.com
 onestartpdf.com
+onestartpdfdirect.com
 onestartpdfs.com
 onestartprint.com
 onestats.top
@@ -70986,13 +71001,18 @@ pdddj.xyz
 pdddk.xyz
 pdentim.cam
 pdf-central.com
+pdf-kiosk.com
 pdf-kiosk.net
 pdf-kiosks.net
 pdf-working.com
 pdfadjunto.com
+pdfadmin.com
 pdfappsuite.com
+pdfartisan.com
 pdfavm.com
 pdfbyappsuite.com
+pdfdoccentral.com
+pdfeditorplus.com
 pdffacts.com
 pdffacts.net
 pdffilehub.com
@@ -71003,13 +71023,19 @@ pdfguides.com
 pdfhubspot.com
 pdfhubtoday.com
 pdfideas.com
+pdfmeta.com
 pdfonestart.ai
 pdfonestart.com
 pdfonestarthub.com
+pdfonestartlive.com
+pdfonestarttoday.com
 pdforsmartminds.com
 pdfplusconvert.com
+pdfreplace.com
 pdfscraper.com
 pdfscraper.site
+pdfsmartkit.com
+pdftraining.com
 pdfts.site
 pdfunity.com
 pdfviewer.app
@@ -74628,6 +74654,8 @@ prooffit.top
 proofly.win
 proofofpepe.space
 proofunhatched.xyz
+proonestarthub.com
+proonestartpdf.com
 propbloq.com
 propertier.com.pk
 propertiesbecho.com
@@ -75705,6 +75733,7 @@ quicknswap.org
 quickom.com
 quickorange.net
 quickpads.top
+quickpdfmanuals.com
 quickportal.info
 quickportals.info
 quickrestore.site
@@ -86475,6 +86504,7 @@ smartdigitalcheck.com
 smartdistincdapp.xyz
 smartdistinctdapp.xyz
 smartdriverfix.cloud
+smarteasypdf.com
 smartechnode.com
 smartencryptdapp.com
 smartenergie.online
@@ -86502,6 +86532,7 @@ smartlinkoffer.com
 smartlivemultiverse.online
 smartliveuniverse.website
 smartlnus.com
+smartmanualspdf.com
 smartmarketprolive.com
 smartmarkettrades.org
 smartmetafx.com
@@ -86520,6 +86551,7 @@ smartmultiswiftapp.pro
 smartmultiverse.net
 smartmydeposit.com
 smartnitroverseapp.org
+smartonestartpdf.com
 smartoptions.live
 smartoverpay.com
 smartoverpayed.com
@@ -86557,6 +86589,7 @@ smartunifiedprotocol.pro
 smartup.io
 smartusdmining.cloud
 smartversevalidation.pro
+smartviewpdf.com
 smartvisioncargo.com
 smartvizx.com
 smartwhitelisttradeverse.pro
@@ -92247,6 +92280,7 @@ thepanoramic.net
 thepaperden.com
 theparrotlounge.com
 thepathwayacademy.co.uk
+thepdfbox.com
 thepepeskillers.io
 thepepetoken.net
 thepepeworld.fun
@@ -102785,6 +102819,7 @@ xzya91.com
 xzyia.com
 y-pred.com
 y00ts.today
+y2iax5.com
 y2k-fashiononline.com
 y2mate.com
 y2meta.tube
