@@ -2345,3 +2345,15 @@ www.msn.com##.intra-article-relatedcontent
 
 ! wikipedia.org
 en.wikipedia.org##.frb-annual-enabled
+
+! beemarkets.com
+www.beemarkets.com##.chat_bt_box
+www.beemarkets.com##.first_tip_fixed
+www.beemarkets.com##.icon-bm_chat.iconfont
+www.beemarkets.com##.risk_disclosure
+www.beemarkets.com##.shear_box.third_shear_other.news_shear
+
+! moneycheck.com
+moneycheck.com##.elementor-widget-smartmag-codes.elementor-widget.elementor-element > .elementor-widget-container > .a-wrap
+moneycheck.com##.elementor-widget-smartmag-codes.elementor-widget.elementor-hidden-mobile.elementor-element > .elementor-widget-container
+moneycheck.com##.sponbot
