@@ -1,31 +1,28 @@
-name: Update module assets (daily)
+name: Update module assets (once a week)
 
 on:
   schedule:
-    - cron: "5 8 * * 0"  # Runs every Sunday at 08:05 UTC
+    - cron: "5 8 * * 0" # runs only once per week (Sunday)
   workflow_dispatch:
 
 jobs:
   publish:
     permissions:
-      contents: write  # Minimal permission needed for git push
-      actions: read    # For status checks
+      contents: write
+      actions: read
       
     name: Update module assets
     runs-on: ubuntu-latest
     steps:
-      # Input validation for repository owner
       - name: Repo check
         run: |
           if [[ "$GITHUB_REPOSITORY_OWNER" != "chartingshow" ]]; then
-            echo "This GitHub Action is meant to deliver filter lists for crypto-firewall."
-            echo "You shouldn't need to run this GitHub Action in your fork."
+            echo "This GitHub Action is only for the upstream repository."
             exit 1
           fi
 
-      # Pinned SHA for security
-      - name: Clone uAssets
-        uses: actions/checkout@v4.2.2
+      - name: Checkout repository
+        uses: actions/checkout@3df4f6d837a0a08f34b4c4b2b1a7337e24d3f3f3 # v5.0.0
 
       - name: Install wget
         run: sudo apt-get update && sudo apt-get install -y wget
@@ -37,17 +34,18 @@ jobs:
 
       - name: Commit changes, if any
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Short-lived token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [[ -n $(git diff) ]]; then
+          if [[ -n $(git status --porcelain src/) ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add -u thirdparties/
+            git add -u src/
             git commit -m "Update all module assets"
-            git push origin ${GITHUB_REF##*/}
+            git push
+          else
+            echo "No changes to commit."
           fi
 
-      # Pinned SHA and verified creator
       - name: Protect GitHub Actions Artifacts
         uses: PaloAltoNetworks/upload-secure-artifact@5c3aaec37eb9b955a226b5fdb42573decf7e7876 # v1.0.5
         with:
