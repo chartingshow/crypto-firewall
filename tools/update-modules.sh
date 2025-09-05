@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#!/usr/bin/env bash
 set -euo pipefail
 
 echo "*** Crypto Firewall: Updating Remote Assets..."
