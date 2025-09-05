@@ -2357,3 +2357,11 @@ www.beemarkets.com##.shear_box.third_shear_other.news_shear
 moneycheck.com##.elementor-widget-smartmag-codes.elementor-widget.elementor-element > .elementor-widget-container > .a-wrap
 moneycheck.com##.elementor-widget-smartmag-codes.elementor-widget.elementor-hidden-mobile.elementor-element > .elementor-widget-container
 moneycheck.com##.sponbot
+
+! financemagnates.com
+www.financemagnates.com###disqus_thread
+www.financemagnates.com###header-notification-icon
+www.financemagnates.com###newsletter-homepage-form
+www.financemagnates.com##.banner
+www.financemagnates.com##.share-this-article__wrapper
+www.financemagnates.com##.widgets-wrapper
