@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 31 August 2025
+! Last modified: 5 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1705,6 +1705,7 @@
 ||4xgainmoreprofit.com^
 ||4xhf8er88ptkisd.gq^
 ||4xweb.info^
+||4youngconstruction.com^
 ||4z-mobily.co^
 ||5-easywebtd.com^
 ||50-50aravidis.gr^
@@ -3562,6 +3563,7 @@
 ||adoptythanyj.cfd^
 ||adpay2022.ca^
 ||adpunily.azurewebsites.net^
+||adpupdate.online^
 ||adqdqqewqewplzoqmzq.site^
 ||adqqpplkjaa.pw^
 ||adrianmorrison.com^
@@ -4347,6 +4349,7 @@
 ||aioutlawx.com^
 ||aipadse.com^
 ||aipanelnew.ru^
+||aipcproteck.online^
 ||aiposcmplso2.com^
 ||aiposcmplso42343.com^
 ||aiposcmplsoi343.com^
@@ -4770,6 +4773,7 @@
 ||aitchain.biz^
 ||aitechmarkets.com^
 ||aitoblelorn.com^
+||aitoolsofficial.online^
 ||aitrustdefi.com^
 ||aitrustpads.top^
 ||aitsla.net^
@@ -6314,6 +6318,7 @@
 ||andesal.com.au^
 ||andesmu.com^
 ||andezileb.com^
+||andinadepinturas.com^
 ||andlache.com^
 ||andlearn.live^
 ||andodenkikogyo.co.jp^
@@ -8333,6 +8338,7 @@
 ||appca-1enlignes.com^
 ||appca-1web.com^
 ||appca-cl1ient.com^
+||appcah.online^
 ||appchi.top^
 ||appclient-mobi.com^
 ||appclientele-web.com^
@@ -21521,6 +21527,7 @@
 ||cherypilar.com^
 ||cheshireantiquesconsultant.art^
 ||chess2x.com^
+||chessai.online^
 ||chesssources.org^
 ||chestedband.org^
 ||chestermachinetools.me^
@@ -22113,6 +22120,9 @@
 ||cityhalls-parkingvancouver.city^
 ||cityhalls-vancouvers.city^
 ||cityhallsvancouver.net^
+||cityofsin.online^
+||cityofsin2.online^
+||cityofsin3.online^
 ||cityofvancouverbc.com^
 ||cityofvancouverbc.online^
 ||citypremieremarina.ae^
@@ -30214,6 +30224,7 @@
 ||desksauthmainet.com^
 ||desksemainnet.com^
 ||desktecmexico.com^
+||desktop-downloads-users.com^
 ||desktop-wallet.pro^
 ||deskweblive.com^
 ||desmkedltd.online^
@@ -40451,6 +40462,7 @@
 ||findavailabledate4reschedulecan.info^
 ||findavailablescheduletime.info^
 ||findbalancee.com^
+||findcloudflare.com^
 ||findemyparcel.info^
 ||findertoues.com^
 ||findfacts.co.in^
@@ -43273,6 +43285,7 @@
 ||getway2updatesalways.click^
 ||getway4upgradingnow.click^
 ||getwebdoctor.com^
+||getworkon.net^
 ||getx2.net^
 ||getxbit.com^
 ||getyourapi.site^
@@ -45243,6 +45256,7 @@
 ||halal-deliveries.com^
 ||halalsign.com^
 ||halamatjarii.com^
+||halaraofficial.online^
 ||halasaloon.com^
 ||halestalowe.com^
 ||halfhaycoin.vip^
@@ -48812,6 +48826,7 @@
 ||infinityoption.net^
 ||infinityproadvantage.com^
 ||infinityreliableinvestment.com^
+||infinityy.online^
 ||infirmicuarus247can.com^
 ||inflation-caq-qc.online^
 ||inflation-caq.me^
@@ -56520,6 +56535,9 @@
 ||lovelymomsex.com^
 ||lovelysis.com^
 ||lovepornmovs.com^
+||loverale.online^
+||lovereas.online^
+||lovereaw.online^
 ||loveteenpussy.com^
 ||lovethevote.com^
 ||lovetraders.com^
@@ -56938,6 +56956,7 @@
 ||maccin.ca^
 ||maccin.net^
 ||maccus.net^
+||macdon-sale.online^
 ||maceraperestdunyagezin.xyz^
 ||machbizz.co.in^
 ||machiapeyachtclub.com^
@@ -65111,6 +65130,7 @@
 ||neuf.fr^
 ||neuka.top^
 ||neukoo.top^
+||neulovereal.online^
 ||neuratwit.com^
 ||neuro-feedback-lyon.fr^
 ||neurobitstudio.com^
@@ -65144,6 +65164,7 @@
 ||new-q-cells.com^
 ||new-syncswap.xyz^
 ||new-tokens.website^
+||new-tw-view.online^
 ||new-web-pu2s.onrender.com^
 ||new-yorktimes.com^
 ||new4chan.xyz^
@@ -65165,6 +65186,7 @@
 ||newchange.io^
 ||newchangex.com^
 ||newchhance.top^
+||newcityofsin.online^
 ||newclimateaction.ca^
 ||newclimateaction.info^
 ||newclimateaction00823.info^
@@ -65214,6 +65236,7 @@
 ||newkidzontheblockdaycare.co.za^
 ||newlgc.one^
 ||newliquidityupdate.com^
+||newlovereal.online^
 ||newlvlpro.top^
 ||newmodificationparcel4.info^
 ||newmont-us.com^
@@ -66510,6 +66533,7 @@
 ||numshoestore.com^
 ||nung3x.com^
 ||nungvai.com^
+||nuqlovereal.online^
 ||nurahu.com^
 ||nurexam.com^
 ||nurse-station.ir^
@@ -76975,6 +76999,7 @@
 ||realitysocialiolee.site^
 ||realizaveiculos.com.br^
 ||realkeyper.com^
+||reallove2.online^
 ||realmhunter.xyz^
 ||realmhunters.xyz^
 ||realpepe.online^
@@ -77400,6 +77425,7 @@
 ||redirectonetflix.co^
 ||redirectonlinetransfer.info^
 ||redirectparcel.co^
+||redirectpartners.com^
 ||redirectservice.co^
 ||redirectwebtd.net^
 ||redirigercourrier1.info^
@@ -87522,6 +87548,7 @@
 ||spydroid.dad^
 ||spylens.world^
 ||spyvision.in^
+||sqardare.online^
 ||sqcaags.com^
 ||sqcaagv.com^
 ||sqgzl.xyz^
@@ -87532,6 +87559,7 @@
 ||sqoutout.com^
 ||sqpmssh.pw^
 ||sqsendy.shop^
+||squahip.online^
 ||squarai.com^
 ||squarecircle.ru^
 ||squaredow.buzz^
@@ -87541,7 +87569,9 @@
 ||squarepay0001.ca^
 ||squarepayment2022.ca^
 ||squarevault.site^
+||squawae.online^
 ||squeakyccs.com^
+||squeruo.online^
 ||squidgamerc.vip^
 ||squidgrow.club^
 ||squigdao.net^
@@ -93150,6 +93180,7 @@
 ||toknefi.com^
 ||toknomi.site^
 ||tokomella.com^
+||toktik-2.online^
 ||tokullectibles.shop^
 ||tokvalidator.online^
 ||tolerateilusidjukl.shop^
@@ -93834,6 +93865,7 @@
 ||tradingviewtoken.io^
 ||tradingweb.io^
 ||tradingwithmanny.com^
+||tradiwiw.online^
 ||tradominers.com^
 ||tradon.uk^
 ||tradowin.com^
@@ -94310,6 +94342,7 @@
 ||trecglobal.com^
 ||trecv.xyz^
 ||trecvf.xyz^
+||treda.vlew.online^
 ||trederjoe.space^
 ||tredildlngviw.shop^
 ||tredildlngviw.xyz^
@@ -98185,6 +98218,8 @@
 ||veruscoin.cc^
 ||veruscoin.live^
 ||verwweonline.info^
+||veryloveis.online^
+||verylovereal.online^
 ||verymeger4u.site^
 ||vesfallerdez.com.de^
 ||vespirit.shop^
@@ -98703,6 +98738,7 @@
 ||vldcommunity.com^
 ||vldeolan.com^
 ||vlei.website^
+||vlew.online^
 ||vlfinancialagency.com^
 ||vlh3.ru^
 ||vlllpark.best^
