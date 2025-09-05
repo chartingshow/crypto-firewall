@@ -1,14 +1,10 @@
 #!/usr/bin/env bash
-#
-# This script assumes a linux environment
-
-TEMPFILE=$(mktemp)
+set -euo pipefail
 
 echo "*** Crypto Firewall: Updating Remote Assets..."
 
 # Declare an associative array
-declare -A assets
-assets=(
+declare -A assets=(
   ['src/blacklists/malicious-filters/hosts.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt'
   ['src/blacklists/malicious-filters/nomalware.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt'
   ['src/blacklists/phishing-filters/hosts.txt']='https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt'
@@ -51,44 +47,45 @@ assets=(
   ['src/ofac-sanctioned-digital-currency-addresses/sanctioned_addresses_ZEC.txt']='https://raw.githubusercontent.com/0xB10C/ofac-sanctioned-digital-currency-addresses/lists/sanctioned_addresses_ZEC.txt'
 )
 
-# Loop through the assets
+failures=0
+
 for localURL in "${!assets[@]}"; do
   remoteURL="${assets[$localURL]}"
   echo "*** Downloading ${remoteURL}"
 
-  # Check if the directory exists, create if not
   localDir=$(dirname "$localURL")
-  if [ ! -d "$localDir" ]; then
-    mkdir -p "$localDir"
-  fi
+  mkdir -p "$localDir"
 
-  # Download the file
+  TEMPFILE=$(mktemp)
+
   if wget -q -T 30 -O "$TEMPFILE" -- "$remoteURL"; then
-    # Check if the downloaded file has content
     if [ -s "$TEMPFILE" ]; then
-      # Compare the downloaded file with the local file
-      if ! cmp -s "$TEMPFILE" "$localURL"; then
+      if ! cmp -s "$TEMPFILE" "$localURL" 2>/dev/null; then
         echo "    New version found: ${localURL}"
-        # Only replace the file if not in dry mode
-        if [ "$1" != "dry" ]; then
-          mv "$TEMPFILE" "$localURL"
+        if [ "${1:-}" != "dry" ]; then
+          mv -f "$TEMPFILE" "$localURL"
         else
-          # If in dry mode, remove the temp file
           rm -f "$TEMPFILE"
         fi
       else
-        # If files are identical, remove the temp file
+        echo "    No change: ${localURL}"
         rm -f "$TEMPFILE"
       fi
     else
       echo "    Downloaded file is empty: ${localURL}"
       rm -f "$TEMPFILE"
+      failures=$((failures+1))
     fi
   else
     echo "    Failed to download: ${remoteURL}"
     rm -f "$TEMPFILE"
+    failures=$((failures+1))
   fi
 done
 
-# Clean up the temp file if it still exists
-rm -f "$TEMPFILE"
+if [ $failures -gt 0 ]; then
+  echo "*** Completed with $failures errors."
+  exit 1
+fi
+
+echo "*** Completed successfully."
