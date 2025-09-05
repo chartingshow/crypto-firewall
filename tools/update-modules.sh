@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 echo "*** Crypto Firewall: Updating Remote Assets..."
 
-# Declare an associative array
+# Declare the assets mapping
 declare -A assets=(
   ['src/blacklists/malicious-filters/hosts.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt'
   ['src/blacklists/malicious-filters/nomalware.txt']='https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt'
@@ -47,8 +48,37 @@ declare -A assets=(
   ['src/ofac-sanctioned-digital-currency-addresses/sanctioned_addresses_ZEC.txt']='https://raw.githubusercontent.com/0xB10C/ofac-sanctioned-digital-currency-addresses/lists/sanctioned_addresses_ZEC.txt'
 )
 
-failures=0
+max_retries=3
+retry_delay=5
+updated_files=()
 
+# Function to download with retries
+download_with_retry() {
+  local url="$1"
+  local outfile="$2"
+
+  for attempt in $(seq 1 $max_retries); do
+    if wget -q -T 30 -O "$outfile" -- "$url"; then
+      if [ -s "$outfile" ]; then
+        return 0
+      else
+        echo "WARNING: Empty file on attempt $attempt: $url" >&2
+      fi
+    else
+      echo "WARNING: Failed to download on attempt $attempt: $url" >&2
+    fi
+
+    if [ "$attempt" -lt "$max_retries" ]; then
+      echo "Retrying in ${retry_delay}s..."
+      sleep "$retry_delay"
+    fi
+  done
+
+  echo "ERROR: Giving up after $max_retries attempts: $url" >&2
+  return 1
+}
+
+# Loop through assets
 for localURL in "${!assets[@]}"; do
   remoteURL="${assets[$localURL]}"
   echo "*** Downloading ${remoteURL}"
@@ -58,34 +88,31 @@ for localURL in "${!assets[@]}"; do
 
   TEMPFILE=$(mktemp)
 
-  if wget -q -T 30 -O "$TEMPFILE" -- "$remoteURL"; then
-    if [ -s "$TEMPFILE" ]; then
-      if ! cmp -s "$TEMPFILE" "$localURL" 2>/dev/null; then
-        echo "    New version found: ${localURL}"
-        if [ "${1:-}" != "dry" ]; then
-          mv -f "$TEMPFILE" "$localURL"
-        else
-          rm -f "$TEMPFILE"
-        fi
-      else
-        echo "    No change: ${localURL}"
-        rm -f "$TEMPFILE"
-      fi
+  if ! download_with_retry "$remoteURL" "$TEMPFILE"; then
+    rm -f "$TEMPFILE"
+    exit 1
+  fi
+
+  if ! cmp -s "$TEMPFILE" "$localURL" 2>/dev/null; then
+    echo "    New version found: ${localURL}"
+    if [ "${1:-}" != "dry" ]; then
+      mv -f "$TEMPFILE" "$localURL"
+      updated_files+=("$localURL")
     else
-      echo "    Downloaded file is empty: ${localURL}"
       rm -f "$TEMPFILE"
-      failures=$((failures+1))
     fi
   else
-    echo "    Failed to download: ${remoteURL}"
+    echo "    No change: ${localURL}"
     rm -f "$TEMPFILE"
-    failures=$((failures+1))
   fi
 done
 
-if [ $failures -gt 0 ]; then
-  echo "*** Completed with $failures errors."
-  exit 1
+# Save updated files (sorted) to GitHub environment for commit message
+if [ ${#updated_files[@]} -gt 0 ]; then
+  sorted=$(printf "%s\n" "${updated_files[@]}" | sort)
+  echo "UPDATED_FILES=$sorted" >> "$GITHUB_ENV"
+else
+  echo "UPDATED_FILES=" >> "$GITHUB_ENV"
 fi
 
-echo "*** Completed successfully."
+echo "*** All downloads completed successfully."
