@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 31 August 2025
+# Last modified: 5 September 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -1807,6 +1807,7 @@
 0.0.0.0 4xgainmoreprofit.com
 0.0.0.0 4xhf8er88ptkisd.gq
 0.0.0.0 4xweb.info
+0.0.0.0 4youngconstruction.com
 0.0.0.0 4z-mobily.co
 0.0.0.0 5-easywebtd.com
 0.0.0.0 50-50aravidis.gr
@@ -3618,7 +3619,7 @@
 0.0.0.0 admin-support.info
 0.0.0.0 admin-supportsca.com
 0.0.0.0 admin-sysserv.pro
-0.0.0.0 admin.mikifox.com
+0.0.0.0 admin.mikifox.com 
 0.0.0.0 admin.pl
 0.0.0.0 admincentr.com
 0.0.0.0 admincomtls.online
@@ -3664,6 +3665,7 @@
 0.0.0.0 adoptythanyj.cfd
 0.0.0.0 adpay2022.ca
 0.0.0.0 adpunily.azurewebsites.net
+0.0.0.0 adpupdate.online
 0.0.0.0 adqdqqewqewplzoqmzq.site
 0.0.0.0 adqqpplkjaa.pw
 0.0.0.0 adrianmorrison.com
@@ -4449,6 +4451,7 @@
 0.0.0.0 aioutlawx.com
 0.0.0.0 aipadse.com
 0.0.0.0 aipanelnew.ru
+0.0.0.0 aipcproteck.online
 0.0.0.0 aiposcmplso2.com
 0.0.0.0 aiposcmplso42343.com
 0.0.0.0 aiposcmplsoi343.com
@@ -4872,6 +4875,7 @@
 0.0.0.0 aitchain.biz
 0.0.0.0 aitechmarkets.com
 0.0.0.0 aitoblelorn.com
+0.0.0.0 aitoolsofficial.online
 0.0.0.0 aitrustdefi.com
 0.0.0.0 aitrustpads.top
 0.0.0.0 aitsla.net
@@ -6416,6 +6420,7 @@
 0.0.0.0 andesal.com.au
 0.0.0.0 andesmu.com
 0.0.0.0 andezileb.com
+0.0.0.0 andinadepinturas.com
 0.0.0.0 andlache.com
 0.0.0.0 andlearn.live
 0.0.0.0 andodenkikogyo.co.jp
@@ -8435,6 +8440,7 @@
 0.0.0.0 appca-1enlignes.com
 0.0.0.0 appca-1web.com
 0.0.0.0 appca-cl1ient.com
+0.0.0.0 appcah.online
 0.0.0.0 appchi.top
 0.0.0.0 appclient-mobi.com
 0.0.0.0 appclientele-web.com
@@ -21623,6 +21629,7 @@
 0.0.0.0 cherypilar.com
 0.0.0.0 cheshireantiquesconsultant.art
 0.0.0.0 chess2x.com
+0.0.0.0 chessai.online
 0.0.0.0 chesssources.org
 0.0.0.0 chestedband.org
 0.0.0.0 chestermachinetools.me
@@ -22215,6 +22222,9 @@
 0.0.0.0 cityhalls-parkingvancouver.city
 0.0.0.0 cityhalls-vancouvers.city
 0.0.0.0 cityhallsvancouver.net
+0.0.0.0 cityofsin.online
+0.0.0.0 cityofsin2.online
+0.0.0.0 cityofsin3.online
 0.0.0.0 cityofvancouverbc.com
 0.0.0.0 cityofvancouverbc.online
 0.0.0.0 citypremieremarina.ae
@@ -30316,6 +30326,7 @@
 0.0.0.0 desksauthmainet.com
 0.0.0.0 desksemainnet.com
 0.0.0.0 desktecmexico.com
+0.0.0.0 desktop-downloads-users.com
 0.0.0.0 desktop-wallet.pro
 0.0.0.0 deskweblive.com
 0.0.0.0 desmkedltd.online
@@ -40553,6 +40564,7 @@
 0.0.0.0 findavailabledate4reschedulecan.info
 0.0.0.0 findavailablescheduletime.info
 0.0.0.0 findbalancee.com
+0.0.0.0 findcloudflare.com
 0.0.0.0 findemyparcel.info
 0.0.0.0 findertoues.com
 0.0.0.0 findfacts.co.in
@@ -42278,7 +42290,7 @@
 0.0.0.0 funextrade.com
 0.0.0.0 funflask.com
 0.0.0.0 funfoods.club
-0.0.0.0 funformathgame.com
+0.0.0.0 funformathgame.com 
 0.0.0.0 fungalaxyca.com
 0.0.0.0 fungible-token.club
 0.0.0.0 funhaus.com.br
@@ -43375,6 +43387,7 @@
 0.0.0.0 getway2updatesalways.click
 0.0.0.0 getway4upgradingnow.click
 0.0.0.0 getwebdoctor.com
+0.0.0.0 getworkon.net
 0.0.0.0 getx2.net
 0.0.0.0 getxbit.com
 0.0.0.0 getyourapi.site
@@ -45345,6 +45358,7 @@
 0.0.0.0 halal-deliveries.com
 0.0.0.0 halalsign.com
 0.0.0.0 halamatjarii.com
+0.0.0.0 halaraofficial.online
 0.0.0.0 halasaloon.com
 0.0.0.0 halestalowe.com
 0.0.0.0 halfhaycoin.vip
@@ -48699,7 +48713,7 @@
 0.0.0.0 inboxalert-govau.com
 0.0.0.0 inboxalert-mygovlogin.com
 0.0.0.0 inboxau-mygov.com
-0.0.0.0 inboxhub.net
+0.0.0.0 inboxhub.net 
 0.0.0.0 inboxlogin-mygov.com
 0.0.0.0 inboxsecure-mygov.com
 0.0.0.0 inc-a9.site
@@ -48914,6 +48928,7 @@
 0.0.0.0 infinityoption.net
 0.0.0.0 infinityproadvantage.com
 0.0.0.0 infinityreliableinvestment.com
+0.0.0.0 infinityy.online
 0.0.0.0 infirmicuarus247can.com
 0.0.0.0 inflation-caq-qc.online
 0.0.0.0 inflation-caq.me
@@ -51000,8 +51015,8 @@
 0.0.0.0 iptvlivestream.org
 0.0.0.0 ipule.cn
 0.0.0.0 ipunku.es
-0.0.0.0 ipv4.mikifox.com
-0.0.0.0 ipv6.mikifox.com
+0.0.0.0 ipv4.mikifox.com 
+0.0.0.0 ipv6.mikifox.com 
 0.0.0.0 ipworldbestscan.xyz
 0.0.0.0 ipworldscanbest.xyz
 0.0.0.0 ipxels.xyz
@@ -56622,6 +56637,9 @@
 0.0.0.0 lovelymomsex.com
 0.0.0.0 lovelysis.com
 0.0.0.0 lovepornmovs.com
+0.0.0.0 loverale.online
+0.0.0.0 lovereas.online
+0.0.0.0 lovereaw.online
 0.0.0.0 loveteenpussy.com
 0.0.0.0 lovethevote.com
 0.0.0.0 lovetraders.com
@@ -57040,6 +57058,7 @@
 0.0.0.0 maccin.ca
 0.0.0.0 maccin.net
 0.0.0.0 maccus.net
+0.0.0.0 macdon-sale.online
 0.0.0.0 maceraperestdunyagezin.xyz
 0.0.0.0 machbizz.co.in
 0.0.0.0 machiapeyachtclub.com
@@ -65213,6 +65232,7 @@
 0.0.0.0 neuf.fr
 0.0.0.0 neuka.top
 0.0.0.0 neukoo.top
+0.0.0.0 neulovereal.online
 0.0.0.0 neuratwit.com
 0.0.0.0 neuro-feedback-lyon.fr
 0.0.0.0 neurobitstudio.com
@@ -65246,6 +65266,7 @@
 0.0.0.0 new-q-cells.com
 0.0.0.0 new-syncswap.xyz
 0.0.0.0 new-tokens.website
+0.0.0.0 new-tw-view.online
 0.0.0.0 new-web-pu2s.onrender.com
 0.0.0.0 new-yorktimes.com
 0.0.0.0 new4chan.xyz
@@ -65267,6 +65288,7 @@
 0.0.0.0 newchange.io
 0.0.0.0 newchangex.com
 0.0.0.0 newchhance.top
+0.0.0.0 newcityofsin.online
 0.0.0.0 newclimateaction.ca
 0.0.0.0 newclimateaction.info
 0.0.0.0 newclimateaction00823.info
@@ -65316,6 +65338,7 @@
 0.0.0.0 newkidzontheblockdaycare.co.za
 0.0.0.0 newlgc.one
 0.0.0.0 newliquidityupdate.com
+0.0.0.0 newlovereal.online
 0.0.0.0 newlvlpro.top
 0.0.0.0 newmodificationparcel4.info
 0.0.0.0 newmont-us.com
@@ -66612,6 +66635,7 @@
 0.0.0.0 numshoestore.com
 0.0.0.0 nung3x.com
 0.0.0.0 nungvai.com
+0.0.0.0 nuqlovereal.online
 0.0.0.0 nurahu.com
 0.0.0.0 nurexam.com
 0.0.0.0 nurse-station.ir
@@ -77077,6 +77101,7 @@
 0.0.0.0 realitysocialiolee.site
 0.0.0.0 realizaveiculos.com.br
 0.0.0.0 realkeyper.com
+0.0.0.0 reallove2.online
 0.0.0.0 realmhunter.xyz
 0.0.0.0 realmhunters.xyz
 0.0.0.0 realpepe.online
@@ -77502,6 +77527,7 @@
 0.0.0.0 redirectonetflix.co
 0.0.0.0 redirectonlinetransfer.info
 0.0.0.0 redirectparcel.co
+0.0.0.0 redirectpartners.com
 0.0.0.0 redirectservice.co
 0.0.0.0 redirectwebtd.net
 0.0.0.0 redirigercourrier1.info
@@ -87624,6 +87650,7 @@
 0.0.0.0 spydroid.dad
 0.0.0.0 spylens.world
 0.0.0.0 spyvision.in
+0.0.0.0 sqardare.online
 0.0.0.0 sqcaags.com
 0.0.0.0 sqcaagv.com
 0.0.0.0 sqgzl.xyz
@@ -87634,6 +87661,7 @@
 0.0.0.0 sqoutout.com
 0.0.0.0 sqpmssh.pw
 0.0.0.0 sqsendy.shop
+0.0.0.0 squahip.online
 0.0.0.0 squarai.com
 0.0.0.0 squarecircle.ru
 0.0.0.0 squaredow.buzz
@@ -87643,7 +87671,9 @@
 0.0.0.0 squarepay0001.ca
 0.0.0.0 squarepayment2022.ca
 0.0.0.0 squarevault.site
+0.0.0.0 squawae.online
 0.0.0.0 squeakyccs.com
+0.0.0.0 squeruo.online
 0.0.0.0 squidgamerc.vip
 0.0.0.0 squidgrow.club
 0.0.0.0 squigdao.net
@@ -93252,6 +93282,7 @@
 0.0.0.0 toknefi.com
 0.0.0.0 toknomi.site
 0.0.0.0 tokomella.com
+0.0.0.0 toktik-2.online
 0.0.0.0 tokullectibles.shop
 0.0.0.0 tokvalidator.online
 0.0.0.0 tolerateilusidjukl.shop
@@ -93936,6 +93967,7 @@
 0.0.0.0 tradingviewtoken.io
 0.0.0.0 tradingweb.io
 0.0.0.0 tradingwithmanny.com
+0.0.0.0 tradiwiw.online
 0.0.0.0 tradominers.com
 0.0.0.0 tradon.uk
 0.0.0.0 tradowin.com
@@ -94412,6 +94444,7 @@
 0.0.0.0 trecglobal.com
 0.0.0.0 trecv.xyz
 0.0.0.0 trecvf.xyz
+0.0.0.0 treda.vlew.online
 0.0.0.0 trederjoe.space
 0.0.0.0 tredildlngviw.shop
 0.0.0.0 tredildlngviw.xyz
@@ -98287,6 +98320,8 @@
 0.0.0.0 veruscoin.cc
 0.0.0.0 veruscoin.live
 0.0.0.0 verwweonline.info
+0.0.0.0 veryloveis.online
+0.0.0.0 verylovereal.online
 0.0.0.0 verymeger4u.site
 0.0.0.0 vesfallerdez.com.de
 0.0.0.0 vespirit.shop
@@ -98805,6 +98840,7 @@
 0.0.0.0 vldcommunity.com
 0.0.0.0 vldeolan.com
 0.0.0.0 vlei.website
+0.0.0.0 vlew.online
 0.0.0.0 vlfinancialagency.com
 0.0.0.0 vlh3.ru
 0.0.0.0 vlllpark.best
@@ -101188,7 +101224,7 @@
 0.0.0.0 wriash.shop
 0.0.0.0 wrisstytenewj.shop
 0.0.0.0 writerospzm.shop
-0.0.0.0 writeup.live
+0.0.0.0 writeup.live 
 0.0.0.0 writtern.com
 0.0.0.0 wrlab.sbs
 0.0.0.0 wrldcoin.io
@@ -102258,7 +102294,7 @@
 0.0.0.0 xingzuovip.com
 0.0.0.0 xinjpwk.vip
 0.0.0.0 xinmoshiwang.com
-0.0.0.0 xinqianf38.top
+0.0.0.0 xinqianf38.top 
 0.0.0.0 xintagma.com
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xiomi.co
@@ -102992,7 +103028,7 @@
 0.0.0.0 ycra.net
 0.0.0.0 ycs-agoda.online
 0.0.0.0 ycs-traveloka.com
-0.0.0.0 ycvduc.xyz
+0.0.0.0 ycvduc.xyz 
 0.0.0.0 ydbentle.com
 0.0.0.0 ydenjanteani.xyz
 0.0.0.0 ydfym8f6erifpvk.gq
