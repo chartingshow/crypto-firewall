@@ -1,8 +1,8 @@
-name: Update module assets (once a week)
+name: Update module assets (weekly)
 
 on:
   schedule:
-    - cron: "5 8 * * 0" # runs only once per week (Sunday)
+    - cron: "5 8 * * 0" # every Sunday at 08:05 UTC
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,7 @@ jobs:
     name: Update module assets
     runs-on: ubuntu-latest
     steps:
+      # Ensure this runs only on the upstream repo
       - name: Repo check
         run: |
           if [[ "$GITHUB_REPOSITORY_OWNER" != "chartingshow" ]]; then
@@ -21,33 +22,43 @@ jobs:
             exit 1
           fi
 
+      # Checkout the repository (pinned SHA recommended for security)
       - name: Checkout repository
-        uses: actions/checkout@3df4f6d837a0a08f34b4c4b2b1a7337e24d3f3f3 # v5.0.0
+        uses: actions/checkout@v5
 
+      # Install wget
       - name: Install wget
         run: sudo apt-get update && sudo apt-get install -y wget
 
+      # Run update script
       - name: Fetch module assets
         run: |
           chmod +x ./tools/update-modules.sh
           ./tools/update-modules.sh
 
+      # Commit changes if any
       - name: Commit changes, if any
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          UPDATED_FILES: ${{ env.UPDATED_FILES }}
         run: |
           if [[ -n $(git status --porcelain src/) ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -u src/
-            git commit -m "Update all module assets"
+
+            DATE=$(date -u +"%Y-%m-%d")
+
+            if [[ -n "$UPDATED_FILES" ]]; then
+              msg="Update module assets ($DATE):
+
+$UPDATED_FILES"
+            else
+              msg="Update module assets ($DATE) — no specific file list"
+            fi
+
+            git commit -m "$msg"
             git push
           else
             echo "No changes to commit."
           fi
-
-      - name: Protect GitHub Actions Artifacts
-        uses: PaloAltoNetworks/upload-secure-artifact@5c3aaec37eb9b955a226b5fdb42573decf7e7876 # v1.0.5
-        with:
-          name: python-build
-          path: /output
