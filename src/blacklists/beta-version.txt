@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 5 September 2025
+! Last modified: 6 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -104554,15 +104554,23 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/opensea-io/adblock-list.txt
 !#include domain-filters/orangex-com/adblock-list.txt
 !#include domain-filters/orca-so/adblock-list.txt
+!#include domain-filters/orderly-network/adblock-list.txt
 !#include domain-filters/osmosis-zone/adblock-list.txt
+!#include domain-filters/ourbit-com/adblock-list.txt
+!#include domain-filters/ox-fun/adblock-list.txt
 !#include domain-filters/pancakeswap-finance/adblock-list.txt
+!#include domain-filters/paradex-trade/adblock-list.txt
+!#include domain-filters/perp-com/adblock-list.txt
 !#include domain-filters/pharaoh-exchange/adblock-list.txt
 !#include domain-filters/phemex-com/adblock-list.txt
 !#include domain-filters/pionex-com/adblock-list.txt
 !#include domain-filters/poloniex-com/adblock-list.txt
+!#include domain-filters/power-trade/adblock-list.txt
+!#include domain-filters/primexbt-com/adblock-list.txt
 !#include domain-filters/pulsex-com/adblock-list.txt
 !#include domain-filters/pump-fun/adblock-list.txt
 !#include domain-filters/quickswap-exchange
+!#include domain-filters/rabbitx-io/adblock-list.txt
 !#include domain-filters/ramses-exchange
 !#include domain-filters/rarible-com/adblock-list.txt
 !#include domain-filters/raydium-io
