@@ -1,29 +1,41 @@
 name: Apply Formatting
+
 on:
   workflow_run:
     workflows: ["Prettier Check"]
     types: [completed]
 
+# Default: read-only, overridden per job
 permissions:
-  contents: write
+  contents: read
+
+defaults:
+  run:
+    shell: bash --noprofile --norc -euo pipefail
 
 jobs:
   apply:
+    permissions:
+      contents: write   # needed for committing changes
+
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.2
-      - uses: actions/download-artifact@v4.3.0
+      - uses: actions/checkout@44c2b7a8a4b1e2e5ab2f9f62a36f0e2b8c06c3d4 # v5.0.0
+
+      - uses: actions/download-artifact@6b208ae046db98b7c6a8268b68847fbaa98c8a9e # v4.3.0
         with:
           name: prettier-results
+
       - name: Verify changes
         run: |
           if grep -q 'Need formatting' prettier-results/*; then
-            echo "Changes required" >> $GITHUB_ENV
+            echo "CHANGES_REQUIRED=true" >> "$GITHUB_ENV"
           fi
+
       - name: Commit formatting
-        if: env.CHANGES_REQUIRED
+        if: env.CHANGES_REQUIRED == 'true'
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "style: Automated formatting"
           git push
