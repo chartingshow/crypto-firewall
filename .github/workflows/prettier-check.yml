@@ -1,21 +1,31 @@
 name: Prettier Check
-on: [pull_request]
+
+on:
+  pull_request:
 
 permissions:
   contents: read
+
+defaults:
+  run:
+    shell: bash --noprofile --norc -euo pipefail
 
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@44c2b7a8a4b1e2e5ab2f9f62a36f0e2b8c06c3d4 # v5.0.0
+
       - name: Prepare directory for results
         run: mkdir -p ./prettier-results
+
       - name: Dry-run Prettier
         run: |
-          npx prettier --check "**/*.{js,md,yml,json,vue,scss}" > ./prettier-results/output.txt || true
+          npx prettier --check "**/*.{js,md,yml,json,vue,scss}" \
+            > ./prettier-results/output.txt || true
+
       - name: Archive results
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@89ef06f21fdbda3b61aebb0b4a1d2f8620994e64 # v4.6.2
         with:
           name: prettier-results
           path: ./prettier-results/
