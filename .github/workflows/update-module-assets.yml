@@ -5,14 +5,24 @@ on:
     - cron: "5 8 * * 0" # every Sunday at 08:05 UTC
   workflow_dispatch:
 
+# Default to read-only permissions, override per job as needed
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash --noprofile --norc -euo pipefail
+
 jobs:
   publish:
+    # Only grant extra rights here
     permissions:
-      contents: write
-      actions: read
-      
+      contents: write   # needed to commit/push changes
+      actions: read     # to read workflow metadata
+
     name: Update module assets
     runs-on: ubuntu-latest
+
     steps:
       # Ensure this runs only on the upstream repo
       - name: Repo check
@@ -22,9 +32,9 @@ jobs:
             exit 1
           fi
 
-      # Checkout the repository (pinned SHA recommended for security)
+      # Checkout repository (pinned to SHA for security)
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@44c2b7a8a4b1e2e5ab2f9f62a36f0e2b8c06c3d4 # v5.0.0
 
       # Install wget
       - name: Install wget
@@ -50,9 +60,7 @@ jobs:
             DATE=$(date -u +"%Y-%m-%d")
 
             if [[ -n "$UPDATED_FILES" ]]; then
-              msg="Update module assets ($DATE):
-
-$UPDATED_FILES"
+              msg="Update module assets ($DATE):\n\n$UPDATED_FILES"
             else
               msg="Update module assets ($DATE) — no specific file list"
             fi
