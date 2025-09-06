@@ -11,7 +11,7 @@ permissions:
 
 defaults:
   run:
-    shell: bash --noprofile --norc -euo pipefail
+    shell: bash -euo pipefail {0}
 
 jobs:
   publish:
@@ -34,7 +34,7 @@ jobs:
 
       # Checkout repository (pinned to SHA for security)
       - name: Checkout repository
-        uses: actions/checkout@44c2b7a8a4b1e2e5ab2f9f62a36f0e2b8c06c3d4 # v5.0.0
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8  # v5.0.0
 
       # Install wget
       - name: Install wget
