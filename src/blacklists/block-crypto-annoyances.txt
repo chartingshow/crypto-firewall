@@ -2365,3 +2365,6 @@ www.financemagnates.com###newsletter-homepage-form
 www.financemagnates.com##.banner
 www.financemagnates.com##.share-this-article__wrapper
 www.financemagnates.com##.widgets-wrapper
+
+! blockscout.com
+eth.blockscout.com##.adsbyslise
