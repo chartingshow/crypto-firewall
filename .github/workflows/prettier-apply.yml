@@ -20,9 +20,9 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@44c2b7a8a4b1e2e5ab2f9f62a36f0e2b8c06c3d4 # v5.0.0
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8  # v5.0.0
 
-      - uses: actions/download-artifact@6b208ae046db98b7c6a8268b68847fbaa98c8a9e # v4.3.0
+      - uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0  # v5.0.0
         with:
           name: prettier-results
 
