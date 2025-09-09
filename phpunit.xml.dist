@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="./vendor/phpunit/phpunit/phpunit.xsd"
+         beStrictAboutOutputDuringTests="true"
+         beStrictAboutTestsThatDoNotTestAnything="true"
+         bootstrap="vendor/autoload.php"
+         cacheDirectory=".phpunit.cache"
+         colors="true"
+         columns="max"
+         defaultTimeLimit="10"
+         enforceTimeLimit="true"
+         executionOrder="depends,defects"
+         failOnRisky="true"
+         failOnWarning="true"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         timeoutForLargeTests="30"
+         timeoutForMediumTests="20"
+         timeoutForSmallTests="10">
+
+    <coverage ignoreDeprecatedCodeUnits="true"
+              includeUncoveredFiles="true"
+              disableCodeCoverageIgnore="true">
+        <report>
+            <clover outputFile="build/logs/clover.xml"/>
+            <html outputDirectory="build/coverage-html"/>
+            <!-- remove or change the next line if stdout is noisy -->
+            <text outputFile="php://stdout"/>
+        </report>
+    </coverage>
+
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <source>
+        <include>
+            <directory suffix=".php">src</directory>
+        </include>
+
+        <exclude>
+            <directory>vendor</directory>
+        </exclude>
+    </source>
+</phpunit>
