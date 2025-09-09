@@ -1,0 +1,30 @@
+name: Remove old artifacts
+
+on:
+  schedule:
+    # At 00:00 on day-of-month 1
+    - cron: '0 0 1 * *'
+
+jobs:
+  remove-old-artifacts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      actions: write
+      contents: read
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Remove old artifacts
+        run: |
+          set -euo pipefail
+
+          # Remove artifacts older than 1 month
+          # v1.4.0
+          gh workflow run c-hive/gha-remove-artifacts@44fc7acaf1b3d0987da0e8d4707a989d80e9554b \
+            --age '1 month'
+
+          # You can add additional custom cleanup commands here
