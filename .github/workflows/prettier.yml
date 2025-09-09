@@ -8,48 +8,51 @@ on:
   pull_request:
     branches: [master]
 
-permissions:
-  contents: write  # needed to push fixes
-
 jobs:
-  prettier:
+  prettier-check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
     steps:
-      # Checkout repository
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.head_ref }} # fixes detached HEAD issue
 
-      # Install Prettier and reviewdog
-      - name: Install Prettier & reviewdog
+      - name: Install reviewdog
         run: |
-          npm install --no-save prettier
-          curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b /usr/local/bin
+          REVIEWDOG_VER=v0.16.0
+          curl -sfL https://github.com/reviewdog/reviewdog/releases/download/$REVIEWDOG_VER/reviewdog_linux_amd64 -o /usr/local/bin/reviewdog
+          chmod +x /usr/local/bin/reviewdog
 
-      # Run Prettier check, annotate PR, and apply fixes in one step
-      - name: Check & Apply Prettier
+      - name: Run Prettier check via npx
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Check formatting and annotate PR
-          npx prettier --check "**/*.{js,md,yml,json,vue,scss}" \
+          npx --yes prettier --check "**/*.{js,md,yml,json,vue,scss}" \
             | reviewdog -f=eslint -name="prettier" -reporter=github-pr-check || true
 
-          # Apply fixes
-          npx prettier --write "**/*.{js,md,yml,json,vue,scss}"
+  prettier-fix:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-          # Commit & push fixes only if not a forked PR
-          if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ] || [ "${{ github.event_name }}" = "push" ]; then
-            if ! git diff --quiet; then
-              git config user.name "github-actions[bot]"
-              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-              git add .
-              git commit -m "style: automated Prettier formatting"
-              git push
-            else
-              echo "No formatting changes to commit."
-            fi
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply Prettier fixes via npx
+        run: |
+          npx --yes prettier --write "**/*.{js,md,yml,json,vue,scss}"
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "style: automated Prettier formatting"
+            git push
           else
-            echo "Skipping push for forked PR."
+            echo "No formatting changes."
           fi
