@@ -1952,7 +1952,8 @@ whattomine.com##.iubenda-cs-content
 whattomine.com##.ms-auto.twitter-follow
 whattomine.com##.tickers
 
-! www.perplexity.ai
+! perplexity.ai
+www.perplexity.ai##.ring-offsetPlus
 ||www.perplexity.ai/rest/user/promotions$xhr
 ||www.perplexity.ai/rest/event/analytics$ping
 
