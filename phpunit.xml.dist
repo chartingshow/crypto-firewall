@@ -19,23 +19,25 @@
          timeoutForMediumTests="20"
          timeoutForSmallTests="10">
 
+    <!-- Coverage configuration -->
     <coverage ignoreDeprecatedCodeUnits="true"
               includeUncoveredFiles="true"
               disableCodeCoverageIgnore="true">
         <report>
             <clover outputFile="build/logs/clover.xml"/>
             <html outputDirectory="build/coverage-html"/>
-            <!-- remove or change the next line if stdout is noisy -->
             <text outputFile="php://stdout"/>
         </report>
     </coverage>
 
+    <!-- Test suites -->
     <testsuites>
         <testsuite name="Unit">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
 
+    <!-- Source code to include in coverage reports -->
     <source>
         <include>
             <directory suffix=".php">src</directory>
@@ -43,6 +45,7 @@
 
         <exclude>
             <directory>vendor</directory>
+            <directory>tests</directory>
         </exclude>
     </source>
 </phpunit>
