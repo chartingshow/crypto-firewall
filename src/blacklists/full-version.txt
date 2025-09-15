@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 5 September 2025
+! Last modified: 15 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -7560,8 +7560,8 @@
 ||anpoststampduty.com^
 ||anpoststampfee.com^
 ||anpostsupport-fees.com^
-||anpostsupport.com^
 ||anpostsupport.com.co^
+||anpostsupport.com^
 ||anpostsupportcentre.com^
 ||anpostsupportdesk.com^
 ||anpostsupportireland.com^
@@ -19415,8 +19415,8 @@
 ||cancel-requesturgent.com^
 ||cancel-shield.online^
 ||cancel-transaction.link^
-||cancel-voiceid.com^
 ||cancel-voiceid.com.au^
+||cancel-voiceid.com^
 ||cancel-voiceid.link^
 ||cancel1ref2983-boa.com^
 ||cancel2ref2983-boa.com^
@@ -21532,8 +21532,8 @@
 ||chestedband.org^
 ||chestermachinetools.me^
 ||chetoan.com^
-||chevroletbajio.com^
 ||chevroletbajio.com.mx^
+||chevroletbajio.com^
 ||chevroletbr.com^
 ||chevroletbrasil.com^
 ||chevroletfeirao.com^
@@ -23486,8 +23486,8 @@
 ||cloutdrop.cloud^
 ||cloverhouse.co^
 ||clovixo.com^
-||clownstrike.co^
 ||clownstrike.co.uk^
+||clownstrike.co^
 ||clrcle.cloud^
 ||clsr.ca^
 ||clstiadrop.top^
@@ -45832,8 +45832,8 @@
 ||help-mybell.ca^
 ||help-mybell.me^
 ||help-mytelusmobility.top^
-||help-nab.com^
 ||help-nab.com.au^
+||help-nab.com^
 ||help-nabcom.au^
 ||help-netfiixca.info^
 ||help-netfliixpayment.top^
@@ -48149,6 +48149,7 @@
 ||ilego.xyz^
 ||ilert.ru^
 ||ilhcgh.org^
+||iliafmoj.forum^
 ||ilinkads.com^
 ||ilionosima.com^
 ||ilioskajyzi.com^
@@ -57996,6 +57997,7 @@
 ||mastrafasdbtcontorxses.shop^
 ||masturbatesite.com^
 ||masturbatezone.com^
+||mastwin.in^
 ||masuityt.com^
 ||masukmobilee.de^
 ||masuni-officiel.com^
@@ -65691,6 +65693,7 @@
 ||niftygateway.pro^
 ||niftygateway.xyz^
 ||nigerianipclub.org.ng^
+||niggboo.com^
 ||nightlamp-top.com^
 ||nightodknifes.za.com^
 ||nightofknifws.sa.com^
@@ -66177,8 +66180,8 @@
 ||noticedhlupdatesca.info^
 ||noticehelpcanadapost.ca^
 ||noticeimportantfunds.com^
-||noticemygov.com^
 ||noticemygov.com.au^
+||noticemygov.com^
 ||noticeofreturn.com^
 ||noticer.shop^
 ||notices-ie.com^
@@ -67041,8 +67044,8 @@
 ||oiwet.com^
 ||oiwex.com^
 ||ojbk-2.shop^
-||ojhggnfbcy62.com^
 ||ojhggnfbcy62.com/^
+||ojhggnfbcy62.com^
 ||ojiskorp.net^
 ||ojiwojdiuuywdnbhcby.com^
 ||okahashi-co.co.jp^
@@ -69150,8 +69153,8 @@
 ||otopmarketshop.com^
 ||otoway.com^
 ||otp-alert.com.au^
-||otp-alerts.com^
 ||otp-alerts.com.au^
+||otp-alerts.com^
 ||otp-net.com.au^
 ||otp-secure.com.au^
 ||otp-sms.com.au^
@@ -71485,8 +71488,8 @@
 ||permanenttsb-ie.com^
 ||permanenttsb-ie.info^
 ||permanenttsb-info.cc^
-||permanenttsb-info.co^
 ||permanenttsb-info.co.in^
+||permanenttsb-info.co^
 ||permanenttsb-info.in^
 ||permanenttsb-online.info^
 ||permanenttsb-open.com^
@@ -71509,8 +71512,8 @@
 ||permanenttsb-secure.co.in^
 ||permanenttsb-secure.com^
 ||permanenttsb-secured.cc^
-||permanenttsb-secured.co^
 ||permanenttsb-secured.co.in^
+||permanenttsb-secured.co^
 ||permanenttsb-secured.info^
 ||permanenttsb-secureonline.com^
 ||permanenttsb-secureonline.info^
@@ -72167,8 +72170,8 @@
 ||plantachevrolet.com.mx^
 ||plantaensambladoragm.com^
 ||plantageneral.com^
-||plantageneralmotors.com^
 ||plantageneralmotors.com.mx^
+||plantageneralmotors.com^
 ||plantagm.com^
 ||plantestine.com^
 ||plantilla-openxml.com^
@@ -90282,8 +90285,8 @@
 ||talk2ipsos.com^
 ||talkcity.it^
 ||talkinwhitepod.fun^
-||talkjamz.com^
 ||talkjamz.com.ng^
+||talkjamz.com^
 ||talklc.com^
 ||talktalkchu.com^
 ||tallerescorominas.com^
@@ -92183,8 +92186,8 @@
 ||themoviesflix.de.com^
 ||themoviesflix.gr.com^
 ||themoviezflix.ac^
-||themoviezflix.co^
 ||themoviezflix.co.com^
+||themoviezflix.co^
 ||themoviezflix.com.mx^
 ||themoviezflix.cx^
 ||themoviezflix.eu.com^
@@ -98802,8 +98805,8 @@
 ||voiceaichanger.store^
 ||voicechangeai.pro^
 ||voiceid-anz.app^
-||voiceid-anz.com^
 ||voiceid-anz.com.au^
+||voiceid-anz.com^
 ||voiceid-anz.info^
 ||voiceid-anz.me^
 ||voiceid-anz.net^

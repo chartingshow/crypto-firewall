@@ -1,0 +1,25 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 15 September 2025
+#
+
+ChainDevTools.solidity-pro
+Crypto-Extensions.SnowShsoNo
+Crypto-Extensions.solidity
+Ethereum.solidity-ethereum
+ETHFoundry.solidityethereum
+juan-blanco.solidity
+juan-blanco.vscode-solidity
+JuanFBlanco.solidity-ai-ethereum
+kilocode-ai.kilo-code
+kineticsquid.solidity-ethereum-vsc
+nomic-fdn.hardhat-solidity
+nomic-fdn.solidity-hardhat
+nomic-foundation.hardhat-solidity
+NomicFdn.hardhat-solidity
+oxc-vscode.oxc

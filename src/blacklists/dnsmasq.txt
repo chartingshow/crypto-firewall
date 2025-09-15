@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 September 2025
+# Last modified: 15 September 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -48242,6 +48242,7 @@ address=/ildred.com/0.0.0.0
 address=/ilego.xyz/0.0.0.0
 address=/ilert.ru/0.0.0.0
 address=/ilhcgh.org/0.0.0.0
+address=/iliafmoj.forum/0.0.0.0
 address=/ilinkads.com/0.0.0.0
 address=/ilionosima.com/0.0.0.0
 address=/ilioskajyzi.com/0.0.0.0
@@ -58089,6 +58090,7 @@ address=/mastrafasdbtcontores.shop/0.0.0.0
 address=/mastrafasdbtcontorxses.shop/0.0.0.0
 address=/masturbatesite.com/0.0.0.0
 address=/masturbatezone.com/0.0.0.0
+address=/mastwin.in/0.0.0.0
 address=/masuityt.com/0.0.0.0
 address=/masukmobilee.de/0.0.0.0
 address=/masuni-officiel.com/0.0.0.0
@@ -65784,6 +65786,7 @@ address=/niftygateway.net/0.0.0.0
 address=/niftygateway.pro/0.0.0.0
 address=/niftygateway.xyz/0.0.0.0
 address=/nigerianipclub.org.ng/0.0.0.0
+address=/niggboo.com/0.0.0.0
 address=/nightlamp-top.com/0.0.0.0
 address=/nightodknifes.za.com/0.0.0.0
 address=/nightofknifws.sa.com/0.0.0.0
