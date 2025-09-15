@@ -1,3 +1,7 @@
+# Ensure consistent line endings (use LF in repo)
+* text=auto eol=lf
+
+# Existing export-ignore rules
 /.babelrc export-ignore
 /.circleci export-ignore
 /.coveralls.yml export-ignore
@@ -16,11 +20,13 @@
 /.jshintrc export-ignore
 /.markdownlint.json export-ignore
 /.npmrc export-ignore
+/.php-cs-fixer.cache export-ignore
 /.php-cs-fixer.dist export-ignore
 /.php_cs.dist export-ignore
 /.phpunit.result.cache export-ignore
 /.prettierignore export-ignore
 /.prettierrc.json export-ignore
+/.rector export-ignore
 /.release-it.json export-ignore
 /.styleci.yml export-ignore
 /.vscode export-ignore
@@ -52,6 +58,7 @@
 /phpunit.xml export-ignore
 /phpunit.xml.dist export-ignore
 /README.md export-ignore
+/rector.php.bak export-ignore
 /renovate.json export-ignore
 /REVIEWING.md export-ignore
 /runner.log export-ignore
