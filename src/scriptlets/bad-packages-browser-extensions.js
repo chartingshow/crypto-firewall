@@ -8,7 +8,7 @@
  *              projects, alerting users when they encounter potentially harmful content.
  *              Enhanced protection against malicious packages/extensions with JSON-based
  *              threat intelligence.
- * @version 2.0.5
+ * @version 2.0.6
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -39,6 +39,8 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vscode-extensions.txt',
     'npmjs.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/npm-packages.txt',
+    'open-vsx.org':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vsxcode-extensions.txt',
     'pypi.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/pypi-packages.txt',
   }
@@ -148,11 +150,12 @@
         href.includes('/webstore')
           ? checkURLAgainstBlacklist('chrome.google.com/webstore')
           : checkURLAgainstBlacklist('chrome.extension'),
-      'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
-      'pypi.org': () => checkURLAgainstBlacklist(hostname),
-      'npmjs.com': () => checkURLAgainstBlacklist(hostname),
       'facebook.com': () => checkURLAgainstBlacklist(hostname),
       'firebaseio.com': () => checkURLAgainstBlacklist(hostname),
+      'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
+      'npmjs.com': () => checkURLAgainstBlacklist(hostname),
+      'open-vsx.org': () => checkURLAgainstBlacklist(hostname),
+      'pypi.org': () => checkURLAgainstBlacklist(hostname),
       default: () => {
         if (hostname.endsWith('.firebaseio.com')) {
           checkURLAgainstBlacklist('firebaseio.com')

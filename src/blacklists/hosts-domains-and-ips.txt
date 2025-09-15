@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 September 2025
+# Last modified: 15 September 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -50756,6 +50756,7 @@
 0.0.0.0 ilego.xyz
 0.0.0.0 ilert.ru
 0.0.0.0 ilhcgh.org
+0.0.0.0 iliafmoj.forum
 0.0.0.0 ilinkads.com
 0.0.0.0 ilionosima.com
 0.0.0.0 ilioskajyzi.com
@@ -60603,6 +60604,7 @@
 0.0.0.0 mastrafasdbtcontorxses.shop
 0.0.0.0 masturbatesite.com
 0.0.0.0 masturbatezone.com
+0.0.0.0 mastwin.in
 0.0.0.0 masuityt.com
 0.0.0.0 masukmobilee.de
 0.0.0.0 masuni-officiel.com
@@ -68298,6 +68300,7 @@
 0.0.0.0 niftygateway.pro
 0.0.0.0 niftygateway.xyz
 0.0.0.0 nigerianipclub.org.ng
+0.0.0.0 niggboo.com 
 0.0.0.0 nightlamp-top.com
 0.0.0.0 nightodknifes.za.com
 0.0.0.0 nightofknifws.sa.com

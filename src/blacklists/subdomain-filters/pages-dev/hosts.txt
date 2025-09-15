@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 August 2025
+# Last modified: 15 September 2025
 #
 
 # Block pages dev sub-domains
@@ -420,6 +420,7 @@
 0.0.0.0 frame-6i5.pages.dev
 0.0.0.0 free-adidas-nft.pages.dev
 0.0.0.0 friendstech.pages.dev
+0.0.0.0 g83u.pages.dev
 0.0.0.0 gdagfsdtgfsgfdfgd.pages.dev
 0.0.0.0 generali-demo.pages.dev
 0.0.0.0 genesis-celestia.pages.dev
