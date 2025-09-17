@@ -104589,6 +104589,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/superrare-com/adblock-list.txt
 !#include domain-filters/sushi-com
 !#include domain-filters/swapx-fi
+!#include domain-filters/synfutures-com/adblock-list.txt
 !#include domain-filters/tanx-fi
 !#include domain-filters/taostats-io
 !#include domain-filters/thala-fi
@@ -104600,11 +104601,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/turbos-finance
 !#include domain-filters/uniswap-org
 !#include domain-filters/upbit-com/adblock-list.txt
+!#include domain-filters/valr-com/adblock-list.txt
 !#include domain-filters/velodrome-finance
+!#include domain-filters/vertexprotocol-com/adblock-list.txt
+!#include domain-filters/vest-exchange/adblock-list.txt
 !#include domain-filters/veve-me/adblock-list.txt
 !#include domain-filters/wagmi-com
+!#include domain-filters/weex-com/adblock-list.txt
 !#include domain-filters/whitebit-com/adblock-list.txt
 !#include domain-filters/woox-io/adblock-list.txt
+!#include domain-filters/xt-com/adblock-list.txt
+!#include domain-filters/zkera-fi/adblock-list.txt
+!#include domain-filters/zoomex-com/adblock-list.txt
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
