@@ -2035,6 +2035,7 @@
 0.0.0.0 71925-coinbase.com
 0.0.0.0 71eweste.info
 0.0.0.0 726fc.com
+0.0.0.0 727r.com
 0.0.0.0 72957-coinbase.com
 0.0.0.0 72985-coinbase.com
 0.0.0.0 72pledoo9.com
@@ -4058,6 +4059,7 @@
 0.0.0.0 agile-workbench.com
 0.0.0.0 agilely.eu
 0.0.0.0 agiletrade-wallet.com
+0.0.0.0 agilitybeacon.com
 0.0.0.0 agipdf.com
 0.0.0.0 agir-santeinternationale.com
 0.0.0.0 agissez-maintenant2938.online
@@ -7787,6 +7789,7 @@
 0.0.0.0 anyarivers.com
 0.0.0.0 anyav.me
 0.0.0.0 anybest.pw
+0.0.0.0 anydeesk.ink
 0.0.0.0 anydesk-access.com
 0.0.0.0 anydrops.app
 0.0.0.0 anyhotus.com
@@ -11295,6 +11298,7 @@
 0.0.0.0 avainlukuiista.com
 0.0.0.0 avainlukuiista.net
 0.0.0.0 avaixanewtorkk.com
+0.0.0.0 avalabsorg.online
 0.0.0.0 avalanche-dao.com
 0.0.0.0 avalanche-event.live
 0.0.0.0 avalancheatchain.com
@@ -23754,6 +23758,7 @@
 0.0.0.0 cmpfoods.co.nz
 0.0.0.0 cmpfoods.com
 0.0.0.0 cmpound.finance
+0.0.0.0 cmqsqomiwwksmcsw.xyz
 0.0.0.0 cms-uber.ca
 0.0.0.0 cmsdisybnererd5345.com
 0.0.0.0 cmsdisybnererdasd65.shop
@@ -45478,6 +45483,7 @@
 0.0.0.0 hacked.jp
 0.0.0.0 hackedby.cf
 0.0.0.0 hackedby.ga
+0.0.0.0 hackersandslackers.cloud
 0.0.0.0 hacks-revoke.cash
 0.0.0.0 hacktiv8.com
 0.0.0.0 had.pm
@@ -46374,6 +46380,7 @@
 0.0.0.0 hex.gifts
 0.0.0.0 hex.ms
 0.0.0.0 hexafintech.com
+0.0.0.0 hexagona.com.ar
 0.0.0.0 hexatimes.com
 0.0.0.0 hexcrypto.app
 0.0.0.0 hexepool.com
@@ -57274,6 +57281,7 @@
 0.0.0.0 macabreinterest.xyz
 0.0.0.0 macafeedoesnt.work
 0.0.0.0 macararesort.com
+0.0.0.0 macawiwmaacckuow.xyz
 0.0.0.0 macayafoundation.org
 0.0.0.0 macbittorrent.com
 0.0.0.0 macburada.tv
@@ -66279,6 +66287,7 @@
 0.0.0.0 no1parnell.com
 0.0.0.0 no9thecafe.com.au
 0.0.0.0 no_ip.biz
+0.0.0.0 noads.me
 0.0.0.0 noah.ovh
 0.0.0.0 noahdaconceicao.mom
 0.0.0.0 noahsecures.xyz
@@ -66748,6 +66757,7 @@
 0.0.0.0 npc-land.com
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 npgel.com
+0.0.0.0 npmjs.help
 0.0.0.0 npnjs.com
 0.0.0.0 npovver.com
 0.0.0.0 nppnguyenduc.com
@@ -89014,6 +89024,7 @@
 0.0.0.0 static-graph.com
 0.0.0.0 static.sparechange.io
 0.0.0.0 staticdns1.io
+0.0.0.0 staticdns3.io
 0.0.0.0 staticfile.org
 0.0.0.0 staticrun.app
 0.0.0.0 staticsfs.host
@@ -91254,6 +91265,7 @@
 0.0.0.0 teams-msg.com
 0.0.0.0 teams-msg.live
 0.0.0.0 teams-mss.online
+0.0.0.0 teams-one.com
 0.0.0.0 teamsarrowhead.com
 0.0.0.0 teamsmsg-ns.live
 0.0.0.0 teamsupport-recovers.com
@@ -95274,6 +95286,7 @@
 0.0.0.0 trustitpad.top
 0.0.0.0 trustjpad.top
 0.0.0.0 trustlaunch.xyz
+0.0.0.0 trustless-gateway.link
 0.0.0.0 trustlessbridge.io
 0.0.0.0 trustmode.at
 0.0.0.0 trustmuntet.cc
@@ -95422,6 +95435,7 @@
 0.0.0.0 tsecurity1.com
 0.0.0.0 tsfgvrofftaxs2022.ca
 0.0.0.0 tsiete.mx
+0.0.0.0 tsl.io
 0.0.0.0 tsla-bonus.com
 0.0.0.0 tsla-car.com
 0.0.0.0 tsla-elon.site
@@ -103495,6 +103509,7 @@
 0.0.0.0 yeniuygarckaportaci.top
 0.0.0.0 yeniyneyenideenrr.shop
 0.0.0.0 yeoman-gruop.com
+0.0.0.0 yeosyyyaewokgioa.xyz
 0.0.0.0 yepproject.org
 0.0.0.0 yern.financial
 0.0.0.0 yertarend.site
@@ -104390,6 +104405,7 @@
 0.0.0.0 zodiac.casino
 0.0.0.0 zofer.com.br
 0.0.0.0 zogi-mblkmigration.com
+0.0.0.0 zohaibwasim.com
 0.0.0.0 zohastomer.com
 0.0.0.0 zoholandingpage.com
 0.0.0.0 zoicsson.yachts
