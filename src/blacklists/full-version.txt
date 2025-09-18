@@ -1930,6 +1930,7 @@
 ||71925-coinbase.com^
 ||71eweste.info^
 ||726fc.com^
+||727r.com^
 ||72957-coinbase.com^
 ||72985-coinbase.com^
 ||72pledoo9.com^
@@ -3953,6 +3954,7 @@
 ||agile-workbench.com^
 ||agilely.eu^
 ||agiletrade-wallet.com^
+||agilitybeacon.com^
 ||agipdf.com^
 ||agir-santeinternationale.com^
 ||agissez-maintenant2938.online^
@@ -7682,6 +7684,7 @@
 ||anyarivers.com^
 ||anyav.me^
 ||anybest.pw^
+||anydeesk.ink^
 ||anydesk-access.com^
 ||anydrops.app^
 ||anyhotus.com^
@@ -11190,6 +11193,7 @@
 ||avainlukuiista.com^
 ||avainlukuiista.net^
 ||avaixanewtorkk.com^
+||avalabsorg.online^
 ||avalanche-dao.com^
 ||avalanche-event.live^
 ||avalancheatchain.com^
@@ -23649,6 +23653,7 @@
 ||cmpfoods.co.nz^
 ||cmpfoods.com^
 ||cmpound.finance^
+||cmqsqomiwwksmcsw.xyz^
 ||cms-uber.ca^
 ||cmsdisybnererd5345.com^
 ||cmsdisybnererdasd65.shop^
@@ -45373,6 +45378,7 @@
 ||hacked.jp^
 ||hackedby.cf^
 ||hackedby.ga^
+||hackersandslackers.cloud^
 ||hacks-revoke.cash^
 ||hacktiv8.com^
 ||had.pm^
@@ -46269,6 +46275,7 @@
 ||hex.gifts^
 ||hex.ms^
 ||hexafintech.com^
+||hexagona.com.ar^
 ||hexatimes.com^
 ||hexcrypto.app^
 ||hexepool.com^
@@ -57169,6 +57176,7 @@
 ||macabreinterest.xyz^
 ||macafeedoesnt.work^
 ||macararesort.com^
+||macawiwmaacckuow.xyz^
 ||macayafoundation.org^
 ||macbittorrent.com^
 ||macburada.tv^
@@ -66174,6 +66182,7 @@
 ||no1parnell.com^
 ||no9thecafe.com.au^
 ||no_ip.biz^
+||noads.me^
 ||noah.ovh^
 ||noahdaconceicao.mom^
 ||noahsecures.xyz^
@@ -66643,6 +66652,7 @@
 ||npc-land.com^
 ||npcdn1.now.sh^
 ||npgel.com^
+||npmjs.help^
 ||npnjs.com^
 ||npovver.com^
 ||nppnguyenduc.com^
@@ -88909,6 +88919,7 @@
 ||static-graph.com^
 ||static.sparechange.io^
 ||staticdns1.io^
+||staticdns3.io^
 ||staticfile.org^
 ||staticrun.app^
 ||staticsfs.host^
@@ -91149,6 +91160,7 @@
 ||teams-msg.com^
 ||teams-msg.live^
 ||teams-mss.online^
+||teams-one.com^
 ||teamsarrowhead.com^
 ||teamsmsg-ns.live^
 ||teamsupport-recovers.com^
@@ -95169,6 +95181,7 @@
 ||trustitpad.top^
 ||trustjpad.top^
 ||trustlaunch.xyz^
+||trustless-gateway.link^
 ||trustlessbridge.io^
 ||trustmode.at^
 ||trustmuntet.cc^
@@ -95317,6 +95330,7 @@
 ||tsecurity1.com^
 ||tsfgvrofftaxs2022.ca^
 ||tsiete.mx^
+||tsl.io^
 ||tsla-bonus.com^
 ||tsla-car.com^
 ||tsla-elon.site^
@@ -103390,6 +103404,7 @@
 ||yeniuygarckaportaci.top^
 ||yeniyneyenideenrr.shop^
 ||yeoman-gruop.com^
+||yeosyyyaewokgioa.xyz^
 ||yepproject.org^
 ||yern.financial^
 ||yertarend.site^
@@ -104285,6 +104300,7 @@
 ||zodiac.casino^
 ||zofer.com.br^
 ||zogi-mblkmigration.com^
+||zohaibwasim.com^
 ||zohastomer.com^
 ||zoholandingpage.com^
 ||zoicsson.yachts^
