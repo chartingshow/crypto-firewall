@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 September 2025
+# Last modified: 18 September 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -65,6 +65,7 @@ address=/nimbusweb.me/0.0.0.0
 address=/pages.dev/0.0.0.0
 address=/pantheonsite.io/0.0.0.0
 address=/plesk.page/0.0.0.0
+address=/publicvm.com /0.0.0.0
 address=/r2.dev/0.0.0.0
 address=/repl.co/0.0.0.0
 address=/rs6.net/0.0.0.0
@@ -116,6 +117,7 @@ address=/ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet/0.0.
 address=/225ppqutwykx2or3.onion/0.0.0.0
 address=/25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion/0.0.0.0
 address=/2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion/0.0.0.0
+address=/2hdv5kven4m422wx4dmqabotumkeisrstzkzaotvuhwx3aebdig573qd.onion/0.0.0.0
 address=/4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion/0.0.0.0
 address=/4ktbtv54flfhs6ea.onion/0.0.0.0
 address=/4r7hlqzkxl5xtjxn.onion/0.0.0.0
@@ -168,6 +170,7 @@ address=/ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion/0.0.0.0
 address=/sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion/0.0.0.0
 address=/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion/0.0.0.0
 address=/wqmfzni2nvbbpk25.onion/0.0.0.0
+address=/wtxqf54djhp5pskv2lfyduub5ievxbyvlzjgjopk6hxge5umombr63ad.onion/0.0.0.0
 address=/x6rciduomtjt25xigz7onkgxmusuwwuxqvidjkcramwg3lb5vvpsm7ad.onion/0.0.0.0
 address=/xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion/0.0.0.0
 

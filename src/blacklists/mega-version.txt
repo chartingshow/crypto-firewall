@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 17 September 2025
+! Last modified: 18 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -26,6 +26,7 @@
 ||225ppqutwykx2or3.onion^
 ||25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion^
 ||2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion^
+||2hdv5kven4m422wx4dmqabotumkeisrstzkzaotvuhwx3aebdig573qd.onion^
 ||4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion^
 ||4ktbtv54flfhs6ea.onion^
 ||4r7hlqzkxl5xtjxn.onion^
@@ -78,6 +79,7 @@
 ||sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion^
 ||vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion^
 ||wqmfzni2nvbbpk25.onion^
+||wtxqf54djhp5pskv2lfyduub5ievxbyvlzjgjopk6hxge5umombr63ad.onion^
 ||x6rciduomtjt25xigz7onkgxmusuwwuxqvidjkcramwg3lb5vvpsm7ad.onion^
 ||xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion^
 
@@ -104778,6 +104780,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/appspot-com/adblock-list.txt
 !#include subdomain-filters/at-playit-gg/adblock-list.txt
 !#include subdomain-filters/auto-playit-gg/adblock-list.txt
+!#include subdomain-filters/aws-dev/adblock-list.txt
 !#include subdomain-filters/azurewebsites-net/adblock-list.txt
 !#include subdomain-filters/b-cdn-net/adblock-list.txt
 !#include subdomain-filters/bitbucket-io/adblock-list.txt
@@ -104808,6 +104811,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/ngrok-free-app/adblock-list.txt
 !#include subdomain-filters/nicepage-io/adblock-list.txt
 !#include subdomain-filters/nimbusweb-me/adblock-list.txt
+!#include subdomain-filters/ondigitalocean-com/adblock-list.txt
 !#include subdomain-filters/pages-dev/adblock-list.txt
 !#include subdomain-filters/pantheonsite-io/adblock-list.txt
 !#include subdomain-filters/plesk-page/adblock-list.txt

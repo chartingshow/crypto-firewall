@@ -42,8 +42,10 @@
 ||denv-2.b-cdn.net^
 ||do-sfo01.jetserver.net^
 ||download-main5.b-cdn.net^
+||img-data-backup.b-cdn.net^
 ||metrodown-2.b-cdn.net^
 ||metrodown-3.b-cdn.net^
+||static-mw-host.b-cdn.net^
 ||techsheck.b-cdn.net^
 ||updatessoftware.b-cdn.net^
 ||zexodown-2.b-cdn.net^
