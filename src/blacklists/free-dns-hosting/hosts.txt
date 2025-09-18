@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 August 2025
+# Last modified: 18 September 2025
 #
 
 # Block Free dns and hosting
@@ -52,6 +52,7 @@
 0.0.0.0 dnsalias.com
 0.0.0.0 dnsdojo.com
 0.0.0.0 dnsdyn.net
+0.0.0.0 dnsexit.com
 0.0.0.0 dnsfor.me
 0.0.0.0 dnskeher.com
 0.0.0.0 duckdns.org

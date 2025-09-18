@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 17 September 2025
+# Last modified: 18 September 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -2579,6 +2579,7 @@
 0.0.0.0 pages.dev
 0.0.0.0 pantheonsite.io
 0.0.0.0 plesk.page
+0.0.0.0 publicvm.com
 0.0.0.0 r2.dev
 0.0.0.0 repl.co
 0.0.0.0 rs6.net
@@ -2630,6 +2631,7 @@
 0.0.0.0 225ppqutwykx2or3.onion
 0.0.0.0 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
 0.0.0.0 2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
+0.0.0.0 2hdv5kven4m422wx4dmqabotumkeisrstzkzaotvuhwx3aebdig573qd.onion
 0.0.0.0 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
 0.0.0.0 4ktbtv54flfhs6ea.onion
 0.0.0.0 4r7hlqzkxl5xtjxn.onion
@@ -2682,6 +2684,7 @@
 0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 0.0.0.0 vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion
 0.0.0.0 wqmfzni2nvbbpk25.onion
+0.0.0.0 wtxqf54djhp5pskv2lfyduub5ievxbyvlzjgjopk6hxge5umombr63ad.onion
 0.0.0.0 x6rciduomtjt25xigz7onkgxmusuwwuxqvidjkcramwg3lb5vvpsm7ad.onion
 0.0.0.0 xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 

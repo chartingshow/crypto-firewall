@@ -1,0 +1,11 @@
+# Crypto Firewall (aws-dev)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 18 September 2025
+#
+
+# Block aws-dev sub-domains
+0.0.0.0 2e1ead39-e3be-47d6-b92e-2ddbae2de8ce.forgeapps.ec2.aws.dev

@@ -18,6 +18,7 @@
 ||ec2-34-207-174-202.compute-1.amazonaws.com^
 ||ec2-34-219-121-232.us-west-2.compute.amazonaws.com^
 ||ec2-35-173-202-104.compute-1.amazonaws.com^
+||ec2-44-215-108-109.compute-1.amazonaws.com^
 ||ec2-54-193-91-232.us-west-1.compute.amazonaws.com^
 ||trezwezxb.s3.us-east-2.amazonaws.com^
 ||xrpgive.s3.amazonaws.com^
