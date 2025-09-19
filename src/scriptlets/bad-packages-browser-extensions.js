@@ -8,7 +8,7 @@
  *              projects, alerting users when they encounter potentially harmful content.
  *              Enhanced protection against malicious packages/extensions with JSON-based
  *              threat intelligence.
- * @version 2.0.6
+ * @version 2.0.7
  * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -41,6 +41,8 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/npm-packages.txt',
     'open-vsx.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vsxcode-extensions.txt',
+    'play.google.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/google-play.txt',
     'pypi.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/pypi-packages.txt',
   }
@@ -156,6 +158,7 @@
       'npmjs.com': () => checkURLAgainstBlacklist(hostname),
       'open-vsx.org': () => checkURLAgainstBlacklist(hostname),
       'pypi.org': () => checkURLAgainstBlacklist(hostname),
+      'play.google.com': () => checkURLAgainstBlacklist(hostname),
       default: () => {
         if (hostname.endsWith('.firebaseio.com')) {
           checkURLAgainstBlacklist('firebaseio.com')
