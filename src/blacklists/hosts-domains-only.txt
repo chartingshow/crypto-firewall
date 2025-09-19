@@ -35360,6 +35360,7 @@
 0.0.0.0 elowix.com
 0.0.0.0 elpais.me
 0.0.0.0 elparadiario14.cl
+0.0.0.0 elprogresofood.com
 0.0.0.0 elrayan-eg.com
 0.0.0.0 elraysoft.com
 0.0.0.0 elrifeno.com
@@ -44892,6 +44893,7 @@
 0.0.0.0 grabb.site
 0.0.0.0 grabblur.com
 0.0.0.0 grabcl.com
+0.0.0.0 grabify.link
 0.0.0.0 grabmycake.com
 0.0.0.0 grabmystic.com
 0.0.0.0 grabmyton.com
@@ -58465,6 +58467,7 @@
 0.0.0.0 mastercasc.top
 0.0.0.0 masterclicsolutions.com
 0.0.0.0 mastercoa.co
+0.0.0.0 mastercompu.com
 0.0.0.0 mastercreditbank.com
 0.0.0.0 masterdev.org
 0.0.0.0 mastergmind.com
@@ -59734,6 +59737,7 @@
 0.0.0.0 meta-mints.io
 0.0.0.0 meta-pads.link
 0.0.0.0 meta-parfolio.info
+0.0.0.0 meta-software-worldwide.com
 0.0.0.0 meta-spy.help
 0.0.0.0 meta-spy365.com
 0.0.0.0 meta-time.tech
@@ -92599,6 +92603,7 @@
 0.0.0.0 thales.exchange
 0.0.0.0 thamdu.net
 0.0.0.0 thammyvienanthea.com
+0.0.0.0 thanjainatural.com
 0.0.0.0 thank-environmental-us.com
 0.0.0.0 thank-op.link
 0.0.0.0 thankyou-cz.info
@@ -101468,6 +101473,9 @@
 0.0.0.0 windows-msgas.com
 0.0.0.0 windows-msgas.org
 0.0.0.0 windows-msn-cn.org
+0.0.0.0 windows-software-downloads.com
+0.0.0.0 windows-software-updates.cc
+0.0.0.0 windows-software-updates.com
 0.0.0.0 windows4pc.com
 0.0.0.0 windowsds-time.live
 0.0.0.0 windowsprodcutkey.com
