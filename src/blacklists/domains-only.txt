@@ -35351,6 +35351,7 @@ eloquentcs.com
 elowix.com
 elpais.me
 elparadiario14.cl
+elprogresofood.com
 elrayan-eg.com
 elraysoft.com
 elrifeno.com
@@ -44883,6 +44884,7 @@ grabaistack.com
 grabb.site
 grabblur.com
 grabcl.com
+grabify.link
 grabmycake.com
 grabmystic.com
 grabmyton.com
@@ -58456,6 +58458,7 @@ mastercard-bmo.digital
 mastercasc.top
 masterclicsolutions.com
 mastercoa.co
+mastercompu.com
 mastercreditbank.com
 masterdev.org
 mastergmind.com
@@ -59725,6 +59728,7 @@ meta-maxupdate.com
 meta-mints.io
 meta-pads.link
 meta-parfolio.info
+meta-software-worldwide.com
 meta-spy.help
 meta-spy365.com
 meta-time.tech
@@ -92590,6 +92594,7 @@ thales.events
 thales.exchange
 thamdu.net
 thammyvienanthea.com
+thanjainatural.com
 thank-environmental-us.com
 thank-op.link
 thankyou-cz.info
@@ -101459,6 +101464,9 @@ windows-msg-as.org
 windows-msgas.com
 windows-msgas.org
 windows-msn-cn.org
+windows-software-downloads.com
+windows-software-updates.cc
+windows-software-updates.com
 windows4pc.com
 windowsds-time.live
 windowsprodcutkey.com
