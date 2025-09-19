@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 18 September 2025
+! Last modified: 19 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -2261,6 +2261,7 @@
 ||77.247.126.189^
 ||77.81.247.144^
 ||77.83.207.152^
+||77.90.153.225^
 ||77.90.153.62^
 ||77.91.101.27^
 ||78.138.9.69^
