@@ -2530,6 +2530,96 @@
 0.0.0.0 99.78.201.201
 0.0.0.0 99.79.9.18
 
+#--------------------------- DEVELOPER LOCATIONS -------------------------------
+# These are default loopback and broadcast addresses.
+# Comment out entries below if you need to disable them.
+#-------------------------------------------------------------------------------
+
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+#----------------------------- ABUSED SUBDOMAINS --------------------------------
+# These domains are known for frequent abuse (e.g., phishing, malware, scams).
+# By default, these are comment out to not break the internet.
+#--------------------------------------------------------------------------------
+
+# 0.0.0.0 aliyuncs.com
+# 0.0.0.0 amazonaws.com
+# 0.0.0.0 bitbucket.io
+# 0.0.0.0 blogspot.ca
+# 0.0.0.0 blogspot.co.id
+# 0.0.0.0 blogspot.co.uk
+# 0.0.0.0 blogspot.co.za
+# 0.0.0.0 blogspot.com
+# 0.0.0.0 blogspot.com.ee
+# 0.0.0.0 blogspot.mx
+# 0.0.0.0 blogspot.pt
+# 0.0.0.0 cloudapp.azure.com
+# 0.0.0.0 cloudfront.net
+# 0.0.0.0 forms.app
+# 0.0.0.0 github.io
+# 0.0.0.0 glitch.me
+# 0.0.0.0 global.ssl.fastly.net
+# 0.0.0.0 magentosite.cloud
+# 0.0.0.0 translate.goog
+# 0.0.0.0 wordpress.com
+# 0.0.0.0 zendesk.com
+
+#---------------------- HIGH-RISK / MAY BREAK LEGITIMATE SITES ------------------
+# WARNING: Blocking these may break legitimate services and parts of the internet.
+# Enable or disable based on your specific needs.
+#--------------------------------------------------------------------------------
+
+0.0.0.0 5v.pl
+0.0.0.0 appsflyer.com
+0.0.0.0 appspot.com
+0.0.0.0 at.playit.gg
+0.0.0.0 auto.playit.gg
+0.0.0.0 azurewebsites.net
+0.0.0.0 b-cdn.net
+0.0.0.0 bluehosting.cz
+0.0.0.0 bravesites.com
+0.0.0.0 business.site
+0.0.0.0 cloud-ara.tyk.io
+0.0.0.0 cprapid.com
+0.0.0.0 easterndns.com
+0.0.0.0 firebaseapp.com
+0.0.0.0 fleek.co
+0.0.0.0 godaddysites.com
+0.0.0.0 herokuapp.com
+0.0.0.0 jetserver.net
+0.0.0.0 liveblog365.com
+0.0.0.0 netlify.app
+0.0.0.0 ngrok-free.app
+0.0.0.0 nicepage.io
+0.0.0.0 nimbusweb.me
+0.0.0.0 pages.dev
+0.0.0.0 pantheonsite.io
+0.0.0.0 plesk.page
+0.0.0.0 publicvm.com
+0.0.0.0 r2.dev
+0.0.0.0 repl.co
+0.0.0.0 rs6.net
+0.0.0.0 sglwebs.com
+0.0.0.0 sitebeat.crazydomains.com
+0.0.0.0 square.site
+0.0.0.0 trycloudflare.com
+0.0.0.0 ts.net
+0.0.0.0 turbopages.org
+0.0.0.0 urbanairship.com
+0.0.0.0 vercel.app
+0.0.0.0 w3spaces.com
+0.0.0.0 web.app
+0.0.0.0 webflow.io
+0.0.0.0 weebly.com
+0.0.0.0 weeblysite.com
+0.0.0.0 wikidot.com
+0.0.0.0 windows.net
+0.0.0.0 wixsite.com
+0.0.0.0 workers.dev
+0.0.0.0 yolasite.com
+
 #-------------------------- I2P DOMAINS (BLOCKED) ------------------------------
 # Known malicious or abused I2P domains.
 #-------------------------------------------------------------------------------
