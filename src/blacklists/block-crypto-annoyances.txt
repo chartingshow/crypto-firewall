@@ -2342,8 +2342,6 @@ www.thestreet.com##.m-in-content-recommendation
 mail.proton.me##.button-promotion--full-gradient
 mail.proton.me##.button-promotion--icon-gradient
 mail.proton.me##.button-promotion--yellow
-mail.proton.me##.modal-two
-mail.proton.me##.modal-two-backdrop
 mail.proton.me##.tip-box
 
 ! msn.com
