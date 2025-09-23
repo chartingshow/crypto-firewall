@@ -37834,7 +37834,6 @@
 ||ethero.com^
 ||etherreum.org^
 ||etherrewards.org^
-||etherscan.io^
 ||etherscancoin.com^
 ||etherscannft.com^
 ||etherscans.us^

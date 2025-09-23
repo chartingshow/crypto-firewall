@@ -40462,7 +40462,6 @@
 0.0.0.0 ethero.com
 0.0.0.0 etherreum.org
 0.0.0.0 etherrewards.org
-0.0.0.0 etherscan.io
 0.0.0.0 etherscancoin.com
 0.0.0.0 etherscannft.com
 0.0.0.0 etherscans.us
