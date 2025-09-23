@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 19 September 2025
+! Last modified: 23 September 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -105208,6 +105208,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/coinw-com/adblock-list.txt
 !#include domain-filters/crypto-com/adblock-list.txt
 !#include domain-filters/curve-finance/adblock-list.txt
+!#include domain-filters/debank-com/adblock-list.txt
 !#include domain-filters/decentraland-org/adblock-list.txt
 !#include domain-filters/deepcoin-top/adblock-list.txt
 !#include domain-filters/defx-com/adblock-list.txt
@@ -105216,10 +105217,14 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/deribit-com/adblock-list.txt
 !#include domain-filters/derive-xyz/adblock-list.txt
 !#include domain-filters/dexalot-com/adblock-list.txt
+!#include domain-filters/dexscreener-com-io/adblock-list.txt
+!#include domain-filters/dexscreener-com/adblock-list.txt
+!#include domain-filters/dextools-io/adblock-list.txt
 !#include domain-filters/digifinex-com/adblock-list.txt
 !#include domain-filters/dodoex-io/adblock-list.txt
 !#include domain-filters/dragonswap-app/adblock-list.txt
 !#include domain-filters/drift-trade/adblock-list.txt
+!#include domain-filters/dropstab-com/adblock-list.txt
 !#include domain-filters/dydx-trade/adblock-list.txt
 !#include domain-filters/edgex-exchange/adblock-list.txt
 !#include domain-filters/enclave-trade/adblock-list.txt
@@ -105229,9 +105234,11 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/fluid-io/adblock-list.txt
 !#include domain-filters/foundation-app/adblock-list.txt
 !#include domain-filters/gate-com/adblock-list.txt
+!#include domain-filters/geckoterminal-com/adblock-list.txt
 !#include domain-filters/gemini-com/adblock-list.txt
 !#include domain-filters/gitcoin-co/adblock-list.txt
 !#include domain-filters/github/adblock-list.txt
+!#include domain-filters/glassnode-com/adblock-list.txt
 !#include domain-filters/globe-exchange/adblock-list.txt
 !#include domain-filters/gmx-io/adblock-list.txt
 !#include domain-filters/grvt-io/adblock-list.txt
@@ -105256,6 +105263,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/lbank-com/adblock-list.txt
 !#include domain-filters/levana-finance/adblock-list.txt
 !#include domain-filters/lfj-gg/adblock-list.txt
+!#include domain-filters/livecoinwatch-com/adblock-list.txt
 !#include domain-filters/luno-com/adblock-list.txt
 !#include domain-filters/lynex-fi/adblock-list.txt
 !#include domain-filters/madhoney-fi/adblock-list.txt
@@ -105263,6 +105271,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/magmafinance-io/adblock-list.txt
 !#include domain-filters/mav-xyz/adblock-list.txt
 !#include domain-filters/merchantmoe-com/adblock-list.txt
+!#include domain-filters/messari-io/adblock-list.txt
 !#include domain-filters/metalx-com/adblock-list.txt
 !#include domain-filters/meteora-ag/adblock-list.txt
 !#include domain-filters/mexc-com/adblock-list.txt
@@ -105317,6 +105326,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/thorswap-finance
 !#include domain-filters/tokenlon-im
 !#include domain-filters/toobit-com/adblock-list.txt
+!#include domain-filters/tradingview-com/adblock-list.txt
 !#include domain-filters/turbos-finance
 !#include domain-filters/uniswap-org
 !#include domain-filters/upbit-com/adblock-list.txt
