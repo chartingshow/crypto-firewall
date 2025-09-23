@@ -124,6 +124,7 @@ explorer.fuse.io
 explorer.gather.network
 explorer.getmasari.org
 explorer.havenprotocol.org
+explorer.hemi.xyz
 explorer.hush.is
 explorer.hush.land
 explorer.hydrachain.org
