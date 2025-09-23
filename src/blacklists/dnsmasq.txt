@@ -37928,7 +37928,6 @@ address=/ethernex-gaming.xyz/0.0.0.0
 address=/ethero.com/0.0.0.0
 address=/etherreum.org/0.0.0.0
 address=/etherrewards.org/0.0.0.0
-address=/etherscan.io/0.0.0.0
 address=/etherscancoin.com/0.0.0.0
 address=/etherscannft.com/0.0.0.0
 address=/etherscans.us/0.0.0.0
