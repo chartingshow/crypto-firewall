@@ -1,71 +1,49 @@
 /**
- * @file bad-packages-browser-extensions-dummy-test.js
- * @title Block Malicious Packages and Extensions
- * @description Enhanced protection against malicious packages/extensions with JSON-based threat intelligence
- * @version 2.0.0
- * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
+ * @file bad-packages-browser-extensions-test.js
+ * @title Test Scriptlet for Bad Packages / Extensions
+ * @description Simulates detection of a malicious package/extension using the new blacklist format
+ * @version 2.0.7
+ * @copyright (c) The Charting Show
  * @license GPL-3.0 license
  */
 
-/**
- * TEST INSTRUCTIONS
- * =================
- *
- * There are two ways to test this script:
- *
- * 1. AUTOMATIC TEST (recommended for quick verification):
- *    - Uncomment the `testMalwareDetection()` call at the bottom of this file
- *    - Load the script in any webpage
- *    - You should immediately see a test security alert
- *
- * 2. REAL-WORLD TEST (for full integration testing):
- *    - Keep `testMalwareDetection()` commented
- *    - Visit: https://example.com/example-phishing-kit
- *    - The script should detect the test threat from example.json
- *    - You should see a security alert matching the test data
- *
- * Note: For testing in production environment, remember to:
- * - Comment out `testMalwareDetection()` after testing
- * - Remove `testMalwareDetection()` function before final deployment
- */
-
 ;(async function () {
-  // Configuration - JSON blacklist endpoints
+  // Updated test URL mapping (uses .txt test list instead of old JSON)
   const blacklistURLs = {
-    'npmjs.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/npm-packages.json',
-    'chrome.google.com/webstore':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extensions.json',
-    'pypi.org':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/pypi-packages.json',
-    'firebaseio.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/firebase-projects.json',
-    'marketplace.visualstudio.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/vscode-extensions.json',
-    'chrome.extension':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/json/chrome-extension-ids.json',
     'example.com':
-      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/tests/package-tests/example.json',
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/tests/package-tests/example.txt'
   }
 
-  // Cache for storing fetched blacklists
   const blacklistCache = new Map()
 
-  // Enhanced fetch function with caching
-  async function fetchJSONBlacklist(url) {
+  // Reuse fetch logic from production script (supports .txt and .json)
+  async function fetchBlacklist(url) {
     if (blacklistCache.has(url)) {
       return blacklistCache.get(url)
     }
-
     try {
-      const response = await fetch(url, {
-        cache: 'no-cache',
-        headers: {'Content-Type': 'application/json'},
-      })
-
+      const response = await fetch(url, { cache: 'no-cache' })
       if (!response.ok) throw new Error(`HTTP ${response.status}`)
 
-      const data = await response.json()
+      let data
+      if (url.endsWith('.json')) {
+        data = await response.json()
+      } else if (url.endsWith('.txt')) {
+        const text = await response.text()
+        data = text
+          .split(/\r?\n/)
+          .map((line) => line.trim())
+          .filter((line) => line && !line.startsWith('#'))
+          .map((pkg) => ({
+            package: pkg,
+            type: 'test',
+            severity: 'critical',
+            description: 'Simulated test detection',
+            remediation: 'Do not proceed. This is a test alert.'
+          }))
+      } else {
+        data = []
+      }
       blacklistCache.set(url, data)
       return data
     } catch (error) {
@@ -74,30 +52,28 @@
     }
   }
 
-  // Improved URL checking with threat context
   async function checkURLAgainstBlacklist(hostname) {
     const blacklistUrl = blacklistURLs[hostname]
     if (!blacklistUrl) return
 
-    const blacklist = await fetchJSONBlacklist(blacklistUrl)
+    const blacklist = await fetchBlacklist(blacklistUrl)
     const currentURL = window.location.href.toLowerCase()
 
     for (const threat of blacklist) {
       if (currentURL.includes(threat.package.toLowerCase())) {
-        showEnhancedAlert(threat, hostname)
+        showEnhancedAlert(threat)
         logThreatDetection(threat)
         break
       }
     }
   }
 
-  // Advanced alert with remediation guidance
-  function showEnhancedAlert(threat, hostname) {
+  function showEnhancedAlert(threat) {
     const alertHTML = `
     <div style="position:fixed;top:20px;right:20px;z-index:9999;
                 background:#ff4444;color:white;padding:20px;
                 border-radius:8px;max-width:400px;box-shadow:0 4px 8px rgba(0,0,0,0.3)">
-      <h3 style="margin-top:0">SECURITY ALERT</h3>
+      <h3 style="margin-top:0">SECURITY ALERT (TEST)</h3>
       <p><strong>Malicious ${threat.type} detected:</strong> ${threat.package}</p>
       <p><strong>Severity:</strong> ${threat.severity.toUpperCase()}</p>
       <p><strong>Description:</strong> ${threat.description}</p>
@@ -111,7 +87,6 @@
     document.body.insertAdjacentHTML('beforeend', alertHTML)
   }
 
-  // Threat logging function
   function logThreatDetection(threat) {
     const logEntry = {
       timestamp: new Date().toISOString(),
@@ -119,92 +94,46 @@
       type: threat.type,
       severity: threat.severity,
       url: window.location.href,
-      userAgent: navigator.userAgent,
+      userAgent: navigator.userAgent
     }
-    console.warn('Threat detected:', logEntry)
+    console.warn('TEST Threat detected:', logEntry)
   }
-
-  // Domain-specific handlers
-  function checkCurrentDomain() {
-    const {hostname, href} = window.location
-
-    const domainHandlers = {
-      'chrome.google.com': () =>
-        href.includes('/webstore')
-          ? checkURLAgainstBlacklist('chrome.google.com/webstore')
-          : checkURLAgainstBlacklist('chrome.extension'),
-      'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
-      'pypi.org': () => checkURLAgainstBlacklist(hostname),
-      'npmjs.com': () => checkURLAgainstBlacklist(hostname),
-      'firebaseio.com': () => checkURLAgainstBlacklist(hostname),
-      'example.com': () => checkURLAgainstBlacklist(hostname),
-      default: () => {
-        if (hostname.endsWith('.firebaseio.com')) {
-          checkURLAgainstBlacklist('firebaseio.com')
-        }
-      },
-    }
-
-    ;(domainHandlers[hostname] || domainHandlers.default)()
-  }
-
-  // Initialize
-  document.addEventListener('DOMContentLoaded', checkCurrentDomain)
-  window.addEventListener('load', checkCurrentDomain)
-  if (document.readyState === 'complete') checkCurrentDomain()
 
   /**
-   * TEST FUNCTION - Simulates malware detection
-   *
-   * Usage:
-   * 1. Call this function manually from console, OR
-   * 2. Uncomment the call below to run automatically on load
-   *
-   * Expected result:
-   * - Displays a red security alert box in top-right corner
-   * - Logs detection event to console
-   * - Does not affect actual browsing security
+   * TEST FUNCTION - Simulates malware detection on example.com
    */
   function testMalwareDetection() {
     const testThreat = {
       package: 'example-phishing-kit',
-      versions: '*',
       type: 'phishing',
       severity: 'critical',
-      description:
-        'Fake cryptocurrency wallet interface that steals credentials',
-      discovered: '2025-04-15',
-      remediation: 'Do not enter any credentials. Close this page immediately.',
+      description: 'Fake crypto phishing kit (test only)',
+      remediation: 'Close this page immediately (test alert).'
     }
 
-    // Override hostname and href for testing
+    // Override for test
     const originalHostname = window.location.hostname
     const originalHref = window.location.href
 
     Object.defineProperty(window.location, 'hostname', {
       value: 'example.com',
-      configurable: true,
+      configurable: true
     })
     Object.defineProperty(window.location, 'href', {
       value: 'https://example.com/example-phishing-kit',
-      configurable: true,
+      configurable: true
     })
 
-    // Trigger alert
-    showEnhancedAlert(testThreat, 'example.com')
+    showEnhancedAlert(testThreat)
     logThreatDetection(testThreat)
 
-    // Restore original values
+    // Restore
     setTimeout(() => {
-      Object.defineProperty(window.location, 'hostname', {
-        value: originalHostname,
-      })
-      Object.defineProperty(window.location, 'href', {
-        value: originalHref,
-      })
+      Object.defineProperty(window.location, 'hostname', { value: originalHostname })
+      Object.defineProperty(window.location, 'href', { value: originalHref })
     }, 100)
   }
 
-  // Uncomment the following line to enable automatic testing
-  // testMalwareDetection();
+  // Uncomment to run automatically
+  // testMalwareDetection()
 })()
