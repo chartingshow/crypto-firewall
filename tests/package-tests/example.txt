@@ -1,0 +1,7 @@
+# Example blacklist for testing
+# Lines starting with # are ignored
+
+example-phishing-kit
+fake-wallet-extension
+malware-coinminer
+test-rugpull-token
