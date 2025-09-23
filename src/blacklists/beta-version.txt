@@ -105177,6 +105177,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitfinex-com/adblock-list.txt
 !#include domain-filters/bitflyer-com/adblock-list.txt
 !#include domain-filters/bitget-com/adblock-list.txt
+!#include domain-filters/bitgur-com/adblock-list.txt
 !#include domain-filters/bithumb-com/adblock-list.txt
 !#include domain-filters/bitmart-com/adblock-list.txt
 !#include domain-filters/bitmex-com/adblock-list.txt
@@ -105186,6 +105187,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitstamp-net/adblock-list.txt
 !#include domain-filters/bitunix-com/adblock-list.txt
 !#include domain-filters/blitz-exchange/adblock-list.txt
+!#include domain-filters/blockscan-com/adblock-list.txt
 !#include domain-filters/blofin-com/adblock-list.txt
 !#include domain-filters/bluefin-io/adblock-list.txt
 !#include domain-filters/blur-io/adblock-list.txt
@@ -105200,13 +105202,21 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/cetus-zone/adblock-list.txt
 !#include domain-filters/chainflip-io/adblock-list.txt
 !#include domain-filters/changenow-io/adblock-list.txt
+!#include domain-filters/coinalyze-net/adblock-list.txt
 !#include domain-filters/coinbase-com/adblock-list.txt
 !#include domain-filters/coincall-com/adblock-list.txt
 !#include domain-filters/coincatch-com/adblock-list.txt
+!#include domain-filters/coincheckup-com/adblock-list.txt
+!#include domain-filters/coincodex-com/adblock-list.txt
 !#include domain-filters/coinex-com/adblock-list.txt
+!#include domain-filters/coingecko-com/adblock-list.txt
 !#include domain-filters/coinlist-co/adblock-list.txt
+!#include domain-filters/coinmarketcap-com/adblock-list.txt
+!#include domain-filters/coinpaprika-com/adblock-list.txt
 !#include domain-filters/coinw-com/adblock-list.txt
 !#include domain-filters/crypto-com/adblock-list.txt
+!#include domain-filters/cryptocompare-com/adblock-list.txt
+!#include domain-filters/cryptorank-io/adblock-list.txt
 !#include domain-filters/curve-finance/adblock-list.txt
 !#include domain-filters/decentraland-org/adblock-list.txt
 !#include domain-filters/deepcoin-top/adblock-list.txt
