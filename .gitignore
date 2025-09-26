@@ -7,6 +7,7 @@
 .env-example
 .eslintignore
 .eslintrc
+.eslintrc.json
 .github/*
 .gitleaks.toml
 .gitpod.yml
@@ -34,6 +35,7 @@ docs/*
 FEATURE_OR_BUG.md
 Gruntfile.js
 humbug*
+jest.config.js
 LICENSE
 MANIFEST.in
 node_modules/*
