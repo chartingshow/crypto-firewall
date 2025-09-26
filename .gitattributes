@@ -12,6 +12,7 @@
 /.env-example export-ignore
 /.eslintignore export-ignore
 /.eslintrc export-ignore
+/.eslintrc.json export-ignore
 /.gitattributes export-ignore
 /.github export-ignore
 /.gitignore export-ignore
@@ -47,6 +48,7 @@
 /GOVERNANCE.md export-ignore
 /Gruntfile.js export-ignore
 /humbug export-ignore
+/jest.config.js export-ignore
 /lerna.json export-ignore
 /LICENSE export-ignore
 /MANIFEST.in export-ignore
