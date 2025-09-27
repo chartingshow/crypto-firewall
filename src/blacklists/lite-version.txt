@@ -104816,6 +104816,7 @@
 ||frp1.freefrp.net^
 ||ftp.aigirlfriend.altervista.org^
 ||g66.onelink.me^
+||gartenleben.eu.org^
 ||hacker1236.hoto.org^
 ||hd.kp.gov.pk^
 ||heike.teofilius.de^
@@ -104832,6 +104833,7 @@
 ||marketdriven.chevronmarcom.com^
 ||officepackage.sourceforge.io^
 ||oniym.holy.jp^
+||pan.xj.hk^
 ||panda.sect.kr^
 ||peat-sparkly-option.glitch.me^
 ||pengadaan.undip.ac.id^
@@ -104849,7 +104851,6 @@
 ||time.api.chinabm.cn^
 ||uniglory.shrtoshr.com^
 ||upd23.vxux.icu^
-||web.danger.net^
 
 ! Folder blocking --------------------------------------------------------------
 ||matt.ucc.asn.au/dropbear/^
