@@ -32,6 +32,10 @@
 ||e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev^
 ||f2479fd7.36e00f36c88053ca03f275a0.workers.dev^
 ||hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev^
+||mainnet.solana-rpc-pool.workers.dev^
 ||npaautocare.zouxiaodong.workers.dev^
+||opra1.oprawh.workers.dev^
+||oprawh.workers.dev^
+||solana-rpc-pool.workers.dev^
 ||vittoriocas137.workers.dev^
 ||word.msapp.workers.dev^
