@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 September 2025
+# Last modified: 27 September 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -906,7 +906,10 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1gb.ru
 1gst-directaccountcan.help
 1ibv5plwg.info
+1ich.io
 1illuvium.io
+1imch.io
+1inc.io
 1inch-airdrops.com
 1inch-airdrops.net
 1inch-audit.top
@@ -926,8 +929,10 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1inchswap.net
 1inchswap.org
 1inchweb3.com
+1incj.io
 1indo.news
 1infoupdate-mynflx.com
+1inh.io
 1ink.my.id
 1inkh.top
 1inmnch.top
@@ -970,6 +975,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1n-royalbank.com
 1n-ttr3f.com
 1natetboxs.net
+1nch.io
 1netflix-service.com
 1nevadasports.com
 1nflix-update.info
@@ -1005,6 +1011,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1oilakj.top
 1okft.com
 1on1.pk
+1onch.io
 1onlinesecure-royalbank.com
 1p0stcanada-eservicehelp.com
 1portal.org
@@ -1342,6 +1349,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 2c-coinbase.com
 2canadapost.ca
 2canadapost.com
+2clicks4.com
 2cola1fuckingsucks.top
 2cs.pro
 2csfree.pro
@@ -1377,6 +1385,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 2icbcdrivercad.com
 2idaccess-web.com
 2idlogin-auth.com
+2inch.io
 2istanbullu2586.com
 2istanbullu2586.xyz
 2jszsrb7x.info
@@ -12553,8 +12562,10 @@ bbcsworld.com
 bbfilm.xyz
 bbin-binance.com
 bbinmning.com
+bbitget.com
 bbk115.com
 bblowfish.xyz
+bblur.io
 bbq-set.de
 bbqaddicts.fr
 bbraves.tech
@@ -13804,6 +13815,7 @@ biitcasino.me
 biitcoinbsc.com
 biitelephone-qc.click
 biitelephone-qc.online
+biitget.com
 biitpay.com
 biitz-group.xyz
 bijou.co.in
@@ -13970,6 +13982,7 @@ bimbelintensif.com
 bimcellhizlitanim.com
 bimesarayenovin.ir
 bimstamps.com
+binabce.com
 binacedex.com
 binacy.com
 binacy.market
@@ -14089,6 +14102,7 @@ birexknu.com
 bireysel-limit.art
 birfullhdfilmizle.com
 birgunolucakelbeet.xyz
+birhumb.com
 biri9bizidurdursun.com.tr
 biribizi7durdursun.com.tr
 biribizidurd11ursun.com.tr
@@ -14136,6 +14150,7 @@ bit-world.cc
 bit.ly
 bit06.net
 bitaccess.com
+bitaffs.com
 bitafrex.com
 bitagon.net
 bitalbion.com
@@ -14195,6 +14210,7 @@ bitcmining.space
 bitcminnetrix.site
 bitcoainmnetrix.site
 bitcobsc.com
+bitcoib.org
 bitcoiminetrix.live
 bitcoimninetrix.com
 bitcoimpro.com
@@ -14381,6 +14397,7 @@ bitcolnminitrex.com
 bitcom.psi.br
 bitcompay.org
 bitcompounds.com
+bitcon.org
 bitconetf.com
 bitconiminetrix.com
 bitconminetrix.site
@@ -14392,6 +14409,7 @@ bitcorecrypto.cc
 bitcotex.com
 bitcotlex.com
 bitcoud.com
+bitcpin.org
 bitcvip.com
 bitdailyinvest.com
 bitdcoin.top
@@ -14404,6 +14422,7 @@ bitdoni.com
 bitdrop2.com
 bitechan.ac
 bitegex.com
+bitegt.com
 bitencrypto.com
 bitepie.club
 bitercoin.online
@@ -14421,6 +14440,7 @@ bitextec.com
 biteye.site
 bitezer.com
 bitfi.us
+bitfimex.com
 bitfinex-logi.com
 bitfinex1.com
 bitfinexct.com
@@ -14441,6 +14461,7 @@ bitfrost.finance
 bitftx.co
 bitfulex.com
 bitfy.shop
+bitgeet.com
 bitget-an.com
 bitget-au.com
 bitget-eo.com
@@ -14449,8 +14470,13 @@ bitget-ou.com
 bitget.works
 bitgetbgb.network
 bitgetco.network
+bitgett.com
+bitgey.com
 bitglux.com
 bitgo-rewards.com
+bitgrt.com
+bitgte.com
+bitgwt.com
 bitheks.com
 bithum.top
 bithunter.online
@@ -14565,6 +14591,7 @@ bitntcommunity.fun
 bitntz.com
 bitnunts.fun
 bito.com.pk
+bitocin.org
 bitocrown.com
 bitodefi.com
 bitofpublic.com
@@ -14640,6 +14667,7 @@ bitsuh.com
 bitsvertise.com
 bitswap.fi
 bittadingex.com
+bittamp.net
 bittcoinminetrix.com
 bittcooinbsc.com
 bittdf.com
@@ -14647,6 +14675,7 @@ bittensors.com
 bittercoldzzdwu.shop
 bittexclick.com
 bittexup.com
+bittget.com
 bittmartr.com
 bittnes.com
 bittoptions.com
@@ -14682,6 +14711,7 @@ bitworld.pw
 bitx-mining.pro
 bitxlancer.com
 bitxnax.com
+bitxoin.org
 bitxold.com
 bitxoq.com
 bitxpush.com
@@ -14703,6 +14733,7 @@ bixhack.ru
 bixiancha.cn
 bixmoney.com
 bixos.estate
+biyget.com
 biyuu.net
 biz.ua
 bizcardmachine.com
@@ -14761,6 +14792,7 @@ bknovounion.com
 bkonnect.co.za
 bksengineers.com
 bktc.website
+bkur.io
 bkwindowtinting.com
 bkyhyoltd.com
 bl-ur.net
@@ -15007,6 +15039,8 @@ blo3e.ink
 bloagster.site
 blobfish.com
 blocage-611.online
+blocckchain.com
+blocjchain.com
 block-alert.cc
 block-games.art
 blockadsonyt.vip
@@ -15144,6 +15178,7 @@ blowwyivot.cfd
 bloxestate.vip
 bloxvest.com
 blprivatebanking.com
+blru.io
 blswapi.com
 blt-grp.space
 bltcetftoken.pro
@@ -15276,6 +15311,7 @@ bluskyfares.com
 blust.io
 blust.tech
 blustar.com.vn
+bluur.io
 bluzelleclaim.site
 bluzgipx.top
 blvckchaiin.tech
@@ -15682,6 +15718,7 @@ bndchain.org
 bndgodft.info
 bngee.exchange
 bnghjh.ml
+bniance.com
 bnjjbdsfdxd4wsd.online
 bnk-vorood-mlt.net
 bnk-voroodmlt.net
@@ -16351,6 +16388,7 @@ bravebrowserfree.ru
 bravecto.info
 bravecto.su
 bravecto.vet
+bravedown.com
 bravedreacisopm.shop
 braverbrowser.tech
 braveser.com
@@ -16599,11 +16637,14 @@ bscpool.vip
 bscpool.world
 bscpools.pro
 bscscan.com
+bscsccan.com
 bscscna.com
 bscsmart-center.co
 bscsmartcenter.com
 bscsmartcontracts.xyz
 bscstaking.top
+bscsvan.com
+bscsxan.com
 bscusdtp.com
 bsdaava.com
 bsessis.com
@@ -16620,11 +16661,14 @@ bsr216.com
 bss-india.org
 bss-kikaku.com
 bssaapp.com
+bssccan.com
 bstionline.com
 bsve.link
+bsvscan.com
 bswap.live
 bswhjalshcdk.pw
 bsxctdwgo.cc
+bsxscan.com
 bt-platform.xyz
 bt332.store
 bt558833.com
@@ -16729,8 +16773,10 @@ btgtok.site
 bth-coinbase.xyz
 bthdifi.com
 btholdingsinc.com
+bticoin.org
 bticoinnbsc.com
 btideals.com
+btiget.com
 btikub.com
 btkui188.cn
 btn-association.com
@@ -16876,6 +16922,7 @@ bullzclubhouse.com
 bullzenfishing.com
 bulog.jp
 buloxo.com
+bulr.io
 bulygon.xyz
 bulzclubhouse.com
 bumabara.bid
@@ -20669,6 +20716,7 @@ cch-internationality.com
 cchaingpt.org
 cchangenow.io
 cchcloudminer.com
+ccial.cfd
 ccine10.com.br
 cclaim.one
 cclpharma.com
@@ -22166,6 +22214,7 @@ cimatepv.com
 cimbox.club
 cimpound.finance
 cinaweine.shop
+cindesk.com
 cinecalidad.foo
 cinefilux.com
 cineflowhd.com
@@ -24148,6 +24197,7 @@ coinexsm.com
 coinfalcon.asia
 coinfalcons.com
 coinfct.com
+coinfecko.com
 coinfield.com
 coinfko6.com
 coinflape.com
@@ -24171,7 +24221,9 @@ coingeckto.com
 coingekco.net
 coingeko.pro
 coingex.org
+coinggecko.com
 coingglass.com
+coingicko.com
 coingpt.tech
 coingradz.com
 coingrapeforextrading.com
@@ -24210,11 +24262,15 @@ coinloco.shop
 coinloco.vip
 coinlymx.com
 coinmama.pro
+coinmarkeetcap.com
 coinmarkertglobal.com
 coinmarketcap.plus
 coinmarketcapapp.com
 coinmarketcapi.com
+coinmarketccap.com
+coinmarketcpa.com
 coinmarkethat.com
+coinmarketxap.com
 coinmarkretcap.com
 coinmarkretcap.org
 coinmaxs.com
@@ -24238,6 +24294,7 @@ coinmog.net
 coinnado.com
 coinnebula.com
 coinners.com
+coinngecko.com
 coinnone.net
 coinntrde.site
 coinnyfrownwejr.shop
@@ -26866,6 +26923,7 @@ crazymeme.xyz
 crazypictures.xyz
 crazypornstar.com
 crazyrace.com.br
+crazys-ladyonlines.com
 crazytv.com
 crchrrfnd.online
 crea-anthun.com
@@ -28471,6 +28529,7 @@ dandelionlife.com
 dandinidandinidastanadanalargirmisbostanakovbostanci.space
 dandtpremierhomes.com
 daneshonline.com
+danger.net
 dangky88kfree.online
 danielacordeiro.com.br
 danielamanuela.co
@@ -29271,6 +29330,7 @@ decryptokens.co
 decryptokens.com
 decrypts.co.com
 decrypts.us
+dectools.io
 decurretbit.com
 decxscreener.com
 decyd.cl
@@ -30567,6 +30627,7 @@ detmassagoverst.com
 detmauibenefits.org
 detmauimass.org
 detme.org
+detools.io
 detoxinfalivel.com
 detpro.org
 detre.top
@@ -30691,6 +30752,7 @@ dexmeta.net
 dexmeta.org
 dexnfts.io
 dexnstools.com
+dexools.io
 dexpendle.org
 dexportal.network
 dexrpc.app
@@ -30818,10 +30880,14 @@ dexswapfinance.com
 dexswcreener.com
 dexsxcreener.com
 dexszcreener.com
+dextols.io
 dextools.com
 dextools.top
+dextoolss.io
 dextoolzs.io
+dextoools.io
 dextoorls.net
+dextoos.io
 dextra.com.mx
 dextrools.io
 dextrust.net
@@ -33957,6 +34023,7 @@ eessee.io
 eet-new-people-35202.bond
 eet-new-people-42361.bond
 eet-new-people-69853.bond
+eetherscan.io
 eetproviderprep.directory
 eeverify.net
 eevoke.cash
@@ -34764,6 +34831,7 @@ ehdjw.top
 ehealtcare.com
 ehealthmcare.com
 ehealthnutrition.com
+eherscan.io
 ehgi.info
 ehjdilgfljdimkg.top
 ehllcase.com
@@ -36455,6 +36523,7 @@ ergrs.top
 ergtu.top
 erhansaygili.com
 erhbdf.ga
+erherscan.io
 erherst.gq
 erherst.ml
 erherst.tk
@@ -37591,6 +37660,7 @@ etdirectservice.com
 etdonate2022ca.com
 eteasyacces.online
 eteexpress.site
+etehrscan.io
 etelvarazs.hu
 etemadepars.ir
 etemploy-ca.com
@@ -37653,6 +37723,7 @@ etfr-communication.online
 etfr-req-28a84.com
 etfreturn.ca
 etfrn.org
+etgerscan.io
 etgovbank.com
 etgovbankcad.com
 etgovbankcra.com
@@ -37787,6 +37858,7 @@ ethapy.io
 ethapy.net
 ethapy.org
 etharbitrages.com
+etharscan.io
 ethblast.xyz
 ethblockchain.site
 ethbot.app
@@ -37830,6 +37902,8 @@ ethdrops.com
 ethdt.org
 etheba.fi
 etheereum.org
+etheerscan.io
+etheescan.io
 etheeum.org
 ethema.fi
 ether-fi.claims
@@ -37849,6 +37923,8 @@ etherchainapp.club
 etherchains.net
 etherclaim.online
 etherclaims.com
+ethercsan.io
+etherdcan.io
 etherdefi.org
 etherealboxmystery.xyz
 etherealmystery.xyz
@@ -37928,17 +38004,35 @@ ethernex-gaming.xyz
 ethero.com
 etherreum.org
 etherrewards.org
+ethersacn.io
+ethersan.io
+ethersca.io
+etherscaan.io
+etherscab.io
 etherscancoin.com
+etherscann.io
 etherscannft.com
 etherscans.us
 etherscans.xyz
 etherscanvoucher.com
 etherscapp.site
+ethersccan.io
+etherscen.io
+etherscn.io
+etherscna.io
+etherscsn.io
+etherskan.io
+ethersscan.io
+ethersvan.io
 etherswapmex.com
+ethersxan.io
 ethertokens.org
 ethertw.com
 etherv1.com
+ethescan.io
+ethesrcan.io
 etheth.top
+ethetscan.io
 etheur.cc
 ethexpand.cc
 ethexpand.top
@@ -37951,6 +38045,7 @@ ethgo.app
 ethgoerli.net
 ethgoerli.org
 ethgpt.life
+ethherscan.io
 ethhki.com
 ethhla.com
 ethhome.pro
@@ -38092,6 +38187,7 @@ etisalategypt.tech
 etisalatgreen.com
 etiwu-lahexa.sbs
 etixie.com
+etjerscan.io
 etjrdc.org
 etlemonlightsite.cfd
 etlnterac-deposit.com
@@ -38791,6 +38887,7 @@ ettelushelp.ca
 etterac.online
 etthena.fi
 etthereum.org
+ettherscan.io
 ettransconnect.com
 ettransfer.live
 ettransfertdirectly.com
@@ -38866,6 +38963,7 @@ eulphl.cc
 eumaxtro.top
 eunoia.asia
 eunoiaph-ae.com
+eunow4u.com
 euorvent.com
 eupartner.site
 eurasiarail.ru
@@ -39466,6 +39564,7 @@ extensionsupdate.com
 extersa.com
 extilivrosntor.shop
 extinternal-cloud.com
+extools.io
 extorteauhhwigw.shop
 extprojectdev.top
 extra-donnees-gratuit.gq
@@ -39504,6 +39603,7 @@ eyesfixyz.net
 eyeteam.vn
 eyetube.pro
 eyhena.fi
+eyherscan.io
 eylonesports.xyz
 eysar.com
 eyu.net
@@ -41759,6 +41859,7 @@ fotografosdezaragoza.org
 fotoplus.com.uy
 founchain.com
 found-syncswap.xyz
+foundatin.app
 foundation-anomalyai.com
 foundation-arbtirum.io
 foundation-claim.app
@@ -47478,6 +47579,7 @@ humainvalidatorchecks.xyz
 humandesigns.com
 humanheartnature.com
 humanxclub.com
+humbe-guq.com
 humcrm.com
 humidin.com
 humilife.co
@@ -47505,6 +47607,7 @@ huobiglobal668.com
 huokejinglingvip.com
 huorong.cn
 huoxinggpt.com
+hupbi.com
 hurawatch.cc
 hurixs.com.my
 hurricane-fiona-relief.com
@@ -47821,6 +47924,7 @@ ibplatform.tech
 ibro.store
 ibs-bnkwest01a.com
 ibtdegree.org
+ibtget.com
 ic-op-fi.com
 ic-staking.vip
 icadepuratori.it
@@ -51352,6 +51456,7 @@ iranfaraze.ir
 iraniax.ir
 iraq-mas.com
 iraqisafake.top
+irased.com
 irbc-access-auth.com
 irbc-access-vrfy.com
 irbc-iaccess-onlinecenter.com
@@ -53892,12 +53997,14 @@ kradkeskkemtnsa.cf
 krafttopia.net
 krajaan.my.id
 krajenterprises.com
+krakeen.com
 kraken-dev.com
 kraken-studio.com
 krakenfolio.com
 krakenfuturescox.com
 krakenfuturesway.com
 krakenprowallet.xyz
+krakne.com
 kraledemensdpamu.net
 krallarsahada.co.vu
 kralnaberkofte2.com
@@ -53936,6 +54043,7 @@ krishalvarado.autos
 krishnafarm.org
 kristinee.com
 kritec.pics
+krken.com
 kro.kr
 kroll-ra.com
 kronosmagazine.com
@@ -53943,6 +54051,7 @@ kropnagursa.com
 krov68.ru
 krpbitc.com
 krs-kr.co
+krsken.com
 krspp.pw
 krss.online
 krtigenn.com
@@ -54002,6 +54111,7 @@ kuclaim.org
 kuclaims.com
 kuclaims.net
 kuclaims.org
+kucoim.com
 kucoim.vip
 kucoin-box.com
 kucoinclaims.com
@@ -54009,6 +54119,7 @@ kucoinfees.com
 kucoinhub.com
 kucoinredeem.com
 kucoinrewards.online
+kucoins.com
 kudo.co.id
 kudoflowers.xyz
 kufees.com
@@ -54915,6 +55026,7 @@ lbsaokfjeb.top
 lbsebusiness.com
 lbsrotulos.com
 lbuemove.net
+lbur.io
 lbydfi.com
 lc.chat
 lcaconnections.com
@@ -55708,6 +55820,7 @@ limtad.com
 limxbit.com
 linae-build.com
 linaebuild.org
+linch.io
 linckonly.com
 lincolncasino.eu
 lincolnsale.com
@@ -61105,6 +61218,7 @@ mistressjen.site
 mistulinno.com
 misuperweb.es
 mita-gnet.co.jp
+mitamask.io
 mitaoapp.space
 mitaoshe.cyou
 mitedaziko.xyz
@@ -65323,6 +65437,7 @@ netbanklogin-secure.com
 netbanksecure-au.com
 netbanksecure403.online
 netbanksecurity-au.com
+netbar.org
 netbd.net
 netbitcoinmining.site
 netbrn.com
@@ -66326,6 +66441,7 @@ nissin-d.co.jp
 nisvsorupsssazusxehome.xyz
 nitertym.ru
 nitery.ink
+nitget.com
 nitidianetwork.it
 nitrangola.com
 nitrofxtrade.com
@@ -66381,6 +66497,7 @@ nlcoop.com
 nldextools.io
 nline-dating-90203.bond
 nlinefreediplom.top
+nlur.io
 nluxor.pro
 nm1.me
 nmailapps.com
@@ -66541,6 +66658,7 @@ nonce-repair.co
 nonceformats.com
 noncocotorical.com
 noncustodialfix.com
+nongbet.com
 nonghusan.info
 nonileshos.xyz
 nonml.top
@@ -66939,6 +67057,7 @@ nsbase.org
 nsbases.net
 nsbases.org
 nscjbdbxbsjh.pw
+nscscan.com
 nsdps.cc
 nsdrive-phone.online
 nsdvirasndevu.net
@@ -67292,6 +67411,7 @@ oaklandremodeler.com
 oakparadise.net
 oasisprotocol.news
 oasisswap-swap.com
+oast.fun
 oastify.com
 oatual.com.br
 oaudiovideo.com
@@ -67401,6 +67521,7 @@ oege.us.com
 oegeag.xyz
 oekofkkfkoeefkefbnhgtrq.space
 oel.tg
+oensea.com
 oerportalca.org
 oeth.pro
 oexrk.cc
@@ -68678,6 +68799,7 @@ oonnff.com
 oookin.com
 ooouniversal.su
 oopensea-io.com
+oopensea.com
 oortstorage.com
 oosaka-bousai.co.jp
 ooxxgpt.cn
@@ -68907,6 +69029,7 @@ opairdrop.net
 opairdrop.xyz
 opaline.in
 opaltimecard.com
+opansea.io
 opbank-auth.com
 opbmb.space
 opbnb-bridge.com
@@ -68933,7 +69056,9 @@ opebnb.fun
 opebnb.pw
 opebnb.site
 opeenocean.finance
+opeensea.io
 opehsae.one
+opemsea.com
 open-24-secure.com
 open-24online.com
 open-artsnfts.com
@@ -69021,6 +69146,7 @@ open24updatedservice-online.com
 open24web-accreviewservice.com
 open24web-accverficationservice.com
 open24web-reviewaccservice.com
+openaea.com
 openai-ev.tech
 openai-index-sora.com
 openai-index.org
@@ -69113,6 +69239,7 @@ opensea.org.ru
 opensea.trade
 opensea2023.com
 openseaa.digital
+openseaa.io
 openseabunnybuddies.com
 openseachat.online
 openseaclaim.com
@@ -70968,7 +71095,9 @@ pawm.top
 pawnest.com
 pawz-store.xyz
 pax-ful.com
+paxdul.com
 paxf8ul.com
+paxfful.com
 paxfoul.com
 paxfuii.link
 paxful-add.trade
@@ -71034,6 +71163,7 @@ paxfulweb.xyz
 paxfuly.com
 paxfuly.ltd
 paxfuswork.com
+paxfuul.com
 paxobuy.com
 paxoinx.com
 paxos-gold.com
@@ -71053,6 +71183,7 @@ paxosus.com
 paxosvip.com
 paxranch.com
 paxrful.com
+paxufl.com
 pay-4799.info
 pay-activate-wallet.com
 pay-aktivieren.de
@@ -72211,6 +72342,7 @@ pex-capital.com
 pexbrick.com
 pexccwz.vip
 pexfantasy.com
+pexful.com
 pezimap.com
 pf-tech.co.za
 pf4ick.top
@@ -73003,6 +73135,7 @@ podzone.org
 poe154.top
 poelpin.com
 poenocean.finance
+poensea.com
 pofifa.com
 pogcoinerc.com
 pohul1nk.ru
@@ -74514,6 +74647,7 @@ preveza-info.gr
 previewtalentfc.com
 prewrapped.review
 prezcollar.com
+prf.hn
 pricoat.com.mx
 prieizzebee.xyz
 prigze.top
@@ -76794,6 +76928,7 @@ raydiumm.io
 raydiumnet.work
 raydiums.com
 raydiumtoken.link
+raydiun.io
 raydiun.top
 raydiurn.xyz
 raydiuum.io
@@ -80340,6 +80475,7 @@ rexpie.com
 rexqaf.xyz
 rexscreener.com
 rexxprhqnxk.buzz
+reydium.io
 reymanenergy.com
 rezacomputerbd.com
 rezasource.com
@@ -81572,6 +81708,7 @@ rtfkt-tools.com
 rtfktforge.org
 rtfv.info
 rthereum.org
+rtherscan.io
 rtinygli.top
 rtmotoracing.com
 rtn-amountdetails.info
@@ -82546,6 +82683,7 @@ sbam1.site
 sbbmanagement.com
 sbcglobalss.net
 sbcopylive.com.br
+sbcscan.com
 sbdetails805.com
 sbetp.com
 sblogistik.com
@@ -87277,6 +87415,7 @@ snailbrook.live
 snaillyknsu.cfd
 snaillymarriaggew.shop
 snap-moji.com
+snapany.com
 snapfire.xyz
 snaphsot.org
 snapservarior.com
@@ -89727,6 +89866,7 @@ styshions.com
 stzb.info
 su8.in
 suabest.com
+suahi.com
 suannifx.com
 suants.com
 suavv.com
@@ -89821,6 +89961,7 @@ sui-mainnet.io
 sui-network.com
 sui-pepe.xyz
 sui-web.com
+sui.su
 suiatcarew.biz
 suibian18.com
 suidi.com
@@ -91603,6 +91744,7 @@ teensjewelry.com
 teeteeh.com
 teethefreelancer.com
 tehbagofficialpage.pro
+teherscan.io
 tehgraph.com
 tehnicka.edu.rs
 tehranketab.com
@@ -92960,6 +93102,7 @@ therockefeller.app
 theroyalpitstop.com
 theroyaltressecollection.com
 therratouringterac.online
+therscan.io
 thervide.net
 thesandbox.do
 thesandboxesgame.com
@@ -94509,6 +94652,7 @@ tradeloot.net
 trademarkbyjack.com
 trademarksproject.com
 tradenamic.org
+tradeogre.com
 tradeoptical.com
 tradeoptionx.com
 tradepi.online
@@ -96657,6 +96801,7 @@ unemplo.com
 unemploui.com
 unenviousdxep.shop
 unesco.cl
+uneswap.org
 unetiediaeriliences.shop
 unexaminablespectrall.fun
 unexpected-transactions.online
@@ -96852,6 +96997,7 @@ unisonfx.com
 unisswap.app
 unisswap.co.in
 unisswap.info
+unisswap.org
 unisswap.xyz
 unisswaps.com
 unisvvapofficial.com
@@ -99434,6 +99580,7 @@ vitalmob.pics
 vitaloras.com
 vitanigoldtravelandtours.com
 vitenetteservice.com
+vitget.com
 vitolresourcesinvestment.org
 vitorhugodaluz.pics
 vitubtiagobuffetme.mobi
@@ -99497,6 +99644,7 @@ vlozhenye24.com
 vlps7.xyz
 vlr3m3nt-aptc.com
 vlsportsvls.com
+vlur.io
 vlxx.ai
 vlxx.day
 vlzio.com
@@ -99725,6 +99873,7 @@ vs9foj.cyou
 vsandusa.com.mx
 vsc247.top
 vscoproapk.com
+vscscan.com
 vsexec.com
 vsfx6.shop
 vshorts.in
@@ -101954,6 +102103,7 @@ wtc1111.com
 wtc2222.com
 wtc3333.com
 wtcomms.co.uk
+wtherscan.io
 wti-analytics.com
 wtigroups.com
 wtktoken-airdrop.com
@@ -102190,6 +102340,7 @@ wwwbell.info
 wwwbell.online
 wwwbellintrefound.info
 wwwbellintrefund.info
+wwwblur.io
 wwwc1-bc.com
 wwwc1bc.com
 wwwc1lbc.com
@@ -102206,6 +102357,7 @@ wwwet-1nterac.com
 wwwet-trvnsfer.com
 wwwethergases.app
 wwwethergases.org
+wwwetherscan.io
 wwwgetgems.io
 wwwhost.biz
 wwwimmutable.com
@@ -102216,6 +102368,7 @@ wwwm0bi-clbc.com
 wwwnotflilxintrfound.info
 wwworbiter.fi
 wwworbiter.finance
+wwwpaxful.com
 wwwpythr.net
 wwwr3set-cbc1.com
 wwwrainbowkit.com
@@ -103558,6 +103711,7 @@ xz9.us
 xzxqsf.com
 xzya91.com
 xzyia.com
+y-comblnator.com
 y-pred.com
 y00ts.today
 y2iax5.com
@@ -103915,6 +104069,7 @@ yoh61ugxl4.com
 yohmob.com
 yoho.love
 yohooh.top
+yoit.net
 yojy.info
 yokama.live
 yokang.top
