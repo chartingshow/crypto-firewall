@@ -1963,9 +1963,13 @@ bitcointalk.org##.poster_info > .smalltext > div
 bitcointalk.org##.signature > div
 
 ! cryptoslate.com
+cryptoslate.com###cs-newsletter
 cryptoslate.com###header-stats
 cryptoslate.com##.clearfix.header-socials
+cryptoslate.com##.connect.col
 cryptoslate.com##.footer-disclaimer
+cryptoslate.com##.footer-form
+cryptoslate.com##.header-socials
 cryptoslate.com##.placement
 cryptoslate.com##.scrolling-list.posts
 
