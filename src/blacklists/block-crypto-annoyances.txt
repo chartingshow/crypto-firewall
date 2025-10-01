@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 September 2025
+! Last modified: 1 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1954,9 +1954,11 @@ whattomine.com##.ms-auto.twitter-follow
 whattomine.com##.tickers
 
 ! perplexity.ai
+www.perplexity.ai##.border-subtlest.bg-super.border-2.rounded-full
 www.perplexity.ai##.ring-offsetPlus
-||www.perplexity.ai/rest/user/promotions$xhr
+www.perplexity.ai##.rounded-full.size-2
 ||www.perplexity.ai/rest/event/analytics$ping
+||www.perplexity.ai/rest/user/promotions$xhr
 
 ! bitcointalk.org
 bitcointalk.org##.poster_info > .smalltext > div
@@ -2377,3 +2379,7 @@ www.financemagnates.com##.widgets-wrapper
 
 ! blockscout.com
 eth.blockscout.com##.adsbyslise
+
+! cryptowisser.com
+www.cryptowisser.com###app > footer > div > div:nth-of-type(2)
+||www.cryptowisser.com/img/partners/$image,domain=www.cryptowisser.com
