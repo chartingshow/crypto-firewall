@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 27 September 2025
+! Last modified: 3 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -105157,13 +105157,33 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! Blocking domains -------------------------------------------------------------
 !#include domain-filters/1inch-io/adblock-list.txt
+!#include domain-filters/abra-com/adblock-list.txt
+!#include domain-filters/adamant-im/adblock-list.txt
 !#include domain-filters/aerodrome-finance/adblock-list.txt
 !#include domain-filters/aevo-xyz/adblock-list.txt
 !#include domain-filters/aftermath-finance/adblock-list.txt
+!#include domain-filters/airbitz-co/adblock-list.txt
+!#include domain-filters/airgap-it/adblock-list.txt
+!#include domain-filters/aladdinmc-com/adblock-list.txt
+!#include domain-filters/alphawallet-com/adblock-list.txt
 !#include domain-filters/altdentifier-com/adblock-list.txt
+!#include domain-filters/amazewallet-com/adblock-list.txt
+!#include domain-filters/ambire-com/adblock-list.txt
+!#include domain-filters/amon-tech/adblock-list.txt
+!#include domain-filters/anchorage-com/adblock-list.txt
+!#include domain-filters/ancrypto-io/adblock-list.txt
+!#include domain-filters/ankerpay-com/adblock-list.txt
 !#include domain-filters/apex-exchange/adblock-list.txt
+!#include domain-filters/arcbit-io/adblock-list.txt
+!#include domain-filters/argent-xyz/adblock-list.txt
 !#include domain-filters/arkm-com/adblock-list.txt
+!#include domain-filters/armory-com/adblock-list.txt
 !#include domain-filters/ascendex-com/adblock-list.txt
+!#include domain-filters/atomex-me/adblock-list.txt
+!#include domain-filters/atomicdex-io/adblock-list.txt
+!#include domain-filters/atomicwallet-io/adblock-list.txt
+!#include domain-filters/authereum-org/adblock-list.txt
+!#include domain-filters/avme-io/adblock-list.txt
 !#include domain-filters/axieinfinity-com/adblock-list.txt
 !#include domain-filters/backpack-exchange/adblock-list.txt
 !#include domain-filters/balancer-fi/adblock-list.txt
