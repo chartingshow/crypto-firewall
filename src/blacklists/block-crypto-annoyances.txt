@@ -1664,6 +1664,14 @@ www.coinbase.com##[class^=MessageBannerHeader__CroppedContainer]
 ! htx.com
 www.htx.com##.popup
 
+!------------------------- FAKE CRYPTO PROJECTS BLOCK --------------------------
+! These filters block scam or fake cryptocurrency domains pretending to be
+! real companies or payment services.
+!-------------------------------------------------------------------------------
+
+! Fake "Zelle Coin" scam domains
+||zelle*coin*$all
+
 !---------------------------- CRYPTO BLOCKS ------------------------------------
 ! Add additional crypto-related domains or elements to block below.
 !-------------------------------------------------------------------------------
