@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 5 October 2025
+! Last modified: 6 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -105982,18 +105982,40 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitlox-io/adblock-list.txt
 !#include domain-filters/bitmart-com/adblock-list.txt
 !#include domain-filters/bitmex-com/adblock-list.txt
+!#include domain-filters/bitmymoney-com/adblock-list.txt
 !#include domain-filters/bitopro-com/adblock-list.txt
+!#include domain-filters/bitpanda-com/adblock-list.txt
+!#include domain-filters/bitpay-com/adblock-list.txt
+!#include domain-filters/bitpie-com/adblock-list.txt
 !#include domain-filters/bitrue-com/adblock-list.txt
 !#include domain-filters/bitso-com/adblock-list.txt
 !#include domain-filters/bitstamp-net/adblock-list.txt
+!#include domain-filters/bitsywallet-com/adblock-list.txt
 !#include domain-filters/bitunix-com/adblock-list.txt
+!#include domain-filters/bitvault-global/adblock-list.txt
+!#include domain-filters/bitwala-com/adblock-list.txt
+!#include domain-filters/bitx-com/adblock-list.txt
 !#include domain-filters/blitz-exchange/adblock-list.txt
+!#include domain-filters/block-io/adblock-list.txt
+!#include domain-filters/blockchain-com/adblock-list.txt
+!#include domain-filters/blockchains-my/adblock-list.txt
 !#include domain-filters/blockscan-com/adblock-list.txt
+!#include domain-filters/blockstream-com/adblock-list.txt
+!#include domain-filters/blockwallet-io/adblock-list.txt
 !#include domain-filters/blofin-com/adblock-list.txt
 !#include domain-filters/bluefin-io/adblock-list.txt
+!#include domain-filters/bluewallet-io/adblock-list.txt
 !#include domain-filters/blur-io/adblock-list.txt
+!#include domain-filters/bonpay-com/adblock-list.txt
+!#include domain-filters/brd-com/adblock-list.txt
+!#include domain-filters/breadwallet-com/adblock-list.txt
+!#include domain-filters/btc-com/adblock-list.txt
+!#include domain-filters/btcturk-com/adblock-list.txt
+!#include domain-filters/btcwall-com/adblock-list.txt
+!#include domain-filters/btcwallet-com/adblock-list.txt
 !#include domain-filters/btse-com/adblock-list.txt
 !#include domain-filters/bullish-com/adblock-list.txt
+!#include domain-filters/burner-pro/adblock-list.txt
 !#include domain-filters/bvox-com/adblock-list.txt
 !#include domain-filters/bybit-com/adblock-list.txt
 !#include domain-filters/bydfi-com/adblock-list.txt
