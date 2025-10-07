@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 6 October 2025
+! Last modified: 7 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106019,20 +106019,38 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bvox-com/adblock-list.txt
 !#include domain-filters/bybit-com/adblock-list.txt
 !#include domain-filters/bydfi-com/adblock-list.txt
+!#include domain-filters/cactuswallet-com/adblock-list.txt
 !#include domain-filters/calendly-com/adblock-list.txt
 !#include domain-filters/camelot-exchange/adblock-list.txt
+!#include domain-filters/candidewallet-xyz/adblock-list.txt
+!#include domain-filters/carbonwallet-com/adblock-list.txt
+!#include domain-filters/cash-app/adblock-list.txt
+!#include domain-filters/cashmere-exchange/adblock-list.txt
+!#include domain-filters/castle-finance/adblock-list.txt
 !#include domain-filters/cellana-finance/adblock-list.txt
 !#include domain-filters/cetus-zone/adblock-list.txt
 !#include domain-filters/chainflip-io/adblock-list.txt
 !#include domain-filters/changenow-io/adblock-list.txt
+!#include domain-filters/chivowallet-com/adblock-list.txt
+!#include domain-filters/circle-com/adblock-list.txt
+!#include domain-filters/citowise-com/adblock-list.txt
+!#include domain-filters/classicetherwallet-com/adblock-list.txt
+!#include domain-filters/cobowallet-com/adblock-list.txt
+!#include domain-filters/coin-space/adblock-list.txt
+!#include domain-filters/coin98-com/adblock-list.txt
+!#include domain-filters/coin98-net/adblock-list.txt
 !#include domain-filters/coinalyze-net/adblock-list.txt
+!#include domain-filters/coinapult-com/adblock-list.txt
+!#include domain-filters/coinbank-com/adblock-list.txt
 !#include domain-filters/coinbase-com/adblock-list.txt
 !#include domain-filters/coincall-com/adblock-list.txt
 !#include domain-filters/coincatch-com/adblock-list.txt
 !#include domain-filters/coincheckup-com/adblock-list.txt
 !#include domain-filters/coincodex-com/adblock-list.txt
+!#include domain-filters/coincorner-com/adblock-list.txt
 !#include domain-filters/coinex-com/adblock-list.txt
 !#include domain-filters/coingecko-com/adblock-list.txt
+!#include domain-filters/coinjar-com/adblock-list.txt
 !#include domain-filters/coinlist-co/adblock-list.txt
 !#include domain-filters/coinmarketcap-com/adblock-list.txt
 !#include domain-filters/coinpaprika-com/adblock-list.txt
