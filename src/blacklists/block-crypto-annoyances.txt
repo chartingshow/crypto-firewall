@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 5 October 2025
+! Last modified: 7 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -2392,3 +2392,9 @@ eth.blockscout.com##.adsbyslise
 ! cryptowisser.com
 www.cryptowisser.com###app > footer > div > div:nth-of-type(2)
 ||www.cryptowisser.com/img/partners/$image,domain=www.cryptowisser.com
+
+! elliptic.co
+www.elliptic.co###hs-web-interactives-bottom-anchor
+www.elliptic.co##.intercom-namespace
+www.elliptic.co##.social-link
+www.elliptic.co##.subs-form
