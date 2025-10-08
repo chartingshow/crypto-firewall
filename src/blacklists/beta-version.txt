@@ -106212,6 +106212,43 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/zkera-fi/adblock-list.txt
 !#include domain-filters/zoomex-com/adblock-list.txt
 
+
+
+
+
+
+
+daedaluswallet-io
+dapppocket-com
+darkwallet-org
+dash-org
+daylightwallet-com
+dcentwallet-com
+decentwallet-com
+defiantapp-tech
+dfns-co
+dharma-io
+digibyte-io
+digibytewallet-com
+digifox-finance
+diviproject-org
+dogechain-info
+dogecoin-com
+dompetdq-com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
 !#include ad-servers/adblock-list.txt
