@@ -2398,3 +2398,15 @@ www.elliptic.co###hs-web-interactives-bottom-anchor
 www.elliptic.co##.intercom-namespace
 www.elliptic.co##.social-link
 www.elliptic.co##.subs-form
+
+! blockchainreporter.net
+blockchainreporter.net##.article__info-container > .article__socials > .article__socials-links-wrapper > a.article__socials-link > .article__socials-icon
+blockchainreporter.net##.btn.header__btns-link
+blockchainreporter.net##.cookies
+blockchainreporter.net##.cryptocurrency
+blockchainreporter.net##.footer__socials-wrapper
+blockchainreporter.net##.header-func__buttons-icons-wrapper
+blockchainreporter.net##.layout__aside-item-banner
+blockchainreporter.net##.sticky-banner.promo-banner-bottom
+blockchainreporter.net##.sticky-banner.promo-banner-top
+blockchainreporter.net##a.article__socials-link
