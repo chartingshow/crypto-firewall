@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 7 October 2025
+! Last modified: 8 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106053,12 +106053,30 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/coinjar-com/adblock-list.txt
 !#include domain-filters/coinlist-co/adblock-list.txt
 !#include domain-filters/coinmarketcap-com/adblock-list.txt
+!#include domain-filters/coinomi-com/adblock-list.txt
 !#include domain-filters/coinpaprika-com/adblock-list.txt
+!#include domain-filters/coinrabbit-com/adblock-list.txt
+!#include domain-filters/coinremitter-com/adblock-list.txt
+!#include domain-filters/coins-ph/adblock-list.txt
+!#include domain-filters/coinspot-com/adblock-list.txt
+!#include domain-filters/coinstats-app/adblock-list.txt
+!#include domain-filters/coinus-io/adblock-list.txt
+!#include domain-filters/coinvault-com/adblock-list.txt
 !#include domain-filters/coinw-com/adblock-list.txt
+!#include domain-filters/coinwallet-org/adblock-list.txt
+!#include domain-filters/coldcard-com/adblock-list.txt
+!#include domain-filters/coolwallet-io/adblock-list.txt
+!#include domain-filters/copay-io/adblock-list.txt
+!#include domain-filters/counterwallet-io/adblock-list.txt
+!#include domain-filters/cropty-com/adblock-list.txt
 !#include domain-filters/crypto-com/adblock-list.txt
 !#include domain-filters/cryptocompare-com/adblock-list.txt
+!#include domain-filters/cryptonator-com/adblock-list.txt
 !#include domain-filters/cryptorank-io/adblock-list.txt
+!#include domain-filters/curve-fi/adblock-list.txt
 !#include domain-filters/curve-finance/adblock-list.txt
+!#include domain-filters/cybavo-com/adblock-list.txt
+!#include domain-filters/cypherock-com/adblock-list.txt
 !#include domain-filters/debank-com/adblock-list.txt
 !#include domain-filters/decentraland-org/adblock-list.txt
 !#include domain-filters/deepcoin-top/adblock-list.txt
