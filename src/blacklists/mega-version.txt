@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 9 October 2025
+! Last modified: 10 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106161,16 +106161,36 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/grvt-io/adblock-list.txt
 !#include domain-filters/guarda-com/adblock-list.txt
 !#include domain-filters/gunthy-org/adblock-list.txt
+!#include domain-filters/haha-me/adblock-list.txt
+!#include domain-filters/halowallet-io/adblock-list.txt
 !#include domain-filters/hashkey-com/adblock-list.txt
+!#include domain-filters/haven-io/adblock-list.txt
+!#include domain-filters/hbcwallet-com/adblock-list.txt
+!#include domain-filters/hegic-co/adblock-list.txt
+!#include domain-filters/heliowallet-com/adblock-list.txt
 !#include domain-filters/helixapp-com/adblock-list.txt
 !#include domain-filters/hitbtc-com/adblock-list.txt
+!#include domain-filters/holdstation-com/adblock-list.txt
+!#include domain-filters/holytransaction-com/adblock-list.txt
+!#include domain-filters/hoo-com/adblock-list.txt
 !#include domain-filters/htx-com/adblock-list.txt
+!#include domain-filters/huobiwallet-com/adblock-list.txt
 !#include domain-filters/hybra-finance/adblock-list.txt
 !#include domain-filters/hydradx-io/adblock-list.txt
 !#include domain-filters/hyperfoundation-org/adblock-list.txt
 !#include domain-filters/hyperion-xyz/adblock-list.txt
+!#include domain-filters/hyperpay-tech/adblock-list.txt
 !#include domain-filters/hyperswap-exchange/adblock-list.txt
+!#include domain-filters/ibitcome-com/adblock-list.txt
+!#include domain-filters/ibtcwallet-com/adblock-list.txt
 !#include domain-filters/iguanadex-com/adblock-list.txt
+!#include domain-filters/incognitowallet-io/adblock-list.txt
+!#include domain-filters/indiesquare-com/adblock-list.txt
+!#include domain-filters/infinito-io/adblock-list.txt
+!#include domain-filters/infinitywallet-io/adblock-list.txt
+!#include domain-filters/invity-io/adblock-list.txt
+!#include domain-filters/ipayyou-com/adblock-list.txt
+!#include domain-filters/ironwallet-io/adblock-list.txt
 !#include domain-filters/jup-ag/adblock-list.txt
 !#include domain-filters/kcex-com/adblock-list.txt
 !#include domain-filters/kiloex-io/adblock-list.txt
