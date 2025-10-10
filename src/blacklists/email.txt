@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 September 2025
+# Last modified: 10 October 2025
 #
 
 013store@goodwillhunting.org
@@ -710,6 +710,7 @@ balatoni.gergely@novex.hu
 bambang.hrd.uni@beesco.com
 bandwagonsyx7@msc.com
 banfirturmo16@yahoo.com
+Bang2012@protonmail.com
 banjara@omnihealthclinics.com
 baoabuh@commandyourperception.com
 barbarousn4@omptrans.e.digicomm.intuit.com
@@ -3629,6 +3630,7 @@ mail@deliverycomplain.com
 mail@super-viva.com
 mail@tous.jp
 maintenance@ravalia.co.id
+Makenoise@tutanota.de
 maleeha.rizwan@atnr.com.pk
 malgorzata.haczkowska@cargopoland.com
 mali@resanafinance.ir
