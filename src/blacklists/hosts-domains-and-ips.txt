@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 10 October 2025
+# Last modified: 11 October 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -6132,6 +6132,7 @@
 0.0.0.0 acs-sv.online
 0.0.0.0 acsfoodthegood.fun
 0.0.0.0 acsshop.biz
+0.0.0.0 actedsda.cfd
 0.0.0.0 actiniaua.com
 0.0.0.0 action-access.com
 0.0.0.0 action-appqc.com
@@ -6407,7 +6408,7 @@
 0.0.0.0 admin-support.info
 0.0.0.0 admin-supportsca.com
 0.0.0.0 admin-sysserv.pro
-0.0.0.0 admin.mikifox.com
+0.0.0.0 admin.mikifox.com 
 0.0.0.0 admin.pl
 0.0.0.0 admincentr.com
 0.0.0.0 admincomtls.online
@@ -10518,6 +10519,7 @@
 0.0.0.0 antimoneylaundering.info
 0.0.0.0 antiqueaurora.com
 0.0.0.0 antiquegrow.com
+0.0.0.0 antiradar.life
 0.0.0.0 antisalah.lol
 0.0.0.0 antispamprotection412.com
 0.0.0.0 antistreetwearstore.com
@@ -26179,7 +26181,15 @@
 0.0.0.0 claudiagalliconcha.se
 0.0.0.0 claudiarothschu.com
 0.0.0.0 clavistrade.com
+0.0.0.0 clay.rest
+0.0.0.0 claybaster.top
+0.0.0.0 claydc.top
+0.0.0.0 clayfenrirhuy.top
 0.0.0.0 clayfriendsnft.com
+0.0.0.0 clayhusas.sbs
+0.0.0.0 clayrat.top
+0.0.0.0 clayratnik.top
+0.0.0.0 claysrat.top
 0.0.0.0 claysxfilm.com
 0.0.0.0 claytongrayhome.com
 0.0.0.0 clbc-1online.ca
@@ -45674,7 +45684,7 @@
 0.0.0.0 funextrade.com
 0.0.0.0 funflask.com
 0.0.0.0 funfoods.club
-0.0.0.0 funformathgame.com
+0.0.0.0 funformathgame.com 
 0.0.0.0 fungalaxyca.com
 0.0.0.0 fungible-token.club
 0.0.0.0 funhaus.com.br
@@ -52180,7 +52190,7 @@
 0.0.0.0 inboxalert-govau.com
 0.0.0.0 inboxalert-mygovlogin.com
 0.0.0.0 inboxau-mygov.com
-0.0.0.0 inboxhub.net
+0.0.0.0 inboxhub.net 
 0.0.0.0 inboxlogin-mygov.com
 0.0.0.0 inboxsecure-mygov.com
 0.0.0.0 inc-a9.site
@@ -54493,8 +54503,8 @@
 0.0.0.0 iptvlivestream.org
 0.0.0.0 ipule.cn
 0.0.0.0 ipunku.es
-0.0.0.0 ipv4.mikifox.com
-0.0.0.0 ipv6.mikifox.com
+0.0.0.0 ipv4.mikifox.com 
+0.0.0.0 ipv6.mikifox.com 
 0.0.0.0 ipworldbestscan.xyz
 0.0.0.0 ipworldscanbest.xyz
 0.0.0.0 ipxels.xyz
@@ -60634,6 +60644,7 @@
 0.0.0.0 mackeyfi9.com
 0.0.0.0 macking-forex.com
 0.0.0.0 mackolik.com.tr
+0.0.0.0 macmafia.top
 0.0.0.0 macovic.com
 0.0.0.0 macquarie-accounts.online
 0.0.0.0 macrise.com
@@ -98811,6 +98822,7 @@
 0.0.0.0 trustlessbridge.io
 0.0.0.0 trustmode.at
 0.0.0.0 trustmuntet.cc
+0.0.0.0 trustnik.sbs
 0.0.0.0 trustnswkaern525.vip
 0.0.0.0 trustonfin.top
 0.0.0.0 trustornot.org
@@ -105213,7 +105225,7 @@
 0.0.0.0 wriash.shop
 0.0.0.0 wrisstytenewj.shop
 0.0.0.0 writerospzm.shop
-0.0.0.0 writeup.live
+0.0.0.0 writeup.live 
 0.0.0.0 writtern.com
 0.0.0.0 wrlab.sbs
 0.0.0.0 wrldcoin.io
@@ -106295,7 +106307,7 @@
 0.0.0.0 xingzuovip.com
 0.0.0.0 xinjpwk.vip
 0.0.0.0 xinmoshiwang.com
-0.0.0.0 xinqianf38.top
+0.0.0.0 xinqianf38.top 
 0.0.0.0 xintagma.com
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xiomi.co
@@ -107035,7 +107047,7 @@
 0.0.0.0 ycra.net
 0.0.0.0 ycs-agoda.online
 0.0.0.0 ycs-traveloka.com
-0.0.0.0 ycvduc.xyz
+0.0.0.0 ycvduc.xyz 
 0.0.0.0 ydbentle.com
 0.0.0.0 ydenjanteani.xyz
 0.0.0.0 ydfym8f6erifpvk.gq
@@ -107371,6 +107383,7 @@
 0.0.0.0 youtube.voto
 0.0.0.0 youtubeadsblocker.live
 0.0.0.0 youtubecliphot.lol
+0.0.0.0 youtubeplusandroid.ru
 0.0.0.0 youtubesyncapi.com
 0.0.0.0 youtubevanced.com
 0.0.0.0 youtubewatch.co

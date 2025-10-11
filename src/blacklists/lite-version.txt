@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Lite Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 5 October 2025
+! Last modified: 11 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -3466,6 +3466,7 @@
 ||acs-sv.online^
 ||acsfoodthegood.fun^
 ||acsshop.biz^
+||actedsda.cfd^
 ||actiniaua.com^
 ||action-access.com^
 ||action-appqc.com^
@@ -7852,6 +7853,7 @@
 ||antimoneylaundering.info^
 ||antiqueaurora.com^
 ||antiquegrow.com^
+||antiradar.life^
 ||antisalah.lol^
 ||antispamprotection412.com^
 ||antistreetwearstore.com^
@@ -23513,7 +23515,15 @@
 ||claudiagalliconcha.se^
 ||claudiarothschu.com^
 ||clavistrade.com^
+||clay.rest^
+||claybaster.top^
+||claydc.top^
+||clayfenrirhuy.top^
 ||clayfriendsnft.com^
+||clayhusas.sbs^
+||clayrat.top^
+||clayratnik.top^
+||claysrat.top^
 ||claysxfilm.com^
 ||claytongrayhome.com^
 ||clbc-1online.ca^
@@ -57968,6 +57978,7 @@
 ||mackeyfi9.com^
 ||macking-forex.com^
 ||mackolik.com.tr^
+||macmafia.top^
 ||macovic.com^
 ||macquarie-accounts.online^
 ||macrise.com^
@@ -96145,6 +96156,7 @@
 ||trustlessbridge.io^
 ||trustmode.at^
 ||trustmuntet.cc^
+||trustnik.sbs^
 ||trustnswkaern525.vip^
 ||trustonfin.top^
 ||trustornot.org^
@@ -104705,6 +104717,7 @@
 ||youtube.voto^
 ||youtubeadsblocker.live^
 ||youtubecliphot.lol^
+||youtubeplusandroid.ru^
 ||youtubesyncapi.com^
 ||youtubevanced.com^
 ||youtubewatch.co^

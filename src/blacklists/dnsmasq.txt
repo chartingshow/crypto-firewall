@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 October 2025
+# Last modified: 11 October 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -3560,6 +3560,7 @@ address=/acruxdigitalassets.com/0.0.0.0
 address=/acs-sv.online/0.0.0.0
 address=/acsfoodthegood.fun/0.0.0.0
 address=/acsshop.biz/0.0.0.0
+address=/actedsda.cfd/0.0.0.0
 address=/actiniaua.com/0.0.0.0
 address=/action-access.com/0.0.0.0
 address=/action-appqc.com/0.0.0.0
@@ -7946,6 +7947,7 @@ address=/antimon.info/0.0.0.0
 address=/antimoneylaundering.info/0.0.0.0
 address=/antiqueaurora.com/0.0.0.0
 address=/antiquegrow.com/0.0.0.0
+address=/antiradar.life/0.0.0.0
 address=/antisalah.lol/0.0.0.0
 address=/antispamprotection412.com/0.0.0.0
 address=/antistreetwearstore.com/0.0.0.0
@@ -23607,7 +23609,15 @@ address=/clatrommon.ru/0.0.0.0
 address=/claudiagalliconcha.se/0.0.0.0
 address=/claudiarothschu.com/0.0.0.0
 address=/clavistrade.com/0.0.0.0
+address=/clay.rest/0.0.0.0
+address=/claybaster.top/0.0.0.0
+address=/claydc.top/0.0.0.0
+address=/clayfenrirhuy.top/0.0.0.0
 address=/clayfriendsnft.com/0.0.0.0
+address=/clayhusas.sbs/0.0.0.0
+address=/clayrat.top/0.0.0.0
+address=/clayratnik.top/0.0.0.0
+address=/claysrat.top/0.0.0.0
 address=/claysxfilm.com/0.0.0.0
 address=/claytongrayhome.com/0.0.0.0
 address=/clbc-1online.ca/0.0.0.0
@@ -58062,6 +58072,7 @@ address=/mackeyfi8.com/0.0.0.0
 address=/mackeyfi9.com/0.0.0.0
 address=/macking-forex.com/0.0.0.0
 address=/mackolik.com.tr/0.0.0.0
+address=/macmafia.top/0.0.0.0
 address=/macovic.com/0.0.0.0
 address=/macquarie-accounts.online/0.0.0.0
 address=/macrise.com/0.0.0.0
@@ -96239,6 +96250,7 @@ address=/trustless-gateway.link/0.0.0.0
 address=/trustlessbridge.io/0.0.0.0
 address=/trustmode.at/0.0.0.0
 address=/trustmuntet.cc/0.0.0.0
+address=/trustnik.sbs/0.0.0.0
 address=/trustnswkaern525.vip/0.0.0.0
 address=/trustonfin.top/0.0.0.0
 address=/trustornot.org/0.0.0.0
@@ -104799,6 +104811,7 @@ address=/youtube-vision.world/0.0.0.0
 address=/youtube.voto/0.0.0.0
 address=/youtubeadsblocker.live/0.0.0.0
 address=/youtubecliphot.lol/0.0.0.0
+address=/youtubeplusandroid.ru/0.0.0.0
 address=/youtubesyncapi.com/0.0.0.0
 address=/youtubevanced.com/0.0.0.0
 address=/youtubewatch.co/0.0.0.0
