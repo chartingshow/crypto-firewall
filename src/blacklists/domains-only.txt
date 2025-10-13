@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 October 2025
+# Last modified: 13 October 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -2824,6 +2824,7 @@ abaffordabilityactionplan.com
 abaffordabilityactionplan.info
 abaffordabilitypayment.com
 abaffordabilitypaymentplan.com
+abanca-usuario.com
 abandonnyskop.shop
 abank.no
 abappdynamics.com
@@ -6112,6 +6113,7 @@ amazon-client-care.info
 amazon-client363.com
 amazon-clientalert.info
 amazon-credit.xyz
+amazon-cuentas.com
 amazon-customer-center.online
 amazon-customer-ref1023763.com
 amazon-deliveryhub.com
@@ -6644,6 +6646,7 @@ ancrages.ca
 ancyh.xyz
 and.am
 andau.cc
+andbank.club
 andeh.ir
 andercars.com
 andersonsilva.art
@@ -7942,6 +7945,7 @@ anticrys.xyz
 anticrysz.site
 anticybercrimelicence.org
 antiflag.top
+antifraudes-es.com
 antikrys.xyz
 antimon.info
 antimoneylaundering.info
@@ -10576,6 +10580,7 @@ au-info-review.com
 au-info-secure.com
 au-info-val.com
 au-info.org
+au-lives.su
 au-localpostassistance.com
 au-login-netflix.com
 au-login-secure.com
@@ -10583,6 +10588,7 @@ au-login-secure.net
 au-logon-login-page.group
 au-mybendigo.com
 au-mygov.com
+au-myposts.com
 au-online.co
 au-online.help
 au-online.shop
@@ -11631,6 +11637,8 @@ avis21evraksi32zkirala.net
 aviscanadaposte.ca
 aviscourrierqc.com
 avisevraksizkirala.net
+aviso-bbva.com
+aviso-laboralkutxa.com
 avispostaleqc.com
 avisregionqc1.com
 avisrelivraisonqc1.com
@@ -12252,11 +12260,24 @@ bananasgun.one
 banangun.io
 banannagun.com
 banannagun.io
+banca-arquia.com
+banca-deutsche.com
+banca-laboraikutxa.com
 bancairevirqc-et.com
+bancaminos-es.online
+bancaminos.com
+bancasantander-app.com
+bancasantander-empresa-es.com
+bancasantander-empresa.com
+bancasantander-empresas.com
+bancasantander-es-empresa.com
 banco-bbva.com
 bancodobrasil.dev
 bancor3.vip
+bancosantander-empresa.net
+bancosantander-empresas.net
 bancosgricola.com
+bancsabadell-esp.com
 bancsantsportugal.live
 bandariexpeditions.com
 bandarpowder.com
@@ -12371,6 +12392,8 @@ bankingsfundsdeposits.com
 bankingsupportaccess.xyz
 bankingtd.online
 bankinstitutionfunds.com
+bankinter-banca.com
+bankinter-ingreso.com
 bankjateng.co.id
 bankless.plus
 banklessform.com
@@ -12778,8 +12801,12 @@ bbros.eu
 bbsjnsjaksj.online
 bbtserv.io
 bbva-acceso-es.su
+bbva-atencion-cliente.com
 bbva-onlineservice.com
+bbva-seguridad-es.com
 bbvaadministrar.com
+bbvacuentaonline.su
+bbvaempresa-es.com
 bbvaesauth.com
 bbvaesonlinebanking.com
 bbvagestionar.com
@@ -12889,6 +12916,7 @@ bdstudyinfo.com
 bdtaka24.com
 bdtwo2sb.top
 be-btc.com
+be-ceca.com
 be-llselfi.ca
 be-x43.ru
 be13-re.com
@@ -14202,7 +14230,12 @@ bimesarayenovin.ir
 bimstamps.com
 binaance.org
 binabce.com
+binacecoin.net
 binacedex.com
+binaceeasy.com
+binacefull.biz
+binacefull.net
+binacenow.com
 binacy.com
 binacy.market
 binancc.org
@@ -18660,6 +18693,9 @@ caissepopdentraide.com
 caissue-crapay.com
 caixa.cx
 caixa.wf
+caixabank-particular.com
+caixaeginyers.com
+cajamar-verificacion.com
 cajaminoretino.ru
 cajas.com.mx
 cajasdigitalreporting.net
@@ -20076,6 +20112,8 @@ cancel-voiceid.link
 cancel1ref2983-boa.com
 cancel2ref2983-boa.com
 cancel3ref2983-boa.com
+cancelacion-transferencias.net
+cancelar-recibos.net
 cancellationforpoliau.com
 cancellationforpolinz.com
 cancellationhelp365.com
@@ -26286,6 +26324,7 @@ corn-vsll.online
 cornbascet.site
 corneliussen.dk
 corneplas.com
+cornerbanks-ch.com
 cornerpoetry.com
 cornerstonetrading.biz
 cornerswap.xyz
@@ -28151,6 +28190,7 @@ cudgc-ab.online
 cudnik.de
 cudosnetwork.com
 cuello.ca
+cuenta-app.com
 cuenta.my.id
 cuesta.my.id
 cuevana2espanol.com
@@ -31905,6 +31945,7 @@ direct-cn.com
 direct-cos.com
 direct-cps.com
 direct-cr.com
+direct-cuentas.com
 direct-dc.com
 direct-depo.com
 direct-deposit-canada.website
@@ -32020,6 +32061,7 @@ direct-txlg.com
 direct-txm.com
 direct-txma.com
 direct-txml.com
+direct-usuario.com
 direct-ut.info
 direct-vdl.com
 direct-vf.com
@@ -32196,6 +32238,7 @@ dispersedreturn.com
 dispersedreturnca.com
 disperser.app
 display-transfers.com
+dispositivo-triodos.com
 dispositivos-moey.com
 disputedesjardins.info
 dissendi.com
@@ -35754,6 +35797,7 @@ elhielo.cl
 eliasdam.shop
 elig-groc.link
 eligbility-celestia.com
+eligecamino.com
 eligibility-aave.com
 eligibility-base.org
 eligibility-lens.com
@@ -37066,29 +37110,55 @@ erteeff.com
 ertr.space
 erv-caip-on.ca
 eryaz.net
+es-acceso.su
+es-accesos.su
 es-active.info
+es-actualizacion.su
 es-app.info
 es-app.net
 es-app.online
 es-bbva.info
+es-bsnacional.com
 es-cc.info
+es-clientes.su
 es-cuenta.com
+es-cuenta.su
 es-cuenta.top
+es-cuentas.su
+es-enter.com
+es-entra.online
 es-es.link
 es-es.pw
 es-es.top
+es-funcion.su
+es-funciones.su
+es-html.com
+es-info.su
+es-infos.su
+es-iniciar.online
+es-live.su
+es-lives.su
 es-login.info
 es-me.xyz
 es-megadom.com
 es-mi.cc
 es-mi.co
 es-mi.info
+es-miempresas.com
+es-miparticulares.com
 es-net.top
 es-nu.com
+es-online.su
+es-particular-es.com
+es-registros.com
+es-saldo.su
 es-segura.net
 es-seguro-info.com
 es-seguro.info
 es-ssl-login.info
+es-users.com
+es-usuarios.online
+es-web.su
 esadbabaherzmn.shop
 esadsehrinilahii.shop
 esaleerugs.com
@@ -37132,12 +37202,15 @@ eskt.top
 eskylent.com
 eslieshion.com
 esmaintel.com
+esmas.online
 esmuotrais.lv
 esobabageridonuyor.shop
 esoftworld.co.kr
 esoonglobal.com
 esoskraadami.shop
 esoux.shop
+esp-aviso.com
+esp-avisos.com
 espacespopulaire.com
 espacioespectro.com
 espaciofabrik.com
@@ -38486,6 +38559,7 @@ ethersan.io
 ethersca.io
 etherscaan.io
 etherscab.io
+etherscamorg.club
 etherscancoin.com
 etherscann.io
 etherscannft.com
@@ -40101,6 +40175,7 @@ ezzeblog.com
 ezzy2learn.com
 f--f.top
 f--f.xyz
+f-fb-watch.com
 f-i-d-o-mobility.site
 f-i-x-78512433.com
 f-moda.com
@@ -45788,11 +45863,13 @@ grudgednoy.cfd
 gruffters-mint.com
 grunge-aesthetics.com
 grupa-pocztowa.online
+grupo-inicios.com
 grupo24-7.com.bo
 grupoab.mx
 grupoalinvestimentos.com.br
 grupobancolombla.com
 grupocadore.com
+grupocajarural-esp.com
 grupocardenascyc.pe
 grupocentra.mx
 grupocesa.com
@@ -45818,6 +45895,7 @@ gruponabla.com
 grupopaceo.com
 grupoplascencia.com
 gruporeg43y49.com
+grupos-inicio.com
 gruposafety.cv
 gruposarepta.com
 gruposata.com
@@ -46318,6 +46396,8 @@ hannygoesing.net
 hansairexpress.com
 hansarobotics.com
 hansdfps.com
+hanseaticbank.su
+hanseaticsbank-da.com
 hansview.ru
 hantec22.com
 haopasar.com
@@ -47458,6 +47538,7 @@ home-fixedfloat.com
 home-heat-incentive.xyz
 home-heat.info
 home-heatincentive.info
+home-html.com
 home-mygov.com
 home-notice.info
 home-okex.net
@@ -48008,6 +48089,7 @@ httpunclaimedbenefits.org
 httpunclaimedrebates.org
 htube.space
 htyyed.com
+hu-alert.online
 hu-nett.online
 hu-om.online
 hu-on.online
@@ -49654,6 +49736,7 @@ inchains.top
 inchpad.top
 inchprize.com
 inchreward.info
+incidencia-404.com
 incitewebsolution.com
 incmanapp.rest
 incobech.cl
@@ -54819,6 +54902,10 @@ labelsca.com
 labhost-test.info
 labhost-test1.info
 labhost.ru
+laboraikutxa-usuario.com
+laboraikutxa-web.com
+laboraikuxta-usuarios.com
+laborakutxa-usuario.com
 labourcakefrt.fun
 labradorinblack.com
 labramtum.online
@@ -56052,6 +56139,14 @@ lib-00secure-1etransf-04.com
 libarraryspzm.shop
 libbyasbestos.org
 libcanprof.top
+liberbanconet.club
+liberbankes.club
+liberbankiorg.club
+liberbankis.club
+liberbanknets.club
+liberbankorg.club
+liberbanksnet.club
+libersbanknets.club
 libertader.org
 libertastrade.com
 libertextrades.com
@@ -60959,8 +61054,20 @@ mhkz.info
 mhomes.co.in
 mhyyup5m7.xyz
 mhzvwn.xyz
+mi-abanca.com
 mi-app.cc
+mi-bancsabadell.com
+mi-bankinter.com
+mi-caixabanca.com
 mi-de-ner-nis3.info
+mi-deustsche-bank.com
+mi-deutschebank.com
+mi-evobanco.com
+mi-kutxabank.com
+mi-laboraikutxa.com
+mi-laboralkutxa.com
+mi-sabadell.com
+mi-satander.com
 mi-side.nl
 mi-ya-ni.net
 mi1kyway.tech
@@ -60971,6 +61078,7 @@ miamiclubcasino.im
 miatubtsfa.shop
 miazast.com
 miazlde.com
+mibanca-bankinter.com
 micavhe.top
 micbig.top
 mice5.com
@@ -60983,6 +61091,9 @@ michelearris.com
 michellemartinezdds.mom
 michelleshepherd.one
 michinoekitakehara.com
+micorreo-aviso.com
+micorreo-notificacion.com
+micorreos-notificacion.com
 micro2x.com
 microai.vip
 microbtcmicroeth.com
@@ -61649,6 +61760,7 @@ mintyoursnft.net
 mintyoursnfts.com
 mintzmb.com
 minutemanpress.com
+mioficina-es.com
 miopay.info
 mior.it
 mipinves.site
@@ -63190,6 +63302,7 @@ moviezwap.wiki
 moviezwap.work
 movikbtc.com
 movikevent.com
+movil-abanca.online
 movilmarketlima.com
 moving-poll.homes
 movingupwealthy.com
@@ -69739,6 +69852,7 @@ opensae.net
 opensae.tech
 opensaes.xyz
 opensail.app
+opensbank.com
 opense-cryptopunks.com
 opense.su
 opensea-airdrop.com
@@ -77092,6 +77206,7 @@ r3stemcellreviews.com
 r3turnc4nada.com
 r3vlclaim.top
 r3vlcoin.top
+r4banconet.club
 r4o.us
 r4s5t2t2fa.com
 r4uamrr7fueez.cf
@@ -79402,6 +79517,8 @@ renovatiog.ltd
 renovatiomarketing.com
 renq-platform.com
 renq-token.com
+renta4banconet.club
+renta4banconets.club
 rentacarinlahore.com.pk
 rentbogota.com
 rentenfonds.top
@@ -85378,6 +85495,9 @@ segoremlolgv.gq
 segoremlolgv.ml
 segoremlolgv.tk
 segroplcinvest.com
+seguridad-eurocaja.com
+seguridad-mi-abanca.com
+seguridad-mibbva.com
 seguridadremisionweb.co
 seguridadsocial.co
 seguro-cajamar.com
@@ -90862,6 +90982,7 @@ supportedbnz.com
 supportepageclientca.com
 supportexpedition.com
 supportexpeditionquebec1.info
+supportfbappeal.com
 supportfix.onrender.com
 supportflow-auth.com
 supportforapplepayau.com
@@ -91784,6 +91905,8 @@ tarezmi.shop
 target1961-mall.vip
 targethome.ch
 Targetniean.com
+targobank-verificacion.com
+targobank-verificaciones.com
 targoron.com
 targwiz.com
 tarjetaomega.com
@@ -96552,6 +96675,8 @@ turtsat.vip
 turvalisus-lhv-ee.in
 turvalisus-lhv-ee.info
 turvallinen-op.com
+tuscamino.com
+tuscaminos.com
 tusd-liquid.xyz
 tusd-mine.top
 tusd-mine.xyz
@@ -97183,6 +97308,7 @@ uk-help.info
 uk-id.info
 uk-id.review
 uk-identification.info
+uk-lives.su
 uk-mobileportal.com
 uk-mobilesecurity.com
 uk-mobileservices.com
@@ -98712,6 +98838,7 @@ ustaylorshop.com
 ustldubai.com
 ustokendistribution.top
 ustuneyagdimrmi.xyz
+usuario-e.com
 usunauthorized.com
 usvanslife.club
 usverabradleyonline.com
@@ -102783,6 +102910,8 @@ www-authentificate-rbc-ca.xyz
 www-authentification-bmo-account.xyz
 www-authentification-rbc-bank-rayol.life
 www-authentification-rbc-card.xyz
+www-banca-sabadell.com
+www-bancasabadell.com
 www-blur-io.com
 www-blur.org
 www-blur.tech
@@ -102805,6 +102934,7 @@ www-help-gemini.com
 www-irs-form.top
 www-kinsta.com
 www-kodi.com
+www-laboraikutxa.com
 www-layerzero.com
 www-layerzero.network
 www-lidoreward.com
@@ -104934,6 +105064,7 @@ yyy.partners
 z--z.xyz
 z-casino.top
 z-lib.io
+z-sms.online
 z100.vip
 z2a.digital
 z2adigital.cloud

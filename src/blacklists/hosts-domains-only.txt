@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 11 October 2025
+# Last modified: 13 October 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -2833,6 +2833,7 @@
 0.0.0.0 abaffordabilityactionplan.info
 0.0.0.0 abaffordabilitypayment.com
 0.0.0.0 abaffordabilitypaymentplan.com
+0.0.0.0 abanca-usuario.com
 0.0.0.0 abandonnyskop.shop
 0.0.0.0 abank.no
 0.0.0.0 abappdynamics.com
@@ -3845,7 +3846,7 @@
 0.0.0.0 admin-support.info
 0.0.0.0 admin-supportsca.com
 0.0.0.0 admin-sysserv.pro
-0.0.0.0 admin.mikifox.com 
+0.0.0.0 admin.mikifox.com
 0.0.0.0 admin.pl
 0.0.0.0 admincentr.com
 0.0.0.0 admincomtls.online
@@ -6121,6 +6122,7 @@
 0.0.0.0 amazon-client363.com
 0.0.0.0 amazon-clientalert.info
 0.0.0.0 amazon-credit.xyz
+0.0.0.0 amazon-cuentas.com
 0.0.0.0 amazon-customer-center.online
 0.0.0.0 amazon-customer-ref1023763.com
 0.0.0.0 amazon-deliveryhub.com
@@ -6653,6 +6655,7 @@
 0.0.0.0 ancyh.xyz
 0.0.0.0 and.am
 0.0.0.0 andau.cc
+0.0.0.0 andbank.club
 0.0.0.0 andeh.ir
 0.0.0.0 andercars.com
 0.0.0.0 andersonsilva.art
@@ -7951,6 +7954,7 @@
 0.0.0.0 anticrysz.site
 0.0.0.0 anticybercrimelicence.org
 0.0.0.0 antiflag.top
+0.0.0.0 antifraudes-es.com
 0.0.0.0 antikrys.xyz
 0.0.0.0 antimon.info
 0.0.0.0 antimoneylaundering.info
@@ -10585,6 +10589,7 @@
 0.0.0.0 au-info-secure.com
 0.0.0.0 au-info-val.com
 0.0.0.0 au-info.org
+0.0.0.0 au-lives.su
 0.0.0.0 au-localpostassistance.com
 0.0.0.0 au-login-netflix.com
 0.0.0.0 au-login-secure.com
@@ -10592,6 +10597,7 @@
 0.0.0.0 au-logon-login-page.group
 0.0.0.0 au-mybendigo.com
 0.0.0.0 au-mygov.com
+0.0.0.0 au-myposts.com
 0.0.0.0 au-online.co
 0.0.0.0 au-online.help
 0.0.0.0 au-online.shop
@@ -11640,6 +11646,8 @@
 0.0.0.0 aviscanadaposte.ca
 0.0.0.0 aviscourrierqc.com
 0.0.0.0 avisevraksizkirala.net
+0.0.0.0 aviso-bbva.com
+0.0.0.0 aviso-laboralkutxa.com
 0.0.0.0 avispostaleqc.com
 0.0.0.0 avisregionqc1.com
 0.0.0.0 avisrelivraisonqc1.com
@@ -12261,11 +12269,24 @@
 0.0.0.0 banangun.io
 0.0.0.0 banannagun.com
 0.0.0.0 banannagun.io
+0.0.0.0 banca-arquia.com
+0.0.0.0 banca-deutsche.com
+0.0.0.0 banca-laboraikutxa.com
 0.0.0.0 bancairevirqc-et.com
+0.0.0.0 bancaminos-es.online
+0.0.0.0 bancaminos.com
+0.0.0.0 bancasantander-app.com
+0.0.0.0 bancasantander-empresa-es.com
+0.0.0.0 bancasantander-empresa.com
+0.0.0.0 bancasantander-empresas.com
+0.0.0.0 bancasantander-es-empresa.com
 0.0.0.0 banco-bbva.com
 0.0.0.0 bancodobrasil.dev
 0.0.0.0 bancor3.vip
+0.0.0.0 bancosantander-empresa.net
+0.0.0.0 bancosantander-empresas.net
 0.0.0.0 bancosgricola.com
+0.0.0.0 bancsabadell-esp.com
 0.0.0.0 bancsantsportugal.live
 0.0.0.0 bandariexpeditions.com
 0.0.0.0 bandarpowder.com
@@ -12380,6 +12401,8 @@
 0.0.0.0 bankingsupportaccess.xyz
 0.0.0.0 bankingtd.online
 0.0.0.0 bankinstitutionfunds.com
+0.0.0.0 bankinter-banca.com
+0.0.0.0 bankinter-ingreso.com
 0.0.0.0 bankjateng.co.id
 0.0.0.0 bankless.plus
 0.0.0.0 banklessform.com
@@ -12787,8 +12810,12 @@
 0.0.0.0 bbsjnsjaksj.online
 0.0.0.0 bbtserv.io
 0.0.0.0 bbva-acceso-es.su
+0.0.0.0 bbva-atencion-cliente.com
 0.0.0.0 bbva-onlineservice.com
+0.0.0.0 bbva-seguridad-es.com
 0.0.0.0 bbvaadministrar.com
+0.0.0.0 bbvacuentaonline.su
+0.0.0.0 bbvaempresa-es.com
 0.0.0.0 bbvaesauth.com
 0.0.0.0 bbvaesonlinebanking.com
 0.0.0.0 bbvagestionar.com
@@ -12898,6 +12925,7 @@
 0.0.0.0 bdtaka24.com
 0.0.0.0 bdtwo2sb.top
 0.0.0.0 be-btc.com
+0.0.0.0 be-ceca.com
 0.0.0.0 be-llselfi.ca
 0.0.0.0 be-x43.ru
 0.0.0.0 be13-re.com
@@ -14211,7 +14239,12 @@
 0.0.0.0 bimstamps.com
 0.0.0.0 binaance.org
 0.0.0.0 binabce.com
+0.0.0.0 binacecoin.net
 0.0.0.0 binacedex.com
+0.0.0.0 binaceeasy.com
+0.0.0.0 binacefull.biz
+0.0.0.0 binacefull.net
+0.0.0.0 binacenow.com
 0.0.0.0 binacy.com
 0.0.0.0 binacy.market
 0.0.0.0 binancc.org
@@ -18669,6 +18702,9 @@
 0.0.0.0 caissue-crapay.com
 0.0.0.0 caixa.cx
 0.0.0.0 caixa.wf
+0.0.0.0 caixabank-particular.com
+0.0.0.0 caixaeginyers.com
+0.0.0.0 cajamar-verificacion.com
 0.0.0.0 cajaminoretino.ru
 0.0.0.0 cajas.com.mx
 0.0.0.0 cajasdigitalreporting.net
@@ -20085,6 +20121,8 @@
 0.0.0.0 cancel1ref2983-boa.com
 0.0.0.0 cancel2ref2983-boa.com
 0.0.0.0 cancel3ref2983-boa.com
+0.0.0.0 cancelacion-transferencias.net
+0.0.0.0 cancelar-recibos.net
 0.0.0.0 cancellationforpoliau.com
 0.0.0.0 cancellationforpolinz.com
 0.0.0.0 cancellationhelp365.com
@@ -26295,6 +26333,7 @@
 0.0.0.0 cornbascet.site
 0.0.0.0 corneliussen.dk
 0.0.0.0 corneplas.com
+0.0.0.0 cornerbanks-ch.com
 0.0.0.0 cornerpoetry.com
 0.0.0.0 cornerstonetrading.biz
 0.0.0.0 cornerswap.xyz
@@ -28160,6 +28199,7 @@
 0.0.0.0 cudnik.de
 0.0.0.0 cudosnetwork.com
 0.0.0.0 cuello.ca
+0.0.0.0 cuenta-app.com
 0.0.0.0 cuenta.my.id
 0.0.0.0 cuesta.my.id
 0.0.0.0 cuevana2espanol.com
@@ -31914,6 +31954,7 @@
 0.0.0.0 direct-cos.com
 0.0.0.0 direct-cps.com
 0.0.0.0 direct-cr.com
+0.0.0.0 direct-cuentas.com
 0.0.0.0 direct-dc.com
 0.0.0.0 direct-depo.com
 0.0.0.0 direct-deposit-canada.website
@@ -32029,6 +32070,7 @@
 0.0.0.0 direct-txm.com
 0.0.0.0 direct-txma.com
 0.0.0.0 direct-txml.com
+0.0.0.0 direct-usuario.com
 0.0.0.0 direct-ut.info
 0.0.0.0 direct-vdl.com
 0.0.0.0 direct-vf.com
@@ -32205,6 +32247,7 @@
 0.0.0.0 dispersedreturnca.com
 0.0.0.0 disperser.app
 0.0.0.0 display-transfers.com
+0.0.0.0 dispositivo-triodos.com
 0.0.0.0 dispositivos-moey.com
 0.0.0.0 disputedesjardins.info
 0.0.0.0 dissendi.com
@@ -35763,6 +35806,7 @@
 0.0.0.0 eliasdam.shop
 0.0.0.0 elig-groc.link
 0.0.0.0 eligbility-celestia.com
+0.0.0.0 eligecamino.com
 0.0.0.0 eligibility-aave.com
 0.0.0.0 eligibility-base.org
 0.0.0.0 eligibility-lens.com
@@ -37075,29 +37119,55 @@
 0.0.0.0 ertr.space
 0.0.0.0 erv-caip-on.ca
 0.0.0.0 eryaz.net
+0.0.0.0 es-acceso.su
+0.0.0.0 es-accesos.su
 0.0.0.0 es-active.info
+0.0.0.0 es-actualizacion.su
 0.0.0.0 es-app.info
 0.0.0.0 es-app.net
 0.0.0.0 es-app.online
 0.0.0.0 es-bbva.info
+0.0.0.0 es-bsnacional.com
 0.0.0.0 es-cc.info
+0.0.0.0 es-clientes.su
 0.0.0.0 es-cuenta.com
+0.0.0.0 es-cuenta.su
 0.0.0.0 es-cuenta.top
+0.0.0.0 es-cuentas.su
+0.0.0.0 es-enter.com
+0.0.0.0 es-entra.online
 0.0.0.0 es-es.link
 0.0.0.0 es-es.pw
 0.0.0.0 es-es.top
+0.0.0.0 es-funcion.su
+0.0.0.0 es-funciones.su
+0.0.0.0 es-html.com
+0.0.0.0 es-info.su
+0.0.0.0 es-infos.su
+0.0.0.0 es-iniciar.online
+0.0.0.0 es-live.su
+0.0.0.0 es-lives.su
 0.0.0.0 es-login.info
 0.0.0.0 es-me.xyz
 0.0.0.0 es-megadom.com
 0.0.0.0 es-mi.cc
 0.0.0.0 es-mi.co
 0.0.0.0 es-mi.info
+0.0.0.0 es-miempresas.com
+0.0.0.0 es-miparticulares.com
 0.0.0.0 es-net.top
 0.0.0.0 es-nu.com
+0.0.0.0 es-online.su
+0.0.0.0 es-particular-es.com
+0.0.0.0 es-registros.com
+0.0.0.0 es-saldo.su
 0.0.0.0 es-segura.net
 0.0.0.0 es-seguro-info.com
 0.0.0.0 es-seguro.info
 0.0.0.0 es-ssl-login.info
+0.0.0.0 es-users.com
+0.0.0.0 es-usuarios.online
+0.0.0.0 es-web.su
 0.0.0.0 esadbabaherzmn.shop
 0.0.0.0 esadsehrinilahii.shop
 0.0.0.0 esaleerugs.com
@@ -37141,12 +37211,15 @@
 0.0.0.0 eskylent.com
 0.0.0.0 eslieshion.com
 0.0.0.0 esmaintel.com
+0.0.0.0 esmas.online
 0.0.0.0 esmuotrais.lv
 0.0.0.0 esobabageridonuyor.shop
 0.0.0.0 esoftworld.co.kr
 0.0.0.0 esoonglobal.com
 0.0.0.0 esoskraadami.shop
 0.0.0.0 esoux.shop
+0.0.0.0 esp-aviso.com
+0.0.0.0 esp-avisos.com
 0.0.0.0 espacespopulaire.com
 0.0.0.0 espacioespectro.com
 0.0.0.0 espaciofabrik.com
@@ -38495,6 +38568,7 @@
 0.0.0.0 ethersca.io
 0.0.0.0 etherscaan.io
 0.0.0.0 etherscab.io
+0.0.0.0 etherscamorg.club
 0.0.0.0 etherscancoin.com
 0.0.0.0 etherscann.io
 0.0.0.0 etherscannft.com
@@ -40110,6 +40184,7 @@
 0.0.0.0 ezzy2learn.com
 0.0.0.0 f--f.top
 0.0.0.0 f--f.xyz
+0.0.0.0 f-fb-watch.com
 0.0.0.0 f-i-d-o-mobility.site
 0.0.0.0 f-i-x-78512433.com
 0.0.0.0 f-moda.com
@@ -43121,7 +43196,7 @@
 0.0.0.0 funextrade.com
 0.0.0.0 funflask.com
 0.0.0.0 funfoods.club
-0.0.0.0 funformathgame.com 
+0.0.0.0 funformathgame.com
 0.0.0.0 fungalaxyca.com
 0.0.0.0 fungible-token.club
 0.0.0.0 funhaus.com.br
@@ -45797,11 +45872,13 @@
 0.0.0.0 gruffters-mint.com
 0.0.0.0 grunge-aesthetics.com
 0.0.0.0 grupa-pocztowa.online
+0.0.0.0 grupo-inicios.com
 0.0.0.0 grupo24-7.com.bo
 0.0.0.0 grupoab.mx
 0.0.0.0 grupoalinvestimentos.com.br
 0.0.0.0 grupobancolombla.com
 0.0.0.0 grupocadore.com
+0.0.0.0 grupocajarural-esp.com
 0.0.0.0 grupocardenascyc.pe
 0.0.0.0 grupocentra.mx
 0.0.0.0 grupocesa.com
@@ -45827,6 +45904,7 @@
 0.0.0.0 grupopaceo.com
 0.0.0.0 grupoplascencia.com
 0.0.0.0 gruporeg43y49.com
+0.0.0.0 grupos-inicio.com
 0.0.0.0 gruposafety.cv
 0.0.0.0 gruposarepta.com
 0.0.0.0 gruposata.com
@@ -46327,6 +46405,8 @@
 0.0.0.0 hansairexpress.com
 0.0.0.0 hansarobotics.com
 0.0.0.0 hansdfps.com
+0.0.0.0 hanseaticbank.su
+0.0.0.0 hanseaticsbank-da.com
 0.0.0.0 hansview.ru
 0.0.0.0 hantec22.com
 0.0.0.0 haopasar.com
@@ -47467,6 +47547,7 @@
 0.0.0.0 home-heat-incentive.xyz
 0.0.0.0 home-heat.info
 0.0.0.0 home-heatincentive.info
+0.0.0.0 home-html.com
 0.0.0.0 home-mygov.com
 0.0.0.0 home-notice.info
 0.0.0.0 home-okex.net
@@ -48017,6 +48098,7 @@
 0.0.0.0 httpunclaimedrebates.org
 0.0.0.0 htube.space
 0.0.0.0 htyyed.com
+0.0.0.0 hu-alert.online
 0.0.0.0 hu-nett.online
 0.0.0.0 hu-om.online
 0.0.0.0 hu-on.online
@@ -49627,7 +49709,7 @@
 0.0.0.0 inboxalert-govau.com
 0.0.0.0 inboxalert-mygovlogin.com
 0.0.0.0 inboxau-mygov.com
-0.0.0.0 inboxhub.net 
+0.0.0.0 inboxhub.net
 0.0.0.0 inboxlogin-mygov.com
 0.0.0.0 inboxsecure-mygov.com
 0.0.0.0 inc-a9.site
@@ -49663,6 +49745,7 @@
 0.0.0.0 inchpad.top
 0.0.0.0 inchprize.com
 0.0.0.0 inchreward.info
+0.0.0.0 incidencia-404.com
 0.0.0.0 incitewebsolution.com
 0.0.0.0 incmanapp.rest
 0.0.0.0 incobech.cl
@@ -51940,8 +52023,8 @@
 0.0.0.0 iptvlivestream.org
 0.0.0.0 ipule.cn
 0.0.0.0 ipunku.es
-0.0.0.0 ipv4.mikifox.com 
-0.0.0.0 ipv6.mikifox.com 
+0.0.0.0 ipv4.mikifox.com
+0.0.0.0 ipv6.mikifox.com
 0.0.0.0 ipworldbestscan.xyz
 0.0.0.0 ipworldscanbest.xyz
 0.0.0.0 ipxels.xyz
@@ -54828,6 +54911,10 @@
 0.0.0.0 labhost-test.info
 0.0.0.0 labhost-test1.info
 0.0.0.0 labhost.ru
+0.0.0.0 laboraikutxa-usuario.com
+0.0.0.0 laboraikutxa-web.com
+0.0.0.0 laboraikuxta-usuarios.com
+0.0.0.0 laborakutxa-usuario.com
 0.0.0.0 labourcakefrt.fun
 0.0.0.0 labradorinblack.com
 0.0.0.0 labramtum.online
@@ -56061,6 +56148,14 @@
 0.0.0.0 libarraryspzm.shop
 0.0.0.0 libbyasbestos.org
 0.0.0.0 libcanprof.top
+0.0.0.0 liberbanconet.club
+0.0.0.0 liberbankes.club
+0.0.0.0 liberbankiorg.club
+0.0.0.0 liberbankis.club
+0.0.0.0 liberbanknets.club
+0.0.0.0 liberbankorg.club
+0.0.0.0 liberbanksnet.club
+0.0.0.0 libersbanknets.club
 0.0.0.0 libertader.org
 0.0.0.0 libertastrade.com
 0.0.0.0 libertextrades.com
@@ -60968,8 +61063,20 @@
 0.0.0.0 mhomes.co.in
 0.0.0.0 mhyyup5m7.xyz
 0.0.0.0 mhzvwn.xyz
+0.0.0.0 mi-abanca.com
 0.0.0.0 mi-app.cc
+0.0.0.0 mi-bancsabadell.com
+0.0.0.0 mi-bankinter.com
+0.0.0.0 mi-caixabanca.com
 0.0.0.0 mi-de-ner-nis3.info
+0.0.0.0 mi-deustsche-bank.com
+0.0.0.0 mi-deutschebank.com
+0.0.0.0 mi-evobanco.com
+0.0.0.0 mi-kutxabank.com
+0.0.0.0 mi-laboraikutxa.com
+0.0.0.0 mi-laboralkutxa.com
+0.0.0.0 mi-sabadell.com
+0.0.0.0 mi-satander.com
 0.0.0.0 mi-side.nl
 0.0.0.0 mi-ya-ni.net
 0.0.0.0 mi1kyway.tech
@@ -60980,6 +61087,7 @@
 0.0.0.0 miatubtsfa.shop
 0.0.0.0 miazast.com
 0.0.0.0 miazlde.com
+0.0.0.0 mibanca-bankinter.com
 0.0.0.0 micavhe.top
 0.0.0.0 micbig.top
 0.0.0.0 mice5.com
@@ -60992,6 +61100,9 @@
 0.0.0.0 michellemartinezdds.mom
 0.0.0.0 michelleshepherd.one
 0.0.0.0 michinoekitakehara.com
+0.0.0.0 micorreo-aviso.com
+0.0.0.0 micorreo-notificacion.com
+0.0.0.0 micorreos-notificacion.com
 0.0.0.0 micro2x.com
 0.0.0.0 microai.vip
 0.0.0.0 microbtcmicroeth.com
@@ -61658,6 +61769,7 @@
 0.0.0.0 mintyoursnfts.com
 0.0.0.0 mintzmb.com
 0.0.0.0 minutemanpress.com
+0.0.0.0 mioficina-es.com
 0.0.0.0 miopay.info
 0.0.0.0 mior.it
 0.0.0.0 mipinves.site
@@ -63199,6 +63311,7 @@
 0.0.0.0 moviezwap.work
 0.0.0.0 movikbtc.com
 0.0.0.0 movikevent.com
+0.0.0.0 movil-abanca.online
 0.0.0.0 movilmarketlima.com
 0.0.0.0 moving-poll.homes
 0.0.0.0 movingupwealthy.com
@@ -69748,6 +69861,7 @@
 0.0.0.0 opensae.tech
 0.0.0.0 opensaes.xyz
 0.0.0.0 opensail.app
+0.0.0.0 opensbank.com
 0.0.0.0 opense-cryptopunks.com
 0.0.0.0 opense.su
 0.0.0.0 opensea-airdrop.com
@@ -77101,6 +77215,7 @@
 0.0.0.0 r3turnc4nada.com
 0.0.0.0 r3vlclaim.top
 0.0.0.0 r3vlcoin.top
+0.0.0.0 r4banconet.club
 0.0.0.0 r4o.us
 0.0.0.0 r4s5t2t2fa.com
 0.0.0.0 r4uamrr7fueez.cf
@@ -79411,6 +79526,8 @@
 0.0.0.0 renovatiomarketing.com
 0.0.0.0 renq-platform.com
 0.0.0.0 renq-token.com
+0.0.0.0 renta4banconet.club
+0.0.0.0 renta4banconets.club
 0.0.0.0 rentacarinlahore.com.pk
 0.0.0.0 rentbogota.com
 0.0.0.0 rentenfonds.top
@@ -85387,6 +85504,9 @@
 0.0.0.0 segoremlolgv.ml
 0.0.0.0 segoremlolgv.tk
 0.0.0.0 segroplcinvest.com
+0.0.0.0 seguridad-eurocaja.com
+0.0.0.0 seguridad-mi-abanca.com
+0.0.0.0 seguridad-mibbva.com
 0.0.0.0 seguridadremisionweb.co
 0.0.0.0 seguridadsocial.co
 0.0.0.0 seguro-cajamar.com
@@ -90871,6 +90991,7 @@
 0.0.0.0 supportepageclientca.com
 0.0.0.0 supportexpedition.com
 0.0.0.0 supportexpeditionquebec1.info
+0.0.0.0 supportfbappeal.com
 0.0.0.0 supportfix.onrender.com
 0.0.0.0 supportflow-auth.com
 0.0.0.0 supportforapplepayau.com
@@ -91793,6 +91914,8 @@
 0.0.0.0 target1961-mall.vip
 0.0.0.0 targethome.ch
 0.0.0.0 Targetniean.com
+0.0.0.0 targobank-verificacion.com
+0.0.0.0 targobank-verificaciones.com
 0.0.0.0 targoron.com
 0.0.0.0 targwiz.com
 0.0.0.0 tarjetaomega.com
@@ -96561,6 +96684,8 @@
 0.0.0.0 turvalisus-lhv-ee.in
 0.0.0.0 turvalisus-lhv-ee.info
 0.0.0.0 turvallinen-op.com
+0.0.0.0 tuscamino.com
+0.0.0.0 tuscaminos.com
 0.0.0.0 tusd-liquid.xyz
 0.0.0.0 tusd-mine.top
 0.0.0.0 tusd-mine.xyz
@@ -97192,6 +97317,7 @@
 0.0.0.0 uk-id.info
 0.0.0.0 uk-id.review
 0.0.0.0 uk-identification.info
+0.0.0.0 uk-lives.su
 0.0.0.0 uk-mobileportal.com
 0.0.0.0 uk-mobilesecurity.com
 0.0.0.0 uk-mobileservices.com
@@ -98721,6 +98847,7 @@
 0.0.0.0 ustldubai.com
 0.0.0.0 ustokendistribution.top
 0.0.0.0 ustuneyagdimrmi.xyz
+0.0.0.0 usuario-e.com
 0.0.0.0 usunauthorized.com
 0.0.0.0 usvanslife.club
 0.0.0.0 usverabradleyonline.com
@@ -102662,7 +102789,7 @@
 0.0.0.0 wriash.shop
 0.0.0.0 wrisstytenewj.shop
 0.0.0.0 writerospzm.shop
-0.0.0.0 writeup.live 
+0.0.0.0 writeup.live
 0.0.0.0 writtern.com
 0.0.0.0 wrlab.sbs
 0.0.0.0 wrldcoin.io
@@ -102792,6 +102919,8 @@
 0.0.0.0 www-authentification-bmo-account.xyz
 0.0.0.0 www-authentification-rbc-bank-rayol.life
 0.0.0.0 www-authentification-rbc-card.xyz
+0.0.0.0 www-banca-sabadell.com
+0.0.0.0 www-bancasabadell.com
 0.0.0.0 www-blur-io.com
 0.0.0.0 www-blur.org
 0.0.0.0 www-blur.tech
@@ -102814,6 +102943,7 @@
 0.0.0.0 www-irs-form.top
 0.0.0.0 www-kinsta.com
 0.0.0.0 www-kodi.com
+0.0.0.0 www-laboraikutxa.com
 0.0.0.0 www-layerzero.com
 0.0.0.0 www-layerzero.network
 0.0.0.0 www-lidoreward.com
@@ -103744,7 +103874,7 @@
 0.0.0.0 xingzuovip.com
 0.0.0.0 xinjpwk.vip
 0.0.0.0 xinmoshiwang.com
-0.0.0.0 xinqianf38.top 
+0.0.0.0 xinqianf38.top
 0.0.0.0 xintagma.com
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xiomi.co
@@ -104484,7 +104614,7 @@
 0.0.0.0 ycra.net
 0.0.0.0 ycs-agoda.online
 0.0.0.0 ycs-traveloka.com
-0.0.0.0 ycvduc.xyz 
+0.0.0.0 ycvduc.xyz
 0.0.0.0 ydbentle.com
 0.0.0.0 ydenjanteani.xyz
 0.0.0.0 ydfym8f6erifpvk.gq
@@ -104943,6 +105073,7 @@
 0.0.0.0 z--z.xyz
 0.0.0.0 z-casino.top
 0.0.0.0 z-lib.io
+0.0.0.0 z-sms.online
 0.0.0.0 z100.vip
 0.0.0.0 z2a.digital
 0.0.0.0 z2adigital.cloud
