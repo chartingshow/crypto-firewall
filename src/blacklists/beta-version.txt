@@ -106232,10 +106232,25 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/kumawallet-io/adblock-list.txt
 !#include domain-filters/larvalabs-com/adblock-list.txt
 !#include domain-filters/lbank-com/adblock-list.txt
+!#include domain-filters/ledger-com/adblock-list.txt
 !#include domain-filters/levana-finance/adblock-list.txt
 !#include domain-filters/lfj-gg/adblock-list.txt
+!#include domain-filters/libra-org/adblock-list.txt
+!#include domain-filters/lili-co/adblock-list.txt
+!#include domain-filters/linen-app/adblock-list.txt
+!#include domain-filters/linqto-com/adblock-list.txt
+!#include domain-filters/lisk-com/adblock-list.txt
+!#include domain-filters/litebit-eu/adblock-list.txt
+!#include domain-filters/litecoin-org/adblock-list.txt
+!#include domain-filters/litevault-io/adblock-list.txt
+!#include domain-filters/litewallet-io/adblock-list.txt
+!#include domain-filters/litprotocol-com/adblock-list.txt
 !#include domain-filters/livecoinwatch-com/adblock-list.txt
+!#include domain-filters/lobstr-co/adblock-list.txt
+!#include domain-filters/localbitcoins-com/adblock-list.txt
+!#include domain-filters/lumiwallet-com/adblock-list.txt
 !#include domain-filters/luno-com/adblock-list.txt
+!#include domain-filters/lykke-com/adblock-list.txt
 !#include domain-filters/lynex-fi/adblock-list.txt
 !#include domain-filters/madhoney-fi/adblock-list.txt
 !#include domain-filters/magiceden-io/adblock-list.txt
@@ -106310,42 +106325,10 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/weex-com/adblock-list.txt
 !#include domain-filters/whitebit-com/adblock-list.txt
 !#include domain-filters/woox-io/adblock-list.txt
+!#include domain-filters/worldlibertyfinancial-com/adblock-list.txt
 !#include domain-filters/xt-com/adblock-list.txt
 !#include domain-filters/zkera-fi/adblock-list.txt
 !#include domain-filters/zoomex-com/adblock-list.txt
-
-
-
-
-
-
-ledger-com
-libra-org
-worldlibertyfinancial-com
-lili-co
-linen-app
-linqto-com
-lisk-com
-litebit-eu
-litecoin-org
-litevault-io
-litewallet-io
-litprotocol-com
-lobstr-co
-localbitcoins-com
-lumiwallet-com
-lykke-com
-
-
-
-
-
-
-
-
-
-
-
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
