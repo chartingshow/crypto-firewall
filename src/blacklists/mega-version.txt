@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 13 October 2025
+! Last modified: 14 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106384,15 +106384,31 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/lykke-com/adblock-list.txt
 !#include domain-filters/lynex-fi/adblock-list.txt
 !#include domain-filters/madhoney-fi/adblock-list.txt
+!#include domain-filters/magic-link/adblock-list.txt
 !#include domain-filters/magiceden-io/adblock-list.txt
 !#include domain-filters/magmafinance-io/adblock-list.txt
+!#include domain-filters/magnumwallet-co/adblock-list.txt
+!#include domain-filters/maiar-com/adblock-list.txt
+!#include domain-filters/manta-network/adblock-list.txt
+!#include domain-filters/martianwallet-xyz/adblock-list.txt
+!#include domain-filters/mathwallet-org/adblock-list.txt
 !#include domain-filters/mav-xyz/adblock-list.txt
+!#include domain-filters/maxwallet-io/adblock-list.txt
 !#include domain-filters/merchantmoe-com/adblock-list.txt
+!#include domain-filters/mercuryo-io/adblock-list.txt
 !#include domain-filters/messari-io/adblock-list.txt
+!#include domain-filters/metalpay-com/adblock-list.txt
 !#include domain-filters/metalx-com/adblock-list.txt
+!#include domain-filters/metamask-io/adblock-list.txt
 !#include domain-filters/meteora-ag/adblock-list.txt
 !#include domain-filters/mexc-com/adblock-list.txt
+!#include domain-filters/midas-eco/adblock-list.txt
+!#include domain-filters/midaswallet-com/adblock-list.txt
+!#include domain-filters/minipay-io/adblock-list.txt
 !#include domain-filters/minswap-org/adblock-list.txt
+!#include domain-filters/mixin-one/adblock-list.txt
+!#include domain-filters/mobi-io/adblock-list.txt
+!#include domain-filters/monarchwallet-com/adblock-list.txt
 !#include domain-filters/mufex-finance/adblock-list.txt
 !#include domain-filters/myx-finance/adblock-list.txt
 !#include domain-filters/nbatopshot-com/adblock-list.txt
