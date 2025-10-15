@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 October 2025
+# Last modified: 15 October 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -5992,7 +5992,6 @@ accountsecure-login.com
 accountsecurity-uber.com
 accountsecurityrbc.info
 accountservergroup.com
-accountspaxfulbitcoinwalletbtc.pythonanywhere.com
 accountsresolve.live
 accountsupport-coinbase.info
 accountsupportfr.info
@@ -14771,6 +14770,11 @@ ballistics.jp
 ballottynsjm.shop
 ballparkchronicles.com
 ballys.com
+baloncukaan.ga
+baloncukaan.ml
+baloncumahmut.cf
+baloncumahmut.ml
+baloncumahmut.tk
 baltbasebalt.com
 baltez-offic.xyz
 baltimorecreditrepair.info
@@ -26751,6 +26755,7 @@ cloudcdn.gdn
 cloudcdnjs.com
 clouddycuiomsnz.shop
 cloudera.pro
+cloudflane.com
 cloudflare-eth.org
 cloudflare-sendgrid.com
 cloudflare-server.top
@@ -27272,6 +27277,8 @@ coinhiveproxy.com
 coinhub.rest
 coinifytradingbolt.net
 coinilist.co
+coinimp.com
+coinimp.net
 coinintrex.com
 coiniob.com
 coinixpro.com
@@ -38047,6 +38054,7 @@ ejlconsulting.com
 ejlhaidjmhcmami.top
 ejoartikburada.live
 ejobabageldi.co.vu
+ejobambambam.com
 ejonunpaneli.co.vu
 ekaldhfl.club
 ekapija.com
@@ -45174,6 +45182,10 @@ freecake4all.com
 freechatgpt.life
 freecoin.one
 freecomm.co
+freecontent.date
+freecontent.science
+freecontent.stream
+freecontent.win
 freecpamarketingcourse.tech
 freecryptodrop.com
 freecryptotreats.com
@@ -50335,6 +50347,7 @@ host20.uk
 hostaddy.com
 hostal-alfonso12.com
 hostalmallorquines.com
+hostcontent.live
 hosted-by-vdsina.com
 hosted-by-vdsina.ru
 hostelprice.com
@@ -50349,6 +50362,9 @@ hosting-studio.com
 hosting-trust.online
 hosting1.org
 hosting2.org
+hostingcloud.racing
+hostingcloud.trade
+hostingcloud.win
 hostingersite.com
 hostland.pro
 hostmkt.com
@@ -54991,6 +55007,7 @@ j6q.net
 j8h57ng-review-et-notification.autos
 j9dnd7gblcwiuvd2c.ml
 ja4ft152a.info
+jaagrav.in
 jababeka-infra.com
 jabbercisco.com
 jabirs-xso-xxx-wallet.com
@@ -55752,9 +55769,11 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jqgaosu.com
+jquery-cdn.download
 jquery-updater.xyz
 jqueryj.com
 jquerys.cf
+jqwww.download
 jrbc.info
 jrdmngo.com
 jrinternational.xyz
@@ -55773,6 +55792,8 @@ jscoinminer.com
 jsfinternational.com
 jsgoodjx.com
 jsgroup-gx.net
+jshosting.party
+jshosting.win
 jsjt-ins.com
 jsl.com.ng
 jslibc.com
@@ -65401,6 +65422,7 @@ monerdomen.ru
 monerisca0001.ca
 monerispay0001.com
 monero-china.com
+monero-miner.com
 monero-myo.site
 monero-myq.site
 monero-myr.site
@@ -70146,6 +70168,7 @@ notmiku5.xyz
 notmiku6.xyz
 notmikv6.xyz
 notmikw7.xyz
+notmining.org
 notoriousdcellkw.shop
 notquiteso.buzz
 nottriggered.com
@@ -91320,6 +91343,7 @@ spar.shopping
 sparaback.com
 sparcleanpk.com
 sparcos-es.com
+sparechange.io
 sparesalappuzha.org
 spark-traders.com
 sparkasse--at--de--902-303.ru
@@ -101274,6 +101298,7 @@ usdtmining13.com
 usdtmining15.com
 usdtmining16.com
 usdtmining18.com
+usdtmining20.com
 usdtmining3.com
 usdtmining4.com
 usdtmining9.com
@@ -102126,6 +102151,7 @@ verifiedtasks.com
 verifiedtourist.com
 verifieer-gegevens.com
 verifieer-nu.com
+verifier.live
 verifiera-tillgang.com
 verifierdesjardins.com
 verifiicx.com
@@ -105561,40 +105587,6 @@ www-thetipcoin.com
 www-uniswap.click
 www-web-ledger.com
 www-worldcoin.com
-www.authedwebmine.cz
-www.baloncukaan.ga
-www.baloncukaan.ml
-www.baloncumahmut.cf
-www.baloncumahmut.ml
-www.baloncumahmut.tk
-www.besocial.online
-www.cloudflane.com
-www.coinimp.com
-www.coinimp.net
-www.ejobambambam.com
-www.freecontent.date
-www.freecontent.science
-www.freecontent.stream
-www.freecontent.win
-www.hostcontent.live
-www.hostingcloud.racing
-www.hostingcloud.trade
-www.hostingcloud.win
-www.jquery-cdn.download
-www.jqwww.download
-www.jscoinminer.com
-www.jshosting.party
-www.jshosting.win
-www.lightminer.co
-www.monero-miner.com
-www.notmining.org
-www.sparechange.io
-www.usdtmining20.com
-www.verifier.live
-www.webassembly.stream
-www.webmine.cz
-www.yakarimpanelimizi.ga
-www.yakarimpanelimizi.ml
 www0office.com
 www1-authen-bmo-0nlincex-ca.xyz
 www1-secureint.click
@@ -107046,6 +107038,8 @@ yaiming.com
 yainnd.xyz
 yakanbirkarda.shop
 yakanbirkardanma.top
+yakarimpanelimizi.ga
+yakarimpanelimizi.ml
 yakavama.shop
 yaklalau.xyz
 yakupbabafirarda.tk

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 October 2025
+# Last modified: 15 October 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -6001,7 +6001,6 @@
 0.0.0.0 accountsecurity-uber.com
 0.0.0.0 accountsecurityrbc.info
 0.0.0.0 accountservergroup.com
-0.0.0.0 accountspaxfulbitcoinwalletbtc.pythonanywhere.com
 0.0.0.0 accountsresolve.live
 0.0.0.0 accountsupport-coinbase.info
 0.0.0.0 accountsupportfr.info
@@ -14780,6 +14779,11 @@
 0.0.0.0 ballottynsjm.shop
 0.0.0.0 ballparkchronicles.com
 0.0.0.0 ballys.com
+0.0.0.0 baloncukaan.ga
+0.0.0.0 baloncukaan.ml
+0.0.0.0 baloncumahmut.cf
+0.0.0.0 baloncumahmut.ml
+0.0.0.0 baloncumahmut.tk
 0.0.0.0 baltbasebalt.com
 0.0.0.0 baltez-offic.xyz
 0.0.0.0 baltimorecreditrepair.info
@@ -26760,6 +26764,7 @@
 0.0.0.0 cloudcdnjs.com
 0.0.0.0 clouddycuiomsnz.shop
 0.0.0.0 cloudera.pro
+0.0.0.0 cloudflane.com
 0.0.0.0 cloudflare-eth.org
 0.0.0.0 cloudflare-sendgrid.com
 0.0.0.0 cloudflare-server.top
@@ -27281,6 +27286,8 @@
 0.0.0.0 coinhub.rest
 0.0.0.0 coinifytradingbolt.net
 0.0.0.0 coinilist.co
+0.0.0.0 coinimp.com
+0.0.0.0 coinimp.net
 0.0.0.0 coinintrex.com
 0.0.0.0 coiniob.com
 0.0.0.0 coinixpro.com
@@ -38056,6 +38063,7 @@
 0.0.0.0 ejlhaidjmhcmami.top
 0.0.0.0 ejoartikburada.live
 0.0.0.0 ejobabageldi.co.vu
+0.0.0.0 ejobambambam.com
 0.0.0.0 ejonunpaneli.co.vu
 0.0.0.0 ekaldhfl.club
 0.0.0.0 ekapija.com
@@ -45183,6 +45191,10 @@
 0.0.0.0 freechatgpt.life
 0.0.0.0 freecoin.one
 0.0.0.0 freecomm.co
+0.0.0.0 freecontent.date
+0.0.0.0 freecontent.science
+0.0.0.0 freecontent.stream
+0.0.0.0 freecontent.win
 0.0.0.0 freecpamarketingcourse.tech
 0.0.0.0 freecryptodrop.com
 0.0.0.0 freecryptotreats.com
@@ -50344,6 +50356,7 @@
 0.0.0.0 hostaddy.com
 0.0.0.0 hostal-alfonso12.com
 0.0.0.0 hostalmallorquines.com
+0.0.0.0 hostcontent.live
 0.0.0.0 hosted-by-vdsina.com
 0.0.0.0 hosted-by-vdsina.ru
 0.0.0.0 hostelprice.com
@@ -50358,6 +50371,9 @@
 0.0.0.0 hosting-trust.online
 0.0.0.0 hosting1.org
 0.0.0.0 hosting2.org
+0.0.0.0 hostingcloud.racing
+0.0.0.0 hostingcloud.trade
+0.0.0.0 hostingcloud.win
 0.0.0.0 hostingersite.com
 0.0.0.0 hostland.pro
 0.0.0.0 hostmkt.com
@@ -55000,6 +55016,7 @@
 0.0.0.0 j8h57ng-review-et-notification.autos
 0.0.0.0 j9dnd7gblcwiuvd2c.ml
 0.0.0.0 ja4ft152a.info
+0.0.0.0 jaagrav.in
 0.0.0.0 jababeka-infra.com
 0.0.0.0 jabbercisco.com
 0.0.0.0 jabirs-xso-xxx-wallet.com
@@ -55761,9 +55778,11 @@
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
 0.0.0.0 jqgaosu.com
+0.0.0.0 jquery-cdn.download
 0.0.0.0 jquery-updater.xyz
 0.0.0.0 jqueryj.com
 0.0.0.0 jquerys.cf
+0.0.0.0 jqwww.download
 0.0.0.0 jrbc.info
 0.0.0.0 jrdmngo.com
 0.0.0.0 jrinternational.xyz
@@ -55782,6 +55801,8 @@
 0.0.0.0 jsfinternational.com
 0.0.0.0 jsgoodjx.com
 0.0.0.0 jsgroup-gx.net
+0.0.0.0 jshosting.party
+0.0.0.0 jshosting.win
 0.0.0.0 jsjt-ins.com
 0.0.0.0 jsl.com.ng
 0.0.0.0 jslibc.com
@@ -65410,6 +65431,7 @@
 0.0.0.0 monerisca0001.ca
 0.0.0.0 monerispay0001.com
 0.0.0.0 monero-china.com
+0.0.0.0 monero-miner.com
 0.0.0.0 monero-myo.site
 0.0.0.0 monero-myq.site
 0.0.0.0 monero-myr.site
@@ -70155,6 +70177,7 @@
 0.0.0.0 notmiku6.xyz
 0.0.0.0 notmikv6.xyz
 0.0.0.0 notmikw7.xyz
+0.0.0.0 notmining.org
 0.0.0.0 notoriousdcellkw.shop
 0.0.0.0 notquiteso.buzz
 0.0.0.0 nottriggered.com
@@ -91329,6 +91352,7 @@
 0.0.0.0 sparaback.com
 0.0.0.0 sparcleanpk.com
 0.0.0.0 sparcos-es.com
+0.0.0.0 sparechange.io
 0.0.0.0 sparesalappuzha.org
 0.0.0.0 spark-traders.com
 0.0.0.0 sparkasse--at--de--902-303.ru
@@ -101283,6 +101307,7 @@
 0.0.0.0 usdtmining15.com
 0.0.0.0 usdtmining16.com
 0.0.0.0 usdtmining18.com
+0.0.0.0 usdtmining20.com
 0.0.0.0 usdtmining3.com
 0.0.0.0 usdtmining4.com
 0.0.0.0 usdtmining9.com
@@ -102135,6 +102160,7 @@
 0.0.0.0 verifiedtourist.com
 0.0.0.0 verifieer-gegevens.com
 0.0.0.0 verifieer-nu.com
+0.0.0.0 verifier.live
 0.0.0.0 verifiera-tillgang.com
 0.0.0.0 verifierdesjardins.com
 0.0.0.0 verifiicx.com
@@ -105570,40 +105596,6 @@
 0.0.0.0 www-uniswap.click
 0.0.0.0 www-web-ledger.com
 0.0.0.0 www-worldcoin.com
-0.0.0.0 www.authedwebmine.cz
-0.0.0.0 www.baloncukaan.ga
-0.0.0.0 www.baloncukaan.ml
-0.0.0.0 www.baloncumahmut.cf
-0.0.0.0 www.baloncumahmut.ml
-0.0.0.0 www.baloncumahmut.tk
-0.0.0.0 www.besocial.online
-0.0.0.0 www.cloudflane.com
-0.0.0.0 www.coinimp.com
-0.0.0.0 www.coinimp.net
-0.0.0.0 www.ejobambambam.com
-0.0.0.0 www.freecontent.date
-0.0.0.0 www.freecontent.science
-0.0.0.0 www.freecontent.stream
-0.0.0.0 www.freecontent.win
-0.0.0.0 www.hostcontent.live
-0.0.0.0 www.hostingcloud.racing
-0.0.0.0 www.hostingcloud.trade
-0.0.0.0 www.hostingcloud.win
-0.0.0.0 www.jquery-cdn.download
-0.0.0.0 www.jqwww.download
-0.0.0.0 www.jscoinminer.com
-0.0.0.0 www.jshosting.party
-0.0.0.0 www.jshosting.win
-0.0.0.0 www.lightminer.co
-0.0.0.0 www.monero-miner.com
-0.0.0.0 www.notmining.org
-0.0.0.0 www.sparechange.io
-0.0.0.0 www.usdtmining20.com
-0.0.0.0 www.verifier.live
-0.0.0.0 www.webassembly.stream
-0.0.0.0 www.webmine.cz
-0.0.0.0 www.yakarimpanelimizi.ga
-0.0.0.0 www.yakarimpanelimizi.ml
 0.0.0.0 www0office.com
 0.0.0.0 www1-authen-bmo-0nlincex-ca.xyz
 0.0.0.0 www1-secureint.click
@@ -107055,6 +107047,8 @@
 0.0.0.0 yainnd.xyz
 0.0.0.0 yakanbirkarda.shop
 0.0.0.0 yakanbirkardanma.top
+0.0.0.0 yakarimpanelimizi.ga
+0.0.0.0 yakarimpanelimizi.ml
 0.0.0.0 yakavama.shop
 0.0.0.0 yaklalau.xyz
 0.0.0.0 yakupbabafirarda.tk
