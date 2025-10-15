@@ -5,9 +5,22 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 September 2025
+# Last modified: 15 October 2025
 #
 
+498-00.cppformat 
+498-00.cppplayground 
+498-00.httpformat
+498-00.pythonformat 
+498-00.testwebext 
+498.cppformat 
+498.cppplayground 
+498.httpformat 
+498.pythonformat 
+ab-498.cppformat 
+ab-498.cppplayground 
+ab-498.httpformat 
+ab-498.pythonformat
 ChainDevTools.solidity-pro
 Crypto-Extensions.SnowShsoNo
 Crypto-Extensions.solidity
