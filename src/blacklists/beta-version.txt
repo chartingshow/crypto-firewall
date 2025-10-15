@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 14 October 2025
+! Last modified: 15 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106426,8 +106426,23 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/myetherwallet-com/adblock-list.txt
 !#include domain-filters/mymonero-com/adblock-list.txt
 !#include domain-filters/myx-finance/adblock-list.txt
+!#include domain-filters/narval-xyz/adblock-list.txt
+!#include domain-filters/nash-io/adblock-list.txt
 !#include domain-filters/nbatopshot-com/adblock-list.txt
+!#include domain-filters/neko-wallet-app/adblock-list.txt
+!#include domain-filters/nem-io/adblock-list.txt
+!#include domain-filters/nerve-network/adblock-list.txt
+!#include domain-filters/nexo-io/adblock-list.txt
+!#include domain-filters/ngrave-io/adblock-list.txt
+!#include domain-filters/ngrive-io/adblock-list.txt
 !#include domain-filters/niftygateway-com/adblock-list.txt
+!#include domain-filters/nimiq-com/adblock-list.txt
+!#include domain-filters/nova-wallet-io/adblock-list.txt
+!#include domain-filters/novi-com/adblock-list.txt
+!#include domain-filters/nowwallet-io/adblock-list.txt
+!#include domain-filters/nu-fi/adblock-list.txt
+!#include domain-filters/numio-app/adblock-list.txt
+!#include domain-filters/nxtplatform-org/adblock-list.txt
 !#include domain-filters/okx-com/adblock-list.txt
 !#include domain-filters/openocean-finance/adblock-list.txt
 !#include domain-filters/opensea-io/adblock-list.txt
