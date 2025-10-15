@@ -8,7 +8,6 @@
 #
 
 # Block pythonanywhere-com sub-domains
-0.0.0.0 hypernite.5v.pl
 0.0.0.0 888surprising.pythonanywhere.com
 0.0.0.0 ab498.pythonanywhere.com
 0.0.0.0 accountspaxfulbitcoinwalletbtc.pythonanywhere.com
