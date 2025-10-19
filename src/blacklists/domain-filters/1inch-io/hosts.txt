@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 October 2025
+# Last modified: 19 October 2025
 #
 
 # Block 1inch sub-domains

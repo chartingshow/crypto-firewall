@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 16 October 2025
+! Last modified: 19 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106511,14 +106511,36 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/secalot-com/adblock-list.txt
 !#include domain-filters/secuxtech-com/adblock-list.txt
 !#include domain-filters/selfkey-org/adblock-list.txt
+!#include domain-filters/senderwallet-io/adblock-list.txt
+!#include domain-filters/sequence-xyz/adblock-list.txt
 !#include domain-filters/shadow-so
+!#include domain-filters/shiftcrypto-ch/adblock-list.txt
+!#include domain-filters/simplehold-io/adblock-list.txt
 !#include domain-filters/solanart-io/adblock-list.txt
+!#include domain-filters/solflare-com/adblock-list.txt
+!#include domain-filters/soulwallet-io/adblock-list.txt
+!#include domain-filters/spectrocoin-com/adblock-list.txt
+!#include domain-filters/spend-com/adblock-list.txt
+!#include domain-filters/squads-so/adblock-list.txt
 !#include domain-filters/squadswap-com
 !#include domain-filters/stabble-org
+!#include domain-filters/stackup-sh/adblock-list.txt
+!#include domain-filters/stakedwallet-com/adblock-list.txt
+!#include domain-filters/stakenet-io/adblock-list.txt
+!#include domain-filters/status-im/adblock-list.txt
+!#include domain-filters/stellar-org/adblock-list.txt
+!#include domain-filters/stellarport-io/adblock-list.txt
+!#include domain-filters/strongcoin-com/adblock-list.txt
+!#include domain-filters/sugiwallet-com/adblock-list.txt
 !#include domain-filters/sun-io
 !#include domain-filters/superrare-com/adblock-list.txt
 !#include domain-filters/sushi-com
+!#include domain-filters/swap-online/adblock-list.txt
 !#include domain-filters/swapx-fi
+!#include domain-filters/swirlswap-com/adblock-list.txt
+!#include domain-filters/swirlwallet-com/adblock-list.txt
+!#include domain-filters/sygnum-com/adblock-list.txt
+!#include domain-filters/sylo-io/adblock-list.txt
 !#include domain-filters/synfutures-com/adblock-list.txt
 !#include domain-filters/tanx-fi
 !#include domain-filters/taostats-io
