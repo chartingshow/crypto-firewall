@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 19 October 2025
+! Last modified: 21 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106587,9 +106587,21 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/virtacoinwallet-com/adblock-list.txt
 !#include domain-filters/visionwallet-com/adblock-list.txt
 !#include domain-filters/vslice-io/adblock-list.txt
+!#include domain-filters/wagecan-com/adblock-list.txt
 !#include domain-filters/wagmi-com
+!#include domain-filters/wallet3-io/adblock-list.txt
+!#include domain-filters/walletconnect-com/adblock-list.txt
+!#include domain-filters/walleteh-com/adblock-list.txt
+!#include domain-filters/walletverse-io/adblock-list.txt
+!#include domain-filters/wallmer-com/adblock-list.txt
+!#include domain-filters/wasabiwallet-io/adblock-list.txt
+!#include domain-filters/waves-tech/adblock-list.txt
+!#include domain-filters/wavesplatform-com/adblock-list.txt
+!#include domain-filters/wedefi-io/adblock-list.txt
 !#include domain-filters/weex-com/adblock-list.txt
 !#include domain-filters/whitebit-com/adblock-list.txt
+!#include domain-filters/wigwam-io/adblock-list.txt
+!#include domain-filters/wirexapp-com/adblock-list.txt
 !#include domain-filters/woox-io/adblock-list.txt
 !#include domain-filters/worldlibertyfinancial-com/adblock-list.txt
 !#include domain-filters/xt-com/adblock-list.txt
