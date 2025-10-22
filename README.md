@@ -66,6 +66,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 - [Email blocking](#email-blocking-)
 - [Nuisance and scam calling telephone numbers blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-%EF%B8%8F)
 - [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
+- [Fraudulent cryptocurrency transactions](#fraudulent-cryptocurrency-transactions-%EF%B8%8F)
 - [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
 - [OFAC sanctioned digital currency addresses](#ofac-sanctioned-digital-currency-addresses-)
   - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
@@ -353,6 +354,14 @@ A list of spam blocking mobile apps can be found here:
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
 - [Wallets Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/)
+
+## Fraudulent cryptocurrency transactions 🛡️
+
+Cybercriminals are increasingly abusing blockchain transactions as covert communication channels, sometimes even using them as command-and-control (C2) servers to deliver malware or issue instructions. Avoid interacting with, confirming, or broadcasting any transaction hashes (txids) known to be linked to fraud, scams, or C2 activity.
+
+A curated list of suspicious transaction hashes can be found in this folder:
+
+- [Transactions Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/blockchain-transactions)
 
 ## Fraudulent cryptocurrency mining pool addresses 🦈
 
