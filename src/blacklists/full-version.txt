@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 October 2025
+! Last modified: 22 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -105755,6 +105755,7 @@
 ! URL blocking -----------------------------------------------------------------
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg^
 ||ln.run/supportcenterbusiness^
+||steamcommunity.com/profiles/76561198780411257^
 ||www.shorturl.at/dKOR6^
 
 ! coinimp.com ------------------------------------------------------------------
