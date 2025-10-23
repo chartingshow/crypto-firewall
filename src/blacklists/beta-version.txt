@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 22 October 2025
+! Last modified: 23 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106268,6 +106268,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/etherwall-com/adblock-list.txt
 !#include domain-filters/exodus-com/adblock-list.txt
 !#include domain-filters/exwallet-io/adblock-list.txt
+!#include domain-filters/falcon-finance/adblock-list.txt
 !#include domain-filters/firstledger-net/adblock-list.txt
 !#include domain-filters/flashsoft-eu/adblock-list.txt
 !#include domain-filters/flipster-io/adblock-list.txt
@@ -106605,7 +106606,15 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/wirexapp-com/adblock-list.txt
 !#include domain-filters/woox-io/adblock-list.txt
 !#include domain-filters/worldlibertyfinancial-com/adblock-list.txt
+!#include domain-filters/xapa-io/adblock-list.txt
+!#include domain-filters/xapo-com/adblock-list.txt
+!#include domain-filters/xdefi-io/adblock-list.txt
+!#include domain-filters/xethwallet-com/adblock-list.txt
 !#include domain-filters/xt-com/adblock-list.txt
+!#include domain-filters/xverse-app/adblock-list.txt
+!#include domain-filters/xwallet-io/adblock-list.txt
+!#include domain-filters/yoroi-wallet-com/adblock-list.txt
+!#include domain-filters/youhodler-com/adblock-list.txt
 !#include domain-filters/zkera-fi/adblock-list.txt
 !#include domain-filters/zoomex-com/adblock-list.txt
 
