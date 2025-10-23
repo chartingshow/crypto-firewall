@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 7 days (update frequency)
-! Last modified: 22 October 2025
+! Last modified: 23 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -7887,6 +7887,7 @@
 ||anvexglobal.top^
 ||anvianet.fi^
 ||anvidiastockai.com^
+||anvil.org.ph^
 ||anvipshop.com^
 ||anwaralbasateen.com^
 ||anwjns.top^
@@ -9078,6 +9079,7 @@
 ||aquafinpakistan.com^
 ||aquamarine.ltd^
 ||aquant.co.jp^
+||aquaprographix.com^
 ||aquare.art^
 ||aquare.tech^
 ||aquariorecords.com.br^
@@ -11961,6 +11963,7 @@
 ||backendsync.xyz^
 ||backeryswap.net^
 ||backholdingscra.com^
+||backlinkbase.com^
 ||backpackwallet.io^
 ||backstage.cn.com^
 ||backtoschoolrewards.net^
@@ -12474,6 +12477,7 @@
 ||barra-de-deseos.icu^
 ||barrier-payments.com^
 ||barro-proizvodstvo.by^
+||barsaji.com.mx^
 ||barter.my.id^
 ||bartonhealthcare.org^
 ||barubokep.club^
@@ -26142,6 +26146,7 @@
 ||coolingmvmath.online^
 ||coollanguage.com^
 ||coolmanco.com^
+||coolproyect.es^
 ||coolshoes.ca^
 ||coolta66.gq^
 ||coolta71.com^
@@ -26190,6 +26195,7 @@
 ||coqqwx.ru^
 ||cor-r-eoszz-secure.site^
 ||coragem.cf^
+||coralsunmarine.com^
 ||cordeiroelimacontabilidade.com.br^
 ||cordeiromaquinas.one^
 ||cordonhomeservices.com^
@@ -26690,6 +26696,7 @@
 ||cowficrypto.com^
 ||cowholesaling.com^
 ||cowlimited.com^
+||cowp.or.kr^
 ||cowswap-cryptofi.com^
 ||cowswap-finance.com^
 ||cowswap-llc.com^
@@ -34281,6 +34288,7 @@
 ||ecspalmbeach.com^
 ||ectdisbrsedlog1n-ca.info^
 ||ectuaativ.com^
+||ecudecode.mx^
 ||ecw-caip-on.ca^
 ||ecwar.xyz^
 ||ecway.xyz^
@@ -36989,6 +36997,7 @@
 ||erotikfilmsitesi3.com^
 ||erovideonavi.info^
 ||erovzrt.hu^
+||erpmas.co.kr^
 ||erpmet.com^
 ||erppall.com^
 ||err-payment.com^
@@ -42145,6 +42154,7 @@
 ||fordecits.ru^
 ||fordemesgaybetespas.net^
 ||forecastkzn.co.za^
+||fored.or.kr^
 ||foreignbankreporting.com^
 ||forensisbilisim.com^
 ||foresight.com.my^
@@ -43370,6 +43380,7 @@
 ||galarewards.net^
 ||galasgames.com^
 ||galasgames.org^
+||galaterrace.com^
 ||galaxe.click^
 ||galaxe.eu^
 ||galaxe.top^
@@ -44737,6 +44748,7 @@
 ||gmxv1.com^
 ||gmxv2.com^
 ||gmxv2.org^
+||gncaf.or.kr^
 ||gnearbyeva.top^
 ||gnetwork.me^
 ||gnichrnjh.info^
@@ -44929,6 +44941,7 @@
 ||gondeart.click^
 ||gondeart.cloud^
 ||gondraxpro.com^
+||gongsinet.kr^
 ||gonnamakelt.com^
 ||gonraok.com^
 ||gonulluvatandas.com^
@@ -44999,6 +45012,7 @@
 ||googletagmanaging.com^
 ||googleupload.info^
 ||goojara.to^
+||goojoo.net^
 ||goonboy.com^
 ||gooqel.com^
 ||goos.pw^
@@ -47656,6 +47670,7 @@
 ||horaire-post.live^
 ||horaire-postescanada.com^
 ||horaire4postescanada.com^
+||horesca-meppel.nl^
 ||horfehumaisum.com.de^
 ||horidancai.xyz^
 ||horizencoin.net^
@@ -47888,6 +47903,7 @@
 ||hsbcnet.live^
 ||hsbcs.click^
 ||hsbcverification.com^
+||hsbutton.co.kr^
 ||hse-application.com^
 ||hse-caution.com^
 ||hse-covid-services.com^
@@ -47948,6 +47964,7 @@
 ||hstgv-t4.com^
 ||hstrefca2023.me^
 ||hstrestitution.com^
+||hstudymall.co.kr^
 ||hsvn.pro^
 ||hsweixintp.com^
 ||hsykj.net^
@@ -49148,6 +49165,7 @@
 ||ikkrs.click^
 ||iklok.us^
 ||ikrahalikoltukyikama.com.tr^
+||ikrea.or.kr^
 ||iktx.info^
 ||ikuchan19.xyz^
 ||ikwilvanmijnpoloaf.nl^
@@ -53671,6 +53689,7 @@
 ||kazexportgaz.com^
 ||kazinoplai.online^
 ||kaziofficeusa.com^
+||kazitradebd.com^
 ||kazuha.store^
 ||kazurinews.com^
 ||kb643.vip^
@@ -53730,6 +53749,7 @@
 ||keeperswoof.com^
 ||keepingcahealthy.com^
 ||keepmydiscoveryplus.com^
+||keewoom.co.kr^
 ||kefalmefaltefal.xyz^
 ||keflz.com^
 ||kefsocksmag.com^
@@ -53760,6 +53780,7 @@
 ||keluargananinu.com^
 ||kelylegroup.com^
 ||kemda.eu^
+||kemdikbud.go.id^
 ||kemerdekaradar.shop^
 ||kemerdekaradara123.shop^
 ||kemerdekaradarderler32.shop^
@@ -54077,6 +54098,7 @@
 ||kiteze.top^
 ||kithome.vn^
 ||kitoll.xyz^
+||kittimasszazs.hu^
 ||kiveladesigns.com^
 ||kiwi-access.co.nz^
 ||kiwi-allowtrans.com^
@@ -59500,6 +59522,7 @@
 ||mediformcomplete-9zbocx26.com^
 ||medilabr.com^
 ||medimarketing.com.br^
+||mediostresbarbas.com.ar^
 ||medioswow.com^
 ||meditazioneyogaroma.it^
 ||meditimespharma.com^
@@ -61929,6 +61952,7 @@
 ||mnjkol.gq^
 ||mnkwepg8m.info^
 ||mnlthrtfkt.com^
+||mnmathleague.org^
 ||mnnoiuiuyttczchgv265d.com^
 ||mnsrefdl.online^
 ||mnt-event.com^
@@ -67609,6 +67633,7 @@
 ||nr-automated-notification.online^
 ||nrbexpresstourstravels.in^
 ||nrc-gvt-agcy.com^
+||nrfm.lk^
 ||nrp.co^
 ||nrspsss.click^
 ||ns01.info^
@@ -68054,6 +68079,7 @@
 ||octusbot.xyz^
 ||oculusco.com^
 ||ocxspin.com^
+||od.lk^
 ||od9.us^
 ||odcbari.it^
 ||odcinema.online^
@@ -68343,6 +68369,7 @@
 ||old-bridgemutual.site^
 ||old-darkcrypto.eu^
 ||oldagehappiness.com^
+||oldlinewoodwork.com^
 ||oldmatepixel.xyz^
 ||oldmonero.net^
 ||oldpyeswap.site^
@@ -71538,6 +71565,7 @@
 ||partner-matamask.com^
 ||partner-memecoin.com^
 ||partnerbcgame.com^
+||partnerls.pl^
 ||partneronline.site^
 ||partners-here.life^
 ||partnersbet365.com^
@@ -72139,6 +72167,7 @@
 ||pccracking.click^
 ||pcdandf.com^
 ||pcdefi-stakev3.com^
+||pcdesk.co.kr^
 ||pcdlv.ca^
 ||pcdrives.org^
 ||pcee.top^
@@ -72948,6 +72977,7 @@
 ||pfpwvd.top^
 ||pg-cbk-instapay-pay-b7b4f709740s6a7nsjo.com^
 ||pg-cursus.nl^
+||pgak.net^
 ||pgd-primskovo.si^
 ||pgegroups.com^
 ||pgf5ga4g4b.cn^
@@ -73156,6 +73186,7 @@
 ||pielumchalotpostwo.fun^
 ||piemintnft.com^
 ||piergxrx.com^
+||pierregems.com^
 ||pierryjumy.cfd^
 ||piesocket.com^
 ||pieswap.finance^
@@ -76889,6 +76920,7 @@
 ||quebecsolution.com^
 ||quebectransfer-infla.net^
 ||quebradadigital.com.br^
+||quecue.kr^
 ||quedeliciaalimentos.com.br^
 ||queenbee-presale.xyz^
 ||queencoasia.com^
@@ -76935,6 +76967,7 @@
 ||quialitsuzoxm.shop^
 ||quibitexa.com^
 ||quick-antivirus.com^
+||quick.net.pl^
 ||quickassessio.com^
 ||quickauto24.com^
 ||quickbit.eu^
@@ -77240,6 +77273,7 @@
 ||radiochiguiro.com^
 ||radiococacola.com^
 ||radiodontist.casa^
+||radiographers.org^
 ||radiomarket.shop^
 ||radioprimavera.net.br^
 ||radiotransvidafm.com.br^
@@ -79952,6 +79986,7 @@
 ||restoreyouriduser.com^
 ||restoreyouruserid.com^
 ||restoring.top^
+||restoroad.com^
 ||restplatinopacks.com^
 ||restproxy.com^
 ||restrice.ru^
@@ -83408,6 +83443,7 @@
 ||scertaiajvt.top^
 ||scewo.co^
 ||scex.pro^
+||scgestor.com.br^
 ||sch-internat-rzn.ru^
 ||schainconnect.network^
 ||schaublorenz.su^
@@ -83573,6 +83609,7 @@
 ||scoremillze.com^
 ||scores24.live^
 ||scorestime.com^
+||scoringmnmathleague.org^
 ||scorlduce.ru^
 ||scorpioncasino.site^
 ||scorpionism.com^
@@ -83908,6 +83945,7 @@
 ||scre02-rbc.com^
 ||screamingrape.com^
 ||screen-pets.com^
+||screenai.online^
 ||screenconnect.live^
 ||screengesture.com^
 ||screenmirrorcast.com^
@@ -88673,6 +88711,7 @@
 ||spactiv.site^
 ||spaego.ink^
 ||spain-playmarket.com^
+||spaincaramoon.com^
 ||spakernakurs.com^
 ||spakswap.xyz^
 ||spalivingblog.com^
@@ -90304,6 +90343,7 @@
 ||str-master.pw^
 ||str1kee.com^
 ||straatklinkers.site^
+||stracarrara.org^
 ||stracer.top^
 ||stragician.com^
 ||straightmailconnect.com^
@@ -90473,6 +90513,7 @@
 ||stusdt.info^
 ||stvoriti.com^
 ||styi.info^
+||style1.co.kr^
 ||styleay.shop^
 ||stylediamond.top^
 ||stylehub.website^
@@ -95375,6 +95416,7 @@
 ||trainagoda.com^
 ||trainbit.com^
 ||traineiwnqo.shop^
+||trainingpharmacist.co.uk^
 ||trainingshoessale.com^
 ||trainingtools.co^
 ||trainpolkstaet.com^
@@ -102661,6 +102703,7 @@
 ||wowamw.com^
 ||wowmaza.net^
 ||wowohehe.top^
+||wowpress.co.kr^
 ||woxoporiz.com^
 ||wp-auth.info^
 ||wp-firewall.website^
@@ -105484,6 +105527,7 @@
 ||zmty.com^
 ||zmyshenko.com^
 ||znckxnxmxs.online^
+||zndance.com^
 ||znetblog.com^
 ||znewyork.com^
 ||znkn.website^
