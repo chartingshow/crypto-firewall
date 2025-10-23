@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 October 2025
+# Last modified: 15 October 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -7990,7 +7990,6 @@
 0.0.0.0 anvexglobal.top
 0.0.0.0 anvianet.fi
 0.0.0.0 anvidiastockai.com
-0.0.0.0 anvil.org.ph
 0.0.0.0 anvipshop.com
 0.0.0.0 anwaralbasateen.com
 0.0.0.0 anwjns.top
@@ -9182,7 +9181,6 @@
 0.0.0.0 aquafinpakistan.com
 0.0.0.0 aquamarine.ltd
 0.0.0.0 aquant.co.jp
-0.0.0.0 aquaprographix.com
 0.0.0.0 aquare.art
 0.0.0.0 aquare.tech
 0.0.0.0 aquariorecords.com.br
@@ -12066,7 +12064,6 @@
 0.0.0.0 backendsync.xyz
 0.0.0.0 backeryswap.net
 0.0.0.0 backholdingscra.com
-0.0.0.0 backlinkbase.com
 0.0.0.0 backpackwallet.io
 0.0.0.0 backstage.cn.com
 0.0.0.0 backtoschoolrewards.net
@@ -12580,7 +12577,6 @@
 0.0.0.0 barra-de-deseos.icu
 0.0.0.0 barrier-payments.com
 0.0.0.0 barro-proizvodstvo.by
-0.0.0.0 barsaji.com.mx
 0.0.0.0 barter.my.id
 0.0.0.0 bartonhealthcare.org
 0.0.0.0 barubokep.club
@@ -26249,7 +26245,6 @@
 0.0.0.0 coolingmvmath.online
 0.0.0.0 coollanguage.com
 0.0.0.0 coolmanco.com
-0.0.0.0 coolproyect.es
 0.0.0.0 coolshoes.ca
 0.0.0.0 coolta66.gq
 0.0.0.0 coolta71.com
@@ -26298,7 +26293,6 @@
 0.0.0.0 coqqwx.ru
 0.0.0.0 cor-r-eoszz-secure.site
 0.0.0.0 coragem.cf
-0.0.0.0 coralsunmarine.com
 0.0.0.0 cordeiroelimacontabilidade.com.br
 0.0.0.0 cordeiromaquinas.one
 0.0.0.0 cordonhomeservices.com
@@ -26799,7 +26793,6 @@
 0.0.0.0 cowficrypto.com
 0.0.0.0 cowholesaling.com
 0.0.0.0 cowlimited.com
-0.0.0.0 cowp.or.kr
 0.0.0.0 cowswap-cryptofi.com
 0.0.0.0 cowswap-finance.com
 0.0.0.0 cowswap-llc.com
@@ -34391,7 +34384,6 @@
 0.0.0.0 ecspalmbeach.com
 0.0.0.0 ectdisbrsedlog1n-ca.info
 0.0.0.0 ectuaativ.com
-0.0.0.0 ecudecode.mx
 0.0.0.0 ecw-caip-on.ca
 0.0.0.0 ecwar.xyz
 0.0.0.0 ecway.xyz
@@ -37100,7 +37092,6 @@
 0.0.0.0 erotikfilmsitesi3.com
 0.0.0.0 erovideonavi.info
 0.0.0.0 erovzrt.hu
-0.0.0.0 erpmas.co.kr
 0.0.0.0 erpmet.com
 0.0.0.0 erppall.com
 0.0.0.0 err-payment.com
@@ -42257,7 +42248,6 @@
 0.0.0.0 fordecits.ru
 0.0.0.0 fordemesgaybetespas.net
 0.0.0.0 forecastkzn.co.za
-0.0.0.0 fored.or.kr
 0.0.0.0 foreignbankreporting.com
 0.0.0.0 forensisbilisim.com
 0.0.0.0 foresight.com.my
@@ -43483,7 +43473,6 @@
 0.0.0.0 galarewards.net
 0.0.0.0 galasgames.com
 0.0.0.0 galasgames.org
-0.0.0.0 galaterrace.com
 0.0.0.0 galaxe.click
 0.0.0.0 galaxe.eu
 0.0.0.0 galaxe.top
@@ -44851,7 +44840,6 @@
 0.0.0.0 gmxv1.com
 0.0.0.0 gmxv2.com
 0.0.0.0 gmxv2.org
-0.0.0.0 gncaf.or.kr
 0.0.0.0 gnearbyeva.top
 0.0.0.0 gnetwork.me
 0.0.0.0 gnichrnjh.info
@@ -45044,7 +45032,6 @@
 0.0.0.0 gondeart.click
 0.0.0.0 gondeart.cloud
 0.0.0.0 gondraxpro.com
-0.0.0.0 gongsinet.kr
 0.0.0.0 gonnamakelt.com
 0.0.0.0 gonraok.com
 0.0.0.0 gonulluvatandas.com
@@ -45115,7 +45102,6 @@
 0.0.0.0 googletagmanaging.com
 0.0.0.0 googleupload.info
 0.0.0.0 goojara.to
-0.0.0.0 goojoo.net
 0.0.0.0 goonboy.com
 0.0.0.0 gooqel.com
 0.0.0.0 goos.pw
@@ -47773,7 +47759,6 @@
 0.0.0.0 horaire-post.live
 0.0.0.0 horaire-postescanada.com
 0.0.0.0 horaire4postescanada.com
-0.0.0.0 horesca-meppel.nl
 0.0.0.0 horfehumaisum.com.de
 0.0.0.0 horidancai.xyz
 0.0.0.0 horizencoin.net
@@ -48006,7 +47991,6 @@
 0.0.0.0 hsbcnet.live
 0.0.0.0 hsbcs.click
 0.0.0.0 hsbcverification.com
-0.0.0.0 hsbutton.co.kr
 0.0.0.0 hse-application.com
 0.0.0.0 hse-caution.com
 0.0.0.0 hse-covid-services.com
@@ -48067,7 +48051,6 @@
 0.0.0.0 hstgv-t4.com
 0.0.0.0 hstrefca2023.me
 0.0.0.0 hstrestitution.com
-0.0.0.0 hstudymall.co.kr
 0.0.0.0 hsvn.pro
 0.0.0.0 hsweixintp.com
 0.0.0.0 hsykj.net
@@ -49268,7 +49251,6 @@
 0.0.0.0 ikkrs.click
 0.0.0.0 iklok.us
 0.0.0.0 ikrahalikoltukyikama.com.tr
-0.0.0.0 ikrea.or.kr
 0.0.0.0 iktx.info
 0.0.0.0 ikuchan19.xyz
 0.0.0.0 ikwilvanmijnpoloaf.nl
@@ -53792,7 +53774,6 @@
 0.0.0.0 kazexportgaz.com
 0.0.0.0 kazinoplai.online
 0.0.0.0 kaziofficeusa.com
-0.0.0.0 kazitradebd.com
 0.0.0.0 kazuha.store
 0.0.0.0 kazurinews.com
 0.0.0.0 kb643.vip
@@ -53852,7 +53833,6 @@
 0.0.0.0 keeperswoof.com
 0.0.0.0 keepingcahealthy.com
 0.0.0.0 keepmydiscoveryplus.com
-0.0.0.0 keewoom.co.kr
 0.0.0.0 kefalmefaltefal.xyz
 0.0.0.0 keflz.com
 0.0.0.0 kefsocksmag.com
@@ -53883,7 +53863,6 @@
 0.0.0.0 keluargananinu.com
 0.0.0.0 kelylegroup.com
 0.0.0.0 kemda.eu
-0.0.0.0 kemdikbud.go.id
 0.0.0.0 kemerdekaradar.shop
 0.0.0.0 kemerdekaradara123.shop
 0.0.0.0 kemerdekaradarderler32.shop
@@ -54201,7 +54180,6 @@
 0.0.0.0 kiteze.top
 0.0.0.0 kithome.vn
 0.0.0.0 kitoll.xyz
-0.0.0.0 kittimasszazs.hu
 0.0.0.0 kiveladesigns.com
 0.0.0.0 kiwi-access.co.nz
 0.0.0.0 kiwi-allowtrans.com
@@ -59625,7 +59603,6 @@
 0.0.0.0 mediformcomplete-9zbocx26.com
 0.0.0.0 medilabr.com
 0.0.0.0 medimarketing.com.br
-0.0.0.0 mediostresbarbas.com.ar
 0.0.0.0 medioswow.com
 0.0.0.0 meditazioneyogaroma.it
 0.0.0.0 meditimespharma.com
@@ -62055,7 +62032,6 @@
 0.0.0.0 mnjkol.gq
 0.0.0.0 mnkwepg8m.info
 0.0.0.0 mnlthrtfkt.com
-0.0.0.0 mnmathleague.org
 0.0.0.0 mnnoiuiuyttczchgv265d.com
 0.0.0.0 mnsrefdl.online
 0.0.0.0 mnt-event.com
@@ -67736,7 +67712,6 @@
 0.0.0.0 nr-automated-notification.online
 0.0.0.0 nrbexpresstourstravels.in
 0.0.0.0 nrc-gvt-agcy.com
-0.0.0.0 nrfm.lk
 0.0.0.0 nrp.co
 0.0.0.0 nrspsss.click
 0.0.0.0 ns01.info
@@ -68182,7 +68157,6 @@
 0.0.0.0 octusbot.xyz
 0.0.0.0 oculusco.com
 0.0.0.0 ocxspin.com
-0.0.0.0 od.lk
 0.0.0.0 od9.us
 0.0.0.0 odcbari.it
 0.0.0.0 odcinema.online
@@ -68472,7 +68446,6 @@
 0.0.0.0 old-bridgemutual.site
 0.0.0.0 old-darkcrypto.eu
 0.0.0.0 oldagehappiness.com
-0.0.0.0 oldlinewoodwork.com
 0.0.0.0 oldmatepixel.xyz
 0.0.0.0 oldmonero.net
 0.0.0.0 oldpyeswap.site
@@ -71668,7 +71641,6 @@
 0.0.0.0 partner-matamask.com
 0.0.0.0 partner-memecoin.com
 0.0.0.0 partnerbcgame.com
-0.0.0.0 partnerls.pl
 0.0.0.0 partneronline.site
 0.0.0.0 partners-here.life
 0.0.0.0 partnersbet365.com
@@ -72270,7 +72242,6 @@
 0.0.0.0 pccracking.click
 0.0.0.0 pcdandf.com
 0.0.0.0 pcdefi-stakev3.com
-0.0.0.0 pcdesk.co.kr
 0.0.0.0 pcdlv.ca
 0.0.0.0 pcdrives.org
 0.0.0.0 pcee.top
@@ -73080,7 +73051,6 @@
 0.0.0.0 pfpwvd.top
 0.0.0.0 pg-cbk-instapay-pay-b7b4f709740s6a7nsjo.com
 0.0.0.0 pg-cursus.nl
-0.0.0.0 pgak.net
 0.0.0.0 pgd-primskovo.si
 0.0.0.0 pgegroups.com
 0.0.0.0 pgf5ga4g4b.cn
@@ -73289,7 +73259,6 @@
 0.0.0.0 pielumchalotpostwo.fun
 0.0.0.0 piemintnft.com
 0.0.0.0 piergxrx.com
-0.0.0.0 pierregems.com
 0.0.0.0 pierryjumy.cfd
 0.0.0.0 piesocket.com
 0.0.0.0 pieswap.finance
@@ -77023,7 +76992,6 @@
 0.0.0.0 quebecsolution.com
 0.0.0.0 quebectransfer-infla.net
 0.0.0.0 quebradadigital.com.br
-0.0.0.0 quecue.kr
 0.0.0.0 quedeliciaalimentos.com.br
 0.0.0.0 queenbee-presale.xyz
 0.0.0.0 queencoasia.com
@@ -77070,7 +77038,6 @@
 0.0.0.0 quialitsuzoxm.shop
 0.0.0.0 quibitexa.com
 0.0.0.0 quick-antivirus.com
-0.0.0.0 quick.net.pl
 0.0.0.0 quickassessio.com
 0.0.0.0 quickauto24.com
 0.0.0.0 quickbit.eu
@@ -77376,7 +77343,6 @@
 0.0.0.0 radiochiguiro.com
 0.0.0.0 radiococacola.com
 0.0.0.0 radiodontist.casa
-0.0.0.0 radiographers.org
 0.0.0.0 radiomarket.shop
 0.0.0.0 radioprimavera.net.br
 0.0.0.0 radiotransvidafm.com.br
@@ -80089,7 +80055,6 @@
 0.0.0.0 restoreyouriduser.com
 0.0.0.0 restoreyouruserid.com
 0.0.0.0 restoring.top
-0.0.0.0 restoroad.com
 0.0.0.0 restplatinopacks.com
 0.0.0.0 restproxy.com
 0.0.0.0 restrice.ru
@@ -83546,7 +83511,6 @@
 0.0.0.0 scertaiajvt.top
 0.0.0.0 scewo.co
 0.0.0.0 scex.pro
-0.0.0.0 scgestor.com.br
 0.0.0.0 sch-internat-rzn.ru
 0.0.0.0 schainconnect.network
 0.0.0.0 schaublorenz.su
@@ -83712,7 +83676,6 @@
 0.0.0.0 scoremillze.com
 0.0.0.0 scores24.live
 0.0.0.0 scorestime.com
-0.0.0.0 scoringmnmathleague.org
 0.0.0.0 scorlduce.ru
 0.0.0.0 scorpioncasino.site
 0.0.0.0 scorpionism.com
@@ -84048,7 +84011,6 @@
 0.0.0.0 scre02-rbc.com
 0.0.0.0 screamingrape.com
 0.0.0.0 screen-pets.com
-0.0.0.0 screenai.online
 0.0.0.0 screenconnect.live
 0.0.0.0 screengesture.com
 0.0.0.0 screenmirrorcast.com
@@ -88814,7 +88776,6 @@
 0.0.0.0 spactiv.site
 0.0.0.0 spaego.ink
 0.0.0.0 spain-playmarket.com
-0.0.0.0 spaincaramoon.com
 0.0.0.0 spakernakurs.com
 0.0.0.0 spakswap.xyz
 0.0.0.0 spalivingblog.com
@@ -90446,7 +90407,6 @@
 0.0.0.0 str-master.pw
 0.0.0.0 str1kee.com
 0.0.0.0 straatklinkers.site
-0.0.0.0 stracarrara.org
 0.0.0.0 stracer.top
 0.0.0.0 stragician.com
 0.0.0.0 straightmailconnect.com
@@ -90616,7 +90576,6 @@
 0.0.0.0 stusdt.info
 0.0.0.0 stvoriti.com
 0.0.0.0 styi.info
-0.0.0.0 style1.co.kr
 0.0.0.0 styleay.shop
 0.0.0.0 stylediamond.top
 0.0.0.0 stylehub.website
@@ -95519,7 +95478,6 @@
 0.0.0.0 trainagoda.com
 0.0.0.0 trainbit.com
 0.0.0.0 traineiwnqo.shop
-0.0.0.0 trainingpharmacist.co.uk
 0.0.0.0 trainingshoessale.com
 0.0.0.0 trainingtools.co
 0.0.0.0 trainpolkstaet.com
@@ -102806,7 +102764,6 @@
 0.0.0.0 wowamw.com
 0.0.0.0 wowmaza.net
 0.0.0.0 wowohehe.top
-0.0.0.0 wowpress.co.kr
 0.0.0.0 woxoporiz.com
 0.0.0.0 wp-auth.info
 0.0.0.0 wp-firewall.website
@@ -105630,7 +105587,6 @@
 0.0.0.0 zmty.com
 0.0.0.0 zmyshenko.com
 0.0.0.0 znckxnxmxs.online
-0.0.0.0 zndance.com
 0.0.0.0 znetblog.com
 0.0.0.0 znewyork.com
 0.0.0.0 znkn.website
