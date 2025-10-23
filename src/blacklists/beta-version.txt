@@ -106615,8 +106615,17 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/xwallet-io/adblock-list.txt
 !#include domain-filters/yoroi-wallet-com/adblock-list.txt
 !#include domain-filters/youhodler-com/adblock-list.txt
+!#include domain-filters/zcashcommunity-com/adblock-list.txt
+!#include domain-filters/zebpay-com/adblock-list.txt
+!#include domain-filters/zelcore-io/adblock-list.txt
+!#include domain-filters/zengo-com/adblock-list.txt
+!#include domain-filters/zeply-com/adblock-list.txt
+!#include domain-filters/zerion-io/adblock-list.txt
+!#include domain-filters/zkbob-com/adblock-list.txt
 !#include domain-filters/zkera-fi/adblock-list.txt
 !#include domain-filters/zoomex-com/adblock-list.txt
+!#include domain-filters/zumminer-com/adblock-list.txt
+!#include domain-filters/zumo-money/adblock-list.txt
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
