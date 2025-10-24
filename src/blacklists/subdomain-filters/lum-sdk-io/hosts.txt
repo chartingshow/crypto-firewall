@@ -1,0 +1,11 @@
+# Crypto Firewall (lum-sdk-io)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 October 2025
+#
+
+# Block lum-sdk-io sub-domains
+0.0.0.0 140-82-52-31.lum-sdk.io
