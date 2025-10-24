@@ -3556,6 +3556,7 @@
 0.0.0.0 123movies.design
 0.0.0.0 124261b08c52b166.xyz
 0.0.0.0 126zay.com
+0.0.0.0 127253-ledger.com
 0.0.0.0 128147-coinbase.com
 0.0.0.0 1290.media
 0.0.0.0 12958-coinbase.com
@@ -3629,11 +3630,15 @@
 0.0.0.0 1537li.buzz
 0.0.0.0 1537lx.buzz
 0.0.0.0 153uf.com
+0.0.0.0 156253-gemini.com
 0.0.0.0 1566xueshe.com
 0.0.0.0 1568la.buzz
 0.0.0.0 1568li.buzz
 0.0.0.0 1568lx.buzz
+0.0.0.0 156953coinbase.com
 0.0.0.0 157.mk
+0.0.0.0 157253-kucoin.com
+0.0.0.0 158253-kraken.com
 0.0.0.0 158312-coinbase.com
 0.0.0.0 158372-coinbase.com
 0.0.0.0 158702-coinbase.com
@@ -3675,6 +3680,7 @@
 0.0.0.0 16642872-coinbase.com
 0.0.0.0 16712942-coinbase.com
 0.0.0.0 16718672-coinbase.com
+0.0.0.0 167253-binance.com
 0.0.0.0 16728342-coinbase.com
 0.0.0.0 16728348-coinbase.com
 0.0.0.0 16728442-coinbase.com
@@ -3725,6 +3731,8 @@
 0.0.0.0 17619-coinbase.com
 0.0.0.0 176284-coinbase.com
 0.0.0.0 1766qq.com
+0.0.0.0 177253-coinbase.com
+0.0.0.0 177954coinbase.com
 0.0.0.0 17823920-coinbase.com
 0.0.0.0 178253-coinbase.com
 0.0.0.0 178294-coinbase.com
@@ -3751,6 +3759,8 @@
 0.0.0.0 182ap.com
 0.0.0.0 182nm.com
 0.0.0.0 1832.info
+0.0.0.0 1835304-coinbase.com
+0.0.0.0 185126-coinbase.com
 0.0.0.0 18560-coinbase.com
 0.0.0.0 18571-coinbase.com
 0.0.0.0 185912-coinbase.com
@@ -3760,12 +3770,14 @@
 0.0.0.0 18594962-coinbase.com
 0.0.0.0 18597162-coinbase.com
 0.0.0.0 18719562-coinbase.com
+0.0.0.0 187253-uphold.com
 0.0.0.0 1875290-coinbase.com
 0.0.0.0 1882730-coinbase.com
 0.0.0.0 188betvn.com
 0.0.0.0 188xs.xyz
 0.0.0.0 18902-coinbase.com
 0.0.0.0 18903-coinbase.com
+0.0.0.0 18912-coinbase.com
 0.0.0.0 189126-coinbase.com
 0.0.0.0 18952-coinbase.com
 0.0.0.0 189979.com
@@ -3788,6 +3800,7 @@
 0.0.0.0 192854-coinbase.com
 0.0.0.0 192856-coinbase.com
 0.0.0.0 19287-binance.com
+0.0.0.0 195023-coinbase.com
 0.0.0.0 19572-coinbase.com
 0.0.0.0 195812-coinbase.com
 0.0.0.0 195826-coinbase.com
@@ -3797,7 +3810,9 @@
 0.0.0.0 19582970-coinbase.com
 0.0.0.0 19582971-coinbase.com
 0.0.0.0 19583-coinbase.com
+0.0.0.0 195834-coinbase.com
 0.0.0.0 19592653-coinbase.com
+0.0.0.0 197253-trezor.io
 0.0.0.0 197304-coinbase.com
 0.0.0.0 19730492-coinbase.com
 0.0.0.0 19764162-coinbase.com
@@ -4343,6 +4358,7 @@
 0.0.0.0 273284canada-rev-agencye-transfersecure.info
 0.0.0.0 27699-coinbase.com
 0.0.0.0 27719-saaq.com
+0.0.0.0 27954383-coinbase.com
 0.0.0.0 27fdghhoo11.top
 0.0.0.0 28-scotiabank.com
 0.0.0.0 28082023rbc.com
@@ -4359,6 +4375,7 @@
 0.0.0.0 29195-coinbase.com
 0.0.0.0 291wf.com
 0.0.0.0 29283-canadapost-postescanada.com
+0.0.0.0 298193-coinbase.com
 0.0.0.0 299101-canadapost-postescanada.com
 0.0.0.0 29fdghhoo11.top
 0.0.0.0 29november2022etransfer.online
@@ -4879,6 +4896,7 @@
 0.0.0.0 5139097f5ef3edc1.xyz
 0.0.0.0 514rogers-message.online
 0.0.0.0 51588.biz
+0.0.0.0 518256-coinbase.com
 0.0.0.0 51cfphoto.com
 0.0.0.0 51credit.com
 0.0.0.0 51zjf.net
@@ -5099,6 +5117,7 @@
 0.0.0.0 716ze.com
 0.0.0.0 71925-coinbase.com
 0.0.0.0 71eweste.info
+0.0.0.0 7226119-coinbase.com
 0.0.0.0 726fc.com
 0.0.0.0 727r.com
 0.0.0.0 72957-coinbase.com
@@ -5221,6 +5240,7 @@
 0.0.0.0 82093-royalbank.com
 0.0.0.0 821997.com
 0.0.0.0 8230c9aeaaef65535d518e48eac52255.com
+0.0.0.0 824346-coinbase.com
 0.0.0.0 826298-coinbase.com
 0.0.0.0 8279.hk
 0.0.0.0 827c153abcc78ce2.live
@@ -5229,12 +5249,14 @@
 0.0.0.0 837774-interac.top
 0.0.0.0 83956-coinbase.com
 0.0.0.0 84017530b83219a61.center
+0.0.0.0 845223-ledger.com
 0.0.0.0 849n7the.info
 0.0.0.0 84bgf746.live
 0.0.0.0 84jil.ru
 0.0.0.0 84m4bl423.space
 0.0.0.0 84t5fygkz.info
 0.0.0.0 851995.com
+0.0.0.0 853221-gmail.com
 0.0.0.0 856wp.com
 0.0.0.0 85iwin0.com
 0.0.0.0 85jav.com
@@ -5256,6 +5278,7 @@
 0.0.0.0 87a312e6bb2524d4.xyz
 0.0.0.0 87iavv.com
 0.0.0.0 88103933.com
+0.0.0.0 884394-coinbase.com
 0.0.0.0 8868.com
 0.0.0.0 8868sports-home.com
 0.0.0.0 8868tf.com
@@ -6821,6 +6844,7 @@
 0.0.0.0 adsservice2.org
 0.0.0.0 adsservices.uk
 0.0.0.0 adstrails.com
+0.0.0.0 adsupport-google.com
 0.0.0.0 adsvshop.com
 0.0.0.0 adsx.site
 0.0.0.0 adt-es.com
@@ -13941,6 +13965,7 @@
 0.0.0.0 auth-bmoclient.com
 0.0.0.0 auth-bnc.ca
 0.0.0.0 auth-canada.com
+0.0.0.0 auth-cb.com
 0.0.0.0 auth-chase.com
 0.0.0.0 auth-co.cc
 0.0.0.0 auth-commbank-online.com
@@ -17207,6 +17232,7 @@
 0.0.0.0 binancepool.es
 0.0.0.0 binanceportal.org
 0.0.0.0 binances-eth.net
+0.0.0.0 binancetickets.com
 0.0.0.0 binanceusdtcoinexchange.com
 0.0.0.0 binanceverify.com
 0.0.0.0 binancewk.com
@@ -23010,6 +23036,7 @@
 0.0.0.0 cancel-abonnement.info
 0.0.0.0 cancel-anz-voiceid.com
 0.0.0.0 cancel-bnz.com
+0.0.0.0 cancel-google.com
 0.0.0.0 cancel-help-nz.com
 0.0.0.0 cancel-interac.com
 0.0.0.0 cancel-nz-payment.com
@@ -27471,6 +27498,7 @@
 0.0.0.0 coinbase-airdrop.site
 0.0.0.0 coinbase-auth.com
 0.0.0.0 coinbase-cmc.com
+0.0.0.0 coinbase-com.info
 0.0.0.0 coinbase-farmab.com
 0.0.0.0 coinbase-gift.online
 0.0.0.0 coinbase-heip.com
@@ -34003,6 +34031,7 @@
 0.0.0.0 desksauthmainet.com
 0.0.0.0 desksemainnet.com
 0.0.0.0 desktecmexico.com
+0.0.0.0 desktickets-ssl.com
 0.0.0.0 desktop-downloads-users.com
 0.0.0.0 desktop-wallet.pro
 0.0.0.0 deskweblive.com
@@ -47293,6 +47322,9 @@
 0.0.0.0 gghengineers.com
 0.0.0.0 gghxyy.club
 0.0.0.0 ggitcoin.co
+0.0.0.0 ggl-desk-activity.com
+0.0.0.0 ggl-desk-archive.com
+0.0.0.0 ggl-desk-line.com
 0.0.0.0 ggm.pw
 0.0.0.0 ggmcryptotrademarket.com
 0.0.0.0 ggooleauth.xyz
@@ -48019,6 +48051,7 @@
 0.0.0.0 googleauth.pro
 0.0.0.0 googlechat.xyz
 0.0.0.0 googlecloud.live
+0.0.0.0 googledesk-ssl.com
 0.0.0.0 googledocpage.com
 0.0.0.0 googledrive.download
 0.0.0.0 googledrive.email
@@ -49815,6 +49848,7 @@
 0.0.0.0 help-checkout.online
 0.0.0.0 help-cibc.com
 0.0.0.0 help-co-nz.com
+0.0.0.0 help-coinba.se
 0.0.0.0 help-coinbasemail.com
 0.0.0.0 help-commbank.app
 0.0.0.0 help-commtech.com
@@ -49918,6 +49952,7 @@
 0.0.0.0 helpdesk-debitcard.com
 0.0.0.0 helpdesk-debitcard.online
 0.0.0.0 helpdesk-gemini.com
+0.0.0.0 helpdesk-google.com
 0.0.0.0 helpdesk-icloud.com
 0.0.0.0 helpdesk-info-renew.com
 0.0.0.0 helpdesk-info-renew.live
@@ -58121,6 +58156,7 @@
 0.0.0.0 lastmorgoth.com
 0.0.0.0 lastnoticefortheparcel.info
 0.0.0.0 lastnuggets.com
+0.0.0.0 lastpassrecovery.com
 0.0.0.0 lastreminder-annualref.info
 0.0.0.0 lastwavetechnology.com
 0.0.0.0 lasvegasusa.eu
@@ -67370,6 +67406,7 @@
 0.0.0.0 myclients-mobile.com
 0.0.0.0 mycloudbitmining.online
 0.0.0.0 mycoffeeshop.shop
+0.0.0.0 mycoinba.se
 0.0.0.0 mycomm-activity.com
 0.0.0.0 mycomm-aware.net
 0.0.0.0 mycomm-cancel.com
@@ -67916,6 +67953,7 @@
 0.0.0.0 myparcelresch.info
 0.0.0.0 myparcels-customs.com
 0.0.0.0 myparcels-customsfee.com
+0.0.0.0 mypasskey.info
 0.0.0.0 mypay.com.mm
 0.0.0.0 mypay1nk0.com
 0.0.0.0 mypayca.co
@@ -74687,6 +74725,7 @@
 0.0.0.0 passioncat.com
 0.0.0.0 passionlend.com
 0.0.0.0 passionstaging.co.uk
+0.0.0.0 passkeysetup.com
 0.0.0.0 passpay.ca
 0.0.0.0 passport-login.top
 0.0.0.0 passport-verify.top
@@ -92200,6 +92239,11 @@
 0.0.0.0 ssimex.com
 0.0.0.0 ssitinc.net
 0.0.0.0 ssizh.ru
+0.0.0.0 ssl-127-0-0-1-goo-gl.com
+0.0.0.0 ssl-192-168-29-122-goo-gl.com
+0.0.0.0 ssl-4-4-192-1-g-o-o-g-l.com
+0.0.0.0 ssl-8-8-8-8-goo-gl.com
+0.0.0.0 ssl-8-8-9-8-goo-gl.com
 0.0.0.0 ssl-dp.live
 0.0.0.0 ssl-mint.com
 0.0.0.0 ssl-ur.live
@@ -94275,6 +94319,7 @@
 0.0.0.0 swallet-coinbase.com
 0.0.0.0 swallowcell.xyz
 0.0.0.0 swallowcells.xyz
+0.0.0.0 swan-btc.com
 0.0.0.0 swancoins.net
 0.0.0.0 swancontrols.ae
 0.0.0.0 swap-boostco.in
@@ -100993,6 +101038,7 @@
 0.0.0.0 unsucesprevent.ca
 0.0.0.0 unsupported-login-mygov.com
 0.0.0.0 unsupported-uber-access.com
+0.0.0.0 unsync-trezor.io
 0.0.0.0 untc-cs.cv
 0.0.0.0 unterweg.com
 0.0.0.0 untiedflight.shop
