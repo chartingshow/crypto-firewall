@@ -105894,6 +105894,7 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
+||calendar.app.google/M2ZCvM8ULL56PD1d6^
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg^
 ||ln.run/supportcenterbusiness^
 ||steamcommunity.com/profiles/76561198780411257^
@@ -106155,9 +106156,11 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/godaddysites-com/adblock-list.txt
 !#include subdomain-filters/googleusercontent-com/adblock-list.txt
 !#include subdomain-filters/herokuapp-com/adblock-list.txt
+!#include subdomain-filters/hopcdn-com/adblock-list.txt
 !#include subdomain-filters/hostwindsdns-com/adblock-list.txt
 !#include subdomain-filters/jetserver-net/adblock-list.txt
 !#include subdomain-filters/liveblog365-com/adblock-list.txt
+!#include subdomain-filters/lum-sdk-io/adblock-list.txt
 !#include subdomain-filters/magentosite-cloud/adblock-list.txt
 !#include subdomain-filters/netlify-app/adblock-list.txt
 !#include subdomain-filters/ngrok-free-app/adblock-list.txt

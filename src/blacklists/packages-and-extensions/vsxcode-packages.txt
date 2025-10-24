@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 October 2025
+# Last modified: 24 October 2025
 #
 
 498-00.cppformat 
@@ -22,17 +22,32 @@ ab-498.cppplayground
 ab-498.httpformat 
 ab-498.pythonformat
 ChainDevTools.solidity-pro
+CodeInKlingon.git-worktree-menu@1.0.9
+CodeInKlingon.git-worktree-menu@1.0.91
+codejoy.codejoy-vscode-extension@1.8.3
+codejoy.codejoy-vscode-extension@1.8.4
 Crypto-Extensions.SnowShsoNo
 Crypto-Extensions.solidity
+ellacrity.recoil@0.7.4
 Ethereum.solidity-ethereum
 ETHFoundry.solidityethereum
+ginfuru.better-nunjucks@0.3.2
+grrrck.positron-plus-1-e@0.0.71
+jeronimoekerdt.color-picker-universal@2.8.91
+JScearcy.rust-doc-viewer@4.2.1
 juan-blanco.solidity
 juan-blanco.vscode-solidity
 JuanFBlanco.solidity-ai-ethereum
 kilocode-ai.kilo-code
 kineticsquid.solidity-ethereum-vsc
+kleinesfilmroellchen.serenity-dsl-syntaxhighlight@0.3.2
+l-igh-t.vscode-theme-seti-folder@1.2.3
 nomic-fdn.hardhat-solidity
 nomic-fdn.solidity-hardhat
 nomic-foundation.hardhat-solidity
 NomicFdn.hardhat-solidity
 oxc-vscode.oxc
+SIRILMP.dark-theme-sm@3.11.4
+sissel.shopify-liquid@4.0.1
+srcery-colors.srcery-colors@0.3.9
+TretinV3.forts-api-extention@0.3.1

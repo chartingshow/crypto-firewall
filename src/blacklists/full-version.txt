@@ -105894,6 +105894,7 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
+||calendar.app.google/M2ZCvM8ULL56PD1d6^
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg^
 ||ln.run/supportcenterbusiness^
 ||steamcommunity.com/profiles/76561198780411257^

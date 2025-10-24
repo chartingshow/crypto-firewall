@@ -1,0 +1,11 @@
+# Crypto Firewall (hopcdn-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 24 October 2025
+#
+
+# Block hopcdn-com sub-domains
+0.0.0.0 host-140-82-52-31.hopcdn.com
