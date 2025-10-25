@@ -1,6 +1,6 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
-! Expires: 3 days (update frequency)
+! Expires: 3 days
 ! Last modified: 25 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
