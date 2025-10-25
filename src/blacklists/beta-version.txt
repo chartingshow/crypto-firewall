@@ -1,6 +1,6 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
-! Expires: 7 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Last modified: 24 October 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
