@@ -106300,8 +106300,11 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/balancer-fi/adblock-list.txt
 !#include domain-filters/balletcrypto-com/adblock-list.txt
 !#include domain-filters/bankera-com/adblock-list.txt
+!#include domain-filters/basescan-org/adblock-list.txt
 !#include domain-filters/bc-vault-com/adblock-list.txt
+!#include domain-filters/bcfn-ca/adblock-list.txt
 !#include domain-filters/biconomy-com/adblock-list.txt
+!#include domain-filters/bigdipper-live/adblock-list.txt
 !#include domain-filters/bigone-com/adblock-list.txt
 !#include domain-filters/bilaxy-com/adblock-list.txt
 !#include domain-filters/binance-com/adblock-list.txt
@@ -106309,6 +106312,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/binance-tr/adblock-list.txt
 !#include domain-filters/binance-us/adblock-list.txt
 !#include domain-filters/bingx-com/adblock-list.txt
+!#include domain-filters/binplorer-com/adblock-list.txt
+!#include domain-filters/bit-rock-io/adblock-list.txt
 !#include domain-filters/bitaddress-org/adblock-list.txt
 !#include domain-filters/bitamp-com/adblock-list.txt
 !#include domain-filters/bitbucks-com/adblock-list.txt
@@ -106329,6 +106334,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bither-net/adblock-list.txt
 !#include domain-filters/bithumb-com/adblock-list.txt
 !#include domain-filters/bitinka-com/adblock-list.txt
+!#include domain-filters/bitkub-com/adblock-list.txt
 !#include domain-filters/bitlox-io/adblock-list.txt
 !#include domain-filters/bitmart-com/adblock-list.txt
 !#include domain-filters/bitmex-com/adblock-list.txt
@@ -106337,6 +106343,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitpanda-com/adblock-list.txt
 !#include domain-filters/bitpay-com/adblock-list.txt
 !#include domain-filters/bitpie-com/adblock-list.txt
+!#include domain-filters/bitquery-io/adblock-list.txt
+!#include domain-filters/bitref-com/adblock-list.txt
 !#include domain-filters/bitrue-com/adblock-list.txt
 !#include domain-filters/bitso-com/adblock-list.txt
 !#include domain-filters/bitstamp-net/adblock-list.txt
@@ -106349,6 +106357,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/block-io/adblock-list.txt
 !#include domain-filters/blockchain-com/adblock-list.txt
 !#include domain-filters/blockchains-my/adblock-list.txt
+!#include domain-filters/blockchair-com/adblock-list.txt
+!#include domain-filters/blockhub-info/adblock-list.txt
 !#include domain-filters/blockscan-com/adblock-list.txt
 !#include domain-filters/blockstream-com/adblock-list.txt
 !#include domain-filters/blockwallet-io/adblock-list.txt
