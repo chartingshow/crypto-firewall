@@ -106249,6 +106249,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/zendesk-com/adblock-list.txt
 
 ! Blocking domains -------------------------------------------------------------
+!#include domain-filters/01coin-io/adblock-list.txt
+!#include domain-filters/1337-cx/adblock-list.txt
 !#include domain-filters/1inch-io/adblock-list.txt
 !#include domain-filters/3xpl-com/adblock-list.txt
 !#include domain-filters/abra-com/adblock-list.txt
@@ -106275,6 +106277,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/ancrypto-io/adblock-list.txt
 !#include domain-filters/ankerpay-com/adblock-list.txt
 !#include domain-filters/apex-exchange/adblock-list.txt
+!#include domain-filters/apollowallet-org/adblock-list.txt
 !#include domain-filters/arbiscan-io/adblock-list.txt
 !#include domain-filters/arcbit-io/adblock-list.txt
 !#include domain-filters/arcpool-com/adblock-list.txt
@@ -106292,9 +106295,11 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/aurora-dev/adblock-list.txt
 !#include domain-filters/authereum-org/adblock-list.txt
 !#include domain-filters/avascan-info/adblock-list.txt
+!#include domain-filters/avax-network/adblock-list.txt
 !#include domain-filters/avme-io/adblock-list.txt
 !#include domain-filters/awebanalysis-com/adblock-list.txt
 !#include domain-filters/axecore-net/adblock-list.txt
+!#include domain-filters/axel-network/adblock-list.txt
 !#include domain-filters/axieinfinity-com/adblock-list.txt
 !#include domain-filters/backpack-app/adblock-list.txt
 !#include domain-filters/backpack-exchange/adblock-list.txt
@@ -106304,6 +106309,11 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/basescan-org/adblock-list.txt
 !#include domain-filters/bc-vault-com/adblock-list.txt
 !#include domain-filters/bcfn-ca/adblock-list.txt
+!#include domain-filters/be-cash/adblock-list.txt
+!#include domain-filters/beam-mw/adblock-list.txt
+!#include domain-filters/beamprivacy-community/adblock-list.txt
+!#include domain-filters/beldex-io/adblock-list.txt
+!#include domain-filters/biblepay-org/adblock-list.txt
 !#include domain-filters/biconomy-com/adblock-list.txt
 !#include domain-filters/bigdipper-live/adblock-list.txt
 !#include domain-filters/bigone-com/adblock-list.txt
@@ -106314,13 +106324,16 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/binance-us/adblock-list.txt
 !#include domain-filters/bingx-com/adblock-list.txt
 !#include domain-filters/binplorer-com/adblock-list.txt
+!#include domain-filters/birake-com/adblock-list.txt
 !#include domain-filters/bit-rock-io/adblock-list.txt
 !#include domain-filters/bitaddress-org/adblock-list.txt
 !#include domain-filters/bitamp-com/adblock-list.txt
 !#include domain-filters/bitbucks-com/adblock-list.txt
 !#include domain-filters/bitcoin-com/adblock-list.txt
 !#include domain-filters/bitcoin-org/adblock-list.txt
+!#include domain-filters/bitcoinabc-org/adblock-list.txt
 !#include domain-filters/bitcoinarmory-com/adblock-list.txt
+!#include domain-filters/bitcoinconfidential-cc/adblock-list.txt
 !#include domain-filters/bitcoinwallet-com/adblock-list.txt
 !#include domain-filters/bitcoinwell-com/adblock-list.txt
 !#include domain-filters/bitcron-com/adblock-list.txt
@@ -106354,6 +106367,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/bitvault-global/adblock-list.txt
 !#include domain-filters/bitwala-com/adblock-list.txt
 !#include domain-filters/bitx-com/adblock-list.txt
+!#include domain-filters/blackhatco-in/adblock-list.txt
 !#include domain-filters/blitz-exchange/adblock-list.txt
 !#include domain-filters/block-io/adblock-list.txt
 !#include domain-filters/blockchain-com/adblock-list.txt
