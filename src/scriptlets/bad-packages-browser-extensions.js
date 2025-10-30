@@ -141,32 +141,46 @@
     // fetch('/api/threat-log', { method: 'POST', body: JSON.stringify(logEntry) });
   }
 
-  // Domain-specific handlers
+  // Domain-specific handlers (enhanced for subdomain support)
   function checkCurrentDomain() {
     const {hostname, href} = window.location
 
+    // Helper: find matching base domain key (handles www. and subdomains)
+    const findDomainKey = (host) =>
+      Object.keys(blacklistURLs).find(
+        (key) => host === key || host.endsWith(`.${key}`)
+      )
+
+    const domainKey = findDomainKey(hostname)
+
     const domainHandlers = {
-      'addons.mozilla.org': () => checkURLAgainstBlacklist(hostname),
-      'apps.apple.com': () => checkURLAgainstBlacklist(hostname),
+      'addons.mozilla.org': () => checkURLAgainstBlacklist('addons.mozilla.org'),
+      'apps.apple.com': () => checkURLAgainstBlacklist('apps.apple.com'),
       'chrome.google.com': () =>
         href.includes('/webstore')
           ? checkURLAgainstBlacklist('chrome.google.com/webstore')
           : checkURLAgainstBlacklist('chrome.extension'),
-      'facebook.com': () => checkURLAgainstBlacklist(hostname),
-      'firebaseio.com': () => checkURLAgainstBlacklist(hostname),
-      'marketplace.visualstudio.com': () => checkURLAgainstBlacklist(hostname),
-      'npmjs.com': () => checkURLAgainstBlacklist(hostname),
-      'open-vsx.org': () => checkURLAgainstBlacklist(hostname),
-      'pypi.org': () => checkURLAgainstBlacklist(hostname),
-      'play.google.com': () => checkURLAgainstBlacklist(hostname),
+      'facebook.com': () => checkURLAgainstBlacklist('facebook.com'),
+      'firebaseio.com': () => checkURLAgainstBlacklist('firebaseio.com'),
+      'marketplace.visualstudio.com': () =>
+        checkURLAgainstBlacklist('marketplace.visualstudio.com'),
+      'npmjs.com': () => checkURLAgainstBlacklist('npmjs.com'),
+      'open-vsx.org': () => checkURLAgainstBlacklist('open-vsx.org'),
+      'pypi.org': () => checkURLAgainstBlacklist('pypi.org'),
+      'play.google.com': () => checkURLAgainstBlacklist('play.google.com'),
       default: () => {
+        // Handle *.firebaseio.com subdomains
         if (hostname.endsWith('.firebaseio.com')) {
           checkURLAgainstBlacklist('firebaseio.com')
+        } else if (domainKey) {
+          // Generic fallback for any matching base domain
+          checkURLAgainstBlacklist(domainKey)
         }
       },
     }
 
-    ;(domainHandlers[hostname] || domainHandlers.default)()
+    // Use handler if defined, else fallback
+    ;(domainHandlers[domainKey] || domainHandlers.default)()
   }
 
   // Initialize
