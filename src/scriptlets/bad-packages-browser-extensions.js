@@ -1,27 +1,20 @@
 /**
  * @file bad-packages-browser-extensions.js
  * @title Block Bad Packages and Browser Extensions
- * @description A comprehensive scriptlet designed to protect users from potentially
+ * @description Comprehensive scriptlet to protect users from potentially
  *              malicious cryptocurrency-related packages, extensions, and projects.
- *              This scriptlet checks URLs against blacklists of known threats,
- *              covering npm packages, Chrome extensions, PyPI packages, and Firebase
- *              projects, alerting users when they encounter potentially harmful content.
- *              Enhanced protection against malicious packages/extensions with JSON-based
- *              threat intelligence.
- * @version 2.0.7
- * @copyright (c) The Charting Show (https://github.com/chartingshow/crypto-firewall)
+ *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
+ *              and alerts users on detection.
+ * @version 2.0.8
+ * @copyright (c) The Charting Show
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
- * This Scriptlet is intended to be used with Brave Browser's custom scriptlets feature
- * to enhance protection against cryptocurrency-related threats.
- *
+ * Intended for Brave Browser's custom scriptlets feature.
  * Original Authors: Charting Show Team
- *
- * Contributions and feedback are welcome!
  */
 
 ;(async function () {
-  // Updated JSON blacklist endpoints
+  // JSON/TXT blacklist endpoints
   const blacklistURLs = {
     'addons.mozilla.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firefox-extensions.txt',
@@ -47,14 +40,13 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/pypi-packages.txt',
   }
 
-  // Cache for storing fetched blacklists
+  // Cache for fetched blacklists
   const blacklistCache = new Map()
 
-  // Enhanced fetch function with caching, now supports .json and .txt (ignores # comments in .txt)
+  // Enhanced fetch function with caching and sanitization
   async function fetchBlacklist(url) {
-    if (blacklistCache.has(url)) {
-      return blacklistCache.get(url)
-    }
+    const normalized = url.toLowerCase()
+    if (blacklistCache.has(normalized)) return blacklistCache.get(normalized)
 
     try {
       const response = await fetch(url, {cache: 'no-cache'})
@@ -68,7 +60,12 @@
         data = text
           .split(/\r?\n/)
           .map((line) => line.trim())
-          .filter((line) => line && !line.startsWith('#'))
+          .filter(
+            (line) =>
+              line &&
+              !line.startsWith('#') &&
+              !/<[a-z][\s\S]*>/i.test(line) // strip HTML
+          )
           .map((pkg) => ({
             package: pkg,
             type: 'unknown',
@@ -79,7 +76,10 @@
       } else {
         data = []
       }
-      blacklistCache.set(url, data)
+
+      // limit cache to 10 entries
+      if (blacklistCache.size > 10) blacklistCache.clear()
+      blacklistCache.set(normalized, data)
       return data
     } catch (error) {
       console.error(`Failed to load blacklist from ${url}:`, error)
@@ -87,12 +87,11 @@
     }
   }
 
-  // Improved URL checking with threat context
+  // Check current URL against a blacklist
   async function checkURLAgainstBlacklist(hostname) {
     const blacklistUrl = blacklistURLs[hostname]
     if (!blacklistUrl) return
 
-    // Use new fetchBlacklist function
     const blacklist = await fetchBlacklist(blacklistUrl)
     const currentURL = window.location.href.toLowerCase()
 
@@ -105,27 +104,36 @@
     }
   }
 
-  // Advanced alert with remediation guidance
+  // Show an inline security alert (deduplicated)
   function showEnhancedAlert(threat, hostname) {
+    const existing = document.querySelector('#crypto-firewall-alert')
+    if (existing) existing.remove()
+
     const alertHTML = `
-    <div style="position:fixed;top:20px;right:20px;z-index:9999;
+    <div id="crypto-firewall-alert"
+         style="position:fixed;top:20px;right:20px;z-index:9999;
                 background:#ff4444;color:white;padding:20px;
-                border-radius:8px;max-width:400px;box-shadow:0 4px 8px rgba(0,0,0,0.3)">
+                border-radius:8px;max-width:400px;
+                box-shadow:0 4px 8px rgba(0,0,0,0.3)">
       <h3 style="margin-top:0">SECURITY ALERT</h3>
       <p><strong>Malicious ${threat.type} detected:</strong> ${threat.package}</p>
       <p><strong>Severity:</strong> ${threat.severity.toUpperCase()}</p>
       <p><strong>Description:</strong> ${threat.description}</p>
-      ${threat.remediation ? `<p><strong>Action Required:</strong> ${threat.remediation}</p>` : ''}
-      <button onclick="this.parentNode.remove()" 
-              style="background:white;color:#ff4444;border:none;padding:8px 16px;border-radius:4px;cursor:pointer">
+      ${
+        threat.remediation
+          ? `<p><strong>Action Required:</strong> ${threat.remediation}</p>`
+          : ''
+      }
+      <button onclick="this.parentNode.remove()"
+              style="background:white;color:#ff4444;border:none;
+                     padding:8px 16px;border-radius:4px;cursor:pointer">
         Acknowledge
       </button>
-    </div>
-    `
+    </div>`
     document.body.insertAdjacentHTML('beforeend', alertHTML)
   }
 
-  // Threat logging function
+  // Log threat detection to console or API endpoint
   function logThreatDetection(threat) {
     const logEntry = {
       timestamp: new Date().toISOString(),
@@ -136,16 +144,14 @@
       userAgent: navigator.userAgent,
     }
     console.warn('Threat detected:', logEntry)
-
-    // Optional: Send to analytics endpoint
-    // fetch('/api/threat-log', { method: 'POST', body: JSON.stringify(logEntry) });
+    // Optional: send log to remote endpoint
+    // fetch('/api/threat-log', { method: 'POST', body: JSON.stringify(logEntry) })
   }
 
-  // Domain-specific handlers (enhanced for subdomain support)
+  // Domain-specific handlers (with subdomain support)
   function checkCurrentDomain() {
     const {hostname, href} = window.location
 
-    // Helper: find matching base domain key (handles www. and subdomains)
     const findDomainKey = (host) =>
       Object.keys(blacklistURLs).find(
         (key) => host === key || host.endsWith(`.${key}`)
@@ -169,22 +175,27 @@
       'pypi.org': () => checkURLAgainstBlacklist('pypi.org'),
       'play.google.com': () => checkURLAgainstBlacklist('play.google.com'),
       default: () => {
-        // Handle *.firebaseio.com subdomains
         if (hostname.endsWith('.firebaseio.com')) {
           checkURLAgainstBlacklist('firebaseio.com')
         } else if (domainKey) {
-          // Generic fallback for any matching base domain
           checkURLAgainstBlacklist(domainKey)
         }
       },
     }
 
-    // Use handler if defined, else fallback
     ;(domainHandlers[domainKey] || domainHandlers.default)()
   }
 
-  // Initialize
-  document.addEventListener('DOMContentLoaded', checkCurrentDomain)
-  window.addEventListener('load', checkCurrentDomain)
-  if (document.readyState === 'complete') checkCurrentDomain()
+  // Debounced initialization (prevents duplicate runs)
+  let checked = false
+  function safeCheck() {
+    if (!checked) {
+      checked = true
+      checkCurrentDomain()
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', safeCheck)
+  window.addEventListener('load', safeCheck)
+  if (document.readyState === 'complete') safeCheck()
 })()
