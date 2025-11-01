@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 7 October 2025
+! Last modified: 1 November 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -1608,6 +1608,41 @@ main[data-consent-main]
 section#cookie-banner
 section#cookieconsentpopup
 www.msn.com##.intra-article-relatedcontent
+
+!------------------------- PUSH NOTIFICATION & POP-UP BLOCKS --------------------
+! Blocks Firebase and WordPress-based push notification scripts and pop-up modals.
+! Targets common implementations found in popular WP themes.
+! Also includes Firebase Messaging and modal login/subscribe prompts.
+! Enable to prevent browser notification requests and on-page pop-up alerts.
+! Disable if you wish to receive site notifications or use web push features.
+!-------------------------------------------------------------------------------
+
+! Block Firebase push notification scripts (common on WP)
+||firebase-messaging.js$script
+||firebase-messaging-compat.js$script
+||firebase-app-compat.js$script
+
+! Block WordPress theme notification handlers
+||*/assets/js/notification.js$script
+||*/assets/js/push-notification.js$script
+||*/wp-content/themes/*/js/notification.js$script
+||*/wp-content/themes/*/assets/js/notification.js$script
+||*/wp-content/themes/*/firebase-messaging.js$script
+||*/wp-content/plugins/*/notification*.js$script
+
+! Block popup modals often used for login/newsletter prompts
+||*/login-register-otp-modal.js$script
+||*/subscribe-modal*.js$script
+||*/wp-content/themes/*/assets/js/popup*.js$script
+||*/wp-content/themes/*/assets/js/modal*.js$script
+
+! Block inline push scripts requesting Notification permission
+||*/wp-content/cache/min/*/notification.js$script
+||*/wp-content/cache/min/*/firebase*.js$script
+
+! Block service workers often used for notifications
+||*/firebase-messaging-sw.js$script
+||*/wp-content/themes/*/firebase-messaging-sw.js$script
 
 !--------------------------- TRADINGVIEW ANNOYANCES -----------------------------
 ! This section blocks common annoyances on TradingView such as popups,
