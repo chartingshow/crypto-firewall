@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Block Crypto Annoyances)
 ! Expires: 7 days (update frequency)
-! Last modified: 1 November 2025
+! Last modified: 2 November 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -2445,3 +2445,19 @@ blockchainreporter.net##.layout__aside-item-banner
 blockchainreporter.net##.sticky-banner.promo-banner-bottom
 blockchainreporter.net##.sticky-banner.promo-banner-top
 blockchainreporter.net##a.article__socials-link
+
+! cointribune.com
+www.cointribune.com##.affiliate-button
+www.cointribune.com##.esb-wrapper
+www.cointribune.com##.guide-crypto
+www.cointribune.com##.items-center.md\:flex.hidden > .read-to-earn
+www.cointribune.com##.items-center.md\:flex.hidden > .read-to-earn > .read-to-earn-access > .loginButton.button.obfuscated-link
+www.cointribune.com##.main_layout__second--cont
+www.cointribune.com##.newsletter-block
+www.cointribune.com##.newsletter-footer
+www.cointribune.com##.no-hover.top-bar.head-first
+www.cointribune.com##.read-to-earn-access
+www.cointribune.com##.single--section-actions
+www.cointribune.com##.sm\:mt-0.mt-2.place-items-center.text-lg.md\:flex-nowrap.flex-wrap.justify-center.flex
+www.cointribune.com##.social--gnews--container
+www.cointribune.com##.social-bar
