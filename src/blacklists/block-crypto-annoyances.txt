@@ -2450,12 +2450,11 @@ blockchainreporter.net##a.article__socials-link
 www.cointribune.com##.affiliate-button
 www.cointribune.com##.esb-wrapper
 www.cointribune.com##.guide-crypto
-www.cointribune.com##.items-center.md\:flex.hidden > .read-to-earn
-www.cointribune.com##.items-center.md\:flex.hidden > .read-to-earn > .read-to-earn-access > .loginButton.button.obfuscated-link
 www.cointribune.com##.main_layout__second--cont
 www.cointribune.com##.newsletter-block
 www.cointribune.com##.newsletter-footer
 www.cointribune.com##.no-hover.top-bar.head-first
+www.cointribune.com##.read-to-earn
 www.cointribune.com##.read-to-earn-access
 www.cointribune.com##.single--section-actions
 www.cointribune.com##.sm\:mt-0.mt-2.place-items-center.text-lg.md\:flex-nowrap.flex-wrap.justify-center.flex
