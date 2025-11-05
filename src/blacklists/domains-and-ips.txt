@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 November 2025
+# Last modified: 5 November 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -11502,6 +11502,7 @@ app-balancer.fi
 app-bancor-network.com
 app-banking1.com
 app-bannkless.com
+app-bbva.cc
 app-beefy.org
 app-betafinance.cloud
 app-betafinance.xyz
@@ -11804,6 +11805,7 @@ appgalay.games
 appgmxio.tech
 appgmxmigrate.com
 appgrowthverse.pro
+appguanjun0922.com
 apphex.net
 appicomarks.xyz
 appid-client.com
@@ -34951,6 +34953,7 @@ digitpips.com
 digitspacefx.live
 digiu.cloud
 digiu.xyz
+digiveri.site
 digix.in
 digix6.com
 digjtoads-world.com
@@ -47146,6 +47149,7 @@ genuniverse.top
 genuskin.co.uk
 genuspaper.com
 genwealthgenerator.com
+genwindle.com
 genxsports.com
 genxsportsinternational.com
 genzsex.cc
@@ -58117,6 +58121,7 @@ laeyrzero.shop
 laeyrzero.site
 laeyrzero.space
 laeyrzero.website
+lafandos.shop
 lafashionplace.fr
 lafgarbeorn.hair
 lafieranation.com
@@ -64226,6 +64231,7 @@ mhgw.net
 mhigroup-eg.com
 mhimedicalbilling.com
 mhkz.info
+mhm99.tk
 mhomes.co.in
 mhyyup5m7.xyz
 mhzvwn.xyz
@@ -69856,6 +69862,7 @@ nezgoakker.com
 nf-settlement.com
 nfactoryoutlet.com
 nfc.cryptomaker.info
+nfcappnew.com
 nfcoin.site
 nfcu-informationuptade.com
 nfcunion-secure.com
@@ -70030,6 +70037,11 @@ nftxico.com
 nftxservice-clients.com
 nfty.global
 nftzksync.com
+nfu20050909.shop
+nfu20050910.shop
+nfu829.com
+nfuenglish2025.com
+nfuenglish2026.com
 nfum-spa.eu-west-2.elasticbeanstalk.com
 nfwatches.top
 nfwebminer.com
@@ -80015,6 +80027,7 @@ qplakensmxj.online
 qpoe.com
 qpsnsnxjsjqnz.online
 qpusd.com
+qpyx888.com
 qql-mintpass.org
 qqldao.net
 qqldao.xyz
@@ -81369,6 +81382,7 @@ rbsoftwares.in
 rbsupport-portal.com
 rbvkmq.info
 rbz09usect.com
+rc888.uk
 rcadvisor.com
 rcakci.com
 rcb-onl-cnn-ugrde.com
@@ -85628,6 +85642,7 @@ rubjbz.fun
 rubka.ir
 rubrik.id
 rubyhall.in.net
+rucbk.click
 rucksendung-post-at.com
 ructin.com
 rudolfstarkeps.com
@@ -90332,6 +90347,7 @@ sign-uses.app
 signab.ca
 signal-d.com
 signaldexcellence.com
+signalnfc.com
 signalplus.org
 signalpowerwifi.com
 signature-canadapost.ca
@@ -91439,6 +91455,7 @@ sofiaeraildasema.com
 sofibra.com.br
 soficave.com
 sofidefi.com
+sofiy.top
 soft-ex.icu
 soft-gets.com
 soft-got.org
@@ -105785,6 +105802,7 @@ wojvuz.top
 wokr.eu
 wokubaxute.com
 wolarc.com
+woldersterpe.shop
 woldwidesage.fun
 wolffunny.fun
 wolfoo.network
@@ -107607,6 +107625,7 @@ xxapocalipsexx.space
 xxhdftgjftgkjfgk.site
 xxkkii.pw
 xxlfutar.hu
+xxnfc.com
 xxnx.in
 xxnx.ink
 xxpornoindir.mobi
