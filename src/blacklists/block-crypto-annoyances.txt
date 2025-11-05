@@ -2389,10 +2389,12 @@ www.thestreet.com##.l-inline.mm-embed--twitter.m-embed
 www.thestreet.com##.m-in-content-recommendation
 
 ! mail.proton.me
+mail.proton.me##.button-promotion--bf-2025-free
 mail.proton.me##.button-promotion--full-gradient
 mail.proton.me##.button-promotion--icon-gradient
 mail.proton.me##.button-promotion--yellow
 mail.proton.me##.tip-box
+mail.proton.me##[class^=button-promotion--]
 
 ! msn.com
 www.msn.com##.copyright
