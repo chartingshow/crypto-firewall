@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 1 days
-! Last modified: 24 October 2025
+! Last modified: 5 November 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -8366,6 +8366,7 @@
 ||app-bancor-network.com^
 ||app-banking1.com^
 ||app-bannkless.com^
+||app-bbva.cc^
 ||app-beefy.org^
 ||app-betafinance.cloud^
 ||app-betafinance.xyz^
@@ -8668,6 +8669,7 @@
 ||appgmxio.tech^
 ||appgmxmigrate.com^
 ||appgrowthverse.pro^
+||appguanjun0922.com^
 ||apphex.net^
 ||appicomarks.xyz^
 ||appid-client.com^
@@ -31815,6 +31817,7 @@
 ||digitspacefx.live^
 ||digiu.cloud^
 ||digiu.xyz^
+||digiveri.site^
 ||digix.in^
 ||digix6.com^
 ||digjtoads-world.com^
@@ -44010,6 +44013,7 @@
 ||genuskin.co.uk^
 ||genuspaper.com^
 ||genwealthgenerator.com^
+||genwindle.com^
 ||genxsports.com^
 ||genxsportsinternational.com^
 ||genzsex.cc^
@@ -54981,6 +54985,7 @@
 ||laeyrzero.site^
 ||laeyrzero.space^
 ||laeyrzero.website^
+||lafandos.shop^
 ||lafashionplace.fr^
 ||lafgarbeorn.hair^
 ||lafieranation.com^
@@ -61090,6 +61095,7 @@
 ||mhigroup-eg.com^
 ||mhimedicalbilling.com^
 ||mhkz.info^
+||mhm99.tk^
 ||mhomes.co.in^
 ||mhyyup5m7.xyz^
 ||mhzvwn.xyz^
@@ -66720,6 +66726,7 @@
 ||nf-settlement.com^
 ||nfactoryoutlet.com^
 ||nfc.cryptomaker.info^
+||nfcappnew.com^
 ||nfcoin.site^
 ||nfcu-informationuptade.com^
 ||nfcunion-secure.com^
@@ -66894,6 +66901,11 @@
 ||nftxservice-clients.com^
 ||nfty.global^
 ||nftzksync.com^
+||nfu20050909.shop^
+||nfu20050910.shop^
+||nfu829.com^
+||nfuenglish2025.com^
+||nfuenglish2026.com^
 ||nfum-spa.eu-west-2.elasticbeanstalk.com^
 ||nfwatches.top^
 ||nfwebminer.com^
@@ -76879,6 +76891,7 @@
 ||qpoe.com^
 ||qpsnsnxjsjqnz.online^
 ||qpusd.com^
+||qpyx888.com^
 ||qql-mintpass.org^
 ||qqldao.net^
 ||qqldao.xyz^
@@ -78233,6 +78246,7 @@
 ||rbsupport-portal.com^
 ||rbvkmq.info^
 ||rbz09usect.com^
+||rc888.uk^
 ||rcadvisor.com^
 ||rcakci.com^
 ||rcb-onl-cnn-ugrde.com^
@@ -82492,6 +82506,7 @@
 ||rubka.ir^
 ||rubrik.id^
 ||rubyhall.in.net^
+||rucbk.click^
 ||rucksendung-post-at.com^
 ||ructin.com^
 ||rudolfstarkeps.com^
@@ -87196,6 +87211,7 @@
 ||signab.ca^
 ||signal-d.com^
 ||signaldexcellence.com^
+||signalnfc.com^
 ||signalplus.org^
 ||signalpowerwifi.com^
 ||signature-canadapost.ca^
@@ -88303,6 +88319,7 @@
 ||sofibra.com.br^
 ||soficave.com^
 ||sofidefi.com^
+||sofiy.top^
 ||soft-ex.icu^
 ||soft-gets.com^
 ||soft-got.org^
@@ -102649,6 +102666,7 @@
 ||wokr.eu^
 ||wokubaxute.com^
 ||wolarc.com^
+||woldersterpe.shop^
 ||woldwidesage.fun^
 ||wolffunny.fun^
 ||wolfoo.network^
@@ -104471,6 +104489,7 @@
 ||xxhdftgjftgkjfgk.site^
 ||xxkkii.pw^
 ||xxlfutar.hu^
+||xxnfc.com^
 ||xxnx.in^
 ||xxnx.ink^
 ||xxpornoindir.mobi^

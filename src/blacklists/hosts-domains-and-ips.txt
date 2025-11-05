@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 2 November 2025
+# Last modified: 5 November 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -11511,6 +11511,7 @@
 0.0.0.0 app-bancor-network.com
 0.0.0.0 app-banking1.com
 0.0.0.0 app-bannkless.com
+0.0.0.0 app-bbva.cc
 0.0.0.0 app-beefy.org
 0.0.0.0 app-betafinance.cloud
 0.0.0.0 app-betafinance.xyz
@@ -11813,6 +11814,7 @@
 0.0.0.0 appgmxio.tech
 0.0.0.0 appgmxmigrate.com
 0.0.0.0 appgrowthverse.pro
+0.0.0.0 appguanjun0922.com
 0.0.0.0 apphex.net
 0.0.0.0 appicomarks.xyz
 0.0.0.0 appid-client.com
@@ -34960,6 +34962,7 @@
 0.0.0.0 digitspacefx.live
 0.0.0.0 digiu.cloud
 0.0.0.0 digiu.xyz
+0.0.0.0 digiveri.site
 0.0.0.0 digix.in
 0.0.0.0 digix6.com
 0.0.0.0 digjtoads-world.com
@@ -47155,6 +47158,7 @@
 0.0.0.0 genuskin.co.uk
 0.0.0.0 genuspaper.com
 0.0.0.0 genwealthgenerator.com
+0.0.0.0 genwindle.com
 0.0.0.0 genxsports.com
 0.0.0.0 genxsportsinternational.com
 0.0.0.0 genzsex.cc
@@ -58126,6 +58130,7 @@
 0.0.0.0 laeyrzero.site
 0.0.0.0 laeyrzero.space
 0.0.0.0 laeyrzero.website
+0.0.0.0 lafandos.shop
 0.0.0.0 lafashionplace.fr
 0.0.0.0 lafgarbeorn.hair
 0.0.0.0 lafieranation.com
@@ -64235,6 +64240,7 @@
 0.0.0.0 mhigroup-eg.com
 0.0.0.0 mhimedicalbilling.com
 0.0.0.0 mhkz.info
+0.0.0.0 mhm99.tk
 0.0.0.0 mhomes.co.in
 0.0.0.0 mhyyup5m7.xyz
 0.0.0.0 mhzvwn.xyz
@@ -69865,6 +69871,7 @@
 0.0.0.0 nf-settlement.com
 0.0.0.0 nfactoryoutlet.com
 0.0.0.0 nfc.cryptomaker.info
+0.0.0.0 nfcappnew.com
 0.0.0.0 nfcoin.site
 0.0.0.0 nfcu-informationuptade.com
 0.0.0.0 nfcunion-secure.com
@@ -70039,6 +70046,11 @@
 0.0.0.0 nftxservice-clients.com
 0.0.0.0 nfty.global
 0.0.0.0 nftzksync.com
+0.0.0.0 nfu20050909.shop
+0.0.0.0 nfu20050910.shop
+0.0.0.0 nfu829.com
+0.0.0.0 nfuenglish2025.com
+0.0.0.0 nfuenglish2026.com
 0.0.0.0 nfum-spa.eu-west-2.elasticbeanstalk.com
 0.0.0.0 nfwatches.top
 0.0.0.0 nfwebminer.com
@@ -80024,6 +80036,7 @@
 0.0.0.0 qpoe.com
 0.0.0.0 qpsnsnxjsjqnz.online
 0.0.0.0 qpusd.com
+0.0.0.0 qpyx888.com
 0.0.0.0 qql-mintpass.org
 0.0.0.0 qqldao.net
 0.0.0.0 qqldao.xyz
@@ -81378,6 +81391,7 @@
 0.0.0.0 rbsupport-portal.com
 0.0.0.0 rbvkmq.info
 0.0.0.0 rbz09usect.com
+0.0.0.0 rc888.uk
 0.0.0.0 rcadvisor.com
 0.0.0.0 rcakci.com
 0.0.0.0 rcb-onl-cnn-ugrde.com
@@ -85637,6 +85651,7 @@
 0.0.0.0 rubka.ir
 0.0.0.0 rubrik.id
 0.0.0.0 rubyhall.in.net
+0.0.0.0 rucbk.click
 0.0.0.0 rucksendung-post-at.com
 0.0.0.0 ructin.com
 0.0.0.0 rudolfstarkeps.com
@@ -90341,6 +90356,7 @@
 0.0.0.0 signab.ca
 0.0.0.0 signal-d.com
 0.0.0.0 signaldexcellence.com
+0.0.0.0 signalnfc.com
 0.0.0.0 signalplus.org
 0.0.0.0 signalpowerwifi.com
 0.0.0.0 signature-canadapost.ca
@@ -91448,6 +91464,7 @@
 0.0.0.0 sofibra.com.br
 0.0.0.0 soficave.com
 0.0.0.0 sofidefi.com
+0.0.0.0 sofiy.top
 0.0.0.0 soft-ex.icu
 0.0.0.0 soft-gets.com
 0.0.0.0 soft-got.org
@@ -105794,6 +105811,7 @@
 0.0.0.0 wokr.eu
 0.0.0.0 wokubaxute.com
 0.0.0.0 wolarc.com
+0.0.0.0 woldersterpe.shop
 0.0.0.0 woldwidesage.fun
 0.0.0.0 wolffunny.fun
 0.0.0.0 wolfoo.network
@@ -107616,6 +107634,7 @@
 0.0.0.0 xxhdftgjftgkjfgk.site
 0.0.0.0 xxkkii.pw
 0.0.0.0 xxlfutar.hu
+0.0.0.0 xxnfc.com
 0.0.0.0 xxnx.in
 0.0.0.0 xxnx.ink
 0.0.0.0 xxpornoindir.mobi
