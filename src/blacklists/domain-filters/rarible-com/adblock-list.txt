@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (rarible-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 18 July 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -156,6 +156,7 @@
 ||rarible-support.com^
 ||rarible-update.com^
 ||rarible-user.com^
+||rarible-v1.co.com^
 ||rarible-verification.com^
 ||rarible-verify.com^
 ||rarible-web.com^
@@ -165,6 +166,7 @@
 ||rarible.cf^
 ||rarible.cn^
 ||rarible.co^
+||rarible.co.com^
 ||rarible.de^
 ||rarible.eu^
 ||rarible.ga^

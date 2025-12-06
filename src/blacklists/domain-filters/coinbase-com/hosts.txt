@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 May 2024
+# Last modified: 6 December 2025
 #
 
 # Block Coinbase sub-domains
@@ -35,6 +35,7 @@
 0.0.0.0 c9inbase.com
 0.0.0.0 c9oinbase.com
 0.0.0.0 cainbase.com
+0.0.0.0 cbase.co.com
 0.0.0.0 ccoinbase.com
 0.0.0.0 cdoinbase.com
 0.0.0.0 ceinbase.com
@@ -143,8 +144,10 @@
 0.0.0.0 coinbase-support.com
 0.0.0.0 coinbase-update.com
 0.0.0.0 coinbase-user.com
+0.0.0.0 coinbase-v1.co.com
 0.0.0.0 coinbase-verification.com
 0.0.0.0 coinbase-verify.com
+0.0.0.0 coinbase-wallet.co.com
 0.0.0.0 coinbase-web.com
 0.0.0.0 coinbase-www.com
 0.0.0.0 coinbase.app
@@ -157,6 +160,7 @@
 0.0.0.0 coinbase.ga
 0.0.0.0 coinbase.gq
 0.0.0.0 coinbase.info
+0.0.0.0 coinbase.io
 0.0.0.0 coinbase.live
 0.0.0.0 coinbase.ml
 0.0.0.0 coinbase.net
@@ -167,6 +171,7 @@
 0.0.0.0 coinbase.tk
 0.0.0.0 coinbase.top
 0.0.0.0 coinbase.uk
+0.0.0.0 coinbase.us.com
 0.0.0.0 coinbase.xyz
 0.0.0.0 coinbase0.com
 0.0.0.0 coinbase1.com
@@ -180,6 +185,7 @@
 0.0.0.0 coinbase9.com
 0.0.0.0 coinbasea.com
 0.0.0.0 coinbaseaccount.com
+0.0.0.0 coinbaseapp.co.com
 0.0.0.0 coinbaseauth.com
 0.0.0.0 coinbaseb.com
 0.0.0.0 coinbasec.com
@@ -226,9 +232,29 @@
 0.0.0.0 coinbaseupdate.com
 0.0.0.0 coinbaseuser.com
 0.0.0.0 coinbasev.com
+0.0.0.0 coinbasev1.co.com
+0.0.0.0 coinbasev1.io
+0.0.0.0 coinbasev1.live
+0.0.0.0 coinbasev1.us.com
+0.0.0.0 coinbasev2.co.com
+0.0.0.0 coinbasev2.io
+0.0.0.0 coinbasev2.live
+0.0.0.0 coinbasev2.us.com
+0.0.0.0 coinbasev3.co.com
+0.0.0.0 coinbasev3.io
+0.0.0.0 coinbasev3.live
+0.0.0.0 coinbasev3.us.com
 0.0.0.0 coinbaseverification.com
 0.0.0.0 coinbaseverify.com
 0.0.0.0 coinbasew.com
+0.0.0.0 coinbasewallet-download.co.com
+0.0.0.0 coinbasewallet.io
+0.0.0.0 coinbasewallet.live
+0.0.0.0 coinbasewallet.us.com
+0.0.0.0 coinbasewalletapp.co.com
+0.0.0.0 coinbasewalletapp.io
+0.0.0.0 coinbasewalletapp.live
+0.0.0.0 coinbasewalletapp.us.com
 0.0.0.0 coinbaseweb.com
 0.0.0.0 coinbasewww.com
 0.0.0.0 coinbasex.com
@@ -344,6 +370,7 @@
 0.0.0.0 cxoinbase.com
 0.0.0.0 dcoinbase.com
 0.0.0.0 doinbase.com
+0.0.0.0 download-coinbase.io
 0.0.0.0 e0inbase.com
 0.0.0.0 enroll-coinbase.com
 0.0.0.0 enrollcoinbase.com

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (sushi-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 16 July 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -155,6 +155,7 @@
 ||sushi-signup.com^
 ||sushi-ssl.com^
 ||sushi-support.com^
+||sushi-swap.co.com^
 ||sushi-update.com^
 ||sushi-user.com^
 ||sushi-verification.com^

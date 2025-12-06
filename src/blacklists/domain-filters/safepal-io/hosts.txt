@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block safepal-io sub-domains
@@ -147,6 +147,7 @@
 0.0.0.0 safepal-user.io
 0.0.0.0 safepal-verification.io
 0.0.0.0 safepal-verify.io
+0.0.0.0 safepal-wallet.co.com
 0.0.0.0 safepal-web.io
 0.0.0.0 safepal-www.io
 0.0.0.0 safepal.app

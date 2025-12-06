@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 3 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block atomicwallet-io sub-domains
@@ -123,7 +123,9 @@
 0.0.0.0 atomi9cwallet.io
 0.0.0.0 atomiawallet.io
 0.0.0.0 atomibwallet.io
+0.0.0.0 atomic-wallet.at
 0.0.0.0 atomic-wallet.io
+0.0.0.0 atomic.co.com
 0.0.0.0 atomic2allet.io
 0.0.0.0 atomic2wallet.io
 0.0.0.0 atomic3allet.io
@@ -251,6 +253,7 @@
 0.0.0.0 atomicwallet.cf
 0.0.0.0 atomicwallet.cn
 0.0.0.0 atomicwallet.co
+0.0.0.0 atomicwallet.co.com
 0.0.0.0 atomicwallet.com
 0.0.0.0 atomicwallet.de
 0.0.0.0 atomicwallet.eu
@@ -521,6 +524,7 @@
 0.0.0.0 connect-atomicwallet.io
 0.0.0.0 connectatomicwallet.io
 0.0.0.0 ctomicwallet.io
+0.0.0.0 download-atomic.io
 0.0.0.0 enroll-atomicwallet.io
 0.0.0.0 enrollatomicwallet.io
 0.0.0.0 etomicwallet.io

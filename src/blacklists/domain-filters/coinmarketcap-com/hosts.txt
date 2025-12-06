@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 September 2025
+# Last modified: 6 December 2025
 #
 
 # Block coinmarketcap-com sub-domains
@@ -229,6 +229,7 @@
 0.0.0.0 coinmarketcap-support.com
 0.0.0.0 coinmarketcap-update.com
 0.0.0.0 coinmarketcap-user.com
+0.0.0.0 coinmarketcap-v1.co.com
 0.0.0.0 coinmarketcap-verification.com
 0.0.0.0 coinmarketcap-verify.com
 0.0.0.0 coinmarketcap-web.com

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Coinbase)
 ! Expires: 7 days (update frequency)
-! Last modified: 9 April 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -36,6 +36,7 @@
 ||c9inbase.com^
 ||c9oinbase.com^
 ||cainbase.com^
+||cbase.co.com^
 ||ccoinbase.com^
 ||cdoinbase.com^
 ||ceinbase.com^
@@ -144,8 +145,10 @@
 ||coinbase-support.com^
 ||coinbase-update.com^
 ||coinbase-user.com^
+||coinbase-v1.co.com^
 ||coinbase-verification.com^
 ||coinbase-verify.com^
+||coinbase-wallet.co.com^
 ||coinbase-web.com^
 ||coinbase-www.com^
 ||coinbase.app^
@@ -158,6 +161,7 @@
 ||coinbase.ga^
 ||coinbase.gq^
 ||coinbase.info^
+||coinbase.io^
 ||coinbase.live^
 ||coinbase.ml^
 ||coinbase.net^
@@ -168,6 +172,7 @@
 ||coinbase.tk^
 ||coinbase.top^
 ||coinbase.uk^
+||coinbase.us.com^
 ||coinbase.xyz^
 ||coinbase0.com^
 ||coinbase1.com^
@@ -181,6 +186,7 @@
 ||coinbase9.com^
 ||coinbasea.com^
 ||coinbaseaccount.com^
+||coinbaseapp.co.com^
 ||coinbaseauth.com^
 ||coinbaseb.com^
 ||coinbasec.com^
@@ -227,9 +233,29 @@
 ||coinbaseupdate.com^
 ||coinbaseuser.com^
 ||coinbasev.com^
+||coinbasev1.co.com^
+||coinbasev1.io^
+||coinbasev1.live^
+||coinbasev1.us.com^
+||coinbasev2.co.com^
+||coinbasev2.io^
+||coinbasev2.live^
+||coinbasev2.us.com^
+||coinbasev3.co.com^
+||coinbasev3.io^
+||coinbasev3.live^
+||coinbasev3.us.com^
 ||coinbaseverification.com^
 ||coinbaseverify.com^
 ||coinbasew.com^
+||coinbasewallet-download.co.com^
+||coinbasewallet.io^
+||coinbasewallet.live^
+||coinbasewallet.us.com^
+||coinbasewalletapp.co.com^
+||coinbasewalletapp.io^
+||coinbasewalletapp.live^
+||coinbasewalletapp.us.com^
 ||coinbaseweb.com^
 ||coinbasewww.com^
 ||coinbasex.com^
@@ -345,6 +371,7 @@
 ||cxoinbase.com^
 ||dcoinbase.com^
 ||doinbase.com^
+||download-coinbase.io^
 ||e0inbase.com^
 ||enroll-coinbase.com^
 ||enrollcoinbase.com^

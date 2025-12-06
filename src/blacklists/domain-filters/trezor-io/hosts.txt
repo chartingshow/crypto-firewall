@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block trezor-io sub-domains
@@ -28,6 +28,7 @@
 0.0.0.0 connect-trezor.io
 0.0.0.0 connecttrezor.io
 0.0.0.0 drezor.io
+0.0.0.0 eng-trezor.io
 0.0.0.0 enroll-trezor.io
 0.0.0.0 enrolltrezor.io
 0.0.0.0 frezor.io
@@ -71,6 +72,7 @@
 0.0.0.0 signuptrezor.io
 0.0.0.0 ssl-trezor.io
 0.0.0.0 ssltrezor.io
+0.0.0.0 suite-trezor.co.com
 0.0.0.0 support-trezor.io
 0.0.0.0 supporttrezor.io
 0.0.0.0 t-rezor.io
@@ -183,6 +185,7 @@
 0.0.0.0 trezor-auth.io
 0.0.0.0 trezor-confirm.io
 0.0.0.0 trezor-connect.io
+0.0.0.0 trezor-download.io
 0.0.0.0 trezor-enroll.io
 0.0.0.0 trezor-http.io
 0.0.0.0 trezor-https.io
@@ -201,6 +204,7 @@
 0.0.0.0 trezor-signin.io
 0.0.0.0 trezor-signup.io
 0.0.0.0 trezor-ssl.io
+0.0.0.0 trezor-suite.co.com
 0.0.0.0 trezor-support.io
 0.0.0.0 trezor-update.io
 0.0.0.0 trezor-user.io
@@ -282,6 +286,7 @@
 0.0.0.0 trezorsignin.io
 0.0.0.0 trezorsignup.io
 0.0.0.0 trezorssl.io
+0.0.0.0 trezorsuite.co.com
 0.0.0.0 trezorsupport.io
 0.0.0.0 trezort.io
 0.0.0.0 trezoru.io

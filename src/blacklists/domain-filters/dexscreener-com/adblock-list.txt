@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (dexscreener-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 23 September 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -93,6 +93,7 @@
 ||dexacreener.com^
 ||dexascreener.com^
 ||dexccreener.com^
+||dexcreener.co.com^
 ||dexcreener.com^
 ||dexcscreener.com^
 ||dexcsreener.com^

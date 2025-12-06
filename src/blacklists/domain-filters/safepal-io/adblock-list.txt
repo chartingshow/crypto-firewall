@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (safepal-io)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -148,6 +148,7 @@
 ||safepal-user.io^
 ||safepal-verification.io^
 ||safepal-verify.io^
+||safepal-wallet.co.com^
 ||safepal-web.io^
 ||safepal-www.io^
 ||safepal.app^

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 November 2025
+# Last modified: 6 December 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -13172,6 +13172,7 @@
 0.0.0.0 believecreative.com
 0.0.0.0 believefxtrade.com
 0.0.0.0 belin.live
+0.0.0.0 belka.exchange
 0.0.0.0 belkemigi6525.com
 0.0.0.0 bell-1-ca.com
 0.0.0.0 bell-account-activation.com
@@ -21033,6 +21034,7 @@
 0.0.0.0 cauajuanmartinsdesari.cfd
 0.0.0.0 caudioshop.com
 0.0.0.0 caultonconsulting.com
+0.0.0.0 caulwallet.co.com
 0.0.0.0 caupdate-300039-0093.com
 0.0.0.0 caupdate.info
 0.0.0.0 caupdatedelivery.info

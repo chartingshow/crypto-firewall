@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block trustwallet-com sub-domains
@@ -158,6 +158,7 @@
 0.0.0.0 trusrwallet.com
 0.0.0.0 trusstwallet.com
 0.0.0.0 trust-wallet.com
+0.0.0.0 trust-wallet.us.com
 0.0.0.0 trust2allet.com
 0.0.0.0 trust2wallet.com
 0.0.0.0 trust3allet.com
@@ -257,6 +258,7 @@
 0.0.0.0 trustwallet-auth.com
 0.0.0.0 trustwallet-confirm.com
 0.0.0.0 trustwallet-connect.com
+0.0.0.0 trustwallet-download.co.com
 0.0.0.0 trustwallet-enroll.com
 0.0.0.0 trustwallet-http.com
 0.0.0.0 trustwallet-https.com

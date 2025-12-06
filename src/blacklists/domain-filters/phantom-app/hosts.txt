@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block phantom-app sub-domains
@@ -25,6 +25,7 @@
 0.0.0.0 confirmphantom.app
 0.0.0.0 connect-phantom.app
 0.0.0.0 connectphantom.app
+0.0.0.0 download-phantom.io
 0.0.0.0 enroll-phantom.app
 0.0.0.0 enrollphantom.app
 0.0.0.0 hantom.app
@@ -169,12 +170,14 @@
 0.0.0.0 phantom-user.app
 0.0.0.0 phantom-verification.app
 0.0.0.0 phantom-verify.app
+0.0.0.0 phantom-wallet.co.com
 0.0.0.0 phantom-web.app
 0.0.0.0 phantom-www.app
 0.0.0.0 phantom.biz
 0.0.0.0 phantom.cf
 0.0.0.0 phantom.cn
 0.0.0.0 phantom.co
+0.0.0.0 phantom.co.com
 0.0.0.0 phantom.com
 0.0.0.0 phantom.de
 0.0.0.0 phantom.eu

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (pancakeswap-finance)
 ! Expires: 7 days (update frequency)
-! Last modified: 14 July 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -318,6 +318,7 @@
 ||pancakesxwap.finance^
 ||pancakesywap.finance^
 ||pancakeszwap.finance^
+||pancakewap.co.com^
 ||pancakewap.finance^
 ||pancakewsap.finance^
 ||pancakewswap.finance^

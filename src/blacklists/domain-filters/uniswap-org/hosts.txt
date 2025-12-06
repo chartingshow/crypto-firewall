@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 July 2025
+# Last modified: 6 December 2025
 #
 
 # Block uniswap-org sub-domains
@@ -191,6 +191,7 @@
 0.0.0.0 uniswap-support.org
 0.0.0.0 uniswap-update.org
 0.0.0.0 uniswap-user.org
+0.0.0.0 uniswap-v2.co.com
 0.0.0.0 uniswap-verification.org
 0.0.0.0 uniswap-verify.org
 0.0.0.0 uniswap-web.org

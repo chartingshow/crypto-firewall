@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 October 2025
+# Last modified: 6 December 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -13163,6 +13163,7 @@ address=/beli-sup.org/0.0.0.0
 address=/believecreative.com/0.0.0.0
 address=/believefxtrade.com/0.0.0.0
 address=/belin.live/0.0.0.0
+address=/belka.exchange/0.0.0.0
 address=/belkemigi6525.com/0.0.0.0
 address=/bell-1-ca.com/0.0.0.0
 address=/bell-account-activation.com/0.0.0.0
@@ -21024,6 +21025,7 @@ address=/catyeco.com/0.0.0.0
 address=/cauajuanmartinsdesari.cfd/0.0.0.0
 address=/caudioshop.com/0.0.0.0
 address=/caultonconsulting.com/0.0.0.0
+address=/caulwallet.co.com/0.0.0.0
 address=/caupdate-300039-0093.com/0.0.0.0
 address=/caupdate.info/0.0.0.0
 address=/caupdatedelivery.info/0.0.0.0

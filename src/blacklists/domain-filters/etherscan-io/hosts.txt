@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 November 2025
+# Last modified: 6 December 2025
 #
 
 # Block etherscan-io sub-domains
@@ -165,6 +165,7 @@
 0.0.0.0 etherscan-support.io
 0.0.0.0 etherscan-update.io
 0.0.0.0 etherscan-user.io
+0.0.0.0 etherscan-v1.co.com
 0.0.0.0 etherscan-verification.io
 0.0.0.0 etherscan-verify.io
 0.0.0.0 etherscan-web.io
@@ -174,6 +175,7 @@
 0.0.0.0 etherscan.cf
 0.0.0.0 etherscan.cn
 0.0.0.0 etherscan.co
+0.0.0.0 etherscan.co.com
 0.0.0.0 etherscan.com
 0.0.0.0 etherscan.de
 0.0.0.0 etherscan.eu

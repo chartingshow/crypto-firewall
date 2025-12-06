@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (phantom-app)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -26,6 +26,7 @@
 ||confirmphantom.app^
 ||connect-phantom.app^
 ||connectphantom.app^
+||download-phantom.io^
 ||enroll-phantom.app^
 ||enrollphantom.app^
 ||hantom.app^
@@ -170,12 +171,14 @@
 ||phantom-user.app^
 ||phantom-verification.app^
 ||phantom-verify.app^
+||phantom-wallet.co.com^
 ||phantom-web.app^
 ||phantom-www.app^
 ||phantom.biz^
 ||phantom.cf^
 ||phantom.cn^
 ||phantom.co^
+||phantom.co.com^
 ||phantom.com^
 ||phantom.de^
 ||phantom.eu^
