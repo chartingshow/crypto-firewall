@@ -96309,7 +96309,6 @@ address=/tronon.xyz/0.0.0.0
 address=/tronpafet.com/0.0.0.0
 address=/tronpro.cloud/0.0.0.0
 address=/tronqq.xyz/0.0.0.0
-address=/tronscan.org/0.0.0.0
 address=/tronsky.homes/0.0.0.0
 address=/tronsky.in/0.0.0.0
 address=/tronsky.store/0.0.0.0
