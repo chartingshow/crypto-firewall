@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firewall-icon.png" width="128" height="128" /></p>
 
-<h1 align="center">📈 Charting Show: Crypto Firewall ✅</h1>
+<h1 align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/Title-Emoji.svg" /></h1>
 
 Crypto Firewall: Your Digital Shield in the Cryptocurrency Ecosystem
 
