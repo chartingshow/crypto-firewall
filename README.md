@@ -390,6 +390,7 @@ This repo contains various filter list modules, which users can check out in the
 - [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
 - [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
 - [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
+- [Bank Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/bank-phishing-filters)
 - [Botnet Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/botnet-filters)
 - [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
 - [Fake News Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fake-news-filters)
