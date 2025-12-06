@@ -106195,6 +106195,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include url-filters/x.txt
 !#include url-filters/zoom.txt
 
+! Blocking fake banks ----------------------------------------------------------
+!#include bank-phishing-filters/lakecitybank-com/adblock-list.txt
+
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
 !#include subdomain-filters/aliyuncs-com/adblock-list.txt
