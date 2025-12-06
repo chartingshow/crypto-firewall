@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (etherscan-io)
 ! Expires: 7 days (update frequency)
-! Last modified: 6 November 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -166,6 +166,7 @@
 ||etherscan-support.io^
 ||etherscan-update.io^
 ||etherscan-user.io^
+||etherscan-v1.co.com^
 ||etherscan-verification.io^
 ||etherscan-verify.io^
 ||etherscan-web.io^
@@ -175,6 +176,7 @@
 ||etherscan.cf^
 ||etherscan.cn^
 ||etherscan.co^
+||etherscan.co.com^
 ||etherscan.com^
 ||etherscan.de^
 ||etherscan.eu^

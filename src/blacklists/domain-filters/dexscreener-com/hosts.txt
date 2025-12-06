@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 September 2025
+# Last modified: 6 December 2025
 #
 
 # Block dexscreener-com sub-domains
@@ -92,6 +92,7 @@
 0.0.0.0 dexacreener.com
 0.0.0.0 dexascreener.com
 0.0.0.0 dexccreener.com
+0.0.0.0 dexcreener.co.com
 0.0.0.0 dexcreener.com
 0.0.0.0 dexcscreener.com
 0.0.0.0 dexcsreener.com

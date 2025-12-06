@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 July 2025
+# Last modified: 6 december 2025
 #
 
 # Block roninchain-com sub-domains
@@ -250,6 +250,7 @@
 0.0.0.0 roninchain.cf
 0.0.0.0 roninchain.cn
 0.0.0.0 roninchain.co
+0.0.0.0 roninchain.co.com
 0.0.0.0 roninchain.de
 0.0.0.0 roninchain.eu
 0.0.0.0 roninchain.ga
@@ -424,6 +425,7 @@
 0.0.0.0 roninshain.com
 0.0.0.0 roninvchain.com
 0.0.0.0 roninvhain.com
+0.0.0.0 roninwallet.co.com
 0.0.0.0 roninxchain.com
 0.0.0.0 roninxhain.com
 0.0.0.0 roniochain.com

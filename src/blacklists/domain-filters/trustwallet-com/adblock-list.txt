@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (trustwallet-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 19 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -159,6 +159,7 @@
 ||trusrwallet.com^
 ||trusstwallet.com^
 ||trust-wallet.com^
+||trust-wallet.us.com^
 ||trust2allet.com^
 ||trust2wallet.com^
 ||trust3allet.com^
@@ -258,6 +259,7 @@
 ||trustwallet-auth.com^
 ||trustwallet-confirm.com^
 ||trustwallet-connect.com^
+||trustwallet-download.co.com^
 ||trustwallet-enroll.com^
 ||trustwallet-http.com^
 ||trustwallet-https.com^

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 8 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block guarda-com sub-domains
@@ -146,6 +146,7 @@
 0.0.0.0 guarda.tk
 0.0.0.0 guarda.top
 0.0.0.0 guarda.uk
+0.0.0.0 guarda.uk.com
 0.0.0.0 guarda.xyz
 0.0.0.0 guarda0.com
 0.0.0.0 guarda1.com

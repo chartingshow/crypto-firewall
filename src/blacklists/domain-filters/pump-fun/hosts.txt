@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 July 2025
+# Last modified: 6 December 2025
 #
 
 # Block pump-fun sub-domains
@@ -197,6 +197,7 @@
 0.0.0.0 pumps.fun
 0.0.0.0 pumpsafe.fun
 0.0.0.0 pumpsecure.fun
+0.0.0.0 pumpsfun.co.com
 0.0.0.0 pumpsignin.fun
 0.0.0.0 pumpsignup.fun
 0.0.0.0 pumpssl.fun

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (coinmarketcap-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 23 September 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -230,6 +230,7 @@
 ||coinmarketcap-support.com^
 ||coinmarketcap-update.com^
 ||coinmarketcap-user.com^
+||coinmarketcap-v1.co.com^
 ||coinmarketcap-verification.com^
 ||coinmarketcap-verify.com^
 ||coinmarketcap-web.com^

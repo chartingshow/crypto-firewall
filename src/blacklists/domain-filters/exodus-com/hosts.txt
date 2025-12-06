@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 8 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block exodus-com sub-domains
@@ -34,6 +34,7 @@
 0.0.0.0 cxodus.com
 0.0.0.0 cxodvs.com
 0.0.0.0 dexodus.com
+0.0.0.0 download-exodus.io
 0.0.0.0 dxodus.com
 0.0.0.0 e-xodus.com
 0.0.0.0 e3xodus.com
@@ -83,6 +84,7 @@
 0.0.0.0 exo0dus.com
 0.0.0.0 exo9dus.com
 0.0.0.0 exoblus.com
+0.0.0.0 exobus.co.com
 0.0.0.0 exobus.com
 0.0.0.0 exobvs.com
 0.0.0.0 exoc1us.com
@@ -161,6 +163,7 @@
 0.0.0.0 exodus-user.com
 0.0.0.0 exodus-verification.com
 0.0.0.0 exodus-verify.com
+0.0.0.0 exodus-wallet.co.com
 0.0.0.0 exodus-web.com
 0.0.0.0 exodus-www.com
 0.0.0.0 exodus.app
@@ -196,6 +199,7 @@
 0.0.0.0 exodus9.com
 0.0.0.0 exodusa.com
 0.0.0.0 exodusaccount.com
+0.0.0.0 exodusapp.co.com
 0.0.0.0 exodusauth.com
 0.0.0.0 exodusb.com
 0.0.0.0 exodusc.com
@@ -203,6 +207,7 @@
 0.0.0.0 exodusconfirm.com
 0.0.0.0 exodusconnect.com
 0.0.0.0 exodusd.com
+0.0.0.0 exodusdownload.co.com
 0.0.0.0 exoduse.com
 0.0.0.0 exodusenroll.com
 0.0.0.0 exodusf.com
@@ -241,9 +246,19 @@
 0.0.0.0 exodusupdate.com
 0.0.0.0 exodususer.com
 0.0.0.0 exodusv.com
+0.0.0.0 exodusv1.co.com
+0.0.0.0 exodusv1.io
+0.0.0.0 exodusv1.live
 0.0.0.0 exodusverification.com
 0.0.0.0 exodusverify.com
 0.0.0.0 exodusw.com
+0.0.0.0 exoduswallet.io
+0.0.0.0 exoduswallet.live
+0.0.0.0 exoduswallet.us.com
+0.0.0.0 exoduswalletapp.co.com
+0.0.0.0 exoduswalletapp.io
+0.0.0.0 exoduswalletapp.live
+0.0.0.0 exoduswalletapp.us.com
 0.0.0.0 exodusweb.com
 0.0.0.0 exoduswww.com
 0.0.0.0 exodusx.com

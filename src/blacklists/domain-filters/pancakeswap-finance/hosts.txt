@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 14 July 2025
+# Last modified: 6 December 2025
 #
 
 # Block pancakeswap-finance sub-domains
@@ -317,6 +317,7 @@
 0.0.0.0 pancakesxwap.finance
 0.0.0.0 pancakesywap.finance
 0.0.0.0 pancakeszwap.finance
+0.0.0.0 pancakewap.co.com
 0.0.0.0 pancakewap.finance
 0.0.0.0 pancakewsap.finance
 0.0.0.0 pancakewswap.finance

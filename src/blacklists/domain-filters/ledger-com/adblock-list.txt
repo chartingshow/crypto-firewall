@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (ledger-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 13 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -24,13 +24,18 @@
 ||1edqer.com^
 ||account-ledger.com^
 ||accountledger.com^
+||apps-ledger.live^
 ||auth-ledger.com^
 ||authledger.com^
+||best-ledger.live^
 ||confirm-ledger.com^
 ||confirmledger.com^
 ||connect-ledger.com^
 ||connectledger.com^
 ||dedger.com^
+||download-ledger.co.com^
+||download-ledger.io^
+||download-ledger.live^
 ||edger.com^
 ||eldger.com^
 ||enroll-ledger.com^
@@ -123,10 +128,12 @@
 ||ledger-auth.com^
 ||ledger-confirm.com^
 ||ledger-connect.com^
+||ledger-download.io^
 ||ledger-enroll.com^
 ||ledger-http.com^
 ||ledger-https.com^
 ||ledger-info.com^
+||ledger-live.co.com^
 ||ledger-login.com^
 ||ledger-mail.com^
 ||ledger-my.com^
@@ -155,6 +162,7 @@
 ||ledger.de^
 ||ledger.eu^
 ||ledger.ga^
+||ledger.gd^
 ||ledger.gq^
 ||ledger.info^
 ||ledger.live^
@@ -199,6 +207,8 @@
 ||ledgerj.com^
 ||ledgerk.com^
 ||ledgerl.com^
+||ledgerlive.co.com^
+||ledgerlive.info^
 ||ledgerlogin.com^
 ||ledgerm.com^
 ||ledgermail.com^
@@ -323,15 +333,19 @@
 ||lzedger.com^
 ||mail-ledger.com^
 ||mailledger.com^
+||max-ledger.live^
 ||medger.com^
+||mini-ledger.live^
 ||mledger.com^
 ||my-ledger.com^
 ||myledger.com^
+||nano-ledger.live^
 ||nedger.com^
 ||oedger.com^
 ||oledger.com^
 ||online-ledger.com^
 ||onlineledger.com^
+||open-ledger.live^
 ||payment-ledger.com^
 ||paymentledger.com^
 ||pedger.com^
@@ -343,6 +357,7 @@
 ||register-ledger.com^
 ||registerledger.com^
 ||safe-ledger.com^
+||safe-ledger.live^
 ||safeledger.com^
 ||secure-ledger.com^
 ||secureledger.com^
@@ -350,14 +365,22 @@
 ||signinledger.com^
 ||signup-ledger.com^
 ||signupledger.com^
+||soft-ledger.live^
 ||ssl-ledger.com^
 ||sslledger.com^
+||start-ledger.live^
+||suite-ledger.live^
 ||support-ledger.com^
 ||supportledger.com^
 ||update-ledger.com^
 ||updateledger.com^
 ||user-ledger.com^
 ||userledger.com^
+||v1-ledger.co.com^
+||v1-ledger.live^
+||v2-ledger.live^
+||v3-ledger.live^
+||v4-ledger.live^
 ||verification-ledger.com^
 ||verificationledger.com^
 ||verify-ledger.com^

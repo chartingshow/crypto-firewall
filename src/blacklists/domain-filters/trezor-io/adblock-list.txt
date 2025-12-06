@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (trezor-io)
 ! Expires: 7 days (update frequency)
-! Last modified: 19 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -29,6 +29,7 @@
 ||connect-trezor.io^
 ||connecttrezor.io^
 ||drezor.io^
+||eng-trezor.io^
 ||enroll-trezor.io^
 ||enrolltrezor.io^
 ||frezor.io^
@@ -72,6 +73,7 @@
 ||signuptrezor.io^
 ||ssl-trezor.io^
 ||ssltrezor.io^
+||suite-trezor.co.com^
 ||support-trezor.io^
 ||supporttrezor.io^
 ||t-rezor.io^
@@ -184,6 +186,7 @@
 ||trezor-auth.io^
 ||trezor-confirm.io^
 ||trezor-connect.io^
+||trezor-download.io^
 ||trezor-enroll.io^
 ||trezor-http.io^
 ||trezor-https.io^
@@ -202,6 +205,7 @@
 ||trezor-signin.io^
 ||trezor-signup.io^
 ||trezor-ssl.io^
+||trezor-suite.co.com^
 ||trezor-support.io^
 ||trezor-update.io^
 ||trezor-user.io^
@@ -283,6 +287,7 @@
 ||trezorsignin.io^
 ||trezorsignup.io^
 ||trezorssl.io^
+||trezorsuite.co.com^
 ||trezorsupport.io^
 ||trezort.io^
 ||trezoru.io^

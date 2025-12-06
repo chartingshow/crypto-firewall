@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 July 2025
+# Last modified: 6 December 2025
 #
 
 # Block sushi-com sub-domains
@@ -154,6 +154,7 @@
 0.0.0.0 sushi-signup.com
 0.0.0.0 sushi-ssl.com
 0.0.0.0 sushi-support.com
+0.0.0.0 sushi-swap.co.com
 0.0.0.0 sushi-update.com
 0.0.0.0 sushi-user.com
 0.0.0.0 sushi-verification.com

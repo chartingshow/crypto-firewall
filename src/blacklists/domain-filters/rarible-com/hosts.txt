@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 July 2025
+# Last modified: 6 December 2025
 #
 
 # Block rarible-com sub-domains
@@ -155,6 +155,7 @@
 0.0.0.0 rarible-support.com
 0.0.0.0 rarible-update.com
 0.0.0.0 rarible-user.com
+0.0.0.0 rarible-v1.co.com
 0.0.0.0 rarible-verification.com
 0.0.0.0 rarible-verify.com
 0.0.0.0 rarible-web.com
@@ -164,6 +165,7 @@
 0.0.0.0 rarible.cf
 0.0.0.0 rarible.cn
 0.0.0.0 rarible.co
+0.0.0.0 rarible.co.com
 0.0.0.0 rarible.de
 0.0.0.0 rarible.eu
 0.0.0.0 rarible.ga

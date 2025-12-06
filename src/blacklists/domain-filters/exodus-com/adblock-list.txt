@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (exodus-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 8 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -35,6 +35,7 @@
 ||cxodus.com^
 ||cxodvs.com^
 ||dexodus.com^
+||download-exodus.io^
 ||dxodus.com^
 ||e-xodus.com^
 ||e3xodus.com^
@@ -84,6 +85,7 @@
 ||exo0dus.com^
 ||exo9dus.com^
 ||exoblus.com^
+||exobus.co.com^
 ||exobus.com^
 ||exobvs.com^
 ||exoc1us.com^
@@ -162,6 +164,7 @@
 ||exodus-user.com^
 ||exodus-verification.com^
 ||exodus-verify.com^
+||exodus-wallet.co.com^
 ||exodus-web.com^
 ||exodus-www.com^
 ||exodus.app^
@@ -197,6 +200,7 @@
 ||exodus9.com^
 ||exodusa.com^
 ||exodusaccount.com^
+||exodusapp.co.com^
 ||exodusauth.com^
 ||exodusb.com^
 ||exodusc.com^
@@ -204,6 +208,7 @@
 ||exodusconfirm.com^
 ||exodusconnect.com^
 ||exodusd.com^
+||exodusdownload.co.com^
 ||exoduse.com^
 ||exodusenroll.com^
 ||exodusf.com^
@@ -242,9 +247,19 @@
 ||exodusupdate.com^
 ||exodususer.com^
 ||exodusv.com^
+||exodusv1.co.com^
+||exodusv1.io^
+||exodusv1.live^
 ||exodusverification.com^
 ||exodusverify.com^
 ||exodusw.com^
+||exoduswallet.io^
+||exoduswallet.live^
+||exoduswallet.us.com^
+||exoduswalletapp.co.com^
+||exoduswalletapp.io^
+||exoduswalletapp.live^
+||exoduswalletapp.us.com^
 ||exodusweb.com^
 ||exoduswww.com^
 ||exodusx.com^

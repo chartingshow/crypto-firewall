@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (atomicwallet-io)
 ! Expires: 7 days (update frequency)
-! Last modified: 3 October 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -124,7 +124,9 @@
 ||atomi9cwallet.io^
 ||atomiawallet.io^
 ||atomibwallet.io^
+||atomic-wallet.at^
 ||atomic-wallet.io^
+||atomic.co.com^
 ||atomic2allet.io^
 ||atomic2wallet.io^
 ||atomic3allet.io^
@@ -252,6 +254,7 @@
 ||atomicwallet.cf^
 ||atomicwallet.cn^
 ||atomicwallet.co^
+||atomicwallet.co.com^
 ||atomicwallet.com^
 ||atomicwallet.de^
 ||atomicwallet.eu^
@@ -522,6 +525,7 @@
 ||connect-atomicwallet.io^
 ||connectatomicwallet.io^
 ||ctomicwallet.io^
+||download-atomic.io^
 ||enroll-atomicwallet.io^
 ||enrollatomicwallet.io^
 ||etomicwallet.io^

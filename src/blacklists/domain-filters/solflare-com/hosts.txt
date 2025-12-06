@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block solflare-com sub-domains
@@ -202,6 +202,7 @@
 0.0.0.0 solflare.cf
 0.0.0.0 solflare.cn
 0.0.0.0 solflare.co
+0.0.0.0 solflare.co.com
 0.0.0.0 solflare.de
 0.0.0.0 solflare.eu
 0.0.0.0 solflare.ga

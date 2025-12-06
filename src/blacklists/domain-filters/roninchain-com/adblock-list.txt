@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (roninchain-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 14 July 2025
+! Last modified: 6 december 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -251,6 +251,7 @@
 ||roninchain.cf^
 ||roninchain.cn^
 ||roninchain.co^
+||roninchain.co.com^
 ||roninchain.de^
 ||roninchain.eu^
 ||roninchain.ga^
@@ -425,6 +426,7 @@
 ||roninshain.com^
 ||roninvchain.com^
 ||roninvhain.com^
+||roninwallet.co.com^
 ||roninxchain.com^
 ||roninxhain.com^
 ||roniochain.com^

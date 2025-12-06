@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 1 days
-! Last modified: 5 November 2025
+! Last modified: 6 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -13069,6 +13069,7 @@
 ||believecreative.com^
 ||believefxtrade.com^
 ||belin.live^
+||belka.exchange^
 ||belkemigi6525.com^
 ||bell-1-ca.com^
 ||bell-account-activation.com^
@@ -20930,6 +20931,7 @@
 ||cauajuanmartinsdesari.cfd^
 ||caudioshop.com^
 ||caultonconsulting.com^
+||caulwallet.co.com^
 ||caupdate-300039-0093.com^
 ||caupdate.info^
 ||caupdatedelivery.info^
@@ -106272,6 +106274,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/1337-cx/adblock-list.txt
 !#include domain-filters/1inch-io/adblock-list.txt
 !#include domain-filters/3xpl-com/adblock-list.txt
+!#include domain-filters/aave-com/adblock-list.txt
 !#include domain-filters/abra-com/adblock-list.txt
 !#include domain-filters/adamant-im/adblock-list.txt
 !#include domain-filters/adapools-org/adblock-list.txt
@@ -106291,6 +106294,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/altexplorer-co/adblock-list.txt
 !#include domain-filters/amazewallet-com/adblock-list.txt
 !#include domain-filters/ambire-com/adblock-list.txt
+!#include domain-filters/amlbot-com/adblock-list.txt
 !#include domain-filters/amon-tech/adblock-list.txt
 !#include domain-filters/anchorage-com/adblock-list.txt
 !#include domain-filters/ancrypto-io/adblock-list.txt
@@ -106648,6 +106652,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/hydradx-io/adblock-list.txt
 !#include domain-filters/hyperfoundation-org/adblock-list.txt
 !#include domain-filters/hyperion-xyz/adblock-list.txt
+!#include domain-filters/hyperliquid-xyz/adblock-list.txt
 !#include domain-filters/hyperpay-tech/adblock-list.txt
 !#include domain-filters/hyperswap-exchange/adblock-list.txt
 !#include domain-filters/ibitcome-com/adblock-list.txt
@@ -106692,6 +106697,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/levana-finance/adblock-list.txt
 !#include domain-filters/lfj-gg/adblock-list.txt
 !#include domain-filters/libra-org/adblock-list.txt
+!#include domain-filters/lido-fi/adblock-list.txt
 !#include domain-filters/lighter-xyz/adblock-list.txt
 !#include domain-filters/lili-co/adblock-list.txt
 !#include domain-filters/linen-app/adblock-list.txt
@@ -106895,6 +106901,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/tor-us/adblock-list.txt
 !#include domain-filters/tradingview-com/adblock-list.txt
 !#include domain-filters/trezor-io/adblock-list.txt
+!#include domain-filters/tron-network/adblock-list.txt
+!#include domain-filters/trondao-org/adblock-list.txt
+!#include domain-filters/tronscan-org/adblock-list.txt
 !#include domain-filters/trustee-io/adblock-list.txt
 !#include domain-filters/trustology-io/adblock-list.txt
 !#include domain-filters/trustwallet-com/adblock-list.txt

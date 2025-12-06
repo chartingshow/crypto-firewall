@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 October 2025
+# Last modified: 6 December 2025
 #
 
 # Block ledger-com sub-domains
@@ -23,13 +23,18 @@
 0.0.0.0 1edqer.com
 0.0.0.0 account-ledger.com
 0.0.0.0 accountledger.com
+0.0.0.0 apps-ledger.live
 0.0.0.0 auth-ledger.com
 0.0.0.0 authledger.com
+0.0.0.0 best-ledger.live
 0.0.0.0 confirm-ledger.com
 0.0.0.0 confirmledger.com
 0.0.0.0 connect-ledger.com
 0.0.0.0 connectledger.com
 0.0.0.0 dedger.com
+0.0.0.0 download-ledger.co.com
+0.0.0.0 download-ledger.io
+0.0.0.0 download-ledger.live
 0.0.0.0 edger.com
 0.0.0.0 eldger.com
 0.0.0.0 enroll-ledger.com
@@ -122,10 +127,12 @@
 0.0.0.0 ledger-auth.com
 0.0.0.0 ledger-confirm.com
 0.0.0.0 ledger-connect.com
+0.0.0.0 ledger-download.io
 0.0.0.0 ledger-enroll.com
 0.0.0.0 ledger-http.com
 0.0.0.0 ledger-https.com
 0.0.0.0 ledger-info.com
+0.0.0.0 ledger-live.co.com
 0.0.0.0 ledger-login.com
 0.0.0.0 ledger-mail.com
 0.0.0.0 ledger-my.com
@@ -154,6 +161,7 @@
 0.0.0.0 ledger.de
 0.0.0.0 ledger.eu
 0.0.0.0 ledger.ga
+0.0.0.0 ledger.gd
 0.0.0.0 ledger.gq
 0.0.0.0 ledger.info
 0.0.0.0 ledger.live
@@ -198,6 +206,8 @@
 0.0.0.0 ledgerj.com
 0.0.0.0 ledgerk.com
 0.0.0.0 ledgerl.com
+0.0.0.0 ledgerlive.co.com
+0.0.0.0 ledgerlive.info
 0.0.0.0 ledgerlogin.com
 0.0.0.0 ledgerm.com
 0.0.0.0 ledgermail.com
@@ -322,15 +332,19 @@
 0.0.0.0 lzedger.com
 0.0.0.0 mail-ledger.com
 0.0.0.0 mailledger.com
+0.0.0.0 max-ledger.live
 0.0.0.0 medger.com
+0.0.0.0 mini-ledger.live
 0.0.0.0 mledger.com
 0.0.0.0 my-ledger.com
 0.0.0.0 myledger.com
+0.0.0.0 nano-ledger.live
 0.0.0.0 nedger.com
 0.0.0.0 oedger.com
 0.0.0.0 oledger.com
 0.0.0.0 online-ledger.com
 0.0.0.0 onlineledger.com
+0.0.0.0 open-ledger.live
 0.0.0.0 payment-ledger.com
 0.0.0.0 paymentledger.com
 0.0.0.0 pedger.com
@@ -342,6 +356,7 @@
 0.0.0.0 register-ledger.com
 0.0.0.0 registerledger.com
 0.0.0.0 safe-ledger.com
+0.0.0.0 safe-ledger.live
 0.0.0.0 safeledger.com
 0.0.0.0 secure-ledger.com
 0.0.0.0 secureledger.com
@@ -349,14 +364,22 @@
 0.0.0.0 signinledger.com
 0.0.0.0 signup-ledger.com
 0.0.0.0 signupledger.com
+0.0.0.0 soft-ledger.live
 0.0.0.0 ssl-ledger.com
 0.0.0.0 sslledger.com
+0.0.0.0 start-ledger.live
+0.0.0.0 suite-ledger.live
 0.0.0.0 support-ledger.com
 0.0.0.0 supportledger.com
 0.0.0.0 update-ledger.com
 0.0.0.0 updateledger.com
 0.0.0.0 user-ledger.com
 0.0.0.0 userledger.com
+0.0.0.0 v1-ledger.co.com
+0.0.0.0 v1-ledger.live
+0.0.0.0 v2-ledger.live
+0.0.0.0 v3-ledger.live
+0.0.0.0 v4-ledger.live
 0.0.0.0 verification-ledger.com
 0.0.0.0 verificationledger.com
 0.0.0.0 verify-ledger.com
