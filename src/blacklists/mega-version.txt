@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 1 days
-! Last modified: 6 December 2025
+! Last modified: 7 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106604,32 +106604,45 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/explorers-guru/adblock-list.txt
 !#include domain-filters/exwallet-io/adblock-list.txt
 !#include domain-filters/falcon-finance/adblock-list.txt
+!#include domain-filters/figment-io/adblock-list.txt
+!#include domain-filters/filfox-info/adblock-list.txt
+!#include domain-filters/firo-org/adblock-list.txt
 !#include domain-filters/firstledger-net/adblock-list.txt
 !#include domain-filters/flashsoft-eu/adblock-list.txt
 !#include domain-filters/flipster-io/adblock-list.txt
+!#include domain-filters/flowscan-org/adblock-list.txt
 !#include domain-filters/flowx-finance/adblock-list.txt
 !#include domain-filters/fluid-io/adblock-list.txt
 !#include domain-filters/fluvi-xyz/adblock-list.txt
 !#include domain-filters/flxwallet-com/adblock-list.txt
+!#include domain-filters/fomo-family/adblock-list.txt
 !#include domain-filters/fordefi-com/adblock-list.txt
 !#include domain-filters/foundation-app/adblock-list.txt
 !#include domain-filters/freewallet-org/adblock-list.txt
 !#include domain-filters/frontier-xyz/adblock-list.txt
+!#include domain-filters/ftmscan-com/adblock-list.txt
 !#include domain-filters/ftx-com/adblock-list.txt
+!#include domain-filters/fuse-io/adblock-list.txt
+!#include domain-filters/gacanto-com/adblock-list.txt
 !#include domain-filters/gate-com/adblock-list.txt
 !#include domain-filters/gatehub-net/adblock-list.txt
+!#include domain-filters/gather-network/adblock-list.txt
 !#include domain-filters/geckoterminal-com/adblock-list.txt
 !#include domain-filters/gefarapay-com/adblock-list.txt
 !#include domain-filters/gem-xyz/adblock-list.txt
 !#include domain-filters/gemini-com/adblock-list.txt
 !#include domain-filters/getarculus-com/adblock-list.txt
+!#include domain-filters/getmasari-org/adblock-list.txt
 !#include domain-filters/getmonero-org/adblock-list.txt
+!#include domain-filters/ghostscan-io/adblock-list.txt
 !#include domain-filters/gitcoin-co/adblock-list.txt
 !#include domain-filters/github/adblock-list.txt
 !#include domain-filters/glassnode-com/adblock-list.txt
 !#include domain-filters/globe-exchange/adblock-list.txt
 !#include domain-filters/gmx-io/adblock-list.txt
 !#include domain-filters/gnosis-safe-io/adblock-list.txt
+!#include domain-filters/gnosisscan-io/adblock-list.txt
+!#include domain-filters/gobyte-network/adblock-list.txt
 !#include domain-filters/greenaddress-it/adblock-list.txt
 !#include domain-filters/gridlock-network/adblock-list.txt
 !#include domain-filters/gridplus-io/adblock-list.txt
