@@ -418,6 +418,8 @@ _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that min
 
 If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
+<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/github-contribution-grid-snake.svg" /></p>
+
 ## Changelog 🏆
 
 Please see [CHANGELOG](https://github.com/chartingshow/crypto-firewall/releases) for more information what has changed recently.
