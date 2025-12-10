@@ -106731,6 +106731,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/kucoin-com/adblock-list.txt
 !#include domain-filters/kukai-app/adblock-list.txt
 !#include domain-filters/kumawallet-io/adblock-list.txt
+!#include domain-filters/lampyre-io/adblock-list.txt
 !#include domain-filters/larvalabs-com/adblock-list.txt
 !#include domain-filters/lbank-com/adblock-list.txt
 !#include domain-filters/ledger-com/adblock-list.txt
@@ -106743,6 +106744,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/linen-app/adblock-list.txt
 !#include domain-filters/linqto-com/adblock-list.txt
 !#include domain-filters/lisk-com/adblock-list.txt
+!#include domain-filters/lite-cash/adblock-list.txt
 !#include domain-filters/litebit-eu/adblock-list.txt
 !#include domain-filters/litecoin-org/adblock-list.txt
 !#include domain-filters/litevault-io/adblock-list.txt
@@ -106751,8 +106753,10 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/livecoinwatch-com/adblock-list.txt
 !#include domain-filters/lobstr-co/adblock-list.txt
 !#include domain-filters/localbitcoins-com/adblock-list.txt
+!#include domain-filters/lt-hn/adblock-list.txt
 !#include domain-filters/lumiwallet-com/adblock-list.txt
 !#include domain-filters/luno-com/adblock-list.txt
+!#include domain-filters/luxcore-io/adblock-list.txt
 !#include domain-filters/lykke-com/adblock-list.txt
 !#include domain-filters/lynex-fi/adblock-list.txt
 !#include domain-filters/madhoney-fi/adblock-list.txt
@@ -106762,7 +106766,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/magnumwallet-co/adblock-list.txt
 !#include domain-filters/maiar-com/adblock-list.txt
 !#include domain-filters/manta-network/adblock-list.txt
+!#include domain-filters/mantle-xyz/adblock-list.txt
 !#include domain-filters/martianwallet-xyz/adblock-list.txt
+!#include domain-filters/masternodes-online/adblock-list.txt
 !#include domain-filters/mathwallet-org/adblock-list.txt
 !#include domain-filters/mav-xyz/adblock-list.txt
 !#include domain-filters/maxwallet-io/adblock-list.txt
@@ -106772,13 +106778,19 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/metalpay-com/adblock-list.txt
 !#include domain-filters/metalx-com/adblock-list.txt
 !#include domain-filters/metamask-io/adblock-list.txt
+!#include domain-filters/metasleuth-io/adblock-list.txt
 !#include domain-filters/meteora-ag/adblock-list.txt
+!#include domain-filters/meter-io/adblock-list.txt
+!#include domain-filters/metis-io/adblock-list.txt
 !#include domain-filters/mexc-com/adblock-list.txt
 !#include domain-filters/midas-eco/adblock-list.txt
 !#include domain-filters/midaswallet-com/adblock-list.txt
+!#include domain-filters/milkomeda-com/adblock-list.txt
 !#include domain-filters/minipay-io/adblock-list.txt
 !#include domain-filters/minswap-org/adblock-list.txt
+!#include domain-filters/mintscan-io/adblock-list.txt
 !#include domain-filters/mixin-one/adblock-list.txt
+!#include domain-filters/mn-zone/adblock-list.txt
 !#include domain-filters/mobi-io/adblock-list.txt
 !#include domain-filters/monarchwallet-com/adblock-list.txt
 !#include domain-filters/monero-com/adblock-list.txt
