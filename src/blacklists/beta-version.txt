@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 1 days
-! Last modified: 7 December 2025
+! Last modified: 15 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106794,20 +106794,31 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/mobi-io/adblock-list.txt
 !#include domain-filters/monarchwallet-com/adblock-list.txt
 !#include domain-filters/monero-com/adblock-list.txt
+!#include domain-filters/moneroblocks-info/adblock-list.txt
+!#include domain-filters/monerovision-com/adblock-list.txt
 !#include domain-filters/monerujo-io/adblock-list.txt
 !#include domain-filters/monolith-xyz/adblock-list.txt
+!#include domain-filters/moonbeam-network/adblock-list.txt
 !#include domain-filters/moonpay-com/adblock-list.txt
+!#include domain-filters/moonscan-io/adblock-list.txt
 !#include domain-filters/moonwallet-app/adblock-list.txt
 !#include domain-filters/mpcvault-io/adblock-list.txt
 !#include domain-filters/msigna-org/adblock-list.txt
+!#include domain-filters/mtv-ac/adblock-list.txt
 !#include domain-filters/mufex-finance/adblock-list.txt
 !#include domain-filters/multidoge-org/adblock-list.txt
 !#include domain-filters/multis-co/adblock-list.txt
+!#include domain-filters/multiversx-com/adblock-list.txt
+!#include domain-filters/muuchain-com/adblock-list.txt
 !#include domain-filters/muun-com/adblock-list.txt
+!#include domain-filters/mwc-mw/adblock-list.txt
+!#include domain-filters/myce-world/adblock-list.txt
 !#include domain-filters/mycelium-com/adblock-list.txt
 !#include domain-filters/myconstant-com/adblock-list.txt
 !#include domain-filters/mycrypto-com/adblock-list.txt
+!#include domain-filters/mydashwallet-org/adblock-list.txt
 !#include domain-filters/myetherwallet-com/adblock-list.txt
+!#include domain-filters/myghost-org/adblock-list.txt
 !#include domain-filters/mymonero-com/adblock-list.txt
 !#include domain-filters/myx-finance/adblock-list.txt
 !#include domain-filters/narval-xyz/adblock-list.txt
