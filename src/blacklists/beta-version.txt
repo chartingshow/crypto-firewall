@@ -106872,28 +106872,39 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/ownrwallet-com/adblock-list.txt
 !#include domain-filters/ox-fun/adblock-list.txt
 !#include domain-filters/oxen-observer/adblock-list.txt
+!#include domain-filters/pacglobal-io/adblock-list.txt
+!#include domain-filters/pacglobalexplorer-com/adblock-list.txt
 !#include domain-filters/pancakeswap-finance/adblock-list.txt
 !#include domain-filters/pandoraswallet-io/adblock-list.txt
 !#include domain-filters/paradex-trade/adblock-list.txt
 !#include domain-filters/parity-io/adblock-list.txt
+!#include domain-filters/particl-io/adblock-list.txt
 !#include domain-filters/passkeyswallet-com/adblock-list.txt
 !#include domain-filters/perp-com/adblock-list.txt
+!#include domain-filters/phantasma-io/adblock-list.txt
 !#include domain-filters/phantom-app/adblock-list.txt
 !#include domain-filters/pharaoh-exchange/adblock-list.txt
 !#include domain-filters/phemex-com/adblock-list.txt
 !#include domain-filters/pillar-fi/adblock-list.txt
 !#include domain-filters/pillarproject-io/adblock-list.txt
+!#include domain-filters/ping-pub/adblock-list.txt
 !#include domain-filters/pionex-com/adblock-list.txt
 !#include domain-filters/pipwallet-com/adblock-list.txt
+!#include domain-filters/pirate-black/adblock-list.txt
+!#include domain-filters/pivx-org/adblock-list.txt
 !#include domain-filters/plark-io/adblock-list.txt
 !#include domain-filters/plena-finance/adblock-list.txt
+!#include domain-filters/polkascan-io/adblock-list.txt
 !#include domain-filters/poloniex-com/adblock-list.txt
 !#include domain-filters/poltergeistwallet-com/adblock-list.txt
+!#include domain-filters/polygonscan-com/adblock-list.txt
 !#include domain-filters/portalhq-io/adblock-list.txt
 !#include domain-filters/portis-io/adblock-list.txt
 !#include domain-filters/power-trade/adblock-list.txt
+!#include domain-filters/prcycoin-com/adblock-list.txt
 !#include domain-filters/primexbt-com/adblock-list.txt
 !#include domain-filters/prodoge-com/adblock-list.txt
+!#include domain-filters/prohashing-com/adblock-list.txt
 !#include domain-filters/prokeywallet-com/adblock-list.txt
 !#include domain-filters/ptpwallet-com/adblock-list.txt
 !#include domain-filters/pulsex-com/adblock-list.txt
@@ -107040,32 +107051,6 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/zoomex-com/adblock-list.txt
 !#include domain-filters/zumminer-com/adblock-list.txt
 !#include domain-filters/zumo-money/adblock-list.txt
-
-
-
-
-
-
-pacglobal-io
-pacglobalexplorer-com
-particl-io
-phantasma-io
-ping-pub
-pirate-black
-pivx-org
-polkascan-io
-polygonscan-com
-prcycoin-com
-prohashing-com
-
-
-
-
-
-
-
-
-
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
