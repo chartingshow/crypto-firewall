@@ -107041,6 +107041,33 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/zumminer-com/adblock-list.txt
 !#include domain-filters/zumo-money/adblock-list.txt
 
+
+
+
+
+
+pacglobal-io
+pacglobalexplorer-com
+particl-io
+phantasma-io
+ping-pub
+pirate-black
+pivx-org
+polkascan-io
+polygonscan-com
+prcycoin-com
+prohashing-com
+
+
+
+
+
+
+
+
+
+
+
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
 !#include ad-servers/adblock-list.txt
