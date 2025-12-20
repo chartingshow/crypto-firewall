@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 1 days
-! Last modified: 15 December 2025
+! Last modified: 20 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -107024,10 +107024,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/tokit-io/adblock-list.txt
 !#include domain-filters/ton-cx/adblock-list.txt
 !#include domain-filters/ton-page/adblock-list.txt
+!#include domain-filters/ton-sh/adblock-list.txt
+!#include domain-filters/tonapi-io/adblock-list.txt
+!#include domain-filters/toncoin-org/adblock-list.txt
+!#include domain-filters/tonmoon-org/adblock-list.txt
+!#include domain-filters/tonscan-org/adblock-list.txt
 !#include domain-filters/toobit-com/adblock-list.txt
 !#include domain-filters/tor-us/adblock-list.txt
+!#include domain-filters/tracemove-io/adblock-list.txt
 !#include domain-filters/tradingview-com/adblock-list.txt
 !#include domain-filters/trezor-io/adblock-list.txt
+!#include domain-filters/trittium-cc/adblock-list.txt
+!#include domain-filters/trmlabs-com/adblock-list.txt
 !#include domain-filters/tron-network/adblock-list.txt
 !#include domain-filters/trondao-org/adblock-list.txt
 !#include domain-filters/tronscan-org/adblock-list.txt
@@ -107035,6 +107043,9 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/trustology-io/adblock-list.txt
 !#include domain-filters/trustwallet-com/adblock-list.txt
 !#include domain-filters/turbos-finance
+!#include domain-filters/turtlecoin-lol/adblock-list.txt
+!#include domain-filters/tzkt-io/adblock-list.txt
+!#include domain-filters/tzstats-com/adblock-list.txt
 !#include domain-filters/uberpay-io/adblock-list.txt
 !#include domain-filters/ultimate-money/adblock-list.txt
 !#include domain-filters/ultimatewallet-com/adblock-list.txt
