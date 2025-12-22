@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 1 days
-! Last modified: 20 December 2025
+! Last modified: 22 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -107101,17 +107101,31 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/xapo-com/adblock-list.txt
 !#include domain-filters/xdefi-io/adblock-list.txt
 !#include domain-filters/xethwallet-com/adblock-list.txt
+!#include domain-filters/xinfin-network/adblock-list.txt
+!#include domain-filters/xmrchain-net/adblock-list.txt
+!#include domain-filters/xrpscan-com/adblock-list.txt
 !#include domain-filters/xt-com/adblock-list.txt
 !#include domain-filters/xverse-app/adblock-list.txt
 !#include domain-filters/xwallet-io/adblock-list.txt
 !#include domain-filters/yoroi-wallet-com/adblock-list.txt
 !#include domain-filters/youhodler-com/adblock-list.txt
+!#include domain-filters/youton-org/adblock-list.txt
+!#include domain-filters/zano-org/adblock-list.txt
 !#include domain-filters/zcashcommunity-com/adblock-list.txt
+!#include domain-filters/zcha-in/adblock-list.txt
+!#include domain-filters/zcore-cash/adblock-list.txt
+!#include domain-filters/zcore-info/adblock-list.txt
+!#include domain-filters/zcore-network/adblock-list.txt
 !#include domain-filters/zebpay-com/adblock-list.txt
+!#include domain-filters/zecblockexplorer-com/adblock-list.txt
 !#include domain-filters/zelcore-io/adblock-list.txt
 !#include domain-filters/zengo-com/adblock-list.txt
+!#include domain-filters/zensystem-io/adblock-list.txt
 !#include domain-filters/zeply-com/adblock-list.txt
 !#include domain-filters/zerion-io/adblock-list.txt
+!#include domain-filters/zerochain-info/adblock-list.txt
+!#include domain-filters/zerocurrency-io/adblock-list.txt
+!#include domain-filters/zeromachine-io/adblock-list.txt
 !#include domain-filters/zkbob-com/adblock-list.txt
 !#include domain-filters/zkera-fi/adblock-list.txt
 !#include domain-filters/zoomex-com/adblock-list.txt
