@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 July 2025
+# Last modified: 23 December 2025
 #
 
 12octsportsday
@@ -58,13 +58,19 @@ crypto-nodes-validator
 customer-center
 data-portal-dwh-apps-fe
 datamart
+deezcord.js
+dezcord.js
+dizcordjs
 dof-ff
 e-learning-garena
 env-platform
 eslint-config-travix
 estatement-fe
+etherdjs
 ethers-provider2
 ethers-providerz
+ethesjs
+ethetsjs
 event-handle-package
 event-sharing-demo
 flexible-loggers
@@ -105,6 +111,7 @@ nextjs-insight
 node-loggers
 node-orm-mongoose
 node-validators
+nodemonjs
 nomicsfoundations
 os-info-checker-es6
 osd_tp_custom_visualizations
@@ -118,6 +125,7 @@ rapper-wish
 react-event-dependency
 react-logs
 react-plaid-sdk
+react-router-dom.js
 react-xterm2
 reactbootstraps
 refreshrewards
@@ -146,6 +154,7 @@ tenslots
 test-topdev-logger-v1
 test-topdev-logger-v3
 tgi-fe
+typescriptjs
 use-videos
 util-buffers
 vite-loader-svg
@@ -168,3 +177,4 @@ xlog-admin-portal
 xrpl
 yoojae-validator
 zdauth
+zustand.js

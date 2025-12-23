@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 October 2025
+# Last modified: 23 December 2025
 #
 
 013store@goodwillhunting.org
@@ -3792,6 +3792,8 @@ mikksoft@de.servnet.com.pk
 milena@translandtsl.com
 milka.negovanovic@vegadoo.rs
 milu@eurodds.net
+mimikatz@anti.pm
+mimikatzlogs@anti.pm
 Minnoeshot862@gmail.com
 miozij@banglarshonamoni.com
 mipsmedi@mip.mipsmedia1.com
@@ -4430,6 +4432,7 @@ part.analyst@nusantara-group.com
 parts.manager@salujamahindra.com
 partsmgr.nerulws@renault-india.com
 parvenusib528@mta.notifications.intuit.com
+parvlhonor@gmx.com
 pascal@hatat.org
 pascana@grupocadore.com
 pasquale.rizzi@gs-energy.it

@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 September 2025
+# Last modified: 23 December 2025
 #
 
 # Block Free dns and hosting
@@ -84,6 +84,7 @@
 0.0.0.0 hacked.jp
 0.0.0.0 her.name
 0.0.0.0 here-for-more.info
+0.0.0.0 hichina.com
 0.0.0.0 home-webserver.de
 0.0.0.0 homelinux.net
 0.0.0.0 hopto.org
