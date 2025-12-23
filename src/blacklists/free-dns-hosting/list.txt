@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 September 2025
+# Last modified: 23 December 2025
 #
 
 # Domains
@@ -85,6 +85,7 @@ gotdns.ch
 hacked.jp
 her.name
 here-for-more.info
+hichina.com
 home-webserver.de
 homelinux.net
 hopto.org

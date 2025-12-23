@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 October 2025
+# Last modified: 23 December 2025
 #
 
 498-00.cppformat 
@@ -27,6 +27,11 @@ EllisonBrett.givingblankies
 ETHFoundry.etherfoundrys
 evaera-rbx.vscode-rojo-rbx
 JuanFBlanco.awswhh
+malkolm.theme-artschool-remake
+malkolm.theme-ascetic-remake
+malkolm.theme-aurora-remake
+malkolm.theme-azure-remake
+malkolm.theme-bashling-remake
 MarcusLockwood.wgbk
 markh.chatgpt-autocoder-vscode
 markh.claude-autocoder-vscode
@@ -35,7 +40,21 @@ markh.golang-compiler-vscode
 markh.html-obfuscator-vscode
 markh.python-obfuscator-vscode
 markh.rust-compiler-vs
+pandaexpress.theme-anarchist-plugin
+pandaexpress.theme-anarchisteighties-plugin
+pandaexpress.theme-ant-plugin
+pandaexpress.theme-array-plugin
+pandaexpress.theme-arstotzka-plugin
+prada555.theme-abyss-ported
+prada555.theme-acai-ported
+prada555.theme-active4d-ported
+prada555.theme-afterglow-ported
 prettierteam.prettier
+priskinski.Theme-Afterglow-remake
+priskinski.Theme-AgolaDark-remake
+priskinski.Theme-AllHallowsEve-remake
+priskinski.Theme-Amber-remake
+priskinski.Theme-Amy-remake
 Rojo.rojo-roblox-vscode
 ShowSnowcrypto.SnowShoNo
 VitalikButerin-EthFoundation.blan-co
