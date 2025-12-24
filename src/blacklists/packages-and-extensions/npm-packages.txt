@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 24 December 2025
 #
 
 12octsportsday
@@ -38,6 +38,8 @@ accumulate-win
 admin-id
 all-star-2019
 appium-rn-id
+application-phskck
+applicationooks21
 arcademinigame
 array-empty-validator
 auth-validator
@@ -62,6 +64,7 @@ deezcord.js
 dezcord.js
 dizcordjs
 dof-ff
+dsidospsodlks
 e-learning-garena
 env-platform
 eslint-config-travix
@@ -89,6 +92,9 @@ index_patterns_test_plugin
 inhouse-root
 input_control_vis
 installedpackagepublish
+integrator-2829
+integrator-2830
+integrator-filescrypt2025
 is-buffer-validator
 js-bomb
 js-hood
@@ -141,6 +147,7 @@ server-log-engine
 serverlog-dispatch
 sfc-demo
 shiyun-ui
+signals-embed
 skip-tot
 solana-validator
 solidity-comments-extractors
