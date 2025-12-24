@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 24 December 2025
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -9031,6 +9031,7 @@
 0.0.0.0 apponline1-mobile.com
 0.0.0.0 appparsec.com
 0.0.0.0 appportail-mobile.com
+0.0.0.0 appprotector.online
 0.0.0.0 appradarapp.top
 0.0.0.0 appradiantcapitall.com
 0.0.0.0 apprater.net
@@ -10265,6 +10266,7 @@
 0.0.0.0 assistdesk-bell.com
 0.0.0.0 asso.fr
 0.0.0.0 associates-pl.net
+0.0.0.0 association-google.xyz
 0.0.0.0 asss.site
 0.0.0.0 asstb.com
 0.0.0.0 assumedtribsosp.shop
@@ -21876,6 +21878,7 @@
 0.0.0.0 cg5gkd.com
 0.0.0.0 cgangelly.com
 0.0.0.0 cgate-paym.help
+0.0.0.0 cgatgpt.net
 0.0.0.0 cggood.online
 0.0.0.0 cghangenow.io
 0.0.0.0 cgllab.land
@@ -23761,6 +23764,7 @@
 0.0.0.0 clckr.xyz
 0.0.0.0 clean4you.co.il
 0.0.0.0 cleancreditsecrets.com
+0.0.0.0 cleanmasters.store
 0.0.0.0 cleantouch.ae
 0.0.0.0 cleanvr.xyz
 0.0.0.0 cleanwaterforcarllsriver.com
@@ -31036,6 +31040,7 @@
 0.0.0.0 deregister-shield.info
 0.0.0.0 deregister-shield.online
 0.0.0.0 derestrict-com-au.cc
+0.0.0.0 dergoodting.com
 0.0.0.0 derhmajuzi.com
 0.0.0.0 deribitprot.com
 0.0.0.0 deriveing.top
@@ -40223,6 +40228,7 @@
 0.0.0.0 extension-login.com
 0.0.0.0 extension.center
 0.0.0.0 extensionbuysell.com
+0.0.0.0 extensionplay.com
 0.0.0.0 extensionpolicy.net
 0.0.0.0 extensionpolicyprivacy.com
 0.0.0.0 extensionportfolioupdate.com
@@ -45276,6 +45282,7 @@
 0.0.0.0 gotham.community
 0.0.0.0 gotittr.com
 0.0.0.0 goto.now
+0.0.0.0 gotocdn.com
 0.0.0.0 gotomoon.app
 0.0.0.0 gotoqueenvegas.com
 0.0.0.0 gotoroyale500.com
@@ -73294,6 +73301,7 @@
 0.0.0.0 phantoms.fm
 0.0.0.0 phantomscanner.xyz
 0.0.0.0 phantomsglobal.org
+0.0.0.0 phantomshuttle.space
 0.0.0.0 phantomwalleto.su
 0.0.0.0 phantomwallets.app
 0.0.0.0 phantomwallets.xyz
@@ -104941,6 +104949,7 @@
 0.0.0.0 yearnfi.app
 0.0.0.0 yearnfinance.org
 0.0.0.0 yearnn.com
+0.0.0.0 yearnnewtab.com
 0.0.0.0 yearns.finance
 0.0.0.0 yearnwallet.net
 0.0.0.0 yebabyvip.com
