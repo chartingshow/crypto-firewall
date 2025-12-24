@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.0.8
+ * @version 2.0.9
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -24,6 +24,8 @@
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extension-ids.txt',
     'chrome.google.com/webstore':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
+    'edge.extension':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/edge-extension-ids.txt',
     'facebook.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/facebook-ids.txt',
     'firebaseio.com':
@@ -166,6 +168,11 @@
         href.includes('/webstore')
           ? checkURLAgainstBlacklist('chrome.google.com/webstore')
           : checkURLAgainstBlacklist('chrome.extension'),
+      'microsoftedge.microsoft.com': () => {
+        if (href.includes('/addons')) {
+          checkURLAgainstBlacklist('edge.extension')
+        }
+      },
       'facebook.com': () => checkURLAgainstBlacklist('facebook.com'),
       'firebaseio.com': () => checkURLAgainstBlacklist('firebaseio.com'),
       'marketplace.visualstudio.com': () =>
