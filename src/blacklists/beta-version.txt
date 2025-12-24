@@ -8928,6 +8928,7 @@
 ||apponline1-mobile.com^
 ||appparsec.com^
 ||appportail-mobile.com^
+||appprotector.online^
 ||appradarapp.top^
 ||appradiantcapitall.com^
 ||apprater.net^
@@ -10162,6 +10163,7 @@
 ||assistdesk-bell.com^
 ||asso.fr^
 ||associates-pl.net^
+||association-google.xyz^
 ||asss.site^
 ||asstb.com^
 ||assumedtribsosp.shop^
@@ -21773,6 +21775,7 @@
 ||cg5gkd.com^
 ||cgangelly.com^
 ||cgate-paym.help^
+||cgatgpt.net^
 ||cggood.online^
 ||cghangenow.io^
 ||cgllab.land^
@@ -23658,6 +23661,7 @@
 ||clckr.xyz^
 ||clean4you.co.il^
 ||cleancreditsecrets.com^
+||cleanmasters.store^
 ||cleantouch.ae^
 ||cleanvr.xyz^
 ||cleanwaterforcarllsriver.com^
@@ -30933,6 +30937,7 @@
 ||deregister-shield.info^
 ||deregister-shield.online^
 ||derestrict-com-au.cc^
+||dergoodting.com^
 ||derhmajuzi.com^
 ||deribitprot.com^
 ||deriveing.top^
@@ -40120,6 +40125,7 @@
 ||extension-login.com^
 ||extension.center^
 ||extensionbuysell.com^
+||extensionplay.com^
 ||extensionpolicy.net^
 ||extensionpolicyprivacy.com^
 ||extensionportfolioupdate.com^
@@ -45173,6 +45179,7 @@
 ||gotham.community^
 ||gotittr.com^
 ||goto.now^
+||gotocdn.com^
 ||gotomoon.app^
 ||gotoqueenvegas.com^
 ||gotoroyale500.com^
@@ -73191,6 +73198,7 @@
 ||phantoms.fm^
 ||phantomscanner.xyz^
 ||phantomsglobal.org^
+||phantomshuttle.space^
 ||phantomwalleto.su^
 ||phantomwallets.app^
 ||phantomwallets.xyz^
@@ -104838,6 +104846,7 @@
 ||yearnfi.app^
 ||yearnfinance.org^
 ||yearnn.com^
+||yearnnewtab.com^
 ||yearns.finance^
 ||yearnwallet.net^
 ||yebabyvip.com^

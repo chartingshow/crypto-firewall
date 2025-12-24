@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 24 December 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -9022,6 +9022,7 @@ address=/apponline-alerts.com/0.0.0.0
 address=/apponline1-mobile.com/0.0.0.0
 address=/appparsec.com/0.0.0.0
 address=/appportail-mobile.com/0.0.0.0
+address=/appprotector.online/0.0.0.0
 address=/appradarapp.top/0.0.0.0
 address=/appradiantcapitall.com/0.0.0.0
 address=/apprater.net/0.0.0.0
@@ -10256,6 +10257,7 @@ address=/assistdelivery-bycanpost.com/0.0.0.0
 address=/assistdesk-bell.com/0.0.0.0
 address=/asso.fr/0.0.0.0
 address=/associates-pl.net/0.0.0.0
+address=/association-google.xyz/0.0.0.0
 address=/asss.site/0.0.0.0
 address=/asstb.com/0.0.0.0
 address=/assumedtribsosp.shop/0.0.0.0
@@ -21867,6 +21869,7 @@ address=/cg29lhgyrqen08.com.de/0.0.0.0
 address=/cg5gkd.com/0.0.0.0
 address=/cgangelly.com/0.0.0.0
 address=/cgate-paym.help/0.0.0.0
+address=/cgatgpt.net/0.0.0.0
 address=/cggood.online/0.0.0.0
 address=/cghangenow.io/0.0.0.0
 address=/cgllab.land/0.0.0.0
@@ -23752,6 +23755,7 @@ address=/clcc.cl/0.0.0.0
 address=/clckr.xyz/0.0.0.0
 address=/clean4you.co.il/0.0.0.0
 address=/cleancreditsecrets.com/0.0.0.0
+address=/cleanmasters.store/0.0.0.0
 address=/cleantouch.ae/0.0.0.0
 address=/cleanvr.xyz/0.0.0.0
 address=/cleanwaterforcarllsriver.com/0.0.0.0
@@ -31027,6 +31031,7 @@ address=/deregister-shield.com/0.0.0.0
 address=/deregister-shield.info/0.0.0.0
 address=/deregister-shield.online/0.0.0.0
 address=/derestrict-com-au.cc/0.0.0.0
+address=/dergoodting.com/0.0.0.0
 address=/derhmajuzi.com/0.0.0.0
 address=/deribitprot.com/0.0.0.0
 address=/deriveing.top/0.0.0.0
@@ -40214,6 +40219,7 @@ address=/extension-88dba557-e958-40be-ad4f-39917524a432.com/0.0.0.0
 address=/extension-login.com/0.0.0.0
 address=/extension.center/0.0.0.0
 address=/extensionbuysell.com/0.0.0.0
+address=/extensionplay.com/0.0.0.0
 address=/extensionpolicy.net/0.0.0.0
 address=/extensionpolicyprivacy.com/0.0.0.0
 address=/extensionportfolioupdate.com/0.0.0.0
@@ -45267,6 +45273,7 @@ address=/gotdns.ch/0.0.0.0
 address=/gotham.community/0.0.0.0
 address=/gotittr.com/0.0.0.0
 address=/goto.now/0.0.0.0
+address=/gotocdn.com/0.0.0.0
 address=/gotomoon.app/0.0.0.0
 address=/gotoqueenvegas.com/0.0.0.0
 address=/gotoroyale500.com/0.0.0.0
@@ -73285,6 +73292,7 @@ address=/phantoms-ext.com/0.0.0.0
 address=/phantoms.fm/0.0.0.0
 address=/phantomscanner.xyz/0.0.0.0
 address=/phantomsglobal.org/0.0.0.0
+address=/phantomshuttle.space/0.0.0.0
 address=/phantomwalleto.su/0.0.0.0
 address=/phantomwallets.app/0.0.0.0
 address=/phantomwallets.xyz/0.0.0.0
@@ -104932,6 +104940,7 @@ address=/yearnbeta.com/0.0.0.0
 address=/yearnfi.app/0.0.0.0
 address=/yearnfinance.org/0.0.0.0
 address=/yearnn.com/0.0.0.0
+address=/yearnnewtab.com/0.0.0.0
 address=/yearns.finance/0.0.0.0
 address=/yearnwallet.net/0.0.0.0
 address=/yebabyvip.com/0.0.0.0

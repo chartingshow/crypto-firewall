@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 24 December 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -9022,6 +9022,7 @@ apponline-alerts.com
 apponline1-mobile.com
 appparsec.com
 appportail-mobile.com
+appprotector.online
 appradarapp.top
 appradiantcapitall.com
 apprater.net
@@ -10256,6 +10257,7 @@ assistdelivery-bycanpost.com
 assistdesk-bell.com
 asso.fr
 associates-pl.net
+association-google.xyz
 asss.site
 asstb.com
 assumedtribsosp.shop
@@ -21867,6 +21869,7 @@ cg29lhgyrqen08.com.de
 cg5gkd.com
 cgangelly.com
 cgate-paym.help
+cgatgpt.net
 cggood.online
 cghangenow.io
 cgllab.land
@@ -23752,6 +23755,7 @@ clcc.cl
 clckr.xyz
 clean4you.co.il
 cleancreditsecrets.com
+cleanmasters.store
 cleantouch.ae
 cleanvr.xyz
 cleanwaterforcarllsriver.com
@@ -31027,6 +31031,7 @@ deregister-shield.com
 deregister-shield.info
 deregister-shield.online
 derestrict-com-au.cc
+dergoodting.com
 derhmajuzi.com
 deribitprot.com
 deriveing.top
@@ -40214,6 +40219,7 @@ extension-88dba557-e958-40be-ad4f-39917524a432.com
 extension-login.com
 extension.center
 extensionbuysell.com
+extensionplay.com
 extensionpolicy.net
 extensionpolicyprivacy.com
 extensionportfolioupdate.com
@@ -45267,6 +45273,7 @@ gotdns.ch
 gotham.community
 gotittr.com
 goto.now
+gotocdn.com
 gotomoon.app
 gotoqueenvegas.com
 gotoroyale500.com
@@ -73285,6 +73292,7 @@ phantoms-ext.com
 phantoms.fm
 phantomscanner.xyz
 phantomsglobal.org
+phantomshuttle.space
 phantomwalleto.su
 phantomwallets.app
 phantomwallets.xyz
@@ -104932,6 +104940,7 @@ yearnbeta.com
 yearnfi.app
 yearnfinance.org
 yearnn.com
+yearnnewtab.com
 yearns.finance
 yearnwallet.net
 yebabyvip.com
