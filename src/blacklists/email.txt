@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 24 December 2025
 #
 
 013store@goodwillhunting.org
@@ -5600,6 +5600,7 @@ thakur@qadnet.com
 thamaraiselvan.m@ionexchange.co.in
 thaott1@xanhcity.com.vn
 thedron101@gmail.com
+theknewone.com@gmail.com
 Theyused@hideemail.com
 thgronie.latia@bendigopartyhire.au
 thien@mailananh.com.vn
