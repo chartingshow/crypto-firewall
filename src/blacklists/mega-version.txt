@@ -106308,6 +106308,21 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include url-filters/zoom.txt
 
 ! Blocking fake banks ----------------------------------------------------------
+!#include bank-phishing-filters/aibgb-co-uk/adblock-list.txt
+!#include bank-phishing-filters/aldermore-co-uk/adblock-list.txt
+!#include bank-phishing-filters/allica-bank/adblock-list.txt
+!#include bank-phishing-filters/arbuthnotlatham-co-uk/adblock-list.txt
+!#include bank-phishing-filters/bankofamerica-com/adblock-list.txt
+!#include bank-phishing-filters/bankofscotland-co-uk/adblock-list.txt
+!#include bank-phishing-filters/barclays-co-uk/adblock-list.txt
+!#include bank-phishing-filters/bathbuildingsociety-co-uk/adblock-list.txt
+!#include bank-phishing-filters/boi-com/adblock-list.txt
+!#include bank-phishing-filters/capitalone-com/adblock-list.txt
+!#include bank-phishing-filters/chase-com/adblock-list.txt
+!#include bank-phishing-filters/citibank-com/adblock-list.txt
+!#include bank-phishing-filters/clear-bank/adblock-list.txt
+!#include bank-phishing-filters/clydesdale-co-uk/adblock-list.txt
+!#include bank-phishing-filters/co-operativebank-co-uk/adblock-list.txt
 !#include bank-phishing-filters/lakecitybank-com/adblock-list.txt
 
 ! Blocking subdomains ----------------------------------------------------------
