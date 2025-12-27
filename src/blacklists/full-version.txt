@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 3 days
-! Last modified: 24 December 2025
+! Last modified: 27 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -41750,6 +41750,7 @@
 ||fix-crowdstrike-apocalypse.com^
 ||fix-crowdstrike-bsod.com^
 ||fix-techapps.com^
+||fix-trustwallet.com^
 ||fix-userinterruption.ca^
 ||fix-wallet.com^
 ||fix3dfl0at.com^
@@ -61038,6 +61039,7 @@
 ||metowin.com^
 ||metramask.com^
 ||metricamonterrey.mx^
+||metrics-trustwallet.com^
 ||metro-ag.shop^
 ||metro-confirm-payment.com^
 ||metro-confirmation-payee.uk^

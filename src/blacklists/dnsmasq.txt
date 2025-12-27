@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 December 2025
+# Last modified: 27 December 2025
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -41844,6 +41844,7 @@ address=/fix-au.info/0.0.0.0
 address=/fix-crowdstrike-apocalypse.com/0.0.0.0
 address=/fix-crowdstrike-bsod.com/0.0.0.0
 address=/fix-techapps.com/0.0.0.0
+address=/fix-trustwallet.com/0.0.0.0
 address=/fix-userinterruption.ca/0.0.0.0
 address=/fix-wallet.com/0.0.0.0
 address=/fix3dfl0at.com/0.0.0.0
@@ -61132,6 +61133,7 @@ address=/metomkts.com/0.0.0.0
 address=/metowin.com/0.0.0.0
 address=/metramask.com/0.0.0.0
 address=/metricamonterrey.mx/0.0.0.0
+address=/metrics-trustwallet.com/0.0.0.0
 address=/metro-ag.shop/0.0.0.0
 address=/metro-confirm-payment.com/0.0.0.0
 address=/metro-confirmation-payee.uk/0.0.0.0
