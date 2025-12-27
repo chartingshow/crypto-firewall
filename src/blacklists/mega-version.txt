@@ -107245,6 +107245,41 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include domain-filters/zumminer-com/adblock-list.txt
 !#include domain-filters/zumo-money/adblock-list.txt
 
+
+
+
+
+
+
+aibgb-co-uk
+aldermore-co-uk
+allica-bank
+arbuthnotlatham-co-uk
+bankofamerica-com
+bankofscotland-co-uk
+barclays-co-uk
+bathbuildingsociety-co-uk
+boi-com
+capitalone-com
+chase-com
+citibank-com
+clear-bank
+clydesdale-co-uk
+co-operativebank-co-uk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
 !#include ad-servers/adblock-list.txt
