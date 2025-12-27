@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 December 2025
+# Last modified: 27 December 2025
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -44968,6 +44968,7 @@ fix-au.info
 fix-crowdstrike-apocalypse.com
 fix-crowdstrike-bsod.com
 fix-techapps.com
+fix-trustwallet.com
 fix-userinterruption.ca
 fix-wallet.com
 fix3dfl0at.com
@@ -64256,6 +64257,7 @@ metomkts.com
 metowin.com
 metramask.com
 metricamonterrey.mx
+metrics-trustwallet.com
 metro-ag.shop
 metro-confirm-payment.com
 metro-confirmation-payee.uk
