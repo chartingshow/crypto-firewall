@@ -106323,7 +106323,21 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include bank-phishing-filters/clear-bank/adblock-list.txt
 !#include bank-phishing-filters/clydesdale-co-uk/adblock-list.txt
 !#include bank-phishing-filters/co-operativebank-co-uk/adblock-list.txt
+!#include bank-phishing-filters/coutts-com/adblock-list.txt
+!#include bank-phishing-filters/coventrybuildingsociety-co-uk/adblock-list.txt
+!#include bank-phishing-filters/cumberlandbuildingsociety-co-uk/adblock-list.txt
+!#include bank-phishing-filters/firstdirect-com/adblock-list.txt
+!#include bank-phishing-filters/goldmansachs-com/adblock-list.txt
+!#include bank-phishing-filters/halifax-co-uk/adblock-list.txt
+!#include bank-phishing-filters/handelsbanken-co-uk/adblock-list.txt
+!#include bank-phishing-filters/hsbc-co-uk/adblock-list.txt
 !#include bank-phishing-filters/lakecitybank-com/adblock-list.txt
+!#include bank-phishing-filters/leedsbuildingsociety-co-uk/adblock-list.txt
+!#include bank-phishing-filters/leekunited-co-uk/adblock-list.txt
+!#include bank-phishing-filters/lloydsbank-com/adblock-list.txt
+!#include bank-phishing-filters/metrobankonline-co-uk/adblock-list.txt
+!#include bank-phishing-filters/monmouthshire-bs-co-uk/adblock-list.txt
+!#include bank-phishing-filters/monzo-com/adblock-list.txt
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
