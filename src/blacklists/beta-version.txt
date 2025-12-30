@@ -106338,6 +106338,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include bank-phishing-filters/metrobankonline-co-uk/adblock-list.txt
 !#include bank-phishing-filters/monmouthshire-bs-co-uk/adblock-list.txt
 !#include bank-phishing-filters/monzo-com/adblock-list.txt
+!#include bank-phishing-filters/morganstanley-com/adblock-list.txt
+!#include bank-phishing-filters/nationalland-co-uk/adblock-list.txt
+!#include bank-phishing-filters/nationwide-co-uk/adblock-list.txt
+!#include bank-phishing-filters/natwest-com/adblock-list.txt
+!#include bank-phishing-filters/newcastle-co-uk/adblock-list.txt
+!#include bank-phishing-filters/oaknorth-com/adblock-list.txt
+!#include bank-phishing-filters/penrithbs-co-uk/adblock-list.txt
+!#include bank-phishing-filters/pnc-com/adblock-list.txt
+!#include bank-phishing-filters/principality-co-uk/adblock-list.txt
+!#include bank-phishing-filters/rbs-co-uk/adblock-list.txt
+!#include bank-phishing-filters/revolut-com/adblock-list.txt
+!#include bank-phishing-filters/santander-co-uk/adblock-list.txt
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
