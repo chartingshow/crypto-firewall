@@ -106351,6 +106351,29 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include bank-phishing-filters/revolut-com/adblock-list.txt
 !#include bank-phishing-filters/santander-co-uk/adblock-list.txt
 
+
+
+
+sc-com
+securetrustbank-com
+shawbrook-co-uk
+skipton-co-uk
+starlingbank-com
+tdbank-com
+tsb-co-uk
+usbank-com
+virginmoney-com
+wellsfargo-com
+westbrom-co-uk
+ybs-co-uk
+
+
+
+
+
+
+
+
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
 !#include subdomain-filters/aliyuncs-com/adblock-list.txt
