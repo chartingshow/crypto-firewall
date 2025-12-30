@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 1 days
-! Last modified: 27 December 2025
+! Last modified: 30 December 2025
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106350,6 +106350,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include bank-phishing-filters/rbs-co-uk/adblock-list.txt
 !#include bank-phishing-filters/revolut-com/adblock-list.txt
 !#include bank-phishing-filters/santander-co-uk/adblock-list.txt
+!#include bank-phishing-filters/sc-com/adblock-list.txt
+!#include bank-phishing-filters/securetrustbank-com/adblock-list.txt
+!#include bank-phishing-filters/shawbrook-co-uk/adblock-list.txt
+!#include bank-phishing-filters/skipton-co-uk/adblock-list.txt
+!#include bank-phishing-filters/starlingbank-com/adblock-list.txt
+!#include bank-phishing-filters/tdbank-com/adblock-list.txt
+!#include bank-phishing-filters/tsb-co-uk/adblock-list.txt
+!#include bank-phishing-filters/usbank-com/adblock-list.txt
+!#include bank-phishing-filters/virginmoney-com/adblock-list.txt
+!#include bank-phishing-filters/wellsfargo-com/adblock-list.txt
+!#include bank-phishing-filters/westbrom-co-uk/adblock-list.txt
+!#include bank-phishing-filters/ybs-co-uk/adblock-list.txt
 
 ! Blocking subdomains ----------------------------------------------------------
 !#include subdomain-filters/5v-pl/adblock-list.txt
