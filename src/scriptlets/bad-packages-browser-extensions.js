@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.0.9
+ * @version 2.1.0
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license - (View LICENSE file for details)
  *
@@ -18,26 +18,43 @@
   const blacklistURLs = {
     'addons.mozilla.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firefox-extensions.txt',
+  
+    'addons.mozilla.org:ids':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firefox-extensions-ids.txt',
+  
+    'addons.opera.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/opera-extensions.txt',
+  
     'apps.apple.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/apple-app-store.txt',
+  
     'chrome.extension':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extension-ids.txt',
+  
     'chrome.google.com/webstore':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
+  
     'edge.extension':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/edge-extension-ids.txt',
+  
     'facebook.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/facebook-ids.txt',
+  
     'firebaseio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firebase-projects.txt',
+  
     'marketplace.visualstudio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vscode-extensions.txt',
+  
     'npmjs.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/npm-packages.txt',
+  
     'open-vsx.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vsxcode-extensions.txt',
+  
     'play.google.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/google-play.txt',
+  
     'pypi.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/pypi-packages.txt',
   }
@@ -89,16 +106,50 @@
     }
   }
 
-  // Check current URL against a blacklist
+  // Check current URL against a blacklist (strict ID + optimised)
   async function checkURLAgainstBlacklist(hostname) {
     const blacklistUrl = blacklistURLs[hostname]
     if (!blacklistUrl) return
-
+  
     const blacklist = await fetchBlacklist(blacklistUrl)
+    if (!blacklist || blacklist.length === 0) return
+  
     const currentURL = window.location.href.toLowerCase()
-
-    for (const threat of blacklist) {
-      if (currentURL.includes(threat.package.toLowerCase())) {
+  
+    // Fast exit for very short URLs
+    if (currentURL.length < 10) return
+  
+    for (let i = 0; i < blacklist.length; i++) {
+      const threat = blacklist[i]
+      if (!threat || !threat.package) continue
+  
+      const pkg = threat.package.toLowerCase()
+  
+      // Chrome / Edge / Opera extension ID (32 chars)
+      const isChromeStyleID = /^[a-z0-9]{32}$/.test(pkg)
+  
+      // Firefox UUID extension ID
+      const isFirefoxUUID =
+        pkg.startsWith('{') && pkg.endsWith('}')
+  
+      let matched = false
+  
+      if (isChromeStyleID) {
+        // Strict Chrome-style ID matching
+        matched =
+          currentURL.includes(`/detail/`) &&
+          currentURL.includes(pkg)
+      } else if (isFirefoxUUID) {
+        // Strict Firefox UUID matching
+        matched =
+          currentURL.includes(pkg) &&
+          currentURL.includes('addons.mozilla.org')
+      } else {
+        // Slug / package / project name
+        matched = currentURL.includes(pkg)
+      }
+  
+      if (matched) {
         showEnhancedAlert(threat, hostname)
         logThreatDetection(threat)
         break
@@ -152,22 +203,35 @@
 
   // Domain-specific handlers (with subdomain support)
   function checkCurrentDomain() {
-    const {hostname, href} = window.location
+    const hostname = window.location.hostname
+    const href = window.location.href
 
     const findDomainKey = (host) =>
       Object.keys(blacklistURLs).find(
-        (key) => host === key || host.endsWith(`.${key}`)
+        (key) =>
+          !key.includes(':') &&
+          (host === key || host.endsWith(`.${key}`))
       )
 
     const domainKey = findDomainKey(hostname)
 
     const domainHandlers = {
-      'addons.mozilla.org': () => checkURLAgainstBlacklist('addons.mozilla.org'),
+      'addons.mozilla.org': () => {
+        checkURLAgainstBlacklist('addons.mozilla.org')
+        checkURLAgainstBlacklist('addons.mozilla.org:ids')
+      },
+      'addons.opera.com': () => checkURLAgainstBlacklist('addons.opera.com'),
       'apps.apple.com': () => checkURLAgainstBlacklist('apps.apple.com'),
-      'chrome.google.com': () =>
-        href.includes('/webstore')
-          ? checkURLAgainstBlacklist('chrome.google.com/webstore')
-          : checkURLAgainstBlacklist('chrome.extension'),
+      'chrome.google.com': () => {
+        if (href.includes('/webstore')) {
+          checkURLAgainstBlacklist('chrome.google.com/webstore')
+      
+          // Opera extensions are frequently distributed via Chrome Web Store
+          checkURLAgainstBlacklist('addons.opera.com')
+        } else {
+          checkURLAgainstBlacklist('chrome.extension')
+        }
+      },
       'microsoftedge.microsoft.com': () => {
         if (href.includes('/addons')) {
           checkURLAgainstBlacklist('edge.extension')
