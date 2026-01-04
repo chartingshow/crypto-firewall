@@ -143,7 +143,7 @@
         // Strict Firefox UUID matching
         matched =
           currentURL.includes(pkg) &&
-          currentURL.includes('addons.mozilla.org')
+          hostname === 'addons.mozilla.org'
       } else {
         // Slug / package / project name
         matched = currentURL.includes(pkg)
