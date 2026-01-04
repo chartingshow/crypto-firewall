@@ -1,0 +1,17 @@
+# Crypto Firewall
+# Blocking Web Browser Crypto Malware and Phishing Websites
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 4 January 2026
+#
+
+{34b0d04c-29cf-473c-bb6c-c2fe94377b99}
+{5f246670-f5e2-45ff-b183-be21cbeb065a}
+{7536027f-96fb-4762-9e02-fdfaedd3bfb5}
+{7cc10397-c6f4-4a27-a1e7-83b870dd6cab}
+{99d4bddd-5452-4216-83bc-fcd57857b6fb}
+{c257a965-0bf8-4934-bf85-9ebf761d1cf8}
+{f7d2c8aa-e06e-4117-8b99-52a145eb7d23}
