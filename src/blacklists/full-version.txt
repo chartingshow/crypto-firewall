@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Full Version)
 ! Expires: 3 days
-! Last modified: 27 December 2025
+! Last modified: 5 January 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -13550,6 +13550,7 @@
 ||benfimigrate.website^
 ||benfliomigrate.io^
 ||bengalmartbd.com^
+||benimaddonum.com^
 ||beningsbatam.com^
 ||benitorevilla.com^
 ||benitriodel.top^
@@ -29642,6 +29643,7 @@
 ||deadtrainingactioniw.xyz^
 ||deadwinston.com^
 ||deal2loans.online^
+||dealctr.com^
 ||dealdoctor.co^
 ||dealerhonda.com.br^
 ||dealermobil.top^
@@ -32366,6 +32368,7 @@
 ||diyalog.net^
 ||diyexake.com^
 ||diyndishad.xyz^
+||diytab.com^
 ||dizaynmalikane61.com^
 ||dizilab.net^
 ||dizilab6.com^
@@ -34413,6 +34416,7 @@
 ||edgemiddleeast.com^
 ||edgescoins.com^
 ||edgesync.net^
+||edgetranslate.com^
 ||edgeupdates.com^
 ||edgeupgrade.com^
 ||edgymart.com^
@@ -40132,6 +40136,7 @@
 ||extensionprotocol.dev^
 ||extensionsupdate.com^
 ||extersa.com^
+||extfans.com^
 ||extilivrosntor.shop^
 ||extinternal-cloud.com^
 ||extools.io^
@@ -44858,6 +44863,7 @@
 ||gmxv1.com^
 ||gmxv2.com^
 ||gmxv2.org^
+||gmzdaily.com^
 ||gncaf.or.kr^
 ||gnearbyeva.top^
 ||gnetwork.me^
@@ -49396,6 +49402,7 @@
 ||imajbet250.com^
 ||imaltoken.com^
 ||imaps-capital.com^
+||imba97.cn^
 ||imbbq.co^
 ||imberform.com^
 ||imbertec.com.py^
@@ -49985,9 +49992,11 @@
 ||infinityfree.net^
 ||infinitylongtrio.com^
 ||infinitymint.net^
+||infinitynewtab.com^
 ||infinityoption.net^
 ||infinityproadvantage.com^
 ||infinityreliableinvestment.com^
+||infinitytab.com^
 ||infinityy.online^
 ||infirmicuarus247can.com^
 ||inflation-caq-qc.online^
@@ -52275,6 +52284,7 @@
 ||issuesrectification.net^
 ||issurefnd-payca.com^
 ||istand4obi.com^
+||istartnewtab.com^
 ||isteklergelirgiz.top^
 ||isthatjessiej.com^
 ||istiklalmakina.com^
@@ -53303,6 +53313,7 @@
 ||jspzpsss.site^
 ||jsq33.shop^
 ||jsrpsss.site^
+||jt2x.com^
 ||jt3000.com^
 ||jtbz.net^
 ||jtechinformatica.com^
@@ -56073,6 +56084,7 @@
 ||letscall.ltd^
 ||letscall.today^
 ||letscoolsupport.com^
+||letsearchesp.com^
 ||letsencryp.at^
 ||letsgocover.co.uk^
 ||letsketchup.online^
@@ -56886,6 +56898,7 @@
 ||livetrackerplugin.com^
 ||livetv704.me^
 ||liveupdates.email^
+||liveupdt.com^
 ||liveusdt.exchange^
 ||livevalidation.online^
 ||liveweatherlauncher.com^
@@ -59701,6 +59714,7 @@
 ||meetandeatsac.com^
 ||meeten.us^
 ||meetinglove.life^
+||meetingtv.us^
 ||meetio.one^
 ||meetmenowbangkok.com^
 ||meetmeorkakel.site^
@@ -61956,6 +61970,7 @@
 ||mitamask.io^
 ||mitaoapp.space^
 ||mitaoshe.cyou^
+||mitarchive.info^
 ||mitedaziko.xyz^
 ||mitfeminineliv.dk^
 ||mitid-autentificere.online^
@@ -63839,6 +63854,7 @@
 ||munozconsulting.online^
 ||munshihr.com^
 ||muntantitans.club^
+||muo.cc^
 ||muprimepvp.com^
 ||mupvkl.com^
 ||muqgllmqtyllhwn.com^
@@ -67210,6 +67226,7 @@
 ||niud.info^
 ||nium.com^
 ||niussapp.com^
+||nivex0.one^
 ||nivimpex.hu^
 ||niwakomuten.co.jp^
 ||nixbachinga.com^
@@ -99008,6 +99025,7 @@
 ||users-kroll.com^
 ||users-pages-portal.com^
 ||users1.cc^
+||userscss.top^
 ||userserveraccpage.info^
 ||usersevercentreprtlca.info^
 ||usersignedinretrun-ca.com^
@@ -101974,6 +101992,7 @@
 ||websitedirectory.top^
 ||websitehoinghi.com^
 ||websitemizyeni.space^
+||websiteshare.cn^
 ||websitewelcome.com^
 ||webslumin.com^
 ||websnode.com^
@@ -105580,6 +105599,7 @@
 ||zhp-okx.com^
 ||zhs-ouyi.com^
 ||zhuanphysical.shop^
+||zhuayuya.com^
 ||zhujason.net^
 ||zhumian665.com^
 ||zhumianm338.com^

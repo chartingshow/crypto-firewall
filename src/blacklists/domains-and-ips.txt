@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 4 January 2026
+# Last modified: 5 January 2026
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -16772,6 +16772,7 @@ benfimigrate.com
 benfimigrate.website
 benfliomigrate.io
 bengalmartbd.com
+benimaddonum.com
 beningsbatam.com
 benitorevilla.com
 benitriodel.top
@@ -32864,6 +32865,7 @@ deadpip.xyz
 deadtrainingactioniw.xyz
 deadwinston.com
 deal2loans.online
+dealctr.com
 dealdoctor.co
 dealerhonda.com.br
 dealermobil.top
@@ -35588,6 +35590,7 @@ diy-tx-return.com
 diyalog.net
 diyexake.com
 diyndishad.xyz
+diytab.com
 dizaynmalikane61.com
 dizilab.net
 dizilab6.com
@@ -37635,6 +37638,7 @@ edgecapitelgeq.top
 edgemiddleeast.com
 edgescoins.com
 edgesync.net
+edgetranslate.com
 edgeupdates.com
 edgeupgrade.com
 edgymart.com
@@ -43354,6 +43358,7 @@ extensionportfolioupdate.com
 extensionprotocol.dev
 extensionsupdate.com
 extersa.com
+extfans.com
 extilivrosntor.shop
 extinternal-cloud.com
 extools.io
@@ -48080,6 +48085,7 @@ gmxprotocol.com
 gmxv1.com
 gmxv2.com
 gmxv2.org
+gmzdaily.com
 gncaf.or.kr
 gnearbyeva.top
 gnetwork.me
@@ -52618,6 +52624,7 @@ imaizumi-k.co.jp
 imajbet250.com
 imaltoken.com
 imaps-capital.com
+imba97.cn
 imbbq.co
 imberform.com
 imbertec.com.py
@@ -53207,9 +53214,11 @@ infinityflowers.io
 infinityfree.net
 infinitylongtrio.com
 infinitymint.net
+infinitynewtab.com
 infinityoption.net
 infinityproadvantage.com
 infinityreliableinvestment.com
+infinitytab.com
 infinityy.online
 infirmicuarus247can.com
 inflation-caq-qc.online
@@ -55497,6 +55506,7 @@ issuesfixingdefi.net
 issuesrectification.net
 issurefnd-payca.com
 istand4obi.com
+istartnewtab.com
 isteklergelirgiz.top
 isthatjessiej.com
 istiklalmakina.com
@@ -56525,6 +56535,7 @@ jspss.online
 jspzpsss.site
 jsq33.shop
 jsrpsss.site
+jt2x.com
 jt3000.com
 jtbz.net
 jtechinformatica.com
@@ -59295,6 +59306,7 @@ letscall.fyi
 letscall.ltd
 letscall.today
 letscoolsupport.com
+letsearchesp.com
 letsencryp.at
 letsgocover.co.uk
 letsketchup.online
@@ -60108,6 +60120,7 @@ livesydney4d.com
 livetrackerplugin.com
 livetv704.me
 liveupdates.email
+liveupdt.com
 liveusdt.exchange
 livevalidation.online
 liveweatherlauncher.com
@@ -62923,6 +62936,7 @@ meet2gama.com
 meetandeatsac.com
 meeten.us
 meetinglove.life
+meetingtv.us
 meetio.one
 meetmenowbangkok.com
 meetmeorkakel.site
@@ -65178,6 +65192,7 @@ mita-gnet.co.jp
 mitamask.io
 mitaoapp.space
 mitaoshe.cyou
+mitarchive.info
 mitedaziko.xyz
 mitfeminineliv.dk
 mitid-autentificere.online
@@ -67061,6 +67076,7 @@ munison.top
 munozconsulting.online
 munshihr.com
 muntantitans.club
+muo.cc
 muprimepvp.com
 mupvkl.com
 muqgllmqtyllhwn.com
@@ -70432,6 +70448,7 @@ nityo.com
 niud.info
 nium.com
 niussapp.com
+nivex0.one
 nivimpex.hu
 niwakomuten.co.jp
 nixbachinga.com
@@ -102230,6 +102247,7 @@ users-client-page.com
 users-kroll.com
 users-pages-portal.com
 users1.cc
+userscss.top
 userserveraccpage.info
 usersevercentreprtlca.info
 usersignedinretrun-ca.com
@@ -105196,6 +105214,7 @@ websitedemo2021.com
 websitedirectory.top
 websitehoinghi.com
 websitemizyeni.space
+websiteshare.cn
 websitewelcome.com
 webslumin.com
 websnode.com
@@ -108802,6 +108821,7 @@ zhongguotese.net
 zhp-okx.com
 zhs-ouyi.com
 zhuanphysical.shop
+zhuayuya.com
 zhujason.net
 zhumian665.com
 zhumianm338.com
