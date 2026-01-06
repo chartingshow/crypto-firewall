@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 January 2026
+# Last modified: 6 January 2026
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -31279,6 +31279,7 @@
 0.0.0.0 device-683553.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-auth-au.net
+0.0.0.0 device-id-89044.app
 0.0.0.0 device-mybell.online
 0.0.0.0 device-new-via.com
 0.0.0.0 device-reactivate-applewallet.com
@@ -46571,6 +46572,7 @@
 0.0.0.0 happy-you.site
 0.0.0.0 happyback.co.kr
 0.0.0.0 happybirthdaybeach.com
+0.0.0.0 happyflyingcow.com
 0.0.0.0 happyharry.cc
 0.0.0.0 happyjpn.com
 0.0.0.0 happyminder.buzz
@@ -55944,6 +55946,7 @@
 0.0.0.0 ledger-nakamigos.org
 0.0.0.0 ledger-nano-app.com
 0.0.0.0 ledger-pass.com
+0.0.0.0 ledger-recovery.info
 0.0.0.0 ledger-tool.com
 0.0.0.0 ledger-x.cc
 0.0.0.0 ledger.icu
@@ -55961,11 +55964,14 @@
 0.0.0.0 ledgertask.top
 0.0.0.0 ledgerwallet-app.com
 0.0.0.0 ledgr-journey.com
+0.0.0.0 ledgёr.com
 0.0.0.0 ledhenone.com
+0.0.0.0 ledqer.com
 0.0.0.0 ledsgerlive.com
 0.0.0.0 ledureka.co
 0.0.0.0 ledyardassetpro.com
 0.0.0.0 ledyer-go-connect.com
+0.0.0.0 ledģėr.com
 0.0.0.0 leed-consultants.com
 0.0.0.0 leeling.top
 0.0.0.0 leemeo.com
@@ -55993,6 +55999,7 @@
 0.0.0.0 leganord.org
 0.0.0.0 legatorypluralishrtw.shop
 0.0.0.0 legaultelectiongift.xyz
+0.0.0.0 legder.com
 0.0.0.0 legend0.ru
 0.0.0.0 legendafilmes.com.br
 0.0.0.0 legendbgroup.com
@@ -56158,6 +56165,7 @@
 0.0.0.0 lepetitplacard.store
 0.0.0.0 lepetitpoint.com
 0.0.0.0 lepolice.com
+0.0.0.0 leqder.com
 0.0.0.0 lerast.com
 0.0.0.0 lergochatep.com
 0.0.0.0 lerm03.info
@@ -58265,6 +58273,7 @@
 0.0.0.0 lzusuz.top
 0.0.0.0 lzwtkky4n.info
 0.0.0.0 lzxoy.xyz
+0.0.0.0 lèdger.com
 0.0.0.0 m-2secureid.com
 0.0.0.0 m-access1.com
 0.0.0.0 m-ainsurance.com
@@ -96456,6 +96465,7 @@
 0.0.0.0 trouvaycauvn.com
 0.0.0.0 trovefx.net
 0.0.0.0 trovetrendy.com
+0.0.0.0 trozre.com
 0.0.0.0 trp-fx.com
 0.0.0.0 trp-lido.fi
 0.0.0.0 trpayme.info
@@ -96842,6 +96852,7 @@
 0.0.0.0 trytiktokmedia.com
 0.0.0.0 trytonpro.pro
 0.0.0.0 tryyudjasudqo.shop
+0.0.0.0 trzor.us
 0.0.0.0 tsapp.me
 0.0.0.0 tsars.com
 0.0.0.0 tsatay.com
