@@ -214,7 +214,7 @@ A future **Crypto Firewall Splunk App** (based on the malware-filter add-on mode
 
 Reference add-on:
 
-[https://splunkbase.splunk.com/app/0123456789](https://splunkbase.splunk.com/app/0123456789)
+[https://splunkbase.splunk.com/app/8341](https://splunkbase.splunk.com/app/8341)
 
 ## Troubleshooting
 
