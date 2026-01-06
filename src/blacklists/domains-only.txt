@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 January 2026
+# Last modified: 6 January 2026
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -31270,6 +31270,7 @@ device-548576.com
 device-683553.com
 device-api.urbanairship.com
 device-auth-au.net
+device-id-89044.app
 device-mybell.online
 device-new-via.com
 device-reactivate-applewallet.com
@@ -46562,6 +46563,7 @@ happy-terrace.com
 happy-you.site
 happyback.co.kr
 happybirthdaybeach.com
+happyflyingcow.com
 happyharry.cc
 happyjpn.com
 happyminder.buzz
@@ -55935,6 +55937,7 @@ ledger-nakamigos.online
 ledger-nakamigos.org
 ledger-nano-app.com
 ledger-pass.com
+ledger-recovery.info
 ledger-tool.com
 ledger-x.cc
 ledger.icu
@@ -55952,11 +55955,14 @@ ledgerstax-server.com
 ledgertask.top
 ledgerwallet-app.com
 ledgr-journey.com
+ledgёr.com
 ledhenone.com
+ledqer.com
 ledsgerlive.com
 ledureka.co
 ledyardassetpro.com
 ledyer-go-connect.com
+ledģėr.com
 leed-consultants.com
 leeling.top
 leemeo.com
@@ -55984,6 +55990,7 @@ legalmanagement.org
 leganord.org
 legatorypluralishrtw.shop
 legaultelectiongift.xyz
+legder.com
 legend0.ru
 legendafilmes.com.br
 legendbgroup.com
@@ -56149,6 +56156,7 @@ lepanam.com
 lepetitplacard.store
 lepetitpoint.com
 lepolice.com
+leqder.com
 lerast.com
 lergochatep.com
 lerm03.info
@@ -58256,6 +58264,7 @@ lzuaqi.top
 lzusuz.top
 lzwtkky4n.info
 lzxoy.xyz
+lèdger.com
 m-2secureid.com
 m-access1.com
 m-ainsurance.com
@@ -96447,6 +96456,7 @@ trouttruckings.com
 trouvaycauvn.com
 trovefx.net
 trovetrendy.com
+trozre.com
 trp-fx.com
 trp-lido.fi
 trpayme.info
@@ -96833,6 +96843,7 @@ trymaple.co
 trytiktokmedia.com
 trytonpro.pro
 tryyudjasudqo.shop
+trzor.us
 tsapp.me
 tsars.com
 tsatay.com

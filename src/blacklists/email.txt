@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 4 January 2026
+# Last modified: 6 January 2026
 #
 
 013store@goodwillhunting.org
@@ -1823,6 +1823,7 @@ fachrudin.arif@bankjateng.co.id
 factotay@grupoplascencia.com
 facturacion@grupoconcordia.com
 facturacion@worldmedical.com.co
+facturaele@doitcenter.com.pa
 facturas@corporativoambientalrgc.com
 facturation@vermatravels.info
 faehn@marijose.net

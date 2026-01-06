@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 January 2026
+# Last modified: 6 January 2026
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -31270,6 +31270,7 @@ address=/device-548576.com/0.0.0.0
 address=/device-683553.com/0.0.0.0
 address=/device-api.urbanairship.com/0.0.0.0
 address=/device-auth-au.net/0.0.0.0
+address=/device-id-89044.app/0.0.0.0
 address=/device-mybell.online/0.0.0.0
 address=/device-new-via.com/0.0.0.0
 address=/device-reactivate-applewallet.com/0.0.0.0
@@ -46562,6 +46563,7 @@ address=/happy-terrace.com/0.0.0.0
 address=/happy-you.site/0.0.0.0
 address=/happyback.co.kr/0.0.0.0
 address=/happybirthdaybeach.com/0.0.0.0
+address=/happyflyingcow.com/0.0.0.0
 address=/happyharry.cc/0.0.0.0
 address=/happyjpn.com/0.0.0.0
 address=/happyminder.buzz/0.0.0.0
@@ -55935,6 +55937,7 @@ address=/ledger-nakamigos.online/0.0.0.0
 address=/ledger-nakamigos.org/0.0.0.0
 address=/ledger-nano-app.com/0.0.0.0
 address=/ledger-pass.com/0.0.0.0
+address=/ledger-recovery.info/0.0.0.0
 address=/ledger-tool.com/0.0.0.0
 address=/ledger-x.cc/0.0.0.0
 address=/ledger.icu/0.0.0.0
@@ -55952,11 +55955,14 @@ address=/ledgerstax-server.com/0.0.0.0
 address=/ledgertask.top/0.0.0.0
 address=/ledgerwallet-app.com/0.0.0.0
 address=/ledgr-journey.com/0.0.0.0
+address=/ledgёr.com/0.0.0.0
 address=/ledhenone.com/0.0.0.0
+address=/ledqer.com/0.0.0.0
 address=/ledsgerlive.com/0.0.0.0
 address=/ledureka.co/0.0.0.0
 address=/ledyardassetpro.com/0.0.0.0
 address=/ledyer-go-connect.com/0.0.0.0
+address=/ledģėr.com/0.0.0.0
 address=/leed-consultants.com/0.0.0.0
 address=/leeling.top/0.0.0.0
 address=/leemeo.com/0.0.0.0
@@ -55984,6 +55990,7 @@ address=/legalmanagement.org/0.0.0.0
 address=/leganord.org/0.0.0.0
 address=/legatorypluralishrtw.shop/0.0.0.0
 address=/legaultelectiongift.xyz/0.0.0.0
+address=/legder.com/0.0.0.0
 address=/legend0.ru/0.0.0.0
 address=/legendafilmes.com.br/0.0.0.0
 address=/legendbgroup.com/0.0.0.0
@@ -56149,6 +56156,7 @@ address=/lepanam.com/0.0.0.0
 address=/lepetitplacard.store/0.0.0.0
 address=/lepetitpoint.com/0.0.0.0
 address=/lepolice.com/0.0.0.0
+address=/leqder.com/0.0.0.0
 address=/lerast.com/0.0.0.0
 address=/lergochatep.com/0.0.0.0
 address=/lerm03.info/0.0.0.0
@@ -58256,6 +58264,7 @@ address=/lzuaqi.top/0.0.0.0
 address=/lzusuz.top/0.0.0.0
 address=/lzwtkky4n.info/0.0.0.0
 address=/lzxoy.xyz/0.0.0.0
+address=/lèdger.com/0.0.0.0
 address=/m-2secureid.com/0.0.0.0
 address=/m-access1.com/0.0.0.0
 address=/m-ainsurance.com/0.0.0.0
@@ -96447,6 +96456,7 @@ address=/trouttruckings.com/0.0.0.0
 address=/trouvaycauvn.com/0.0.0.0
 address=/trovefx.net/0.0.0.0
 address=/trovetrendy.com/0.0.0.0
+address=/trozre.com/0.0.0.0
 address=/trp-fx.com/0.0.0.0
 address=/trp-lido.fi/0.0.0.0
 address=/trpayme.info/0.0.0.0
@@ -96833,6 +96843,7 @@ address=/trymaple.co/0.0.0.0
 address=/trytiktokmedia.com/0.0.0.0
 address=/trytonpro.pro/0.0.0.0
 address=/tryyudjasudqo.shop/0.0.0.0
+address=/trzor.us/0.0.0.0
 address=/tsapp.me/0.0.0.0
 address=/tsars.com/0.0.0.0
 address=/tsatay.com/0.0.0.0
