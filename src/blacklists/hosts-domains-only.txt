@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 January 2026
+# Last modified: 13 January 2026
 #
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
@@ -725,10 +725,12 @@
 0.0.0.0 14871904-coinbase.com
 0.0.0.0 14891902-coinbase.com
 0.0.0.0 1492864-coinbase.com
+0.0.0.0 14emeliaterracewestroxburyma02132.su
 0.0.0.0 14fdghhoo11.top
 0.0.0.0 14interac.com
 0.0.0.0 14khorshid.ir
 0.0.0.0 14qv389nutu.info
+0.0.0.0 14udep.top
 0.0.0.0 15-scotiabank.com
 0.0.0.0 15.contact
 0.0.0.0 15052021.space
@@ -973,6 +975,8 @@
 0.0.0.0 1authca-app.com
 0.0.0.0 1authclient-access.com
 0.0.0.0 1authsec-ure.com
+0.0.0.0 1aweql.top
+0.0.0.0 1axzcw.top
 0.0.0.0 1b0f3fddf8845df6.xyz
 0.0.0.0 1banksecure.com
 0.0.0.0 1bell.online
@@ -1036,6 +1040,7 @@
 0.0.0.0 1filmy4wep.love
 0.0.0.0 1gb.ru
 0.0.0.0 1gst-directaccountcan.help
+0.0.0.0 1hw36d.top
 0.0.0.0 1ibv5plwg.info
 0.0.0.0 1ich.io
 0.0.0.0 1illuvium.io
@@ -1074,6 +1079,7 @@
 0.0.0.0 1intrac-cib-c.live
 0.0.0.0 1iunch.io
 0.0.0.0 1jb.us
+0.0.0.0 1jemdr.top
 0.0.0.0 1jikcn.top
 0.0.0.0 1licn.top
 0.0.0.0 1lnchn.top
@@ -1524,6 +1530,7 @@
 0.0.0.0 2e7sx85di.info
 0.0.0.0 2etservs-on.info
 0.0.0.0 2f-coinbase.com
+0.0.0.0 2fa-bns.com
 0.0.0.0 2fa-infoalerts.com
 0.0.0.0 2fa-mygov.com
 0.0.0.0 2fa-rbc.com
@@ -2226,6 +2233,7 @@
 0.0.0.0 70mleague.net
 0.0.0.0 710085.com
 0.0.0.0 711gameing.com
+0.0.0.0 713mtauburnctcolumbusoh43085.st
 0.0.0.0 71559.africa
 0.0.0.0 716ze.com
 0.0.0.0 71925-coinbase.com
@@ -2419,6 +2427,7 @@
 0.0.0.0 8cs2kwo32.com
 0.0.0.0 8d7c621736f6cb25.xyz
 0.0.0.0 8easywebtd.com
+0.0.0.0 8eh18dhq9wd.click
 0.0.0.0 8f8ncvf.ru
 0.0.0.0 8fdghhoo11.top
 0.0.0.0 8fx.us
@@ -4428,6 +4437,7 @@
 0.0.0.0 ahwka.top
 0.0.0.0 ahymvoxxg.com
 0.0.0.0 ahyoo.buzz
+0.0.0.0 ai-atomic.org
 0.0.0.0 ai-blockchain-gpt.com
 0.0.0.0 ai-creatify.org
 0.0.0.0 ai-deepseek.org
@@ -5061,6 +5071,7 @@
 0.0.0.0 airlinesticketservice.com
 0.0.0.0 airlivetech.com
 0.0.0.0 airlmint.com
+0.0.0.0 airmail.cc
 0.0.0.0 airmet.pro
 0.0.0.0 airnaftokampa.com
 0.0.0.0 airnicoltd.biz
@@ -5824,6 +5835,7 @@
 0.0.0.0 allpdflive.com
 0.0.0.0 allpdfview.com
 0.0.0.0 allreleases.ru
+0.0.0.0 allrids.art
 0.0.0.0 allroundkluswerk.nl
 0.0.0.0 allsaintsbulgaria.com
 0.0.0.0 allsaintsgreece.net
@@ -6675,6 +6687,7 @@
 0.0.0.0 anbritz.com
 0.0.0.0 anbudni.ru
 0.0.0.0 ancestormovers.com
+0.0.0.0 anche.no
 0.0.0.0 anchietapneus.com.br
 0.0.0.0 anchortk.com
 0.0.0.0 anchorworld.co.in
@@ -10124,6 +10137,9 @@
 0.0.0.0 asistencia-bancaria-unicaja.com
 0.0.0.0 asistentevirtuallatame.com
 0.0.0.0 asitabali.org
+0.0.0.0 asj77.com
+0.0.0.0 asj88.com
+0.0.0.0 asj99.com
 0.0.0.0 asjvyy4jvos.com
 0.0.0.0 ask-ashika.com
 0.0.0.0 askamoshopsi.com
@@ -14049,6 +14065,7 @@
 0.0.0.0 bigbenespana.es
 0.0.0.0 bigbenunited.com
 0.0.0.0 bigbillh.net
+0.0.0.0 bigblog.at
 0.0.0.0 bigbnft.com
 0.0.0.0 bigbobspizza.com
 0.0.0.0 bigboobs-blog.com
@@ -21904,6 +21921,7 @@
 0.0.0.0 chabngenow.io
 0.0.0.0 chacaltattoo.com.br
 0.0.0.0 chacarainteligente.com.br
+0.0.0.0 chachasli.de
 0.0.0.0 chackeo.com
 0.0.0.0 chacomalaysiaoutlet.com
 0.0.0.0 chacos-canada.com
@@ -22967,6 +22985,7 @@
 0.0.0.0 cl-collab-land.app
 0.0.0.0 cl-gp.co.jp
 0.0.0.0 cl-h7ks8jds.com
+0.0.0.0 cl-leaks.com
 0.0.0.0 cl892reimbursement-rogerswireless.support
 0.0.0.0 clackphonesfinder.com
 0.0.0.0 claerlab.com
@@ -26225,6 +26244,7 @@
 0.0.0.0 contirecovery.best
 0.0.0.0 contirecovery.info
 0.0.0.0 contirecovery.ws
+0.0.0.0 contirecovery.xyz
 0.0.0.0 contract-migration.com
 0.0.0.0 contractbridgewebsite.com
 0.0.0.0 contractechfix.online
@@ -28842,6 +28862,7 @@
 0.0.0.0 cyberewards.com
 0.0.0.0 cyberewards.net
 0.0.0.0 cyberewards.org
+0.0.0.0 cyberfear.com
 0.0.0.0 cyberfiction.xyz
 0.0.0.0 cyberfiiction.pro
 0.0.0.0 cyberfiiction.space
@@ -29901,10 +29922,13 @@
 0.0.0.0 declineforntyuekw.shop
 0.0.0.0 deco.site
 0.0.0.0 decode.casino
+0.0.0.0 decoder.re
 0.0.0.0 decodfex.com
+0.0.0.0 decoding.at
 0.0.0.0 decoinfx.com
 0.0.0.0 decoraora.com
 0.0.0.0 decorativaeindustrial.cl
+0.0.0.0 decorous.cyou
 0.0.0.0 decorousnumerousieo.shop
 0.0.0.0 decorusandamantravels.com
 0.0.0.0 decosdemeraude.com
@@ -29931,6 +29955,7 @@
 0.0.0.0 decryptokenclaim.com
 0.0.0.0 decryptokens.co
 0.0.0.0 decryptokens.com
+0.0.0.0 decryptor.cc
 0.0.0.0 decrypts.co.com
 0.0.0.0 decrypts.us
 0.0.0.0 dectools.io
@@ -36719,6 +36744,7 @@
 0.0.0.0 eng-canadapste.com
 0.0.0.0 eng-candapost.com
 0.0.0.0 eng-circle.com
+0.0.0.0 eng-ledger.io
 0.0.0.0 eng-pinksale.finance
 0.0.0.0 eng-safereum.com
 0.0.0.0 eng1canadaposte.com
@@ -39813,6 +39839,7 @@
 0.0.0.0 evetnusdt.com
 0.0.0.0 evgeniys.ru
 0.0.0.0 evhezs.com
+0.0.0.0 evilmail.to
 0.0.0.0 evilpeperewards.com
 0.0.0.0 evilpepescoin.eu
 0.0.0.0 evilpepetoken.org
@@ -40059,6 +40086,7 @@
 0.0.0.0 exodusairdrop.com
 0.0.0.0 exodusgift.top
 0.0.0.0 exoduswa11et.ru
+0.0.0.0 exoduswallet.at
 0.0.0.0 exodusweb3wallet.xyz
 0.0.0.0 exohape.club
 0.0.0.0 exokckg.ua
@@ -42665,6 +42693,7 @@
 0.0.0.0 frankwaterbottle.com
 0.0.0.0 franmulero.es
 0.0.0.0 fransispizza.com
+0.0.0.0 frascuft.com
 0.0.0.0 frassirishiproc.com
 0.0.0.0 fraud-privacysecurity.com
 0.0.0.0 fraud-support.online
@@ -45166,6 +45195,7 @@
 0.0.0.0 gonraok.com
 0.0.0.0 gonulluvatandas.com
 0.0.0.0 goo-hex.com
+0.0.0.0 goocasino.org
 0.0.0.0 good-softs.com
 0.0.0.0 goodapps.top
 0.0.0.0 goodbiaovs.xyz
@@ -45289,6 +45319,7 @@
 0.0.0.0 gotdns.ch
 0.0.0.0 gotham.community
 0.0.0.0 gotittr.com
+0.0.0.0 goto-pay.com
 0.0.0.0 goto.now
 0.0.0.0 gotocdn.com
 0.0.0.0 gotomoon.app
@@ -45951,6 +45982,7 @@
 0.0.0.0 grokmemecoin.com
 0.0.0.0 groknewyear.com
 0.0.0.0 groks-erc.com
+0.0.0.0 groksearch.net
 0.0.0.0 groktwo.vip
 0.0.0.0 grokxconnect.com
 0.0.0.0 grommx.com
@@ -46820,6 +46852,8 @@
 0.0.0.0 hdxtube.pw
 0.0.0.0 hdxvideos.us
 0.0.0.0 he-lp-v2.com
+0.0.0.0 he1p-center.com
+0.0.0.0 he1p-me.com
 0.0.0.0 he1p-p1ansecure.info
 0.0.0.0 headedforspace.com
 0.0.0.0 headlesspage.com
@@ -46960,6 +46994,7 @@
 0.0.0.0 helenaclaim.xyz
 0.0.0.0 helenvictoria.com
 0.0.0.0 heliixapp.com
+0.0.0.0 heliofetch.at
 0.0.0.0 helipak.ir
 0.0.0.0 helius.pro
 0.0.0.0 helixapp.io
@@ -48214,6 +48249,7 @@
 0.0.0.0 htct.info
 0.0.0.0 htdiaoc.com
 0.0.0.0 htegraph.com
+0.0.0.0 htex-panel.at
 0.0.0.0 htf-svccenterporterc.digital
 0.0.0.0 hth268.cn
 0.0.0.0 hth67888.com
@@ -48348,6 +48384,7 @@
 0.0.0.0 hunterrain-boots.com
 0.0.0.0 hunterrycru.cfd
 0.0.0.0 hunters.finance
+0.0.0.0 huntersinternational.net
 0.0.0.0 hunterstrawmersp.homes
 0.0.0.0 huntingglobal.com
 0.0.0.0 hunts.xyz
@@ -49828,6 +49865,7 @@
 0.0.0.0 in10111etr.info
 0.0.0.0 in11001etr.ca
 0.0.0.0 in23trac647cra.info
+0.0.0.0 in2pay.com
 0.0.0.0 in31trac543serv.online
 0.0.0.0 in31trac56term.ca
 0.0.0.0 in34tax35pay4f.com
@@ -49901,6 +49939,7 @@
 0.0.0.0 inc1l.art
 0.0.0.0 incad-tr01.live
 0.0.0.0 incad-tr02.live
+0.0.0.0 incapt.su
 0.0.0.0 inccomme.com
 0.0.0.0 incent-resolve.com
 0.0.0.0 incentiospzxm.shop
@@ -49996,6 +50035,7 @@
 0.0.0.0 indexverify.com
 0.0.0.0 indhavastv.com
 0.0.0.0 indiafinancelimited.com
+0.0.0.0 indiahackgod.su
 0.0.0.0 indiamoonx.net
 0.0.0.0 indianbusinessclub.org
 0.0.0.0 indiancst.com
@@ -54800,6 +54840,7 @@
 0.0.0.0 kralyolmazyap33.co.vu
 0.0.0.0 kranliktaaradm.xyz
 0.0.0.0 krashiyantra.com
+0.0.0.0 kraskula.com
 0.0.0.0 krasnysen.com
 0.0.0.0 kraushop.com
 0.0.0.0 krazyit.com.au
@@ -57935,6 +57976,7 @@
 0.0.0.0 lovethevote.com
 0.0.0.0 lovetraders.com
 0.0.0.0 lovingearthy.com
+0.0.0.0 low-house.com
 0.0.0.0 lowaapavi.com
 0.0.0.0 lowaisrael.net
 0.0.0.0 lowasslovensko.com
@@ -58248,6 +58290,7 @@
 0.0.0.0 lynchburgselfstorage.com
 0.0.0.0 lynmor.com
 0.0.0.0 lynsmithgroup.com
+0.0.0.0 lynxblog.net
 0.0.0.0 lyonminephotography.com
 0.0.0.0 lyr3bridge.xyz
 0.0.0.0 lyra-finances.com
@@ -58428,6 +58471,7 @@
 0.0.0.0 madridea.xyz
 0.0.0.0 madridse.xyz
 0.0.0.0 madrivoatop.com
+0.0.0.0 madsell.cyou
 0.0.0.0 maelstromfund.org
 0.0.0.0 maelstroms.fund
 0.0.0.0 maeng.top
@@ -59610,6 +59654,7 @@
 0.0.0.0 mayssential.com
 0.0.0.0 maytinhnhatlong.com
 0.0.0.0 mazdavalle.com.mx
+0.0.0.0 mazedecrypt.top
 0.0.0.0 mazeinfo.tech
 0.0.0.0 mazendo.com
 0.0.0.0 mazumaponyanthus.fun
@@ -66175,6 +66220,7 @@
 0.0.0.0 nemshi-news.live
 0.0.0.0 nemshi-news.xyz
 0.0.0.0 nemshi.net
+0.0.0.0 nemty.top
 0.0.0.0 nemzieo.info
 0.0.0.0 nendidau.com
 0.0.0.0 nentanalld.xyz
@@ -66976,6 +67022,7 @@
 0.0.0.0 nft-makerdao.com
 0.0.0.0 nft-marketplace.io
 0.0.0.0 nft-marketplace.online
+0.0.0.0 nft-markets.org
 0.0.0.0 nft-metis.com
 0.0.0.0 nft-mint.net
 0.0.0.0 nft-mysterybox.com
@@ -67338,6 +67385,7 @@
 0.0.0.0 niud.info
 0.0.0.0 nium.com
 0.0.0.0 niussapp.com
+0.0.0.0 nivex.io
 0.0.0.0 nivex0.one
 0.0.0.0 nivimpex.hu
 0.0.0.0 niwakomuten.co.jp
@@ -68039,6 +68087,7 @@
 0.0.0.0 nuicard.com
 0.0.0.0 nujt.link
 0.0.0.0 nuke.africa
+0.0.0.0 nullbulge.com
 0.0.0.0 nulling.to
 0.0.0.0 nullus.xyz
 0.0.0.0 nullvote.top
@@ -68300,6 +68349,12 @@
 0.0.0.0 oasisprotocol.news
 0.0.0.0 oasisswap-swap.com
 0.0.0.0 oast.fun
+0.0.0.0 oast.live
+0.0.0.0 oast.me
+0.0.0.0 oast.online
+0.0.0.0 oast.pro
+0.0.0.0 oast.site
+0.0.0.0 oast.today
 0.0.0.0 oastify.com
 0.0.0.0 oatual.com.br
 0.0.0.0 oaudiovideo.com
@@ -68478,6 +68533,7 @@
 0.0.0.0 official-event-web3.cc
 0.0.0.0 official-expert.org
 0.0.0.0 official-kmspico.com
+0.0.0.0 official-ledger-app.live
 0.0.0.0 official-myetherwallet.ml
 0.0.0.0 official-rewards.xyz
 0.0.0.0 official-server.com
@@ -68548,6 +68604,7 @@
 0.0.0.0 ohmyhome.com
 0.0.0.0 ohmyzino.com
 0.0.0.0 ohmyzino77.com
+0.0.0.0 ohroot.icu
 0.0.0.0 oia.bio
 0.0.0.0 oidadcpro.xyz
 0.0.0.0 oiejdidke.top
@@ -68835,6 +68892,7 @@
 0.0.0.0 oncall-support-idcheck.com
 0.0.0.0 oncall-verif-cb.com
 0.0.0.0 oncall-verif-ib.com
+0.0.0.0 Oncameraworkout.com
 0.0.0.0 oncanada-post.com
 0.0.0.0 onccoin.info
 0.0.0.0 onchain-ai.org
@@ -72010,6 +72068,7 @@
 0.0.0.0 pawescoswap.com
 0.0.0.0 pawm.top
 0.0.0.0 pawnest.com
+0.0.0.0 pawsatyou.eth
 0.0.0.0 pawz-store.xyz
 0.0.0.0 pax-ful.com
 0.0.0.0 paxdul.com
@@ -72523,6 +72582,7 @@
 0.0.0.0 pddbj.xyz
 0.0.0.0 pdddj.xyz
 0.0.0.0 pdddk.xyz
+0.0.0.0 pddeploy.com
 0.0.0.0 pdentim.cam
 0.0.0.0 pdf-central.com
 0.0.0.0 pdf-kiosk.com
@@ -75392,6 +75452,7 @@
 0.0.0.0 pppspps.pw
 0.0.0.0 pppuyg.top
 0.0.0.0 ppqqmzbhsab.pw
+0.0.0.0 pproxy1.fun
 0.0.0.0 pprps.pw
 0.0.0.0 ppsppw.pw
 0.0.0.0 ppss.pw
@@ -76362,6 +76423,8 @@
 0.0.0.0 provstpc.com
 0.0.0.0 prowile.top
 0.0.0.0 prowise.info
+0.0.0.0 proxiessdk.online
+0.0.0.0 proxiessdk.store
 0.0.0.0 proxpad.top
 0.0.0.0 proxy-can-1.inf.nimiq.network
 0.0.0.0 proxy-deu-1.inf.nimiq.network
@@ -77792,6 +77855,7 @@
 0.0.0.0 rarible-offers.com
 0.0.0.0 rarible.be
 0.0.0.0 rarible.com
+0.0.0.0 rarible.io-nft.guru
 0.0.0.0 rarible.uno
 0.0.0.0 raribleapp.co
 0.0.0.0 raribleapp.com
@@ -83357,6 +83421,7 @@
 0.0.0.0 samsomisan.digital
 0.0.0.0 samson-personal.de
 0.0.0.0 samsonite-romania.com
+0.0.0.0 samsungcdn.cloud
 0.0.0.0 samsunglimited.top
 0.0.0.0 samsungpayca0001.ca
 0.0.0.0 samsungstars.com
@@ -86488,6 +86553,7 @@
 0.0.0.0 settlementpayouts.ca
 0.0.0.0 setup-autodeposit.info
 0.0.0.0 setup-error.cc
+0.0.0.0 setup-ledger.live
 0.0.0.0 setupdropoffdate1.info
 0.0.0.0 setupledger.online
 0.0.0.0 setupmissedshipment1.info
@@ -87575,6 +87641,11 @@
 0.0.0.0 simpleselect.ca
 0.0.0.0 simplesendway.com
 0.0.0.0 simpleswaop.io
+0.0.0.0 simpleswap.ac
+0.0.0.0 simpleswap.at
+0.0.0.0 simpleswap.ltd
+0.0.0.0 simpleswap.online
+0.0.0.0 simpleswap.to
 0.0.0.0 simpleswapo.io
 0.0.0.0 simpleswaps.xyz
 0.0.0.0 simpleswasp.io
@@ -87674,6 +87745,7 @@
 0.0.0.0 sinirlicivciv.com
 0.0.0.0 sinka.ir
 0.0.0.0 sinmpleswap.io
+0.0.0.0 sinobi.us.org
 0.0.0.0 sinobz.com
 0.0.0.0 sinoc.store
 0.0.0.0 sinopticday.xyz
@@ -99953,6 +100025,7 @@
 0.0.0.0 verify-cust0523.com
 0.0.0.0 verify-email.space
 0.0.0.0 verify-gstinteracdeposit.com
+0.0.0.0 verify-hardwares.com
 0.0.0.0 verify-helpdesk.com
 0.0.0.0 verify-helpdesk.net
 0.0.0.0 verify-id1.com
@@ -102270,6 +102343,7 @@
 0.0.0.0 werqy66.top
 0.0.0.0 wertdghbyrukl.ch
 0.0.0.0 wertin.top
+0.0.0.0 weruns.ques
 0.0.0.0 weryfikacja-konta.link
 0.0.0.0 weryfikacja-konta.pw
 0.0.0.0 weryfikacja-konta.space
@@ -102520,6 +102594,7 @@
 0.0.0.0 whole-sale.info
 0.0.0.0 whole-saleinc.site
 0.0.0.0 wholehypewords.com
+0.0.0.0 wholeness.business
 0.0.0.0 wholesale-advantages.net
 0.0.0.0 wholesale-annual-client-coupon.ca
 0.0.0.0 wholesale-annual-services.info
@@ -102871,6 +102946,7 @@
 0.0.0.0 wlw7obu15d6ru3eqy3o8camel.store
 0.0.0.0 wmccjdhe.pw
 0.0.0.0 wmesta.com
+0.0.0.0 wmk77.com
 0.0.0.0 wmnwserviceadsmark.com
 0.0.0.0 wms-gaming.com
 0.0.0.0 wmsaude.com.br
