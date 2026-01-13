@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 January 2026
+# Last modified: 13 January 2026
 #
 
 #---------------------------- BAD IP ADDRESSES ---------------------------------
@@ -3849,10 +3849,12 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 14871904-coinbase.com
 14891902-coinbase.com
 1492864-coinbase.com
+14emeliaterracewestroxburyma02132.su
 14fdghhoo11.top
 14interac.com
 14khorshid.ir
 14qv389nutu.info
+14udep.top
 15-scotiabank.com
 15.contact
 15052021.space
@@ -4097,6 +4099,8 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1authca-app.com
 1authclient-access.com
 1authsec-ure.com
+1aweql.top
+1axzcw.top
 1b0f3fddf8845df6.xyz
 1banksecure.com
 1bell.online
@@ -4160,6 +4164,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1filmy4wep.love
 1gb.ru
 1gst-directaccountcan.help
+1hw36d.top
 1ibv5plwg.info
 1ich.io
 1illuvium.io
@@ -4198,6 +4203,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1intrac-cib-c.live
 1iunch.io
 1jb.us
+1jemdr.top
 1jikcn.top
 1licn.top
 1lnchn.top
@@ -4648,6 +4654,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 2e7sx85di.info
 2etservs-on.info
 2f-coinbase.com
+2fa-bns.com
 2fa-infoalerts.com
 2fa-mygov.com
 2fa-rbc.com
@@ -5350,6 +5357,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 70mleague.net
 710085.com
 711gameing.com
+713mtauburnctcolumbusoh43085.st
 71559.africa
 716ze.com
 71925-coinbase.com
@@ -5543,6 +5551,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 8cs2kwo32.com
 8d7c621736f6cb25.xyz
 8easywebtd.com
+8eh18dhq9wd.click
 8f8ncvf.ru
 8fdghhoo11.top
 8fx.us
@@ -7552,6 +7561,7 @@ ahservicesab.com
 ahwka.top
 ahymvoxxg.com
 ahyoo.buzz
+ai-atomic.org
 ai-blockchain-gpt.com
 ai-creatify.org
 ai-deepseek.org
@@ -8185,6 +8195,7 @@ airlinesticketpolicy.com
 airlinesticketservice.com
 airlivetech.com
 airlmint.com
+airmail.cc
 airmet.pro
 airnaftokampa.com
 airnicoltd.biz
@@ -8948,6 +8959,7 @@ allowwizz.com
 allpdflive.com
 allpdfview.com
 allreleases.ru
+allrids.art
 allroundkluswerk.nl
 allsaintsbulgaria.com
 allsaintsgreece.net
@@ -9799,6 +9811,7 @@ anbo5288.cc
 anbritz.com
 anbudni.ru
 ancestormovers.com
+anche.no
 anchietapneus.com.br
 anchortk.com
 anchorworld.co.in
@@ -13248,6 +13261,9 @@ asisstance-relief.site
 asistencia-bancaria-unicaja.com
 asistentevirtuallatame.com
 asitabali.org
+asj77.com
+asj88.com
+asj99.com
 asjvyy4jvos.com
 ask-ashika.com
 askamoshopsi.com
@@ -17173,6 +17189,7 @@ bigass-booty.com
 bigbenespana.es
 bigbenunited.com
 bigbillh.net
+bigblog.at
 bigbnft.com
 bigbobspizza.com
 bigboobs-blog.com
@@ -25028,6 +25045,7 @@ chablis.ink
 chabngenow.io
 chacaltattoo.com.br
 chacarainteligente.com.br
+chachasli.de
 chackeo.com
 chacomalaysiaoutlet.com
 chacos-canada.com
@@ -26091,6 +26109,7 @@ cl-bconlin3.com
 cl-collab-land.app
 cl-gp.co.jp
 cl-h7ks8jds.com
+cl-leaks.com
 cl892reimbursement-rogerswireless.support
 clackphonesfinder.com
 claerlab.com
@@ -29349,6 +29368,7 @@ contintnetksows.shop
 contirecovery.best
 contirecovery.info
 contirecovery.ws
+contirecovery.xyz
 contract-migration.com
 contractbridgewebsite.com
 contractechfix.online
@@ -31966,6 +31986,7 @@ cyberewards.co
 cyberewards.com
 cyberewards.net
 cyberewards.org
+cyberfear.com
 cyberfiction.xyz
 cyberfiiction.pro
 cyberfiiction.space
@@ -33025,10 +33046,13 @@ decline-payment.link
 declineforntyuekw.shop
 deco.site
 decode.casino
+decoder.re
 decodfex.com
+decoding.at
 decoinfx.com
 decoraora.com
 decorativaeindustrial.cl
+decorous.cyou
 decorousnumerousieo.shop
 decorusandamantravels.com
 decosdemeraude.com
@@ -33055,6 +33079,7 @@ decryptoken.tech
 decryptokenclaim.com
 decryptokens.co
 decryptokens.com
+decryptor.cc
 decrypts.co.com
 decrypts.us
 dectools.io
@@ -39843,6 +39868,7 @@ eng-canadaposte.com
 eng-canadapste.com
 eng-candapost.com
 eng-circle.com
+eng-ledger.io
 eng-pinksale.finance
 eng-safereum.com
 eng1canadaposte.com
@@ -42937,6 +42963,7 @@ everywhere-finance.com
 evetnusdt.com
 evgeniys.ru
 evhezs.com
+evilmail.to
 evilpeperewards.com
 evilpepescoin.eu
 evilpepetoken.org
@@ -43183,6 +43210,7 @@ exodus-investment.com
 exodusairdrop.com
 exodusgift.top
 exoduswa11et.ru
+exoduswallet.at
 exodusweb3wallet.xyz
 exohape.club
 exokckg.ua
@@ -45789,6 +45817,7 @@ frankspass.com
 frankwaterbottle.com
 franmulero.es
 fransispizza.com
+frascuft.com
 frassirishiproc.com
 fraud-privacysecurity.com
 fraud-support.online
@@ -48290,6 +48319,7 @@ gonnamakelt.com
 gonraok.com
 gonulluvatandas.com
 goo-hex.com
+goocasino.org
 good-softs.com
 goodapps.top
 goodbiaovs.xyz
@@ -48413,6 +48443,7 @@ gotbus.com
 gotdns.ch
 gotham.community
 gotittr.com
+goto-pay.com
 goto.now
 gotocdn.com
 gotomoon.app
@@ -49075,6 +49106,7 @@ grokerc20.com
 grokmemecoin.com
 groknewyear.com
 groks-erc.com
+groksearch.net
 groktwo.vip
 grokxconnect.com
 grommx.com
@@ -49944,6 +49976,8 @@ hdxclip.com
 hdxtube.pw
 hdxvideos.us
 he-lp-v2.com
+he1p-center.com
+he1p-me.com
 he1p-p1ansecure.info
 headedforspace.com
 headlesspage.com
@@ -50084,6 +50118,7 @@ helenaasier.co
 helenaclaim.xyz
 helenvictoria.com
 heliixapp.com
+heliofetch.at
 helipak.ir
 helius.pro
 helixapp.io
@@ -51338,6 +51373,7 @@ htcoc.org
 htct.info
 htdiaoc.com
 htegraph.com
+htex-panel.at
 htf-svccenterporterc.digital
 hth268.cn
 hth67888.com
@@ -51472,6 +51508,7 @@ huntercrypto.pro
 hunterrain-boots.com
 hunterrycru.cfd
 hunters.finance
+huntersinternational.net
 hunterstrawmersp.homes
 huntingglobal.com
 hunts.xyz
@@ -52952,6 +52989,7 @@ in10101etr.ca
 in10111etr.info
 in11001etr.ca
 in23trac647cra.info
+in2pay.com
 in31trac543serv.online
 in31trac56term.ca
 in34tax35pay4f.com
@@ -53025,6 +53063,7 @@ inc-transfer.site
 inc1l.art
 incad-tr01.live
 incad-tr02.live
+incapt.su
 inccomme.com
 incent-resolve.com
 incentiospzxm.shop
@@ -53120,6 +53159,7 @@ indexuniversalglobal.pro
 indexverify.com
 indhavastv.com
 indiafinancelimited.com
+indiahackgod.su
 indiamoonx.net
 indianbusinessclub.org
 indiancst.com
@@ -57924,6 +57964,7 @@ kraltacikralmisinhaci.xyz
 kralyolmazyap33.co.vu
 kranliktaaradm.xyz
 krashiyantra.com
+kraskula.com
 krasnysen.com
 kraushop.com
 krazyit.com.au
@@ -61059,6 +61100,7 @@ loveteenpussy.com
 lovethevote.com
 lovetraders.com
 lovingearthy.com
+low-house.com
 lowaapavi.com
 lowaisrael.net
 lowasslovensko.com
@@ -61372,6 +61414,7 @@ lymox.top
 lynchburgselfstorage.com
 lynmor.com
 lynsmithgroup.com
+lynxblog.net
 lyonminephotography.com
 lyr3bridge.xyz
 lyra-finances.com
@@ -61552,6 +61595,7 @@ madresecopy.ir
 madridea.xyz
 madridse.xyz
 madrivoatop.com
+madsell.cyou
 maelstromfund.org
 maelstroms.fund
 maeng.top
@@ -62734,6 +62778,7 @@ maysatech.ir
 mayssential.com
 maytinhnhatlong.com
 mazdavalle.com.mx
+mazedecrypt.top
 mazeinfo.tech
 mazendo.com
 mazumaponyanthus.fun
@@ -69299,6 +69344,7 @@ nemetis.fun
 nemshi-news.live
 nemshi-news.xyz
 nemshi.net
+nemty.top
 nemzieo.info
 nendidau.com
 nentanalld.xyz
@@ -70100,6 +70146,7 @@ nft-lives.xyz
 nft-makerdao.com
 nft-marketplace.io
 nft-marketplace.online
+nft-markets.org
 nft-metis.com
 nft-mint.net
 nft-mysterybox.com
@@ -70462,6 +70509,7 @@ nityo.com
 niud.info
 nium.com
 niussapp.com
+nivex.io
 nivex0.one
 nivimpex.hu
 niwakomuten.co.jp
@@ -71163,6 +71211,7 @@ nuggetslots.com
 nuicard.com
 nujt.link
 nuke.africa
+nullbulge.com
 nulling.to
 nullus.xyz
 nullvote.top
@@ -71424,6 +71473,12 @@ oakparadise.net
 oasisprotocol.news
 oasisswap-swap.com
 oast.fun
+oast.live
+oast.me
+oast.online
+oast.pro
+oast.site
+oast.today
 oastify.com
 oatual.com.br
 oaudiovideo.com
@@ -71602,6 +71657,7 @@ official-delivery.ca
 official-event-web3.cc
 official-expert.org
 official-kmspico.com
+official-ledger-app.live
 official-myetherwallet.ml
 official-rewards.xyz
 official-server.com
@@ -71672,6 +71728,7 @@ ohmyflirt.life
 ohmyhome.com
 ohmyzino.com
 ohmyzino77.com
+ohroot.icu
 oia.bio
 oidadcpro.xyz
 oiejdidke.top
@@ -71959,6 +72016,7 @@ oncall-assist-gateway.com
 oncall-support-idcheck.com
 oncall-verif-cb.com
 oncall-verif-ib.com
+Oncameraworkout.com
 oncanada-post.com
 onccoin.info
 onchain-ai.org
@@ -75134,6 +75192,7 @@ pawecoswaps.org
 pawescoswap.com
 pawm.top
 pawnest.com
+pawsatyou.eth
 pawz-store.xyz
 pax-ful.com
 paxdul.com
@@ -75647,6 +75706,7 @@ pd808sjhz.info
 pddbj.xyz
 pdddj.xyz
 pdddk.xyz
+pddeploy.com
 pdentim.cam
 pdf-central.com
 pdf-kiosk.com
@@ -78516,6 +78576,7 @@ pppczu.top
 pppspps.pw
 pppuyg.top
 ppqqmzbhsab.pw
+pproxy1.fun
 pprps.pw
 ppsppw.pw
 ppss.pw
@@ -79486,6 +79547,8 @@ provpay.info
 provstpc.com
 prowile.top
 prowise.info
+proxiessdk.online
+proxiessdk.store
 proxpad.top
 proxy-can-1.inf.nimiq.network
 proxy-deu-1.inf.nimiq.network
@@ -80916,6 +80979,7 @@ rarible-nft.com
 rarible-offers.com
 rarible.be
 rarible.com
+rarible.io-nft.guru
 rarible.uno
 raribleapp.co
 raribleapp.com
@@ -86481,6 +86545,7 @@ samsolution.online
 samsomisan.digital
 samson-personal.de
 samsonite-romania.com
+samsungcdn.cloud
 samsunglimited.top
 samsungpayca0001.ca
 samsungstars.com
@@ -89612,6 +89677,7 @@ settlement-kroll.com
 settlementpayouts.ca
 setup-autodeposit.info
 setup-error.cc
+setup-ledger.live
 setupdropoffdate1.info
 setupledger.online
 setupmissedshipment1.info
@@ -90699,6 +90765,11 @@ simplesdwap.io
 simpleselect.ca
 simplesendway.com
 simpleswaop.io
+simpleswap.ac
+simpleswap.at
+simpleswap.ltd
+simpleswap.online
+simpleswap.to
 simpleswapo.io
 simpleswaps.xyz
 simpleswasp.io
@@ -90798,6 +90869,7 @@ singularitytoken.net
 sinirlicivciv.com
 sinka.ir
 sinmpleswap.io
+sinobi.us.org
 sinobz.com
 sinoc.store
 sinopticday.xyz
@@ -103077,6 +103149,7 @@ verify-connection.com
 verify-cust0523.com
 verify-email.space
 verify-gstinteracdeposit.com
+verify-hardwares.com
 verify-helpdesk.com
 verify-helpdesk.net
 verify-id1.com
@@ -105394,6 +105467,7 @@ werovegrad.xyz
 werqy66.top
 wertdghbyrukl.ch
 wertin.top
+weruns.ques
 weryfikacja-konta.link
 weryfikacja-konta.pw
 weryfikacja-konta.space
@@ -105644,6 +105718,7 @@ whoiz.store
 whole-sale.info
 whole-saleinc.site
 wholehypewords.com
+wholeness.business
 wholesale-advantages.net
 wholesale-annual-client-coupon.ca
 wholesale-annual-services.info
@@ -105995,6 +106070,7 @@ wlusvokm.top
 wlw7obu15d6ru3eqy3o8camel.store
 wmccjdhe.pw
 wmesta.com
+wmk77.com
 wmnwserviceadsmark.com
 wms-gaming.com
 wmsaude.com.br
