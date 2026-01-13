@@ -106107,11 +106107,19 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
-||calendar.app.google/M2ZCvM8ULL56PD1d6^
-||i.imgs.ovh/2025/07/17/DGlLc.jpeg^
-||ln.run/supportcenterbusiness^
-||steamcommunity.com/profiles/76561198780411257^
-||www.shorturl.at/dKOR6^
+||apps.apple.com/*/app/nivex/id6744414166*
+||facebook.com/profile.php?id=61577263233088
+||i.imgs.ovh/2025/07/17/DGlLc.jpeg
+||instagram.com/nivexlab*
+||linktr.ee/Nivex_Official*
+||ln.run/supportcenterbusiness*
+||play.google.com/store/apps/details?id=com.nx.app
+||shorturl.at/dKOR6*
+||steamcommunity.com/profiles/76561198780411257*
+||t.me/Nxone_Community*
+||tiktok.com/@nivex_lab*
+||x.com/nx_Labs*
+||youtube.com/@Nivex_exchange*
 
 ! coinimp.com ------------------------------------------------------------------
 ||blockchained.party
