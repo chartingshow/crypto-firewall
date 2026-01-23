@@ -25,7 +25,6 @@ jobs:
         uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
         with:
           node-version: "18.19.1"
-          cache: "npm"
 
       - name: Assert clean workspace
         run: git status --porcelain
