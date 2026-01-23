@@ -1,0 +1,54 @@
+name: Security & Quality Checks
+
+on:
+  pull_request:
+  push:
+    branches: [ "master" ]
+
+concurrency:
+  group: security-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
+        with:
+          node-version: "18.19.1"
+          cache: "npm"
+
+      - name: Assert clean workspace
+        run: git status --porcelain
+
+      - name: Install dependencies (hardened)
+        if: hashFiles('package-lock.json') != ''
+        run: |
+          npm ci \
+            --ignore-scripts \
+            --no-audit \
+            --no-fund
+
+      - name: npm audit (high & critical only)
+        run: npm audit --audit-level=high
+
+      - name: Run ESLint
+        if: hashFiles('package.json') != ''
+        run: npm run lint
+
+      - name: Run Gitleaks
+        uses: gitleaks/gitleaks-action@ff98106e4c7b2bc287b24eaf42907196329070c7 # v2.3.9
+        with:
+          args: detect --redact --no-git
+
+      - name: Verify no unexpected file changes
+        run: test -z "$(git status --porcelain)"
