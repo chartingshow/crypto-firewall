@@ -49,6 +49,7 @@ If you discover a false positive or need to add a new block, then feel free to r
     - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
   - [Perimeter Blocking](#perimeter-blocking-)
   - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
+    - [Recommended Browser Installation Guides]( #recommended-browser-installation-guides)
   - [Operating System Blocking](#operating-system-blocking-)
     - [Hosts based blocking](#hosts-based-blocking-)
 - [Basic usage](#basic-usage-)
@@ -168,9 +169,23 @@ You may use the hosts file with below applications to block these miners on whol
 
 ### Crypto Annoyances (Optional Step) 🚀
 
-This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
+This optional filter list removes cryptocurrency-related annoyances and unwanted content to create a cleaner, less distracting browsing experience. It focuses on **UI-level cleanup and tracking reduction**, without breaking core site functionality.
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Reduce visual noise, tracking, and promotional clutter across crypto-related sites.
+
+Specifically, it:
+
+- Removes marketing and referral URL parameters (e.g. `utm_*`)
+- Hides cookie banners and compliance overlays on major exchanges (Binance, Coinbase, etc.)
+- Suppresses promoted posts and sponsored content on social platforms
+- Blocks TradingView popups, notifications, and non-essential telemetry
+- Cleans up CoinGecko and CoinMarketCap by removing ads, banners, and promotional feeds
+
+#### Recommended Browser Installation Guides
+
+- ![Brave Desktop Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Desktop](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md#step-6-developer-mode)**
+
+- ![Brave Mobile Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Mobile](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md#step-10-add-custom-filter-list-url)**
 
 ### Operating System Blocking 🌟
 
