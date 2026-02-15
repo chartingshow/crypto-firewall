@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 15 February 2026
 #
 
 498-00.cppformat 
@@ -59,3 +59,5 @@ Rojo.rojo-roblox-vscode
 ShowSnowcrypto.SnowShoNo
 VitalikButerin-EthFoundation.blan-co
 vscodedeveloper.sobidity-compiler
+whensunset.chatgpt-china
+zhukunpeng.chat-moss

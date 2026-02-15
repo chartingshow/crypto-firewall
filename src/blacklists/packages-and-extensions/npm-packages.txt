@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 24 December 2025
+# Last modified: 15 February 2026
 #
 
 12octsportsday
@@ -45,6 +45,13 @@ array-empty-validator
 auth-validator
 babel-preset-travix
 beautiful-plugins
+bigmathex
+bigmathix
+bigmathutils
+bignum
+bignumberx
+bignumex
+bignumx
 bkeat-pytest
 bkwebportal
 blur-plugins
@@ -83,6 +90,19 @@ gacha-box
 garena-admin
 garena-react-template-redux
 gop_status_frontend
+graphalgo
+graphchain
+graphdict
+graphflux
+graphhub
+graphkitx
+graphlibcore
+graphnet
+graphnetworkx
+graphorbit
+graphorithm
+graphrix
+graphstruct
 gunbazaar
 hardhat-deploy-others
 hardhat-gas-optimizer
@@ -111,6 +131,7 @@ mix-hub-web
 mongo-errorlog
 mshop2
 mysteryicons
+netstruct
 netvis
 next-log-patcher
 nextjs-insight
@@ -158,6 +179,8 @@ sumsub-node-websdk
 team-portal
 template-vite
 tenslots
+terminal-kleur
+terminalcolor256
 test-topdev-logger-v1
 test-topdev-logger-v3
 tgi-fe
