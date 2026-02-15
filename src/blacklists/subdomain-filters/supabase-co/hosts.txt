@@ -1,0 +1,12 @@
+# Crypto Firewall (supabase-co)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 15 February 2026
+#
+
+# Block supabase-co sub-domains
+0.0.0.0 xepokbvwehkbjezrvhip.supabase.co
+0.0.0.0 zyqmpfcrijqmwyzbkubf.supabase.co 

@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 January 2026
+# Last modified: 15 February 2026
 #
 
 ad-stop
@@ -77,6 +77,7 @@ com.mingle.EuropianMingle
 com.mobillium.papara
 com.mootwin.natixis
 com.musulmankarima.dating
+com.nrb.phayrucq
 com.nx.app
 com.ocito.cdn.activity.banquelaydernier
 com.ocito.cdn.activity.creditdunord
