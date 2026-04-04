@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 February 2026
+# Last modified: 4 April 2026
 #
 
 12octsportsday
@@ -43,6 +43,8 @@ applicationooks21
 arcademinigame
 array-empty-validator
 auth-validator
+axios@0.30.4
+axios@1.14.1
 babel-preset-travix
 beautiful-plugins
 bigmathex
@@ -144,6 +146,7 @@ os-info-checker-es6
 osd_tp_custom_visualizations
 performance-appraisal
 pixel-percent
+plain-crypto-js@4.2.1
 prior-config
 proc-watch
 quill-image-downloader

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 1 days
-! Last modified: 16 February 2026
+! Last modified: 4 April 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106262,8 +106262,10 @@
 ||ln.run/supportcenterbusiness*
 ||play.google.com/store/apps/details?id=com.nx.app
 ||shorturl.at/dKOR6*
+||steamcommunity.com/profiles/76561198721263282
 ||steamcommunity.com/profiles/76561198780411257*
 ||t.me/Nxone_Community*
+||telegram.me/g1n3sss
 ||tiktok.com/@nivex_lab*
 ||x.com/nx_Labs*
 ||youtube.com/@Nivex_exchange*
