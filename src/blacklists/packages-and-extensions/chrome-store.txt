@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 February 2026
+# Last modified: 4 April 2026
 #
 
 ad-stop
@@ -77,6 +77,7 @@ com.mingle.EuropianMingle
 com.mobillium.papara
 com.mootwin.natixis
 com.musulmankarima.dating
+com.nos.follow.car.plus
 com.nrb.phayrucq
 com.nx.app
 com.ocito.cdn.activity.banquelaydernier
@@ -145,6 +146,7 @@ google-traductor-esp
 google-translate-pro-extension
 google-translate-right-clicks
 gqcvctl.msthh.swxgkyv
+hobfjp.anrxf.cucm
 i-like-weather
 io.metamask
 it.bcc.iccrea.mycartabcc
@@ -166,6 +168,17 @@ physics.physics.physics
 plnfexcq.fehlwuggm.kyxvb
 posteitaliane.posteapp.appbpol
 posteitaliane.posteapp.apppostepay
+pt.nos.alive
+pt.nos.assistencia.remota
+pt.nos.btv
+pt.nos.cinemas
+pt.nos.communicator
+pt.nos.follow.mydriver
+pt.nos.iris.online
+pt.nos.mobi
+pt.nos.selfcare
+pt.nos.sportingtv
+pt.nos.wtfbb
 quizzical.washbowl.calamity
 right-click-google-translate
 ru.fotostrana.sweetmeet
