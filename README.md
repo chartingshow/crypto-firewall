@@ -133,19 +133,19 @@ Get protected in under 2 minutes:
 * **Lite Version (Low resource usage):**
 
   ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/lite.txt
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt
   ```
 
 * **Full Version (Recommended):**
 
   ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/full.txt
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt
   ```
 
 * **Mega Version (Maximum protection):**
 
   ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/mega.txt
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt
   ```
 
 3. (Optional) Add the **Crypto Annoyances** filter
