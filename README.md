@@ -4,18 +4,9 @@
 
 Crypto Firewall: Your Digital Shield in the Cryptocurrency Ecosystem
 
-This security-centric repository offers a comprehensive suite of resources and tools designed to fortify your cryptocurrency trading activities and systems. We provide:
+The **Crypto Firewall** is a security-focused threat intelligence and blocking system designed to protect users from crypto-related threats including phishing, scams, malware, and cryptojacking.
 
-- Cutting-edge best practices
-- Robust scripts and configurations
-- In-depth security guides
-
-Our primary focus is on:
-
-1. Blocking browser-based crypto mining and cryptojacking attempts
-2. Thwarting banking and crypto malware
-3. Identifying and preventing access to phishing websites and malicious apps
-4. Disrupting hackers' command-and-control (C2) server communications
+It provides continuously updated **blocklists, filters, and indicators of compromise (IOCs)** that can be deployed across browsers, operating systems, and network infrastructure.
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
 
@@ -36,54 +27,174 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 <br>
 
-> [!IMPORTANT]  
-> **Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
-
 ## Table of Contents 📑
 
-- [Installation](#installation-%EF%B8%8F)
-  - [Browser Blocking](#browser-blocking-)
-    - [Recommended Choice](#recommended-choice-)
-    - [Other Browser Choices](#other-browser-choices-)
-  - [Ad Blockers](ad-blockers-%EF%B8%8F)
-    - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
-  - [Perimeter Blocking](#perimeter-blocking-)
-  - [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
-    - [Recommended Browser Installation Guides]( #recommended-browser-installation-guides)
-  - [Operating System Blocking](#operating-system-blocking-)
-    - [Hosts based blocking](#hosts-based-blocking-)
-- [Basic usage](#basic-usage-)
-- [Recommended versions](#recommended-versions-)
-  - [Stable Versions](#stable-versions-)
-    - [Lite Version](#lite-version)
-    - [Full Version](#full-version)
-    - [Mega Version](#mega-version)
-  - [Unstable Beta Version](#unstable-beta-version-%EF%B8%8F)
-- [Free DNS / Hosting blocking](#free-dns--hosting-blocking-)
-- [Bad Browser Extensions & Package Names blocking](#bad-browser-extensions--package-names-blocking-)
-- [Autonomous System Number (ASN) blocking](#autonomous-system-number-asn-blocking-%EF%B8%8F)
-- [IP blocking](#ip-blocking-)
-  - [Custom IP Block Lists](#custom-ip-block-lists-)
-- [Email blocking](#email-blocking-)
-- [Nuisance and scam calling telephone numbers blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-%EF%B8%8F)
-- [Fraudulent cryptocurrency wallet addresses](#fraudulent-cryptocurrency-wallet-addresses-%EF%B8%8F)
-- [Fraudulent cryptocurrency transactions](#fraudulent-cryptocurrency-transactions-%EF%B8%8F)
-- [Fraudulent cryptocurrency mining pool addresses](#fraudulent-cryptocurrency-mining-pool-addresses-)
-- [OFAC sanctioned digital currency addresses](#ofac-sanctioned-digital-currency-addresses-)
-  - [How do we define sanctions data?](#how-do-we-define-sanctions-data)
-- [Modules](#modules-%EF%B8%8F)
-- [Issues](#issues-)
-- [Changelog](#changelog-)
-- [If you like the Charting Show project](#if-you-like-the-charting-show-project-)
-  - [Sponsors](#sponsors-)
-  - [Backers](#backers-)
-- [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
-- [Requesting icon](#requesting-icon-)
-- [Security](#security-)
-- [Semantic Versioning](#semantic-versioning-)
-- [Legal](#legal-)
-- [Copyright and License](#copyright-and-license-)
-  - [Many Thanks to all the `Stargazers` who have supported this project with stars](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
+### Overview
+
+* [Why Crypto Firewall?](#why-crypto-firewall)
+* [Quick Start](#quick-start-)
+* [Recommended Setup](#recommended-setup-)
+* [Who is this for?](#who-is-this-for-)
+* [Threat Model](#threat-model-)
+* [What this is NOT](#what-this-is-not-)
+* [Data & Updates](#data--updates-)
+
+### Getting Started
+
+* [Installation](#installation-)
+
+  * [Browser Blocking](#browser-blocking-)
+  * [Ad Blockers](#ad-blockers-)
+  * [Perimeter Blocking](#perimeter-blocking-)
+  * [Operating System Blocking](#operating-system-blocking-)
+* [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
+
+### Usage & Versions
+
+* [Basic Usage](#basic-usage-)
+* [Recommended Versions](#recommended-versions-)
+* [Stable Versions](#stable-versions-)
+
+  * [Lite Version](#lite-version)
+  * [Full Version](#full-version)
+  * [Mega Version](#mega-version)
+* [Beta Version](#unstable-beta-version-)
+
+### Blocklists & Intelligence
+
+* [Free DNS / Hosting Blocking](#free-dns--hosting-blocking-)
+* [Bad Browser Extensions & Package Names](#bad-browser-extensions--package-names-blocking-)
+* [ASN Blocking](#autonomous-system-number-asn-blocking-)
+* [IP Blocking](#ip-blocking-)
+* [Custom IP Block Lists](#custom-ip-block-lists-)
+* [Email Blocking](#email-blocking-)
+* [Spam Call Blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-)
+* [Wallet Addresses](#fraudulent-cryptocurrency-wallet-addresses-)
+* [Transactions](#fraudulent-cryptocurrency-transactions-)
+* [Mining Pools](#fraudulent-cryptocurrency-mining-pool-addresses-)
+* [OFAC Sanctions](#ofac-sanctioned-digital-currency-addresses-)
+
+### Modules
+
+* [Modules](#modules-)
+
+### Project & Community
+
+* [Issues](#issues-)
+* [Changelog](#changelog-)
+* [Support / Donations](#if-you-like-the-charting-show-project-)
+* [Sponsors](#sponsors-)
+* [Backers](#backers-)
+* [Contributions](#contributions-)
+* [Requesting Icons](#requesting-icon-)
+
+### Security & Legal
+
+* [Security](#security-)
+* [Disclaimer](#disclaimer-)
+* [Legal](#legal-)
+* [License](#copyright-and-license-)
+
+# Overview
+
+## Why Crypto Firewall?
+
+The cryptocurrency ecosystem is a high-value target for attackers. Threats evolve rapidly, and traditional protections often lag behind.
+
+Crypto Firewall helps reduce risk by:
+
+* Blocking known malicious domains and infrastructure
+* Preventing access to phishing and scam sites
+* Disrupting cryptojacking and malicious scripts
+* Supporting integration with modern security tooling
+
+## Quick Start ⚡
+
+Get protected in under 2 minutes:
+
+1. Install an ad blocker (recommended: Brave or uBlock Origin)
+2. Add one of the following lists to your DNS, ad blocker, or network filtering solution:
+
+* **Lite Version (Low resource usage):**
+
+  ```
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/lite.txt
+  ```
+
+* **Full Version (Recommended):**
+
+  ```
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/full.txt
+  ```
+
+* **Mega Version (Maximum protection):**
+
+  ```
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/blocklists/mega.txt
+  ```
+
+3. (Optional) Add the **Crypto Annoyances** filter
+4. Restart your browser
+
+➡️ See [Installation](#installation) for mega setup options
+
+## Recommended Setup ✅
+
+* **Most users:** Full Version
+* **High-performance systems / network-level blocking:** Mega Version
+* **Low-end devices / mobile:** Lite Version
+* **Testing / early adopters:** Beta Version
+
+## Who is this for? 🎯
+
+Crypto Firewall is designed for:
+
+* Individual traders and investors
+* Security-conscious users
+* Developers and system administrators
+* Network operators and security teams
+
+It supports deployment at:
+
+* Browser level (ad blockers)
+* Operating system level (hosts file)
+* Network level (DNS, firewalls, IDS/IPS)
+
+## Threat Model 🧠
+
+Crypto Firewall focuses on mitigating:
+
+* Phishing domains and scam infrastructure
+* Cryptojacking and browser-based mining
+* Malware distribution endpoints
+* Command-and-control (C2) servers
+* Fraudulent blockchain-related services
+
+It does **not** protect against:
+
+* Zero-day exploits
+* Compromised devices or endpoints
+* Social engineering outside detectable infrastructure
+
+## What this is NOT ❗
+
+* Not a complete security solution
+* Not a replacement for antivirus or endpoint protection
+* Not guaranteed to block all threats
+
+This project should be used as part of a **layered security strategy**.
+
+## Data & Updates 🔄
+
+Blocklists are continuously updated based on:
+
+* Threat intelligence research
+* Community contributions
+* Ongoing analysis of emerging threats
+
+Users should enable automatic updates wherever possible.
+
+# Getting Started
 
 ## Installation ❤️
 
@@ -167,7 +278,26 @@ You may use the hosts file with below applications to block these miners on whol
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata SNI" width="16" height="16" /> **[Suricata SNI Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-linux-instructions.md)** and **[Suricata SNI Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-macos-instructions.md)** and **[Suricata SNI Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-windows-instructions.md)** - Refers to Suricata's ability to inspect TLS (encrypted) traffic and extract the Server Name Indication (SNI) - the domain name requested during HTTPS connections-enabling visibility and filtering of encrypted traffic based on domain names.
 
-### Crypto Annoyances (Optional Step) 🚀
+### Operating System Blocking 🌟
+
+For system-wide protection, consider modifying your device's hosts file:
+
+<ul>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/linux.png" alt="Linux" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md"><strong>Linux Hosts File Instructions Guide</strong></a> - Edit the hosts file to block unwanted domains at the system level.</p></li>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" alt="MacOS" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md"><strong>MacOS Hosts File Instructions Guide</strong></a> - Modify the hosts file to prevent access to specific websites and services.</p></li>
+    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
+</ul>
+
+#### Hosts based blocking 💢
+
+For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
+
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
+
+Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
+
+## Crypto Annoyances (Optional Step) 🚀
 
 This optional filter list removes cryptocurrency-related annoyances and unwanted content to create a cleaner, less distracting browsing experience. It focuses on **UI-level cleanup and tracking reduction**, without breaking core site functionality.
 
@@ -187,24 +317,7 @@ Specifically, it:
 
 - ![Brave Mobile Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Mobile](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md#step-10-add-custom-filter-list-url)**
 
-### Operating System Blocking 🌟
-
-For system-wide protection, consider modifying your device's hosts file:
-
-<ul>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/linux.png" alt="Linux" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md"><strong>Linux Hosts File Instructions Guide</strong></a> - Edit the hosts file to block unwanted domains at the system level.</p></li>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" alt="MacOS" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md"><strong>MacOS Hosts File Instructions Guide</strong></a> - Modify the hosts file to prevent access to specific websites and services.</p></li>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
-</ul>
-
-#### Hosts based blocking 💢
-
-For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
-
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
-
-Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
+# Usage & Versions
 
 ## Basic usage 🔥
 
@@ -235,9 +348,9 @@ Here's a suggested guide based on device:
 - **Powerful Smartphone** - use `full` version (if you experience bad performance then try `lite` version instead).
 - **Low-End Smartphone** - use `lite` version.
 
-### Stable Versions 🏆
+## Stable Versions 🏆
 
-#### Lite Version
+### Lite Version
 
 The `Lite` version **excludes all the modules**.
 
@@ -245,13 +358,13 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt&title=Crypto%20Fireall%20Lite%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt&title=Crypto%20Fireall%20Lite%20Version)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt&title=Crypto%20Firewall%20Lite%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt&title=Crypto%20Firewall%20Lite%20Version)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
 - https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt
 
-#### Full Version
+### Full Version
 
 The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/crypto-annoyances-ublock.txt), [domains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/domain-filters/), [subdomains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/subdomain-filters/), [urls (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/url-filters/) and [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) modules)**.
 
@@ -259,13 +372,13 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt&title=Crypto%20Fireall%20Full%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt&title=Crypto%20Fireall%20Full%20Version)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt&title=Crypto%20Firewall%20Full%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt&title=Crypto%20Firewall%20Full%20Version)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
 - https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt
 
-#### Mega Version
+### Mega Version
 
 The `Mega` version **contains all the modules (except [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) module)**.
 
@@ -273,13 +386,13 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt&title=Crypto%20Fireall%20Mega%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt&title=Crypto%20Fireall%20Mega%20Version)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt&title=Crypto%20Firewall%20Mega%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt&title=Crypto%20Firewall%20Mega%20Version)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
 - https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt
 
-### Unstable Beta Version ⚠️
+## Beta Version ⚠️
 
 The `Beta` version **contains all the stable and unstable modules**.
 
@@ -289,19 +402,21 @@ There are two methods to install into your adblocker:
 
 1. Click the link below:
 
-- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt&title=Crypto%20Fireall%20Beta%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt&title=Crypto%20Fireall%20Beta%20Version)
+- [https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt&title=Crypto%20Firewall%20Beta%20Version](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt&title=Crypto%20Firewall%20Beta%20Version)
 
 2. Copy and paste the link in the settings of the ad-blocker:
 
 - https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/beta-version.txt
 
-## Free DNS / Hosting blocking 🆓
+# Blocklists & Intelligence
+
+## Free DNS / Hosting Blocking 🆓
 
 This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
 
 - [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
 
-## Bad Browser Extensions & Package Names blocking 👨‍💻
+## Bad Browser Extensions & Package Names 👨‍💻
 
 Malicious browser extensions pose critical risks by enabling cybercriminals to hijack browsing sessions, steal sensitive credentials and establish persistent access. These threats often masquerade as legitimate tools while exfiltrating cookies, authentication tokens and financial data.
 
@@ -309,7 +424,7 @@ Malicious apps are a method of manipulating users into downloading malware that 
 
 - [Bad Browser Extensions & Package Names Folder](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/packages-and-extensions)
 
-## Autonomous System Number (ASN) blocking 🗃️
+## ASN Blocking 🗃️
 
 An Autonomous System Number (ASN) is a globally unique 16-digit identification number assigned by the Internet Assigned Numbers Authority (IANA) to Autonomous Systems (AS). ASNs are crucial for routing within networks and exchanging routing information with other Internet Service Providers. Autonomous systems numbered one to 64511 are available by IANA for global use. The 64512 to 65535 series is reserved for private and reserved purposes.
 
@@ -319,7 +434,7 @@ The ASN block list can be found here:
 
 - [ASN Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt)
 
-## IP blocking 🌐
+## IP Blocking 🌐
 
 IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc. You can add them to a firewall of your choice.
 
@@ -332,7 +447,7 @@ For a thorough explanation on how to add block an ip address in your firewall, y
 
 - https://github.com/chartingshow/crypto-firewall/tree/master/docs
 
-### Custom IP Block Lists 📋
+## Custom IP Block Lists 📋
 
 These custom IP address filter lists block specific malware and can be found in the folder:
 
@@ -340,7 +455,7 @@ These custom IP address filter lists block specific malware and can be found in 
 
 > The reason why these custom lists aren't in the main IP filter list is because these IP addresses maybe shared and used for public access or hosting multiple domains! These custom IP address filter lists are for advanced users who can customize them in order to not block their access or applications.
 
-## Email blocking 📧
+## Email Blocking 📧
 
 Email addresses can be blocked, our email block list contains known Crypto scammers, Ransomware, Sextortion and Blackmail email addresses.
 
@@ -356,7 +471,7 @@ How to Identify a Ransomware Email Attack, see here:
 
 - https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
 
-## Nuisance and scam calling telephone numbers blocking ☎️
+## Spam Call Blocking ☎️
 
 It's essential to note that tech support scammers often use spoofed or fake numbers to disguise their true location and identity. These numbers may appear legitimate, but they are actually being used to perpetuate fraudulent activities.
 
@@ -366,13 +481,13 @@ A list of spam blocking mobile apps can be found here:
 
 - [Mobile Apps To Block Spam Calls](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/spam-calls/list.md)
 
-## Fraudulent cryptocurrency wallet addresses 🕵️
+## Wallet Addresses 🕵️
 
 Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
 
 - [Wallets Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/)
 
-## Fraudulent cryptocurrency transactions 🛡️
+## Transactions 🛡️
 
 Cybercriminals are increasingly abusing blockchain transactions as covert communication channels, sometimes even using them as command-and-control (C2) servers to deliver malware or issue instructions. Avoid interacting with, confirming, or broadcasting any transaction hashes (txids) known to be linked to fraud, scams, or C2 activity.
 
@@ -380,13 +495,13 @@ A curated list of suspicious transaction hashes can be found in this folder:
 
 - [Transactions Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/blockchain-transactions)
 
-## Fraudulent cryptocurrency mining pool addresses 🦈
+## Mining Pools 🦈
 
 Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here in this folder:
 
 - [Mining Pools Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/mining-pools-addresses/)
 
-## OFAC sanctioned digital currency addresses 🚫
+## OFAC Sanctions 🚫
 
 OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
 
@@ -399,6 +514,8 @@ The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder
 Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury's Office of Foreign Assets Control (OFAC).
 
 You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
+
+# Modules
 
 ## Modules ⚙️
 
@@ -425,9 +542,9 @@ This repo contains various filter list modules, which users can check out in the
 - [Url Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/url-filters)
 - [URLhaus Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/urlhaus-filters)
 
----
-
 _Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
+
+# Project & Community
 
 ## Issues 🔨
 
@@ -441,7 +558,7 @@ If you face any issue, you can create a new issue in the `Issues` tab and we wil
 
 Please see [CHANGELOG](https://github.com/chartingshow/crypto-firewall/releases) for more information what has changed recently.
 
-## If you like the Charting Show project 💗💗💗
+## Support / Donations 💗💗💗
 
 <p><a href="https://opencollective.com/charting-show"><img align="center" src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/support-charting-show.jpg" /></a></p>
 
@@ -449,61 +566,157 @@ If you like Charting Show you can support the project's improvements and develop
 
 👉 [https://opencollective.com/chartingshow](https://opencollective.com/chartingshow)
 
-### Sponsors ✨
+## Sponsors ✨
 
 Support us by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/chartingshow#category-CONTRIBUTE)]
 
 <a href="#" target="_blank"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/avatars-2.png" width="64"></a>
 
-### Backers ✨
+## Backers ✨
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/chartingshow#category-CONTRIBUTE)]
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-backers-2.png"></p>
 
-## Contributions, Feature Requests and Feedback ✨
+## Contributions ✨
 
 This project exists thanks to all the people who contribute.
 
-<p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-contributors-2.png" /></p>
+<p align="center">
+  <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/charting-show-contributors-2.png" />
+</p>
 
-We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
+We are actively inviting new contributors! To get started, please read the [contribution guide](CONTRIBUTING.md).
 
-This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
+This project is only possible thanks to the work of many dedicated contributors. Everyone is encouraged to help in ways large and small. Here are a few ways you can contribute:
 
-- Read the current content and help us fix any spelling mistakes or grammatical errors.
-- Choose an existing [issue](https://github.com/chartingshow/crypto-firewall/issues) on GitHub and submit a pull request to fix it.
-- Open a new issue to report an opportunity for improvement.
+* Review existing content and help fix spelling, grammar, or clarity issues
+* Pick an open [issue](https://github.com/chartingshow/crypto-firewall/issues) and submit a pull request
+* Open a new issue to suggest improvements, report bugs, or propose features
 
-If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
+### Contribution Terms
 
-## Requesting icon 🎁
+By submitting a contribution (including pull requests, issues, or any form of content), you agree that your contributions will be licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
-When you want to request a icon please feel feel to create a issue. See our [contribution guidelines](CONTRIBUTING.md) for more information.
+You also confirm that:
 
-## Security 💥
+* You have the legal right to contribute the content
+* Your contribution does not violate any third-party rights
+* Any included third-party material complies with its respective licensing terms
 
-If you discover any security related issues, please open an issue! We will try and sort it out asap.
+## Requesting Icons 🎁
 
-## Semantic Versioning 🎁
+When you want to request a icon please feel to create a issue. See our [contribution guidelines](CONTRIBUTING.md) for more information.
 
-This package uses: [Semantic Versioning](https://semver.org/).
+# Security & Legal
 
-## Legal 🔨
+## Security 🔐
 
-All logos and trademarks are the property of their respective owners.
+We take security seriously and appreciate responsible disclosure.
 
-## Copyright and License 📄
+If you discover a **security vulnerability**, please report it **privately** by contacting the maintainers rather than opening a public issue. This allows us to investigate and address the issue without exposing users to unnecessary risk.
 
-Copyright (c) Charting Show. All rights reserved.
+For general bugs, false positives, or feature requests, please use the GitHub Issues tab.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## Disclaimer ⚠️
 
-Everyone is permitted to copy and distribute copies of Charting Show, but changing and hard forking are not allowed.
+### No Warranty
+
+This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to:
+
+- Fitness for a particular purpose
+- Reliability or availability
+- Protection against all security threats
+
+See the GNU General Public License v3.0 for full details.
+
+### Limitation of Liability
+
+In no event shall the maintainers or contributors be held liable for:
+
+- Financial loss (including cryptocurrency loss)
+- Security breaches or system compromise
+- Data loss or corruption
+- Service disruption or downtime
+- Any direct, indirect, incidental, or consequential damages
+
+arising from the use of this project.
+
+### False Positives
+
+Due to the nature of threat intelligence and filtering systems:
+
+- Legitimate domains, IPs, or services **may be incorrectly blocked**
+- Malicious actors may evade detection
+
+Users are responsible for reviewing and validating the data before applying it in production environments.
+
+### Financial Disclaimer
+
+This project **does not provide financial or investment advice**.
+
+Users should always conduct their own due diligence when interacting with cryptocurrency platforms, wallets, or transactions.
+
+### Use at Your Own Risk
+
+By using this project, you acknowledge that:
+
+- Security is a constantly evolving landscape
+- No solution can provide complete protection
+- You are solely responsible for how you implement and use this project
+
+## Legal ⚖️
+
+This project provides curated blocklists, filtering rules, and security guidance intended to help reduce exposure to malicious activity within the cryptocurrency ecosystem.
+
+### Scope and Purpose
+
+Crypto Firewall is a **defensive security resource**, not a guarantee of protection. It is designed to assist users in identifying and blocking known threats, but it should be used as part of a broader security strategy.
+
+This project **does not function as a traditional firewall appliance**, and should not be relied upon as a sole line of defense.
+
+### Data Sources
+
+Data included in this project is derived from a combination of:
+
+- Publicly available threat intelligence sources
+- Community contributions
+- Independent research
+
+While we aim for accuracy and relevance, **we do not guarantee the completeness, accuracy, or timeliness** of any data provided.
+
+### Third-Party Services
+
+This project may reference third-party platforms, services, or trademarks (e.g. exchanges, browsers, tools).
+
+All trademarks, logos, and brand names are the property of their respective owners.
+
+This project is **not affiliated with, endorsed by, or associated with any third-party services** mentioned.
+
+## License 📄
+
+Copyright (c) Charting Show.
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to:
+
+- Use, study, and run the software
+- Modify and adapt the code
+- Distribute original or modified versions
+
+provided that any derivative work is also licensed under GPL-3.0.
+
+For full license terms, see the `LICENSE` file or visit:
+https://www.gnu.org/licenses/gpl-3.0
 
 ### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
 
 <p align="center"><img src="/assets/images/stargazers-2.png" alt="stars"></p>
+
+### SEO Keywords
+
+crypto security, crypto firewall, crypto scam protection, phishing protection, malicious domains, IP blocklist, ASN blocking, Web3 security, DeFi security, scam wallet blacklist, adblock crypto filter, DNS filtering, network security, threat intelligence, fraud prevention, crypto malware, browser protection, crypto phishing sites
 
 [⬆ back to top](#table-of-contents-)
 
