@@ -29,71 +29,86 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Table of Contents 📑
 
-### Overview
+### [Overview](#overview-1)
 
-* [Why Crypto Firewall?](#why-crypto-firewall)
-* [Quick Start](#quick-start-)
-* [Recommended Setup](#recommended-setup-)
-* [Who is this for?](#who-is-this-for-)
-* [Threat Model](#threat-model-)
-* [What this is NOT](#what-this-is-not-)
-* [Data & Updates](#data--updates-)
+  * [Why Crypto Firewall?](#why-crypto-firewall)
+  * [Quick Start ⚡](#quick-start-)
+  * [Recommended Setup ✅](#recommended-setup-)
+  * [Who is this for? 🎯](#who-is-this-for-)
+  * [Threat Model 🧠](#threat-model-)
+  * [What this is NOT ❗](#what-this-is-not-)
+  * [Data & Updates 🔄](#data--updates-)
 
-### Getting Started
+### [Getting Started](#getting-started-1)
 
-* [Installation](#installation-)
+  * [Installation ❤️](#installation-%EF%B8%8F)
+    + [Browser Blocking 🌟](#browser-blocking-)
+      - [Recommended Choice ⭐](#recommended-choice-)
+      - [Other Browser Choices ✨](#other-browser-choices-)
+    + [Ad Blockers ☀️](#ad-blockers-%EF%B8%8F)
+      - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
+    + [Perimeter Blocking 🔓](#perimeter-blocking-)
+    + [Operating System Blocking 🌟](#operating-system-blocking-)
+      - [Hosts based blocking 💢](#hosts-based-blocking-)
+  * [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances-optional-step-)
+      - [Recommended Browser Installation Guides](#recommended-browser-installation-guides)
 
-  * [Browser Blocking](#browser-blocking-)
-  * [Ad Blockers](#ad-blockers-)
-  * [Perimeter Blocking](#perimeter-blocking-)
-  * [Operating System Blocking](#operating-system-blocking-)
-* [Crypto Annoyances (Optional Step)](#crypto-annoyances-optional-step-)
+### [Usage & Versions](#usage--versions-1)
 
-### Usage & Versions
+  * [Basic usage 🔥](#basic-usage-)
+  * [Recommended versions ✅](#recommended-versions-)
+  * [Stable Versions 🏆](#stable-versions-)
+    + [Lite Version](#lite-version)
+    + [Full Version](#full-version)
+    + [Mega Version](#mega-version)
+  * [Beta Version ⚠️](#beta-version-%EF%B8%8F)
 
-* [Basic Usage](#basic-usage-)
-* [Recommended Versions](#recommended-versions-)
-* [Stable Versions](#stable-versions-)
+### [Blocklists & Intelligence](#blocklists--intelligence-1)
 
-  * [Lite Version](#lite-version)
-  * [Full Version](#full-version)
-  * [Mega Version](#mega-version)
-* [Beta Version](#unstable-beta-version-)
+  * [Free DNS / Hosting Blocking 🆓](#free-dns--hosting-blocking-)
+  * [Bad Browser Extensions & Package Names 👨‍💻](#bad-browser-extensions--package-names-%E2%80%8D)
+  * [ASN Blocking 🗃️](#asn-blocking-%EF%B8%8F)
+  * [IP Blocking 🌐](#ip-blocking-)
+  * [Custom IP Block Lists 📋](#custom-ip-block-lists-)
+  * [Email Blocking 📧](#email-blocking-)
+  * [Spam Call Blocking ☎️](#spam-call-blocking-%EF%B8%8F)
+  * [Wallet Addresses 🕵️](#wallet-addresses-%EF%B8%8F)
+  * [Transactions 🛡️](#transactions-%EF%B8%8F)
+  * [Mining Pools 🦈](#mining-pools-)
+  * [OFAC Sanctions 🚫](#ofac-sanctions-)
+    + [How do we define sanctions data?](#how-do-we-define-sanctions-data)
 
-### Blocklists & Intelligence
+### [Modules](#modules-1)
 
-* [Free DNS / Hosting Blocking](#free-dns--hosting-blocking-)
-* [Bad Browser Extensions & Package Names](#bad-browser-extensions--package-names-blocking-)
-* [ASN Blocking](#autonomous-system-number-asn-blocking-)
-* [IP Blocking](#ip-blocking-)
-* [Custom IP Block Lists](#custom-ip-block-lists-)
-* [Email Blocking](#email-blocking-)
-* [Spam Call Blocking](#nuisance-and-scam-calling-telephone-numbers-blocking-)
-* [Wallet Addresses](#fraudulent-cryptocurrency-wallet-addresses-)
-* [Transactions](#fraudulent-cryptocurrency-transactions-)
-* [Mining Pools](#fraudulent-cryptocurrency-mining-pool-addresses-)
-* [OFAC Sanctions](#ofac-sanctioned-digital-currency-addresses-)
+  * [Modules ⚙️](#modules-%EF%B8%8F)
 
-### Modules
+### [Project & Community](#project--community-1)
 
-* [Modules](#modules-)
+  * [Issues 🔨](#issues-)
+  * [Changelog 🏆](#changelog-)
+  * [Support / Donations 💗💗💗](#support--donations-)
+  * [Sponsors ✨](#sponsors-)
+  * [Backers ✨](#backers-)
+  * [Contributions ✨](#contributions-)
+    + [Contribution Terms](#contribution-terms)
+  * [Requesting Icons 🎁](#requesting-icons-)
 
-### Project & Community
+### [Security & Legal](#security--legal-1)
 
-* [Issues](#issues-)
-* [Changelog](#changelog-)
-* [Support / Donations](#if-you-like-the-charting-show-project-)
-* [Sponsors](#sponsors-)
-* [Backers](#backers-)
-* [Contributions](#contributions-)
-* [Requesting Icons](#requesting-icon-)
-
-### Security & Legal
-
-* [Security](#security-)
-* [Disclaimer](#disclaimer-)
-* [Legal](#legal-)
-* [License](#copyright-and-license-)
+  * [Security 🔐](#security-)
+  * [Disclaimer ⚠️](#disclaimer-%EF%B8%8F)
+    + [No Warranty](#no-warranty)
+    + [Limitation of Liability](#limitation-of-liability)
+    + [False Positives](#false-positives)
+    + [Financial Disclaimer](#financial-disclaimer)
+    + [Use at Your Own Risk](#use-at-your-own-risk)
+  * [Legal ⚖️](#legal-%EF%B8%8F)
+    + [Scope and Purpose](#scope-and-purpose)
+    + [Data Sources](#data-sources)
+    + [Third-Party Services](#third-party-services)
+  * [License 📄](#license-)
+    + [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
+    + [SEO Keywords](#seo-keywords)
 
 # Overview
 
