@@ -43,15 +43,10 @@ If you discover a false positive or need to add a new block, then feel free to r
 
   * [Installation ❤️](#installation-%EF%B8%8F)
     + [Browser Blocking 🌟](#browser-blocking-)
-      - [Recommended Choice ⭐](#recommended-choice-)
-      - [Other Browser Choices ✨](#other-browser-choices-)
     + [Ad Blockers ☀️](#ad-blockers-%EF%B8%8F)
-      - [Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬](#manifest-v3-how-google-chromes-update-affects-ad-blockers-)
     + [Perimeter Blocking 🔓](#perimeter-blocking-)
     + [Operating System Blocking 🌟](#operating-system-blocking-)
-      - [Hosts based blocking 💢](#hosts-based-blocking-)
   * [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances-optional-step-)
-      - [Recommended Browser Installation Guides](#recommended-browser-installation-guides)
 
 ### [Usage & Versions](#usage--versions-1)
 
