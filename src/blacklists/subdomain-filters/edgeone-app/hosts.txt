@@ -1,0 +1,11 @@
+# Crypto Firewall (edgeone-app)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 16 Arpil 2026
+#
+
+# Block edgeone-app sub-domains
+0.0.0.0 claude-code-docs-dvlr2jpuuw.edgeone.app

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 20 October 2025
+# Last modified: 16 April 2026
 #
 
 # Block pages dev sub-domains
@@ -107,6 +107,7 @@
 0.0.0.0 arkham.pages.dev
 0.0.0.0 arnbbb.pages.dev
 0.0.0.0 artyfacts.pages.dev
+0.0.0.0 asdasdasdadsvvvvv.pages.dev
 0.0.0.0 asdasdwer23wrt23r23r23.pages.dev
 0.0.0.0 aswbj.pages.dev
 0.0.0.0 autcrodapps.pages.dev
@@ -242,6 +243,7 @@
 0.0.0.0 chimpz.pages.dev
 0.0.0.0 circle-e97.pages.dev
 0.0.0.0 cisco-6w4.pages.dev
+0.0.0.0 cladueall.pages.dev
 0.0.0.0 claim-3ct.pages.dev
 0.0.0.0 claim-3na.pages.dev
 0.0.0.0 claim-506.pages.dev
@@ -270,6 +272,8 @@
 0.0.0.0 claimmemecoin.pages.dev
 0.0.0.0 claimpepe.pages.dev
 0.0.0.0 claimwallet-bit-rock.pages.dev
+0.0.0.0 claud-code.pages.dev
+0.0.0.0 claude-code-docs-site.pages.dev
 0.0.0.0 cloudapp-130.pages.dev
 0.0.0.0 cloudsync.pages.dev
 0.0.0.0 codes-bigtime.pages.dev
@@ -435,6 +439,7 @@
 0.0.0.0 halborncybersecurity.pages.dev
 0.0.0.0 hedgeupblockchain.pages.dev
 0.0.0.0 hehe-verse.pages.dev
+0.0.0.0 hgjbulk.pages.dev
 0.0.0.0 holdstation.pages.dev
 0.0.0.0 housing-aj5.pages.dev
 0.0.0.0 hubprotocol.pages.dev
@@ -447,6 +452,7 @@
 0.0.0.0 integratechainfix.pages.dev
 0.0.0.0 intergratesmartverse.pages.dev
 0.0.0.0 intral-node.pages.dev
+0.0.0.0 jhgyuifyfiguohi.pages.dev
 0.0.0.0 jito-au.pages.dev
 0.0.0.0 jmal.pages.dev
 0.0.0.0 jpg-store.pages.dev
@@ -551,12 +557,14 @@
 0.0.0.0 nftcellframe.pages.dev
 0.0.0.0 nftmetis.pages.dev
 0.0.0.0 nmbnbhjgnbnm.pages.dev
+0.0.0.0 nnnnnnnnnnnnnnnnnnnnn.pages.dev
 0.0.0.0 node-mainnet.pages.dev
 0.0.0.0 nodeappauth.pages.dev
 0.0.0.0 nodeappsresolver.pages.dev
 0.0.0.0 nodefixer.pages.dev
 0.0.0.0 noderesolveauth.pages.dev
 0.0.0.0 nodesvalidation.pages.dev
+0.0.0.0 notklmalans.pages.dev
 0.0.0.0 oasis-presale.pages.dev
 0.0.0.0 oggyinu.pages.dev
 0.0.0.0 okx-ru.pages.dev

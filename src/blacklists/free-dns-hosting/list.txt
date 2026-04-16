@@ -7,8 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
-#
+# Last modified: 16 April 2026
 
 # Domains
 2waky.com
@@ -95,6 +94,7 @@ infinityfreeapp.com
 ipq.co
 is-a-doctor.com
 is-by.us
+it.com
 ix.tc
 jetos.com
 jumpingcrab.com

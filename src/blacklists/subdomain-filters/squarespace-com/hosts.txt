@@ -1,0 +1,15 @@
+# Crypto Firewall (squarespace-com)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 16 April 2026
+#
+
+# Block squarespace-com sub-domains
+0.0.0.0 claude-code-update.squarespace.com
+0.0.0.0 claudecode-developers.squarespace.com
+0.0.0.0 claudecodeupdate.squarespace.com
+0.0.0.0 claulastver.squarespace.com
+0.0.0.0 notebooklm-version-upd.squarespace.com

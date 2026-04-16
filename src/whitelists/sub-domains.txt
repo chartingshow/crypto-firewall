@@ -21,6 +21,7 @@
 *.cloudfunctions.net
 *.cprapid.com
 *.easterndns.com
+*.edgeone.app
 *.firebaseapp.com
 *.fleek.co
 *.forms.app
@@ -50,6 +51,7 @@
 *.sglwebs.com
 *.sitebeat.crazydomains.com
 *.square.site
+*.squarespace.com
 *.translate.goog
 *.trycloudflare.com
 *.ts.net

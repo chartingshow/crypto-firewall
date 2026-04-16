@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Pages Dev)
 ! Expires: 7 days (update frequency)
-! Last modified: 20 October 2025
+! Last modified: 16 April 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -108,6 +108,7 @@
 ||arkham.pages.dev^
 ||arnbbb.pages.dev^
 ||artyfacts.pages.dev^
+||asdasdasdadsvvvvv.pages.dev^
 ||asdasdwer23wrt23r23r23.pages.dev^
 ||aswbj.pages.dev^
 ||autcrodapps.pages.dev^
@@ -243,6 +244,7 @@
 ||chimpz.pages.dev^
 ||circle-e97.pages.dev^
 ||cisco-6w4.pages.dev^
+||cladueall.pages.dev^
 ||claim-3ct.pages.dev^
 ||claim-3na.pages.dev^
 ||claim-506.pages.dev^
@@ -271,6 +273,8 @@
 ||claimmemecoin.pages.dev^
 ||claimpepe.pages.dev^
 ||claimwallet-bit-rock.pages.dev^
+||claud-code.pages.dev^
+||claude-code-docs-site.pages.dev^
 ||cloudapp-130.pages.dev^
 ||cloudsync.pages.dev^
 ||codes-bigtime.pages.dev^
@@ -436,6 +440,7 @@
 ||halborncybersecurity.pages.dev^
 ||hedgeupblockchain.pages.dev^
 ||hehe-verse.pages.dev^
+||hgjbulk.pages.dev^
 ||holdstation.pages.dev^
 ||housing-aj5.pages.dev^
 ||hubprotocol.pages.dev^
@@ -448,6 +453,7 @@
 ||integratechainfix.pages.dev^
 ||intergratesmartverse.pages.dev^
 ||intral-node.pages.dev^
+||jhgyuifyfiguohi.pages.dev^
 ||jito-au.pages.dev^
 ||jmal.pages.dev^
 ||jpg-store.pages.dev^
@@ -552,12 +558,14 @@
 ||nftcellframe.pages.dev^
 ||nftmetis.pages.dev^
 ||nmbnbhjgnbnm.pages.dev^
+||nnnnnnnnnnnnnnnnnnnnn.pages.dev^
 ||node-mainnet.pages.dev^
 ||nodeappauth.pages.dev^
 ||nodeappsresolver.pages.dev^
 ||nodefixer.pages.dev^
 ||noderesolveauth.pages.dev^
 ||nodesvalidation.pages.dev^
+||notklmalans.pages.dev^
 ||oasis-presale.pages.dev^
 ||oggyinu.pages.dev^
 ||okx-ru.pages.dev^

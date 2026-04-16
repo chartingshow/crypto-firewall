@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Mega Version)
 ! Expires: 1 days
-! Last modified: 13 April 2026
+! Last modified: 16 April 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -106457,8 +106457,14 @@
 ||ln.run/supportcenterbusiness*
 ||play.google.com/store/apps/details?id=com.nx.app
 ||shorturl.at/dKOR6*
+||steamcommunity.com/id/desdsfds34324y3g
+||steamcommunity.com/id/fio34h8dsh3iufs
+||steamcommunity.com/id/jeg238r7staf378s
+||steamcommunity.com/id/krouvhsin34287f7h3
+||steamcommunity.com/id/tfy5d6gohu8tgy687r7
 ||steamcommunity.com/profiles/76561198721263282
 ||steamcommunity.com/profiles/76561198780411257*
+||t.me/+IDl6XgFBZdI1ZjZh
 ||t.me/Nxone_Community*
 ||telegram.me/g1n3sss
 ||tiktok.com/@nivex_lab*
@@ -106768,6 +106774,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/cprapid-com/adblock-list.txt
 !#include subdomain-filters/crazydomains-com/adblock-list.txt
 !#include subdomain-filters/easterndns-com/adblock-list.txt
+!#include subdomain-filters/edgeone-app/adblock-list.txt
 !#include subdomain-filters/eu-com/adblock-list.txt
 !#include subdomain-filters/fastly-net/adblock-list.txt
 !#include subdomain-filters/firebaseapp-com/adblock-list.txt
@@ -106798,6 +106805,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/sglwebs-com/adblock-list.txt
 !#include subdomain-filters/square-site/adblock-list.txt
+!#include subdomain-filters/squarespace-com/adblock-list.txt
 !#include subdomain-filters/supabase-co/adblock-list.txt
 !#include subdomain-filters/tistory-com/adblock-list.txt
 !#include subdomain-filters/translate-goog/adblock-list.txt
