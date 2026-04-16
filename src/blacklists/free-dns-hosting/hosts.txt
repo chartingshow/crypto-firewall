@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 16 April 2026
 #
 
 # Block Free dns and hosting
@@ -94,6 +94,7 @@
 0.0.0.0 ipq.co
 0.0.0.0 is-a-doctor.com
 0.0.0.0 is-by.us
+0.0.0.0 it.com
 0.0.0.0 ix.tc
 0.0.0.0 jetos.com
 0.0.0.0 jumpingcrab.com

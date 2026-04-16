@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 July 2025
+# Last modified: 16 April 2026
 #
 
 # Block vercel app sub-domains
@@ -15,6 +15,7 @@
 0.0.0.0 alphalinksolutions.vercel.app
 0.0.0.0 angels-demons.vercel.app
 0.0.0.0 antistresscorp-wlcheck.vercel.app
+0.0.0.0 api-web3-auth.vercel.app
 0.0.0.0 app-fxkh94c5d-relative-finance.vercel.app
 0.0.0.0 app-sei.vercel.app
 0.0.0.0 apps-chainbridge-portals-html-ukl.vercel.app
@@ -48,6 +49,7 @@
 0.0.0.0 connect-collabs.vercel.app
 0.0.0.0 connect-verify.vercel.app
 0.0.0.0 connection-collabs.vercel.app
+0.0.0.0 coredeal2.vercel.app
 0.0.0.0 cube-live.vercel.app
 0.0.0.0 cultos.vercel.app
 0.0.0.0 cyberalphavalidator.vercel.app
@@ -104,7 +106,14 @@
 0.0.0.0 honeypot-killer.vercel.app
 0.0.0.0 inj-interface.vercel.app
 0.0.0.0 ip-check-api.vercel.app
+0.0.0.0 ip-check-notification-03.vercel.app
+0.0.0.0 ip-check-notification-firebase.vercel.app
+0.0.0.0 ip-check-notification-firebase03.vercel.app
+0.0.0.0 ip-check-notification-rkb.vercel.app
 0.0.0.0 ip-check-server.vercel.app
+0.0.0.0 ip-check-wh.vercel.app
+0.0.0.0 ip-checking-notification-firebase111.vercel.app
+0.0.0.0 ip-checking-notification-kgm.vercel.app
 0.0.0.0 ironapes.vercel.app
 0.0.0.0 joingrapes-six.vercel.app
 0.0.0.0 jointherealworld.vercel.app
@@ -123,6 +132,7 @@
 0.0.0.0 migrate-layerai.vercel.app
 0.0.0.0 mint-cat.vercel.app
 0.0.0.0 minus-v1.vercel.app
+0.0.0.0 monobyte-code.vercel.app
 0.0.0.0 multidappnode.vercel.app
 0.0.0.0 multidappsync.vercel.app
 0.0.0.0 multidappsyncl.vercel.app
@@ -144,9 +154,11 @@
 0.0.0.0 openseagiveaway-click.vercel.app
 0.0.0.0 openseapro-claim.vercel.app
 0.0.0.0 openseapro-randomclaim.vercel.app
+0.0.0.0 oracle-v1-beta.vercel.app
 0.0.0.0 pancake-frontend-oftl8ivug-chefilip.vercel.app
 0.0.0.0 pancakeswapv2-testnet.vercel.app
 0.0.0.0 pmw-drop.vercel.app
+0.0.0.0 price-oracle-v2.vercel.app
 0.0.0.0 project-f8qx6uw1v-brunos-projects-615e68b8.vercel.app
 0.0.0.0 pyth-t.vercel.app
 0.0.0.0 pythdrop-18.vercel.app
@@ -186,6 +198,7 @@
 0.0.0.0 verify-task-on-galxe.vercel.app
 0.0.0.0 verify-task-on-glaxe-nft.vercel.app
 0.0.0.0 vexstria.vercel.app
+0.0.0.0 vscodesettingtask.vercel.app
 0.0.0.0 wallet-authenticate-devicetoken.vercel.app
 0.0.0.0 wallet-linker-frontend-5nu3.vercel.app
 0.0.0.0 walletauthenticator.vercel.app

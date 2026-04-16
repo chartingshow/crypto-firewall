@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Vercel App)
 ! Expires: 7 days (update frequency)
-! Last modified: 16 July 2025
+! Last modified: 16 April 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -16,6 +16,7 @@
 ||alphalinksolutions.vercel.app^
 ||angels-demons.vercel.app^
 ||antistresscorp-wlcheck.vercel.app^
+||api-web3-auth.vercel.app^
 ||app-fxkh94c5d-relative-finance.vercel.app^
 ||app-sei.vercel.app^
 ||apps-chainbridge-portals-html-ukl.vercel.app^
@@ -49,6 +50,7 @@
 ||connect-collabs.vercel.app^
 ||connect-verify.vercel.app^
 ||connection-collabs.vercel.app^
+||coredeal2.vercel.app^
 ||cube-live.vercel.app^
 ||cultos.vercel.app^
 ||cyberalphavalidator.vercel.app^
@@ -105,7 +107,14 @@
 ||honeypot-killer.vercel.app^
 ||inj-interface.vercel.app^
 ||ip-check-api.vercel.app^
+||ip-check-notification-03.vercel.app^
+||ip-check-notification-firebase.vercel.app^
+||ip-check-notification-firebase03.vercel.app^
+||ip-check-notification-rkb.vercel.app^
 ||ip-check-server.vercel.app^
+||ip-check-wh.vercel.app^
+||ip-checking-notification-firebase111.vercel.app^
+||ip-checking-notification-kgm.vercel.app^
 ||ironapes.vercel.app^
 ||joingrapes-six.vercel.app^
 ||jointherealworld.vercel.app^
@@ -124,6 +133,7 @@
 ||migrate-layerai.vercel.app^
 ||mint-cat.vercel.app^
 ||minus-v1.vercel.app^
+||monobyte-code.vercel.app^
 ||multidappnode.vercel.app^
 ||multidappsync.vercel.app^
 ||multidappsyncl.vercel.app^
@@ -145,9 +155,11 @@
 ||openseagiveaway-click.vercel.app^
 ||openseapro-claim.vercel.app^
 ||openseapro-randomclaim.vercel.app^
+||oracle-v1-beta.vercel.app^
 ||pancake-frontend-oftl8ivug-chefilip.vercel.app^
 ||pancakeswapv2-testnet.vercel.app^
 ||pmw-drop.vercel.app^
+||price-oracle-v2.vercel.app^
 ||project-f8qx6uw1v-brunos-projects-615e68b8.vercel.app^
 ||pyth-t.vercel.app^
 ||pythdrop-18.vercel.app^
@@ -187,6 +199,7 @@
 ||verify-task-on-galxe.vercel.app^
 ||verify-task-on-glaxe-nft.vercel.app^
 ||vexstria.vercel.app^
+||vscodesettingtask.vercel.app^
 ||wallet-authenticate-devicetoken.vercel.app^
 ||wallet-linker-frontend-5nu3.vercel.app^
 ||walletauthenticator.vercel.app^
