@@ -404,17 +404,17 @@ There are two methods to install into your adblocker:
 ## Core Infrastructure Blocking 🌐
 
 - **Free DNS / Hosting**  
-  Blocks high-abuse providers commonly used for malware hosting to improve performance and reduce noise.  
-  → [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
+  Blocks high-abuse hosting providers frequently used for malware.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/
 
 - **ASN Blocking**  
-  Blocks entire network ranges associated with malicious activity.  
-  → [ASN Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt)
+  Blocks entire network ranges linked to malicious activity.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt
 
 - **IP Blocking**  
   Blocks known malicious IPs (e.g. C2 servers, malware infrastructure).  
-  → [IP Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt)  
-  → [IP AdBlock List](https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt)
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt
 
 - **Custom IP Lists (Advanced)**  
   Targeted IP blocks that may overlap with shared infrastructure — review before use.  
@@ -423,11 +423,11 @@ There are two methods to install into your adblocker:
 ## Application & User Threats 👨‍💻
 
 - **Malicious Extensions & Packages**  
-  Blocks known malicious browser extensions and software packages used for data theft or compromise.  
+  Blocks known malicious browser extensions and software packages.  
   → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/packages-and-extensions
 
 - **Email Threats**  
-  Blocks known scam, ransomware, sextortion, and blackmail email addresses.  
+  Blocks scam, ransomware, sextortion, and blackmail email addresses.  
   → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/email.txt
 
 - **Spam Calls**  
@@ -437,21 +437,21 @@ There are two methods to install into your adblocker:
 ## Blockchain Threat Intelligence 🕵️
 
 - **Wallet Addresses**  
-  Known malicious or scam-associated wallet addresses.  
+  Blocks known malicious or scam-linked wallet addresses.  
   → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/
 
 - **Transactions**  
-  Suspicious transaction hashes linked to fraud or C2 activity.  
+  Blocks suspicious transaction hashes linked to fraud or C2 activity.  
   → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/blockchain-transactions
 
 - **Mining Pools**  
-  Malicious or high-risk mining pool addresses.  
+  Blocks malicious or high-risk mining pool addresses.  
   → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/mining-pools-addresses/
 
 ## Sanctions & Compliance 🚫
 
 - **OFAC Sanctions**  
-  Sanctioned digital currency addresses (SDN list and related data).  
+  Blocks sanctioned digital currency addresses (SDN and related lists).  
   → https://github.com/chartingshow/crypto-firewall/tree/master/src/ofac-sanctioned-digital-currency-addresses  
   → https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists
 
