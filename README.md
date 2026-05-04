@@ -459,30 +459,45 @@ There are two methods to install into your adblocker:
 
 ## Modules ⚙️
 
-This repo contains various filter list modules, which users can check out in the following folders:
+Crypto Firewall modules are grouped by threat type and use case:
 
-- [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
-- [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
-- [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
-- [Bank Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/bank-phishing-filters)
-- [Botnet Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/botnet-filters)
-- [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
-- [Fake News Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fake-news-filters)
-- [Fraud Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fraud-filters)
-- [Malicious Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malicious-filters)
+### Core Threat Categories 🚨
+Primary security filters targeting high-risk threats.
+
 - [Malware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malware-filters)
 - [Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-filters)
 - [Phishing Other Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/phishing-other-filters)
-- [PUP Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pup-filters)
-- [Pig Butchering Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pig-butchering-filters)
-- [Ransomware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ransomware-filters)
 - [Scam Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/scam-filters)
+- [Fraud Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fraud-filters)
+- [Ransomware Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ransomware-filters)
+
+### Infrastructure & Network 🌐
+Focuses on domains, botnets, and network-level indicators.
+
+- [Botnet Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/botnet-filters)
+- [Domain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/domain-filters)
 - [Subdomain Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/subdomain-filters)
-- [Tracking Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/tracking-filters) **(Note: This filter list blocks javascript files found on many websites and stop things from working correctly)**
 - [Url Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/url-filters)
 - [URLhaus Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/urlhaus-filters)
 
-_Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
+### Content & Behaviour 🧠
+Targets ads, tracking, and misleading content.
+
+- [Ad Server Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/ad-servers)
+- [Adverts Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters)
+- [Tracking Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/tracking-filters)  
+  **⚠️ May break websites (blocks JavaScript-heavy functionality)**
+
+- [Fake News Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/fake-news-filters)
+
+### Specialised Threats 🎯
+Targeted filters for specific attack vectors.
+
+- [Bank Phishing Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/bank-phishing-filters)
+- [Pig Butchering Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pig-butchering-filters)
+- [PUP Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/pup-filters)
+- [Abuse Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/abuse-filters)
+- [Malicious Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/malicious-filters)
 
 # Project & Community
 
