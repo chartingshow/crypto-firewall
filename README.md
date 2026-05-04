@@ -79,113 +79,118 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 # Overview
 
-## Quick Start ⚡
+Crypto Firewall is a threat intelligence and blocking system designed to defend against crypto-related threats including phishing, scams, malware, and cryptojacking.
 
-Get protected in under 2 minutes:
-
-1. Install an ad blocker (recommended: Brave or uBlock Origin)
-2. Add one of the following lists to your DNS, ad blocker, or network filtering solution:
-
-* **Lite Version (Low resource usage):**
-
-  ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt
-  ```
-
-* **Full Version (Recommended):**
-
-  ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt
-  ```
-
-* **Mega Version (Maximum protection):**
-
-  ```
-  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt
-  ```
-
-3. (Optional) Add the **Crypto Annoyances** filter
-4. Restart your browser
-
-➡️ See [Installation](#installation) for mega setup options
+It provides continuously updated blocklists and indicators of compromise (IOCs) for use across browsers, operating systems, and network-level security tools.
 
 <details>
 <summary><strong>Why Crypto Firewall?</strong></summary>
 
-The cryptocurrency ecosystem is a high-value target for attackers. Threats evolve rapidly, and traditional protections often lag behind.
+The cryptocurrency ecosystem is a high-value target for attackers, with threats evolving faster than traditional protections.
 
-Crypto Firewall helps reduce risk by:
+Crypto Firewall reduces risk by:
 
-* Blocking known malicious domains and infrastructure
-* Preventing access to phishing and scam sites
-* Disrupting cryptojacking and malicious scripts
-* Supporting integration with modern security tooling
+- Blocking malicious domains and infrastructure
+- Preventing phishing and scam access
+- Disrupting cryptojacking and malicious scripts
+- Integrating with modern security tooling
+
 </details>
+
+## Quick Start ⚡
+
+Get protected in under 2 minutes:
+
+1. Install an ad blocker (e.g. Brave or uBlock Origin)
+2. Add one list:
+
+- **Lite (low resource):**
+
+```
+[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt)
+```
+
+- **Full (recommended):**
+
+```
+[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt)
+```
+
+- **Mega (maximum protection):**
+
+```
+[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt)
+```
+
+3. Restart your browser
+
+➡️ See [Installation](#installation) for advanced setups
 
 <details>
 <summary><strong>Recommended Setup</strong></summary>
 
-* **Most users:** Full Version
-* **High-performance systems / network-level blocking:** Mega Version
-* **Low-end devices / mobile:** Lite Version
-* **Testing / early adopters:** Beta Version
+- **Most users:** Full  
+- **High-performance / network-level:** Mega  
+- **Low-end devices / mobile:** Lite  
+- **Testing / early adopters:** Beta
+
 </details>
 
 <details>
 <summary><strong>Who is this for?</strong></summary>
 
-Crypto Firewall is designed for:
+- Individual traders and investors  
+- Security-conscious users  
+- Developers and system administrators  
+- Network operators and security teams  
 
-* Individual traders and investors
-* Security-conscious users
-* Developers and system administrators
-* Network operators and security teams
+Supports deployment at:
 
-It supports deployment at:
+- Browser level (ad blockers)  
+- OS level (hosts file)  
+- Network level (DNS, firewalls, IDS/IPS)
 
-* Browser level (ad blockers)
-* Operating system level (hosts file)
-* Network level (DNS, firewalls, IDS/IPS)
 </details>
 
 <details>
 <summary><strong>Threat Model</strong></summary>
 
-Crypto Firewall focuses on mitigating:
+**Mitigates:**
+- Phishing and scam infrastructure  
+- Cryptojacking (browser-based mining)  
+- Malware distribution endpoints  
+- Command-and-control (C2) servers  
+- Fraudulent blockchain services  
 
-* Phishing domains and scam infrastructure
-* Cryptojacking and browser-based mining
-* Malware distribution endpoints
-* Command-and-control (C2) servers
-* Fraudulent blockchain-related services
+**Does not cover:**
+- Zero-day exploits  
+- Compromised endpoints  
+- Social engineering outside detectable infrastructure  
 
-It does **not** protect against:
-
-* Zero-day exploits
-* Compromised devices or endpoints
-* Social engineering outside detectable infrastructure
 </details>
 
 <details>
-<summary><strong>What this is NOT</strong></summary>
+<summary><strong>Scope & Limitations</strong></summary>
 
-* Not a complete security solution
-* Not a replacement for antivirus or endpoint protection
-* Not guaranteed to block all threats
+- Not a complete security solution  
+- Not a replacement for antivirus or endpoint protection  
+- Not guaranteed to block all threats  
 
-This project should be used as part of a **layered security strategy**.
+Use as part of a **layered security strategy**.
+
 </details>
 
 <details>
 <summary><strong>Data & Updates</strong></summary>
 
-Blocklists are continuously updated based on:
+Blocklists are continuously updated from:
 
-* Threat intelligence research
-* Community contributions
-* Ongoing analysis of emerging threats
+- Threat intelligence research  
+- Community contributions  
+- Ongoing analysis of emerging threats  
 
-Users should enable automatic updates wherever possible.
+Enable automatic updates where supported.
+
 </details>
 
 # Getting Started
@@ -315,31 +320,23 @@ For a thorough explanation on how to add the to your adblocker, open one of the 
 
 ## Recommended versions ✅
 
-The firewall is known to reduce performance slightly and this is why we have several **different** versions.
+Filtering may impact performance. Choose a version based on your device capability:
 
 ### Suggested Versions (Performance & Device)
 
 Choose a version based on your device performance. If unsure, start with `full` and adjust based on performance.
 
 - **Low-End Devices**  
-  *(Low-end smartphones, older tablets, Intel i3, Ryzen 3, older hardware)*  
-  → Use `lite`  
-  → If performance allows, try `full`
+  → `lite` (upgrade to `full` if stable)
 
 - **Mid-Range Devices**  
-  *(Most smartphones, tablets, laptops — Intel i5, Ryzen 5, Apple M1/M2)*  
-  → Use `full`  
-  → If performance drops, switch to `lite`
+  → `full` (downgrade to `lite` if needed)
 
 - **High-Performance Devices**  
-  *(Powerful laptops/desktops — Intel i7, Ryzen 7, Apple M2 Pro / M3)*  
-  → Use `mega`  
-  → If performance drops, switch to `full`
+  → `mega` (fallback: `full`)
 
-- **Enthusiast / Workstation Systems**  
-  *(High-end desktops — Intel i9, Ryzen 9, Apple M2 Max / M3 Max / Ultra)*  
-  → Use `mega` or `beta`  
-  → If performance drops, switch to `full`
+- **Enthusiast / Workstations**  
+  → `mega` or `beta` (fallback: `full`)
 
 ## Stable Versions 🏆
 
