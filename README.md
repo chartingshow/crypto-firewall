@@ -32,7 +32,8 @@ If you discover a false positive or need to add a new block, then feel free to r
   * [Installation ❤️](#installation-%EF%B8%8F)
     + [Browser Blocking 🌟](#browser-blocking-)
     + [Ad Blockers ☀️](#ad-blockers-%EF%B8%8F)
-    + [Perimeter Blocking 🔓](#perimeter-blocking-)
+    + [Network / DNS Filtering 🔓](#network--dns-filtering-)
+    + [Firewalls / IDS / SIEM 🛡️](#firewalls--ids--siem-%EF%B8%8F)
     + [Operating System Blocking 🌟](#operating-system-blocking-)
   * [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances-optional-step-)
 
