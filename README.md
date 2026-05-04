@@ -48,18 +48,10 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ### [Blocklists & Intelligence](#blocklists--intelligence-1)
 
-  * [Free DNS / Hosting Blocking 🆓](#free-dns--hosting-blocking-)
-  * [Bad Browser Extensions & Package Names 👨‍💻](#bad-browser-extensions--package-names-%E2%80%8D)
-  * [ASN Blocking 🗃️](#asn-blocking-%EF%B8%8F)
-  * [IP Blocking 🌐](#ip-blocking-)
-  * [Custom IP Block Lists 📋](#custom-ip-block-lists-)
-  * [Email Blocking 📧](#email-blocking-)
-  * [Spam Call Blocking ☎️](#spam-call-blocking-%EF%B8%8F)
-  * [Wallet Addresses 🕵️](#wallet-addresses-%EF%B8%8F)
-  * [Transactions 🛡️](#transactions-%EF%B8%8F)
-  * [Mining Pools 🦈](#mining-pools-)
-  * [OFAC Sanctions 🚫](#ofac-sanctions-)
-    + [How do we define sanctions data?](#how-do-we-define-sanctions-data)
+  * [Core Infrastructure Blocking 🌐](#core-infrastructure-blocking-)
+  * [Application & User Threats 👨‍💻](#application--user-threats-%E2%80%8D)
+  * [Blockchain Threat Intelligence 🕵️](#blockchain-threat-intelligence-%EF%B8%8F)
+  * [Sanctions & Compliance 🚫](#sanctions--compliance-)
 
 ### [Modules](#modules-1)
 
