@@ -567,11 +567,11 @@ When you want to request a icon please feel to create a issue. See our [contribu
 
 ## Security 🔐
 
-We take security seriously and appreciate responsible disclosure.
+We take security seriously and support responsible disclosure.
 
-If you discover a **security vulnerability**, please report it **privately** by contacting the maintainers rather than opening a public issue. This allows us to investigate and address the issue without exposing users to unnecessary risk.
+If you discover a **security vulnerability**, report it **privately** to the maintainers rather than opening a public issue. This enables safe investigation and remediation.
 
-For general bugs, false positives, or feature requests, please use the GitHub Issues tab.
+For bugs, false positives, or feature requests, use the GitHub Issues tab.
 
 ## Disclaimer ⚠️
 
@@ -580,88 +580,78 @@ For general bugs, false positives, or feature requests, please use the GitHub Is
 
 This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to:
 
-- Fitness for a particular purpose
-- Reliability or availability
-- Protection against all security threats
+- Fitness for a particular purpose  
+- Reliability or availability  
+- Protection against all security threats  
 
-See the GNU General Public License v3.0 for full details.
+See the GNU General Public License v3.0 for full terms.
 </details>
 
 <details>
 <summary><strong>Limitation of Liability</strong></summary>
 
-In no event shall the maintainers or contributors be held liable for:
+Maintainers and contributors shall not be liable for:
 
-- Financial loss (including cryptocurrency loss)
-- Security breaches or system compromise
-- Data loss or corruption
-- Service disruption or downtime
-- Any direct, indirect, incidental, or consequential damages
+- Financial loss (including cryptocurrency loss)  
+- Security breaches or system compromise  
+- Data loss or corruption  
+- Service disruption or downtime  
+- Any direct, indirect, incidental, or consequential damages  
 
-arising from the use of this project.
+arising from use of this project.
 </details>
 
 <details>
 <summary><strong>False Positives</strong></summary>
 
-Due to the nature of threat intelligence and filtering systems:
+Filtering and threat intelligence are inherently imperfect:
 
-- Legitimate domains, IPs, or services **may be incorrectly blocked**
-- Malicious actors may evade detection
+- Legitimate domains, IPs, or services may be blocked  
+- Malicious infrastructure may evade detection  
 
-Users are responsible for reviewing and validating the data before applying it in production environments.
+Validation is required before production use.
 </details>
 
 <details>
 <summary><strong>Financial Disclaimer</strong></summary>
 
-This project **does not provide financial or investment advice**.
-
-Users should always conduct their own due diligence when interacting with cryptocurrency platforms, wallets, or transactions.
+No financial or investment advice is provided. Independent due diligence is required for all cryptocurrency activity.
 </details>
 
 <details>
 <summary><strong>Use at Your Own Risk</strong></summary>
 
-By using this project, you acknowledge that:
-
-- Security is a constantly evolving landscape
-- No solution can provide complete protection
-- You are solely responsible for how you implement and use this project
+Security is an evolving domain. No solution provides complete protection. Responsibility for implementation and use remains with the user.
 </details>
 
 ## Legal ⚖️
 
-This project provides curated blocklists, filtering rules, and security guidance intended to help reduce exposure to malicious activity within the cryptocurrency ecosystem.
+This project provides curated blocklists, filtering rules, and security guidance to reduce exposure to malicious activity in the cryptocurrency ecosystem.
 
 <details>
 <summary><strong>Scope and Purpose</strong></summary>
 
-Crypto Firewall is a **defensive security resource**, not a guarantee of protection. It is designed to assist users in identifying and blocking known threats, but it should be used as part of a broader security strategy.
-
-This project **does not function as a traditional firewall appliance**, and should not be relied upon as a sole line of defense.
+Crypto Firewall is a **defensive security resource**, not a standalone security control or guaranteed protection mechanism. It should be deployed as part of a layered security strategy.
 </details>
 
 <details>
 <summary><strong>Data Sources</strong></summary>
 
-Data included in this project is derived from a combination of:
+Data is derived from:
 
-- Publicly available threat intelligence sources
-- Community contributions
-- Independent research
+- Public threat intelligence sources  
+- Community contributions  
+- Independent research  
 
-While we aim for accuracy and relevance, **we do not guarantee the completeness, accuracy, or timeliness** of any data provided.
+Accuracy, completeness, and timeliness are not guaranteed.
 </details>
 
 <details>
 <summary><strong>Third-Party Services</strong></summary>
 
-This project may reference third-party platforms, services, or trademarks (e.g. exchanges, browsers, tools).
+References to third-party platforms, tools, or trademarks are for informational purposes only.
 
-All trademarks, logos, and brand names are the property of their respective owners.
-
-This project is **not affiliated with, endorsed by, or associated with any third-party services** mentioned.
+All trademarks remain the property of their respective owners. No affiliation or endorsement is implied.
 </details>
 
 ## License 📄
