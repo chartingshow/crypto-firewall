@@ -23,11 +23,11 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Table of Contents 📑
 
-### [Overview](#overview-1)
+### [1. Overview](#overview-1)
 
   * [Quick Start ⚡](#quick-start-)
 
-### [Getting Started](#getting-started-1)
+### [2. Getting Started](#getting-started-1)
 
   * [Installation ❤️](#installation-%EF%B8%8F)
     + [Browser Blocking 🌟](#browser-blocking-)
@@ -37,7 +37,7 @@ If you discover a false positive or need to add a new block, then feel free to r
     + [Operating System Blocking 🌟](#operating-system-blocking-)
   * [Crypto Annoyances (Optional Step) 🚀](#crypto-annoyances-optional-step-)
 
-### [Usage & Versions](#usage--versions-1)
+### [3. Usage & Versions](#usage--versions-1)
 
   * [Basic usage 🔥](#basic-usage-)
   * [Recommended versions ✅](#recommended-versions-)
@@ -47,18 +47,22 @@ If you discover a false positive or need to add a new block, then feel free to r
     + [Mega Version](#mega-version)
   * [Beta Version ⚠️](#beta-version-%EF%B8%8F)
 
-### [Blocklists & Intelligence](#blocklists--intelligence-1)
+### [4. Blocklists & Intelligence](#blocklists--intelligence-1)
 
   * [Core Infrastructure Blocking 🌐](#core-infrastructure-blocking-)
   * [Application & User Threats 👨‍💻](#application--user-threats-%E2%80%8D)
   * [Blockchain Threat Intelligence 🕵️](#blockchain-threat-intelligence-%EF%B8%8F)
   * [Sanctions & Compliance 🚫](#sanctions--compliance-)
 
-### [Modules](#modules-1)
+### [5. Modules](#modules-1)
 
-  * [Modules ⚙️](#modules-%EF%B8%8F)
+  * [Overview ⚙️](#overview-%EF%B8%8F)
+  * [Core Threat Categories 🚨](#core-threat-categories-)
+  * [Infrastructure & Network 🌐](#infrastructure--network-)
+  * [Content & Behaviour 🧠](#content--behaviour-)
+  * [Specialised Threats 🎯](#specialised-threats-)
 
-### [Project & Community](#project--community-1)
+### [6. Project & Community](#project--community-1)
 
   * [Issues 🔨](#issues-)
   * [Changelog 🏆](#changelog-)
@@ -69,13 +73,13 @@ If you discover a false positive or need to add a new block, then feel free to r
     + [Contribution Terms](#contribution-terms)
   * [Requesting Icons 🎁](#requesting-icons-)
 
-### [Security & Legal](#security--legal-1)
+### [7. Security & Legal](#security--legal-1)
 
   * [Security 🔐](#security-)
   * [Disclaimer ⚠️](#disclaimer-%EF%B8%8F)
   * [Legal ⚖️](#legal-%EF%B8%8F)
   * [License 📄](#license-)
-    + [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
+    + [Stargazers](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
     + [SEO Keywords](#seo-keywords)
 
 # Overview
@@ -457,7 +461,7 @@ There are two methods to install into your Ad blocker:
 
 # Modules
 
-## Modules ⚙️
+## Overview ⚙️
 
 Crypto Firewall modules are grouped by threat type and use case:
 
