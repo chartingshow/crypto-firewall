@@ -419,110 +419,59 @@ There are two methods to install into your adblocker:
 
 # Blocklists & Intelligence
 
-## Free DNS / Hosting Blocking 🆓
+## Core Infrastructure Blocking 🌐
 
-This repo blocks specific free dns / hosting services, that are completely saturated with hosting malware and viruses. This is to reduce the size of the filter lists and increase the performance. A list of services currently blocked can be found in the folder here:
+- **Free DNS / Hosting**  
+  Blocks high-abuse providers commonly used for malware hosting to improve performance and reduce noise.  
+  → [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
 
-- [Free DNS/Hosting Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/)
+- **ASN Blocking**  
+  Blocks entire network ranges associated with malicious activity.  
+  → [ASN Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt)
 
-## Bad Browser Extensions & Package Names 👨‍💻
+- **IP Blocking**  
+  Blocks known malicious IPs (e.g. C2 servers, malware infrastructure).  
+  → [IP Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt)  
+  → [IP AdBlock List](https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt)
 
-Malicious browser extensions pose critical risks by enabling cybercriminals to hijack browsing sessions, steal sensitive credentials and establish persistent access. These threats often masquerade as legitimate tools while exfiltrating cookies, authentication tokens and financial data.
+- **Custom IP Lists (Advanced)**  
+  Targeted IP blocks that may overlap with shared infrastructure — review before use.  
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/custom-ip-block-lists
 
-Malicious apps are a method of manipulating users into downloading malware that allows cybercriminals to steal personal information, including login credentials or payment information. It's also possible that they can even take control of a user's device. A list of bad browser extensions and malicious package names currently blocked can be found in the following folder:
+## Application & User Threats 👨‍💻
 
-- [Bad Browser Extensions & Package Names Folder](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/packages-and-extensions)
+- **Malicious Extensions & Packages**  
+  Blocks known malicious browser extensions and software packages used for data theft or compromise.  
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/packages-and-extensions
 
-## ASN Blocking 🗃️
+- **Email Threats**  
+  Blocks known scam, ransomware, sextortion, and blackmail email addresses.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/email.txt
 
-An Autonomous System Number (ASN) is a globally unique 16-digit identification number assigned by the Internet Assigned Numbers Authority (IANA) to Autonomous Systems (AS). ASNs are crucial for routing within networks and exchanging routing information with other Internet Service Providers. Autonomous systems numbered one to 64511 are available by IANA for global use. The 64512 to 65535 series is reserved for private and reserved purposes.
+- **Spam Calls**  
+  References tools to block scam and spoofed numbers.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/spam-calls/list.md
 
-An Autonomous System Number (ASN) can also be blocked, be aware that ASN's contain a load of ip addresses assigned to them. You can add them to a firewall of your choice.
+## Blockchain Threat Intelligence 🕵️
 
-The ASN block list can be found here:
+- **Wallet Addresses**  
+  Known malicious or scam-associated wallet addresses.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/
 
-- [ASN Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt)
+- **Transactions**  
+  Suspicious transaction hashes linked to fraud or C2 activity.  
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/blockchain-transactions
 
-## IP Blocking 🌐
+- **Mining Pools**  
+  Malicious or high-risk mining pool addresses.  
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/mining-pools-addresses/
 
-IP Addresses can also be blocked, these contain things such as command-and-control (C2) servers for crypto malware etc. You can add them to a firewall of your choice.
+## Sanctions & Compliance 🚫
 
-The IP block list can be found here:
-
-- [IP Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt)
-- [IP Filter AdBlock List](https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt)
-
-For a thorough explanation on how to add block an ip address in your firewall, you can open one of the help guides found in this folder:
-
-- https://github.com/chartingshow/crypto-firewall/tree/master/docs
-
-## Custom IP Block Lists 📋
-
-These custom IP address filter lists block specific malware and can be found in the folder:
-
-- https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/custom-ip-block-lists
-
-> The reason why these custom lists aren't in the main IP filter list is because these IP addresses maybe shared and used for public access or hosting multiple domains! These custom IP address filter lists are for advanced users who can customize them in order to not block their access or applications.
-
-## Email Blocking 📧
-
-Email addresses can be blocked, our email block list contains known Crypto scammers, Ransomware, Sextortion and Blackmail email addresses.
-
-The Email block list can be found here:
-
-- [Email Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/email.txt)
-
-To learn how to protect yourself from Sextortion emails, see here:
-
-- https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-protect-yourself-from-sextortion-scams.md
-
-How to Identify a Ransomware Email Attack, see here:
-
-- https://github.com/chartingshow/crypto-firewall/blob/master/docs/scams/how-to-identify-a-ransomware-email-attack.md
-
-## Spam Call Blocking ☎️
-
-It's essential to note that tech support scammers often use spoofed or fake numbers to disguise their true location and identity. These numbers may appear legitimate, but they are actually being used to perpetuate fraudulent activities.
-
-Remember, if you receive a suspicious call or message claiming to be from technical support, hang up immediately and do not provide any personal or financial information. Report the incident to the relevant authorities and take steps to secure your device.
-
-A list of spam blocking mobile apps can be found here:
-
-- [Mobile Apps To Block Spam Calls](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/spam-calls/list.md)
-
-## Wallet Addresses 🕵️
-
-Avoid sending cryptocurrency to bad actors and scammers, a list of bad blockchain wallet addresses can be found here in this folder:
-
-- [Wallets Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/blockchain-wallet-addresses/)
-
-## Transactions 🛡️
-
-Cybercriminals are increasingly abusing blockchain transactions as covert communication channels, sometimes even using them as command-and-control (C2) servers to deliver malware or issue instructions. Avoid interacting with, confirming, or broadcasting any transaction hashes (txids) known to be linked to fraud, scams, or C2 activity.
-
-A curated list of suspicious transaction hashes can be found in this folder:
-
-- [Transactions Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/blockchain-transactions)
-
-## Mining Pools 🦈
-
-Avoid joining bad cryptocurrency mining pools, a list of bad blockchain mining pool addresses can be found here in this folder:
-
-- [Mining Pools Filter List](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/mining-pools-addresses/)
-
-## OFAC Sanctions 🚫
-
-OFAC publishes lists of individuals and companies owned or controlled by, or acting for or on behalf of, targeted countries. It also lists individuals, groups and entities, such as terrorists and narcotics traffickers designated under programs that are not country-specific. OFAC may add **digital currency addresses** to the SDN List to alert the public of specific **digital currency identifiers** associated with a blocked person.
-
-The OFAC Sanctioned Digital Currency Addresses lists can be found in this folder:
-
-- [OFAC Filter List](https://github.com/chartingshow/crypto-firewall/tree/master/src/ofac-sanctioned-digital-currency-addresses)
-
-### How do we define sanctions data?
-
-Sanctioned entities refer to entities listed on economic/trade embargo lists, such as by the US, EU, or UN, with which anyone subject to those jurisdictions is prohibited from dealing. Currently, this includes the Specially Designated Nationals (SDN) list of the US Department of the Treasury's Office of Foreign Assets Control (OFAC).
-
-You can search the full list of OFAC Specially Designated Nationals in OFAC's [sanctions database](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists).
+- **OFAC Sanctions**  
+  Sanctioned digital currency addresses (SDN list and related data).  
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/ofac-sanctioned-digital-currency-addresses  
+  → https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists
 
 # Modules
 
