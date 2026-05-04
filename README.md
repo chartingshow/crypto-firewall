@@ -2,15 +2,11 @@
 
 <h1 align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/Title-Emoji.svg" /></h1>
 
-Crypto Firewall: Your Digital Shield in the Cryptocurrency Ecosystem
+The **Crypto Firewall** is a threat intelligence and blocking system built to defend against crypto-related threats including phishing, scams, malware, and cryptojacking.
 
-The **Crypto Firewall** is a security-focused threat intelligence and blocking system designed to protect users from crypto-related threats including phishing, scams, malware, and cryptojacking.
-
-It provides continuously updated **blocklists, filters, and indicators of compromise (IOCs)** that can be deployed across browsers, operating systems, and network infrastructure.
+With continuously updated **blocklists, filters, and indicators of compromise (IOCs)**, it can be deployed across browsers, operating systems, and networks—helping you stay protected in an increasingly hostile crypto environment.
 
 <p align="center"><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/cover-1.jpg" /></p>
-
-The Crypto Firewall project is committed to enhancing your safety in the volatile crypto landscape, helping you avoid scams and protect your valuable digital assets. By implementing our strategies, you can trade with confidence and peace of mind.
 
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
@@ -25,19 +21,11 @@ If you discover a false positive or need to add a new block, then feel free to r
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
 </p>
 
-<br>
-
 ## Table of Contents 📑
 
 ### [Overview](#overview-1)
 
-  * [Why Crypto Firewall?](#why-crypto-firewall)
   * [Quick Start ⚡](#quick-start-)
-  * [Recommended Setup ✅](#recommended-setup-)
-  * [Who is this for? 🎯](#who-is-this-for-)
-  * [Threat Model 🧠](#threat-model-)
-  * [What this is NOT ❗](#what-this-is-not-)
-  * [Data & Updates 🔄](#data--updates-)
 
 ### [Getting Started](#getting-started-1)
 
@@ -107,17 +95,6 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 # Overview
 
-## Why Crypto Firewall?
-
-The cryptocurrency ecosystem is a high-value target for attackers. Threats evolve rapidly, and traditional protections often lag behind.
-
-Crypto Firewall helps reduce risk by:
-
-* Blocking known malicious domains and infrastructure
-* Preventing access to phishing and scam sites
-* Disrupting cryptojacking and malicious scripts
-* Supporting integration with modern security tooling
-
 ## Quick Start ⚡
 
 Get protected in under 2 minutes:
@@ -148,14 +125,30 @@ Get protected in under 2 minutes:
 
 ➡️ See [Installation](#installation) for mega setup options
 
-## Recommended Setup ✅
+<details>
+<summary><strong>Why Crypto Firewall?</strong></summary>
+
+The cryptocurrency ecosystem is a high-value target for attackers. Threats evolve rapidly, and traditional protections often lag behind.
+
+Crypto Firewall helps reduce risk by:
+
+* Blocking known malicious domains and infrastructure
+* Preventing access to phishing and scam sites
+* Disrupting cryptojacking and malicious scripts
+* Supporting integration with modern security tooling
+</details>
+
+<details>
+<summary><strong>Recommended Setup</strong></summary>
 
 * **Most users:** Full Version
 * **High-performance systems / network-level blocking:** Mega Version
 * **Low-end devices / mobile:** Lite Version
 * **Testing / early adopters:** Beta Version
+</details>
 
-## Who is this for? 🎯
+<details>
+<summary><strong>Who is this for?</strong></summary>
 
 Crypto Firewall is designed for:
 
@@ -169,8 +162,10 @@ It supports deployment at:
 * Browser level (ad blockers)
 * Operating system level (hosts file)
 * Network level (DNS, firewalls, IDS/IPS)
+</details>
 
-## Threat Model 🧠
+<details>
+<summary><strong>Threat Model</strong></summary>
 
 Crypto Firewall focuses on mitigating:
 
@@ -185,16 +180,20 @@ It does **not** protect against:
 * Zero-day exploits
 * Compromised devices or endpoints
 * Social engineering outside detectable infrastructure
+</details>
 
-## What this is NOT ❗
+<details>
+<summary><strong>What this is NOT</strong></summary>
 
 * Not a complete security solution
 * Not a replacement for antivirus or endpoint protection
 * Not guaranteed to block all threats
 
 This project should be used as part of a **layered security strategy**.
+</details>
 
-## Data & Updates 🔄
+<details>
+<summary><strong>Data & Updates</strong></summary>
 
 Blocklists are continuously updated based on:
 
@@ -203,6 +202,7 @@ Blocklists are continuously updated based on:
 * Ongoing analysis of emerging threats
 
 Users should enable automatic updates wherever possible.
+</details>
 
 # Getting Started
 
@@ -254,11 +254,13 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
 
-#### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
+<details>
+<summary><strong>Manifest V3: How Google Chrome's Update Affects Ad-Blockers</strong></summary>
 
 Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
 
 While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
+</details>
 
 ### Perimeter Blocking 🔓
 
@@ -313,14 +315,6 @@ This optional filter list removes cryptocurrency-related annoyances and unwanted
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Reduce visual noise, tracking, and promotional clutter across crypto-related sites.
 
-Specifically, it:
-
-- Removes marketing and referral URL parameters (e.g. `utm_*`)
-- Hides cookie banners and compliance overlays on major exchanges (Binance, Coinbase, etc.)
-- Suppresses promoted posts and sponsored content on social platforms
-- Blocks TradingView popups, notifications, and non-essential telemetry
-- Cleans up CoinGecko and CoinMarketCap by removing ads, banners, and promotional feeds
-
 #### Recommended Browser Installation Guides
 
 - ![Brave Desktop Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Desktop](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md#step-6-developer-mode)**
@@ -339,24 +333,29 @@ For a thorough explanation on how to add the to your adblocker, open one of the 
 
 The firewall is known to reduce performance slightly and this is why we have several **different** versions.
 
-Here's a suggested guide based on cpu processors:
+### Suggested Versions (Performance & Device)
 
-- **Intel i3** - use `full` version (if you experience bad performance then try `lite` version instead).
-- **Intel i5** - use `full` version (if you experience bad performance then try `lite` version instead).
-- **Intel i7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **Intel i9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
+Choose a version based on your device performance. If unsure, start with `full` and adjust based on performance.
 
-- **AMD Ryzen 3** - use `lite` version (if you experience bad performance then try `full` version instead).
-- **AMD Ryzen 5** - use `full` version (if you experience bad performance then try `lite` version instead).
-- **AMD Ryzen 7** - use `mega` version (if you experience bad performance then try `full` version instead).
-- **AMD Ryzen 9** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
+- **Low-End Devices**  
+  *(Low-end smartphones, older tablets, Intel i3, Ryzen 3, older hardware)*  
+  → Use `lite`  
+  → If performance allows, try `full`
 
-Here's a suggested guide based on device:
+- **Mid-Range Devices**  
+  *(Most smartphones, tablets, laptops — Intel i5, Ryzen 5, Apple M1/M2)*  
+  → Use `full`  
+  → If performance drops, switch to `lite`
 
-- **Laptop** or **Computer** - use `beta` or `mega` versions (if you experience bad performance then try `full` version instead).
-- **Tablet** - use `mega` or `full` versions (if you experience bad performance then try `full` version instead).
-- **Powerful Smartphone** - use `full` version (if you experience bad performance then try `lite` version instead).
-- **Low-End Smartphone** - use `lite` version.
+- **High-Performance Devices**  
+  *(Powerful laptops/desktops — Intel i7, Ryzen 7, Apple M2 Pro / M3)*  
+  → Use `mega`  
+  → If performance drops, switch to `full`
+
+- **Enthusiast / Workstation Systems**  
+  *(High-end desktops — Intel i9, Ryzen 9, Apple M2 Max / M3 Max / Ultra)*  
+  → Use `mega` or `beta`  
+  → If performance drops, switch to `full`
 
 ## Stable Versions 🏆
 
