@@ -23,7 +23,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 
 ## Table of Contents 📑
 
-### [1. Overview](#overview-1)
+### [1. Overview](#overview)
 
   * [Quick Start ⚡](#quick-start-)
 
@@ -106,7 +106,7 @@ Crypto Firewall reduces risk by:
 
 Get protected in under 2 minutes:
 
-1. Install an ad blocker (e.g. Brave or uBlock Origin)
+1. Install an adblocker (e.g. Brave or uBlock Origin)
 2. Add one list:
 
 - **Lite (low resource):**
@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blackl
 
 Supports deployment at:
 
-- Browser level (ad blockers)
+- Browser level (adblockers)
 - OS level (hosts file)
 - Network level (DNS, firewalls, IDS/IPS)
 
@@ -223,7 +223,7 @@ Built-in ad and tracker blocking with strong privacy defaults.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firefox.png" width="16" /> [Firefox Guide](https://www.mozilla.org/firefox/new/) – Recommended for full extension capability
 
-- ![Opera](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser Guide** – Native ad blocking
+- ![Opera](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser Guide** – Native adblocking
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/vivaldi.png" width="16" /> **[Vivaldi Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/vivaldi-browser-instructions.md)**
 
@@ -319,7 +319,7 @@ Quick install:
 
 ## Basic usage 🔥
 
-For a thorough explanation on how to add the lists to your ad blocker, open one of the help guides found in this folder:
+For a thorough explanation on how to add the lists to your adblocker, open one of the help guides found in this folder:
 
 - https://github.com/chartingshow/crypto-firewall/tree/master/docs
 
@@ -349,7 +349,7 @@ Choose a version based on your device performance. If unsure, start with `full` 
 
 The `Lite` version **excludes all the modules**.
 
-There are two methods to install into your Ad blocker:
+There are two methods to install into your Adblocker:
 
 1. Click the link below:
 
@@ -363,7 +363,7 @@ There are two methods to install into your Ad blocker:
 
 The `Full` version **contains all the modules (except the [crypto annoyances (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/crypto-annoyances-ublock.txt), [domains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/domain-filters/), [subdomains (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/subdomain-filters/), [urls (stable)](https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/url-filters/) and [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) modules)**.
 
-There are two methods to install into your Ad blocker:
+There are two methods to install into your Adblocker:
 
 1. Click the link below:
 
@@ -377,7 +377,7 @@ There are two methods to install into your Ad blocker:
 
 The `Mega` version **contains all the modules (except [adverts-filters (unstable)](https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/adverts-filters) module)**.
 
-There are two methods to install into your Ad blocker:
+There are two methods to install into your Adblocker:
 
 1. Click the link below:
 
@@ -393,7 +393,7 @@ The `Beta` version **contains all the stable and unstable modules**.
 
 > To help the repo grow, please feel free to **report any bugs!**
 
-There are two methods to install into your Ad blocker:
+There are two methods to install into your Adblocker:
 
 1. Click the link below:
 
@@ -549,9 +549,9 @@ We are actively inviting new contributors! To get started, please read the [cont
 
 This project is only possible thanks to the work of many dedicated contributors. Everyone is encouraged to help in ways large and small. Here are a few ways you can contribute:
 
-* Review existing content and help fix spelling, grammar, or clarity issues
-* Pick an open [issue](https://github.com/chartingshow/crypto-firewall/issues) and submit a pull request
-* Open a new issue to suggest improvements, report bugs, or propose features
+- Review existing content and help fix spelling, grammar, or clarity issues
+- Pick an open [issue](https://github.com/chartingshow/crypto-firewall/issues) and submit a pull request
+- Open a new issue to suggest improvements, report bugs, or propose features
 
 ### Contribution Terms
 
@@ -559,13 +559,13 @@ By submitting a contribution (including pull requests, issues, or any form of co
 
 You also confirm that:
 
-* You have the legal right to contribute the content
-* Your contribution does not violate any third-party rights
-* Any included third-party material complies with its respective licensing terms
+- You have the legal right to contribute the content
+- Your contribution does not violate any third-party rights
+- Any included third-party material complies with its respective licensing terms
 
 ## Requesting Icons 🎁
 
-When you want to request a icon please feel to create a issue. See our [contribution guidelines](CONTRIBUTING.md) for more information.
+When you want to request a icon please feel to create an issue. See our [contribution guidelines](CONTRIBUTING.md) for more information.
 
 # Security & Legal
 
