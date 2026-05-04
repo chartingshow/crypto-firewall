@@ -107,19 +107,19 @@ Get protected in under 2 minutes:
 - **Lite (low resource):**
 
 ```
-[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt)
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/lite-version.txt
 ```
 
 - **Full (recommended):**
 
 ```
-[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt)
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/full-version.txt
 ```
 
 - **Mega (maximum protection):**
 
 ```
-[https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt)
+https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/mega-version.txt
 ```
 
 3. Restart your browser
