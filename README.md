@@ -197,118 +197,118 @@ Enable automatic updates where supported.
 
 ## Installation ❤️
 
-Choose where to deploy the crypto firewall at the browser level, operating system level, and/or network perimeter - for layered, comprehensive protection.
+Deploy Crypto Firewall at the **browser, system, or network level** for layered protection.
 
 ### Browser Blocking 🌟
 
-Install an ad blocker in your desktop or mobile browser that uses the [Adblock Plus](https://adblockplus.org/)' filter list:
+Install an ad blocker that supports Adblock Plus-compatible filter lists.
 
-#### Recommended Choice ⭐
+#### Recommended ⭐
 
-Brave Browser offers built-in ad and tracker blocking, making it an excellent choice for enhanced privacy and security.
+- ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Desktop Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md)**  
+- ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Mobile Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md)**  
 
-- ![Brave Desktop Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Desktop Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md)** - Provides robust privacy features, including a built-in ad blocker and Tor integration for anonymous browsing.
+Built-in ad/tracker blocking with strong privacy defaults.
 
-- ![Brave Desktop Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Mobile Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md)** - Offers similar privacy protections on mobile devices.
+#### Alternatives ✨
 
-#### Other Browser Choices ✨
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)**
 
-Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" width="16" /> **Chrome Browser Guide** – MV3 limits (~30k rules)
 
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)** - Is a fast, secure, and ad-free web browser developed by the Adblock Plus team.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/firefox.png" width="16" /> [Firefox Guide](https://www.mozilla.org/firefox/new/) – Recommended for full extension capability
 
-- ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
+- ![Opera](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser Guide** – Native ad blocking
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
-
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/vivaldi.png" alt="Vivaldi" width="16" height="16" /> **[Vivaldi Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/vivaldi-browser-instructions.md)** - Browse with desktop-style tabs, block ads and trackers, and sync data between devices safely.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/vivaldi.png" width="16" /> **[Vivaldi Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/vivaldi-browser-instructions.md)**
 
 ### Ad Blockers ☀️
 
-You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, AdBlock Plus and others to block malicious crypto-related domains and trackers.
+Use with:
 
-- ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)** - Is a free and open-source ad-blocking application for the Android mobile operating system.
+- ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)**
 
-- ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **[AdBlock Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-instructions.md)** - Is a user-supported browser extension that lets you surf the web ad-free.
+- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **[AdBlock Plus Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-plus-instructions.md)**
 
-- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **[AdBlock Plus Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-plus-instructions.md)** - Popular ad-blocking extension for various browsers.
+- ![AdGuard](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)**
 
-- ![AdGuard](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)** - Comprehensive ad and tracker blocking solution.
+- ![Blokada](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blokada.png) **[Blokada Android Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-android-instructions.md)**
+- ![Blokada](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blokada.png) **[Blokada iOS Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-ios-instructions.md)**
 
-- ![Blokada](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blokada.png) **[Blokada Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-android-instructions.md)** and **[Blokada iOS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-ios-instructions.md)** - Block ads and trackers in apps and games, comes with a fast and private DNS and VPN.
+- ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)**
 
-- ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - Is a DNS-based host blocker for Android.
+- ![uBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (MV2) Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)**  
+- ![uBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (MV3) Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)**
 
-- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)** - Efficient, wide-spectrum content blocker.
+### Network / DNS Filtering 🔓
 
-- ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
+Deploy at network level for system-wide protection:
 
-<details>
-<summary><strong>Manifest V3: How Google Chrome's Update Affects Ad-Blockers</strong></summary>
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" width="16" /> **[Bind RPZ Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-rpz-instructions.md)**  
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" width="16" /> **[Bind Zone Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-zone-instructions.md)**
 
-Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blocky-logo.png" width="16" /> **[Blocky Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blocky-instructions.md)**
 
-While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
-</details>
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="Dnsmasq" width="16" height="16" /> **[Dnsmasq Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-android-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="Dnsmasq" width="16" height="16" /> **[Dnsmasq Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-linux-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="Dnsmasq" width="16" height="16" /> **[Dnsmasq Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-macos-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="Dnsmasq" width="16" height="16" /> **[Dnsmasq Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-windows-instructions.md)**
 
-### Perimeter Blocking 🔓
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnscrypt-proxy.png" width="16" /> **[Dnscrypt-Proxy Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnscrypt-proxy-instructions.md)**
 
-You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" width="16" /> **[NextDNS Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)**
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" alt="Bind RPZ" width="16" height="16" /> **[Bind RPZ Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-rpz-instructions.md)** - Is a DNS firewall feature supported by BIND. It allows rewriting or blocking DNS responses for specific domains based on a configured policy - like redirecting `malware-site.com` to `127.0.0.1`.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png" width="16" /> **[Pi-hole Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)**
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" alt="Bind Zone" width="16" height="16" /> **[Bind Zone Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-zone-instructions.md)** - Is simply a DNS zone file - it defines DNS records (A, MX, CNAME, etc.) for a domain or set of domains, usually for authoritative DNS services.
+### Firewalls / IDS / SIEM 🛡️
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blocky-logo.png" alt="Blocky" width="16" height="16" /> **[Blocky Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blocky-instructions.md)** - Is a DNS proxy and ad-blocker for the local network written in Go.
+For advanced deployments:
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnscrypt-proxy.png" alt="dnscrypt-proxy" width="16" height="16" /> **[Dnscrypt-Proxy Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnscrypt-proxy-instructions.md)** - Is a flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTPS, Anonymized DNSCrypt and ODoH (Oblivious DoH).
+- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense + pfBlockerNG Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)**
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="Dnsmasq" width="16" height="16" /> **[Dnsmasq Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-android-instructions.md)** and **[Dnsmasq Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-linux-instructions.md)** and **[Dnsmasq Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-macos-instructions.md)** and **[Dnsmasq Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-windows-instructions.md)** - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/snort-logo.png" width="16" /> **[Snort3 Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/snort3-instructions.md)**
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" alt="NextDNS" width="16" height="16" /> **[NextDNS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/splunk-icon.png" width="16" /> **[Splunk Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/splunk-instructions.md)**  
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/splunk-icon.png" width="16" /> **[Splunk App Guide](https://splunkbase.splunk.com/app/8341)**
 
-- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata" width="16" height="16" /> **[Suricata Linux & Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-linux-macos-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata" width="16" height="16" /> **[Suricata Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-windows-instructions.md)**
 
-- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
-
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/snort-logo.png" alt="Snort3" width="16" height="16" /> **[Snort3 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/snort3-instructions.md)** - Is a high-performance, open-source network intrusion detection and prevention system (IDS/IPS) that analyzes traffic in real time to detect and block malicious activity.
-
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/splunk-icon.png" alt="Splunk" width="16" height="16" /> **[Splunk Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/splunk-instructions.md)** and **[Crypto Firewall Splunk App](https://splunkbase.splunk.com/app/8341)** - It offers an unified interface for monitoring, troubleshooting, detecting threats, ensuring compliance and gaining operational intelligence through customizable dashboards, alerts and visualizations.
-
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata" width="16" height="16" /> **[Suricata Linux & Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-linux-macos-instructions.md)** and **[Suricata Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-windows-instructions.md)** - Is an open-source intrusion detection system (IDS) and intrusion prevention system (IPS) developed by the Open Information Security Foundation (OISF).
-
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata SNI" width="16" height="16" /> **[Suricata SNI Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-linux-instructions.md)** and **[Suricata SNI Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-macos-instructions.md)** and **[Suricata SNI Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-windows-instructions.md)** - Refers to Suricata's ability to inspect TLS (encrypted) traffic and extract the Server Name Indication (SNI) - the domain name requested during HTTPS connections-enabling visibility and filtering of encrypted traffic based on domain names.
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata SNI" width="16" height="16" /> **[Suricata SNI Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-linux-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata SNI" width="16" height="16" /> **[Suricata SNI Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-macos-instructions.md)**
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/suricata-logo.png" alt="Suricata SNI" width="16" height="16" /> **[Suricata SNI Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/suricata-sni-windows-instructions.md)**
 
 ### Operating System Blocking 🌟
 
-For system-wide protection, consider modifying your device's hosts file:
+Apply system-wide blocking via hosts file:
 
-<ul>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/linux.png" alt="Linux" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md"><strong>Linux Hosts File Instructions Guide</strong></a> - Edit the hosts file to block unwanted domains at the system level.</p></li>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" alt="MacOS" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md"><strong>MacOS Hosts File Instructions Guide</strong></a> - Modify the hosts file to prevent access to specific websites and services.</p></li>
-    <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
-</ul>
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/linux.png" width="16" /> **[Linux Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)**
 
-#### Hosts based blocking 💢
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/mac-os.png" width="16" /> **[macOS Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)**
 
-For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" width="16" /> **[Windows Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)**
 
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
-- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
+#### Hosts Lists
 
-Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
+- Domains only:  
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt
 
-## Crypto Annoyances (Optional Step) 🚀
+- Domains + IPs:  
+  https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt
 
-This optional filter list removes cryptocurrency-related annoyances and unwanted content to create a cleaner, less distracting browsing experience. It focuses on **UI-level cleanup and tracking reduction**, without breaking core site functionality.
+- Editing guide:  
+  https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Reduce visual noise, tracking, and promotional clutter across crypto-related sites.
+## Crypto Annoyances (Optional) 🚀
 
-#### Recommended Browser Installation Guides
+Removes UI clutter, trackers, and promotional noise (non-breaking):
 
-- ![Brave Desktop Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Desktop](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md#step-6-developer-mode)**
+- **[Crypto Annoyances Filter](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)**
 
-- ![Brave Mobile Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Add Crypto Annoyances Filter - Brave Mobile](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md#step-10-add-custom-filter-list-url)**
+**Quick add:**
+
+- ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Desktop Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md#step-6-developer-mode)**  
+- ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Mobile Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md#step-10-add-custom-filter-list-url)**  
 
 # Usage & Versions
 
