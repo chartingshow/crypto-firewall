@@ -80,15 +80,7 @@ If you discover a false positive or need to add a new block, then feel free to r
 
   * [Security 🔐](#security-)
   * [Disclaimer ⚠️](#disclaimer-%EF%B8%8F)
-    + [No Warranty](#no-warranty)
-    + [Limitation of Liability](#limitation-of-liability)
-    + [False Positives](#false-positives)
-    + [Financial Disclaimer](#financial-disclaimer)
-    + [Use at Your Own Risk](#use-at-your-own-risk)
   * [Legal ⚖️](#legal-%EF%B8%8F)
-    + [Scope and Purpose](#scope-and-purpose)
-    + [Data Sources](#data-sources)
-    + [Third-Party Services](#third-party-services)
   * [License 📄](#license-)
     + [Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)](#many-thanks-to-all-the-stargazers-who-have-supported-this-project-with-stars)
     + [SEO Keywords](#seo-keywords)
@@ -578,7 +570,8 @@ For general bugs, false positives, or feature requests, please use the GitHub Is
 
 ## Disclaimer ⚠️
 
-### No Warranty
+<details>
+<summary><strong>No Warranty</strong></summary>
 
 This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to:
 
@@ -587,8 +580,10 @@ This software is provided **"as is"**, without warranty of any kind, express or 
 - Protection against all security threats
 
 See the GNU General Public License v3.0 for full details.
+</details>
 
-### Limitation of Liability
+<details>
+<summary><strong>Limitation of Liability</strong></summary>
 
 In no event shall the maintainers or contributors be held liable for:
 
@@ -599,8 +594,10 @@ In no event shall the maintainers or contributors be held liable for:
 - Any direct, indirect, incidental, or consequential damages
 
 arising from the use of this project.
+</details>
 
-### False Positives
+<details>
+<summary><strong>False Positives</strong></summary>
 
 Due to the nature of threat intelligence and filtering systems:
 
@@ -608,32 +605,40 @@ Due to the nature of threat intelligence and filtering systems:
 - Malicious actors may evade detection
 
 Users are responsible for reviewing and validating the data before applying it in production environments.
+</details>
 
-### Financial Disclaimer
+<details>
+<summary><strong>Financial Disclaimer</strong></summary>
 
 This project **does not provide financial or investment advice**.
 
 Users should always conduct their own due diligence when interacting with cryptocurrency platforms, wallets, or transactions.
+</details>
 
-### Use at Your Own Risk
+<details>
+<summary><strong>Use at Your Own Risk</strong></summary>
 
 By using this project, you acknowledge that:
 
 - Security is a constantly evolving landscape
 - No solution can provide complete protection
 - You are solely responsible for how you implement and use this project
+</details>
 
 ## Legal ⚖️
 
 This project provides curated blocklists, filtering rules, and security guidance intended to help reduce exposure to malicious activity within the cryptocurrency ecosystem.
 
-### Scope and Purpose
+<details>
+<summary><strong>Scope and Purpose</strong></summary>
 
 Crypto Firewall is a **defensive security resource**, not a guarantee of protection. It is designed to assist users in identifying and blocking known threats, but it should be used as part of a broader security strategy.
 
 This project **does not function as a traditional firewall appliance**, and should not be relied upon as a sole line of defense.
+</details>
 
-### Data Sources
+<details>
+<summary><strong>Data Sources</strong></summary>
 
 Data included in this project is derived from a combination of:
 
@@ -642,14 +647,17 @@ Data included in this project is derived from a combination of:
 - Independent research
 
 While we aim for accuracy and relevance, **we do not guarantee the completeness, accuracy, or timeliness** of any data provided.
+</details>
 
-### Third-Party Services
+<details>
+<summary><strong>Third-Party Services</strong></summary>
 
 This project may reference third-party platforms, services, or trademarks (e.g. exchanges, browsers, tools).
 
 All trademarks, logos, and brand names are the property of their respective owners.
 
 This project is **not affiliated with, endorsed by, or associated with any third-party services** mentioned.
+</details>
 
 ## License 📄
 
