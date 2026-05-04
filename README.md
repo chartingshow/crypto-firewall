@@ -198,18 +198,18 @@ Enable automatic updates where supported.
 
 ## Installation ❤️
 
-Deploy Crypto Firewall at the **browser, system, or network level** for layered protection.
+Deploy Crypto Firewall at the **browser, system, and/or network level** to achieve layered protection.
 
 ### Browser Blocking 🌟
 
-Install an ad blocker that supports Adblock Plus-compatible filter lists.
+Use a browser that supports Adblock Plus-compatible filter lists.
 
 #### Recommended ⭐
 
 - ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Desktop Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md)**
 - ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Mobile Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md)**
 
-Built-in ad/tracker blocking with strong privacy defaults.
+Built-in ad and tracker blocking with strong privacy defaults.
 
 #### Alternatives ✨
 
@@ -225,7 +225,7 @@ Built-in ad/tracker blocking with strong privacy defaults.
 
 ### Ad Blockers ☀️
 
-Use with:
+Use these tools with the provided filter lists:
 
 - ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)**
 
@@ -243,7 +243,7 @@ Use with:
 
 ### Network / DNS Filtering 🔓
 
-Deploy at network level for system-wide protection:
+Deploy filtering at the DNS or network layer for system-wide enforcement.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" width="16" /> **[Bind RPZ Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-rpz-instructions.md)**
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" width="16" /> **[Bind Zone Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-zone-instructions.md)**
@@ -263,7 +263,7 @@ Deploy at network level for system-wide protection:
 
 ### Firewalls / IDS / SIEM 🛡️
 
-For advanced deployments:
+Use for advanced monitoring, detection, and enforcement:
 
 - ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense + pfBlockerNG Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)**
 
@@ -302,11 +302,11 @@ Apply system-wide blocking via hosts file:
 
 ## Crypto Annoyances (Optional) 🚀
 
-Removes UI clutter, trackers, and promotional noise (non-breaking):
+Removes UI clutter, tracking, and promotional noise without breaking core functionality.
 
 - **[Crypto Annoyances Filter](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)**
 
-**Quick add:**
+Quick install:
 
 - ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Desktop Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-desktop-browser-instructions.md#step-6-developer-mode)**
 - ![Brave](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/brave.png) **[Brave Mobile Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-mobile-browser-instructions.md#step-10-add-custom-filter-list-url)**
