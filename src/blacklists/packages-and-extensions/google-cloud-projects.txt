@@ -8,9 +8,5 @@
 # Last modified: 13 May 2026
 #
 
-apachelicense
-elementary:0.23.3
-fluxhttp
-license-utils-kit
-logutilkit
-set-utils
+1096126762051
+170835003632

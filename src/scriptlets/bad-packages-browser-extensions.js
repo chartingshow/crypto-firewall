@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.1.1
+ * @version 2.2.0
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license
  *
@@ -35,6 +35,12 @@
     'chrome.google.com/webstore':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
 
+    'console.cloud.google.com':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/google-cloud-projects.txt',
+
+    'crates.io':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/rust-packages.txt',
+
     'edge.extension':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/edge-extension-ids.txt',
 
@@ -52,6 +58,9 @@
 
     'open-vsx.org':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vsxcode-extensions.txt',
+
+    'packagist.org':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/php-packages.txt',
 
     'play.google.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/google-play.txt',
@@ -156,10 +165,57 @@
           CURRENT.host === 'addons.mozilla.org' &&
           CURRENT.path.includes(pkg)
 
-      } else {
-        matched =
-          CURRENT.host === domainKey &&
-          CURRENT.path.includes(pkg)
+      } else {     
+        if (CURRENT.host !== domainKey) {
+          continue
+        }
+        
+        switch (domainKey) {
+          case 'crates.io': {
+            const match = CURRENT.path.match(/^\/crates\/([^/]+)/)
+            const packageName = match?.[1]?.toLowerCase()
+      
+            matched = packageName === pkg
+            break
+          }
+      
+          case 'packagist.org': {
+            const match = CURRENT.path.match(
+              /^\/packages\/([^/]+\/[^/]+)/
+            )
+      
+            const packageName = match?.[1]?.toLowerCase()
+      
+            matched = packageName === pkg
+            break
+          }
+      
+          case 'pypi.org': {
+            const match = CURRENT.path.match(/^\/project\/([^/]+)/)
+            const packageName = match?.[1]?.toLowerCase()
+      
+            matched = packageName === pkg
+            break
+          }
+      
+          case 'npmjs.com': {
+            const match = CURRENT.path.match(/^\/package\/(@?[^/]+(?:\/[^/]+)?)/)
+            const packageName = match?.[1]?.toLowerCase()
+      
+            matched = packageName === pkg
+            break
+          }
+      
+          case 'console.cloud.google.com': {
+            matched =
+              parsedURL.searchParams.get('project') === pkg
+          
+            break
+          }
+
+          default:
+            matched = CURRENT.path.includes(pkg)
+        }
       }
 
       if (matched) {
@@ -222,15 +278,39 @@
         checkURLAgainstBlacklist('addons.mozilla.org')
         checkURLAgainstBlacklist('addons.mozilla.org:ids')
       },
-      'addons.opera.com': () => checkURLAgainstBlacklist('addons.opera.com'),
-      'apps.apple.com': () => checkURLAgainstBlacklist('apps.apple.com'),
+
+      'addons.opera.com': () =>
+        checkURLAgainstBlacklist('addons.opera.com'),
+
+      'apps.apple.com': () =>
+        checkURLAgainstBlacklist('apps.apple.com'),
+
+      'console.cloud.google.com': () =>
+        checkURLAgainstBlacklist('console.cloud.google.com'),
+
+      'crates.io': () =>
+        checkURLAgainstBlacklist('crates.io'),
+
+      'facebook.com': () =>
+        checkURLAgainstBlacklist('facebook.com'),
+
       'marketplace.visualstudio.com': () =>
         checkURLAgainstBlacklist('marketplace.visualstudio.com'),
-      'npmjs.com': () => checkURLAgainstBlacklist('npmjs.com'),
-      'open-vsx.org': () => checkURLAgainstBlacklist('open-vsx.org'),
-      'pypi.org': () => checkURLAgainstBlacklist('pypi.org'),
-      'play.google.com': () => checkURLAgainstBlacklist('play.google.com'),
-      'facebook.com': () => checkURLAgainstBlacklist('facebook.com'),
+
+      'npmjs.com': () =>
+        checkURLAgainstBlacklist('npmjs.com'),
+
+      'open-vsx.org': () =>
+        checkURLAgainstBlacklist('open-vsx.org'),
+
+      'packagist.org': () =>
+        checkURLAgainstBlacklist('packagist.org'),
+
+      'play.google.com': () =>
+        checkURLAgainstBlacklist('play.google.com'),
+
+      'pypi.org': () =>
+        checkURLAgainstBlacklist('pypi.org'),
     }
 
     if (host.endsWith('.firebaseio.com')) {

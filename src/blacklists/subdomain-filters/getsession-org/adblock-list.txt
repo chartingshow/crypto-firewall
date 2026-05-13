@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (appsflyer-com)
+! Title: Crypto Firewall (getsession-org)
 ! Expires: 7 days (update frequency)
 ! Last modified: [Adblock Plus 3.0]
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,7 +8,6 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block appsflyer-com sub-domains ------------------------------------------------------
-||conversions.appsflyer.com^
-||inapps.appsflyer.com^
-||websdk.appsflyer.com^
+! Block getsession-org sub-domains --------------------------------------------------
+||filev2.getsession.org^
+||seed1.getsession.org^

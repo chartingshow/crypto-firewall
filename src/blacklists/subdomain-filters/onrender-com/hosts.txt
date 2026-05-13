@@ -1,5 +1,4 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# Crypto Firewall (onrender-com)
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
@@ -8,9 +7,5 @@
 # Last modified: 13 May 2026
 #
 
-apachelicense
-elementary:0.23.3
-fluxhttp
-license-utils-kit
-logutilkit
-set-utils
+# Block onrender-com sub-domains
+0.0.0.0 logkit.onrender.com

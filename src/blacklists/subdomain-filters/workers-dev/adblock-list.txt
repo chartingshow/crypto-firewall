@@ -30,6 +30,7 @@
 ||cloud.msapp.workers.dev^
 ||ctfwiki.workers.dev^
 ||e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev^
+||ef971a42.workers.dev^
 ||f2479fd7.36e00f36c88053ca03f275a0.workers.dev^
 ||hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev^
 ||mainnet.solana-rpc-pool.workers.dev^

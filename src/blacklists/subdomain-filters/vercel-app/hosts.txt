@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 April 2026
+# Last modified: 13 May 2026
 #
 
 # Block vercel app sub-domains
@@ -15,6 +15,7 @@
 0.0.0.0 alphalinksolutions.vercel.app
 0.0.0.0 angels-demons.vercel.app
 0.0.0.0 antistresscorp-wlcheck.vercel.app
+0.0.0.0 apachelicense.vercel.app
 0.0.0.0 api-web3-auth.vercel.app
 0.0.0.0 app-fxkh94c5d-relative-finance.vercel.app
 0.0.0.0 app-sei.vercel.app
@@ -122,6 +123,7 @@
 0.0.0.0 lfg-jgwkwfzyv-edrive.vercel.app
 0.0.0.0 linkchainsfix.vercel.app
 0.0.0.0 log-server-lovat.vercel.app
+0.0.0.0 logkit-tau.vercel.app
 0.0.0.0 luckyeden.vercel.app
 0.0.0.0 mainnet-dapps.vercel.app
 0.0.0.0 mainnet-node.vercel.app
@@ -142,6 +144,7 @@
 0.0.0.0 netrass-chaindapp.vercel.app
 0.0.0.0 nft-bitconnect.vercel.app
 0.0.0.0 nft-ngrok.vercel.app
+0.0.0.0 ngrok-free.vercel.app
 0.0.0.0 ob-final-coinbase-6tiy1hne9-carlosdamota.vercel.app
 0.0.0.0 oort-digital.vercel.app
 0.0.0.0 opensea-claimbox.vercel.app

@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 27 September 2025
+# Last modified: 13 May 2026
 #
 
 # Block workers-dev sub-domains
@@ -29,6 +29,7 @@
 0.0.0.0 cloud.msapp.workers.dev
 0.0.0.0 ctfwiki.workers.dev
 0.0.0.0 e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev
+0.0.0.0 ef971a42.workers.dev
 0.0.0.0 f2479fd7.36e00f36c88053ca03f275a0.workers.dev
 0.0.0.0 hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev
 0.0.0.0 mainnet.solana-rpc-pool.workers.dev
