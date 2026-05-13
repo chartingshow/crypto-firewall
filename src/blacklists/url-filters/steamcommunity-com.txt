@@ -1,0 +1,23 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (steamcommunity-com)
+! Expires: 7 days (update frequency)
+! Last modified: 13 May 2026
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block steamcommunity-com urls ----------------------------------------------------------
+||steamcommunity.com/id/desdsfds34324y3g^
+||steamcommunity.com/id/fio34h8dsh3iufs^
+||steamcommunity.com/id/jeg238r7staf378s^
+||steamcommunity.com/id/krouvhsin34287f7h3^
+||steamcommunity.com/id/tfy5d6gohu8tgy687r7^
+||steamcommunity.com/profiles/76561198719385745^
+||steamcommunity.com/profiles/76561198721263282^
+||steamcommunity.com/profiles/76561198721902688^
+||steamcommunity.com/profiles/76561198724155486^
+||steamcommunity.com/profiles/76561198728266687^
+||steamcommunity.com/profiles/76561198732697044^
+||steamcommunity.com/profiles/76561198780411257^

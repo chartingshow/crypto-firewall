@@ -107063,18 +107063,7 @@
 ||ln.run/supportcenterbusiness*
 ||play.google.com/store/apps/details?id=com.nx.app
 ||shorturl.at/dKOR6*
-||steamcommunity.com/id/desdsfds34324y3g
-||steamcommunity.com/id/fio34h8dsh3iufs
-||steamcommunity.com/id/jeg238r7staf378s
-||steamcommunity.com/id/krouvhsin34287f7h3
-||steamcommunity.com/id/tfy5d6gohu8tgy687r7
-||steamcommunity.com/profiles/76561198721263282
-||steamcommunity.com/profiles/76561198780411257*
-||t.me/+IDl6XgFBZdI1ZjZh
-||t.me/Nxone_Community*
-||telegram.me/g1n3sss
 ||tiktok.com/@nivex_lab*
-||x.com/nx_Labs*
 ||youtube.com/@Nivex_exchange*
 
 ! coinimp.com ------------------------------------------------------------------
@@ -107286,6 +107275,24 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 
 ! IP modules ------------------------------------------------------------------
 !#include ip-adblock.txt
+
+! URL modules ------------------------------------------------------------------
+!#include url-filters/apple.txt
+!#include url-filters/bitbucket.txt
+!#include url-filters/discord.txt
+!#include url-filters/dropbox.txt
+!#include url-filters/github.txt
+!#include url-filters/gitlab.txt
+!#include url-filters/google.txt
+!#include url-filters/googleapis.txt
+!#include url-filters/huggingface-co.txt
+!#include url-filters/imgur.txt
+!#include url-filters/jsonkeeper-com.txt
+!#include url-filters/pixeldrain.txt
+!#include url-filters/steamcommunity-com.txt
+!#include url-filters/telegram.txt
+!#include url-filters/x.txt
+!#include url-filters/zoom.txt
 
 ! Blocking modules -------------------------------------------------------------
 !#include abuse-filters/adblock-list.txt
