@@ -3944,7 +3944,6 @@
 0.0.0.0 admin-support.info
 0.0.0.0 admin-supportsca.com
 0.0.0.0 admin-sysserv.pro
-0.0.0.0 admin.mikifox.com
 0.0.0.0 admin.pl
 0.0.0.0 admincentr.com
 0.0.0.0 admincomtls.online
@@ -52753,8 +52752,6 @@
 0.0.0.0 iptvlivestream.org
 0.0.0.0 ipule.cn
 0.0.0.0 ipunku.es
-0.0.0.0 ipv4.mikifox.com
-0.0.0.0 ipv6.mikifox.com
 0.0.0.0 ipworldbestscan.xyz
 0.0.0.0 ipworldscanbest.xyz
 0.0.0.0 ipxels.xyz
@@ -62211,6 +62208,7 @@
 0.0.0.0 mikawa-kito.jp
 0.0.0.0 mikeerdmantoyota.com
 0.0.0.0 mikemtechnologie.com
+0.0.0.0 mikifox.com
 0.0.0.0 miklinhotels.com
 0.0.0.0 mikohn.net
 0.0.0.0 mikrotik.cn.com

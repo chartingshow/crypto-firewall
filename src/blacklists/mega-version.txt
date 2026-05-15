@@ -3766,7 +3766,6 @@
 ||admin-support.info^
 ||admin-supportsca.com^
 ||admin-sysserv.pro^
-||admin.mikifox.com^
 ||admin.pl^
 ||admincentr.com^
 ||admincomtls.online^
@@ -52575,8 +52574,6 @@
 ||iptvlivestream.org^
 ||ipule.cn^
 ||ipunku.es^
-||ipv4.mikifox.com^
-||ipv6.mikifox.com^
 ||ipworldbestscan.xyz^
 ||ipworldscanbest.xyz^
 ||ipxels.xyz^
@@ -62033,6 +62030,7 @@
 ||mikawa-kito.jp^
 ||mikeerdmantoyota.com^
 ||mikemtechnologie.com^
+||mikifox.com^
 ||miklinhotels.com^
 ||mikohn.net^
 ||mikrotik.cn.com^
