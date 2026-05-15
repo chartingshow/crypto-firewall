@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 5 May 2026
+# Last modified: 15 May 2026
 #
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
@@ -1011,6 +1011,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 1december2022etransfer-intrac.ca
 1december2022neltflix.com
 1drv.us.com
+1drvmicrosoft.com
 1e001.co
 1e01.co
 1e011.co
@@ -2053,6 +2054,7 @@ xft6kit4fj5mnzsdt75ejf2spriszgaqpujclwimvfz7gtangi72suad.onion
 548848.xyz
 54ggter6ujfgt.site
 55124.club
+551911.xyz
 554scotialine891.ca
 5550085.com
 55501.top
@@ -3922,6 +3924,7 @@ adjustparceldelivery.com
 adjustyourdeliverydatepage.info
 adjustyourloadnow.info
 adlndb2k9too7vt.top
+adm-pulse.com
 admfor.me
 admforall.xyz
 admin-account.online
@@ -3932,7 +3935,6 @@ admin-moblilitycarecenter.com
 admin-support.info
 admin-supportsca.com
 admin-sysserv.pro
-admin.mikifox.com 
 admin.pl
 admincentr.com
 admincomtls.online
@@ -4217,6 +4219,7 @@ afminer.com
 afn.az
 afocatlaspalmeras.com
 afogaradas.za.com
+afonsoferragista.com
 afpaperoapas.co.vu
 afrakonla.com
 afraly.com
@@ -4486,6 +4489,7 @@ ahmsolaiman.com
 ahoe3mitop.online
 ahorapache.top
 ahorratelaferia.com
+ahroar.com
 ahrom-app.website
 ahs-govab.in
 ahservicesab.com
@@ -5901,6 +5905,7 @@ allowedfund.com
 allowwizz.com
 allpdflive.com
 allpdfview.com
+allplanetssame.cfd
 allreleases.ru
 allrids.art
 allroundkluswerk.nl
@@ -6064,6 +6069,8 @@ alt-coinsdrop.top
 altacapacitacion.com
 altagama.org
 altairdrop.top
+altairvc.com
+altairvc.info
 altamirafm.com.br
 altarfinance.net
 altatec-net.com
@@ -7040,6 +7047,7 @@ annuler-prime.site
 annulerprime.info
 annuncivendereairussi.it
 annunziato.com.br
+anobaka.info
 anoive.top
 anomshop.shop
 anondns.net
@@ -8089,6 +8097,7 @@ antoinettegabriel.com
 antonellaaliciaassisfindout.fun
 antonellagoncalvestemp.cfd
 antonellarestaurante.com
+antongandon.club
 antoniobenjamindacunharedex.yachts
 antoun.com.au
 antrachain.io
@@ -8783,6 +8792,7 @@ app-web3.co
 app-web3.com.co
 app-web3.org.uk
 app-webid.com
+app-whechat.com
 app-withdrawal-blockfi.com
 app-wlt.website
 app-wombat.com
@@ -9153,6 +9163,7 @@ apps-gala-game.com
 apps-ios.net
 apps-layer3.xyz
 apps-mee6.com
+apps-store.im
 apps-thorswapfinance.com
 apps.org.pl
 appsagoda.com
@@ -9168,6 +9179,7 @@ appss.top
 appstarknet-claim.xyz
 appstarknet-quantomleap.xyz
 appstoreconn.com
+appstoreios.com
 appstoreuk.online
 appsuites.ai
 appsurvmultiverse.pro
@@ -9875,6 +9887,7 @@ arqsecure.info
 arquiaoline.com
 arquiaonliine.com
 arquivet.com
+arquivos-omie.com
 arrakis-finance.events
 arrakis.exchange
 arrakis.money
@@ -10896,6 +10909,7 @@ aura-finance.events
 aura-finance.xyz
 aura-link.com
 auradex.website
+auraguest.lk
 auralaunch.com
 auraluxe.co.id
 auranft.life
@@ -11609,6 +11623,9 @@ autoplan-icbc.info
 autoplanbc-help.com
 autoplanbc-infos.com
 autoportal-at.info
+autoprotect.com.de
+autoprotect.com.se
+autoprotect.gb.net
 autorectify.online
 autorepairapps.com
 autorepairgears.com
@@ -12080,6 +12097,7 @@ azuredeploystore.com
 azureedge.net
 azurefd.net
 azuregetrequest.icu
+azurehosting.co
 azureonlinecloud.com
 azureonlinestorage.com
 azureprotect.xyz
@@ -13076,6 +13094,7 @@ bcutclaim.com
 bdadvisors.ma
 bdc-courrier.com
 bdcboc.com
+bdcc.bio
 bdcoin.website
 bdctrust.com
 bddlandscaping.com
@@ -13848,6 +13867,7 @@ berkleycorp.com
 bernacchichambers.xyz
 bernadetteseacrest.com
 bernardinoressende.com
+bernasibutuwqu2.com
 bernksproltd.com
 berock.technology
 beroorats.za.com
@@ -13865,6 +13885,7 @@ beseswap.su
 beshenayasobaka.com
 besimple.click
 besocial.online
+bespokedigital.au
 best-adult-webhosting.com
 best-casinos1.fun
 best-ethereum-mixer.org
@@ -14199,6 +14220,8 @@ bigeyesofficial.com
 bigeyyeess.com
 bigeyyes.com
 bigeznola.com
+biggestchlen.lol
+biggestchlen.xyz
 biggeyess.com
 biggiyenim.top
 biggreenlimes.org
@@ -15569,6 +15592,7 @@ blastz.org
 blastzx.app
 blastzx.org
 blatedbit.com
+blatnoitovar.xyz
 blats.io
 blaxtair.co
 blazetcn.com
@@ -17160,6 +17184,7 @@ brimine.com
 bringbackcz.com
 briocomercial.com.mx
 briofex.com
+briskinternet.com
 britains-news.com
 britainsbroadcasting.com
 britainsbrodcastingnews.com
@@ -17616,6 +17641,7 @@ burjceo.com
 burjil.com
 burjumancentre.xyz
 burmagirl.xyz
+burn-shard-bridge.xyz
 burna.es
 burnfamesoilratewo.shop
 burnkenny-home.com
@@ -19041,6 +19067,7 @@ callgirlsandescortkenya.site
 callnrwise.com
 callosallsaospz.shop
 calloyean.ru
+calltan.com
 callzy.io
 calm-prairie.com
 calmingmud.top
@@ -21392,6 +21419,7 @@ ccb-funds.online
 ccbre.net
 ccc-uae.com
 cccapitals.live
+ccdcompany.online
 ccdxnr2nf4.info
 ccfelomvhk.com
 ccfoxes.com
@@ -24464,11 +24492,13 @@ cloud-miner.eu
 cloud-miner.xyz
 cloud341.click
 cloud59.ca
+cloudapi.stream
 cloudcdn.gdn
 cloudcdnjs.com
 clouddycuiomsnz.shop
 cloudera.pro
 cloudflane.com
+cloudflare-check.cfd
 cloudflare-eth.org
 cloudflare-sendgrid.com
 cloudflare-server.top
@@ -24489,6 +24519,7 @@ cloudolympians.com
 cloudoption.in
 cloudphonoway.online
 cloudpower.cloud
+cloudprotect.us.org
 clouds-backup.com
 cloudsaled.xyz
 cloudsecure.space
@@ -24729,6 +24760,7 @@ codepool.cloud
 coderollksn.store
 codeskco.work
 codetech.org
+codetohaven.com
 codevexillium.org
 codevip35.ca
 codexpad.com
@@ -25771,6 +25803,7 @@ commnotif.tech
 commoditywaiver.top
 common-wealth-secuirty.com
 commoninja.com
+commontechrepo.cc
 commonwealth-alert-notif.net
 commonwealth-login.online
 commonwealth-loginpage.com
@@ -28121,6 +28154,7 @@ crypto-pledge.net
 crypto-pros.top
 crypto-rocket.ltd
 crypto-sis.art
+crypto-stroe.cc
 crypto-voucher.org
 crypto-webminer.com
 crypto-whale.info
@@ -28775,6 +28809,7 @@ custompostoffice-mobile.com
 customref229-ie.com
 customreschedule.com
 customreviewan-post.com
+customroofingcontractors.com
 customs-1dhl.com
 customs-alert.com
 customs-anpost-ireland.com
@@ -29907,6 +29942,7 @@ dbtdrop.net
 dbtdrop.org
 dbvva-errroob.online
 dc-collab-land.app
+dc1637.xyz
 dcairdrop.online
 dcap.com.my
 dcbiorlov.shop
@@ -30224,6 +30260,7 @@ deepmind.fund
 deeppoetry.xyz
 deepscoins.com
 deepseaarts.io
+deepsealuc.com
 deepseek-ai.link
 deepseek-download.com
 deeptrickday.org
@@ -30925,6 +30962,10 @@ demanddeal.xyz
 demandlinzei.shop
 demarsoft.com
 demblessedjiggy.com
+demeet.app
+demeet.online
+demeet.site
+demeetapp.com
 dememelalemnedeerr.top
 demetakbaslobinezdomez.xyz
 demidefi.com
@@ -30951,6 +30992,7 @@ demospeed.org
 demur3.com
 den-berifysec0.info
 dencore666.cc
+denegnet.click
 denelan.com
 denestyenol.xyz
 denitexltd.com
@@ -32033,9 +32075,11 @@ diceblocksgame.com
 dick.com
 dickersonad.com
 dicktres.com.br
+diddyparty.click
 didhelikeit.com
 didianacozinha.com.br
 didimax.xyz
+diditechltd.com
 didthereading.com
 diecam.top
 dieselaustralia.net
@@ -32064,6 +32108,7 @@ digger518.top
 digger668.top
 digiadvmedia.com
 digibioinfo.com
+digiboxes.us
 digicabo.com.br
 digicom.qc.ca
 digidaiagku.com
@@ -32841,15 +32886,23 @@ dnss.cfd
 dnsv1.com
 dnuocc.com
 dnwjk.top
+dnx.capital
 do0od.com
 doaisunto.xyz
 doanalytics.net
 dobb.info
 doblaseis.za.com
 dobrapay.com
+doc-protect.cloud
+doc-share.cloud
+doc-share.online
+doc-share.pro
+doc-share.top
+doc-view.cloud
 doc20091.cf
 doc20091.ml
 doc20091.tk
+doccompartilhe.com
 dochunters.com
 dockeerw.site
 dockeruscom.top
@@ -32869,11 +32922,14 @@ doctorsperhour.com
 doctruyenchufull.info
 doctruyenchufull.pro
 documentgivernow.top
+documentos-online.com
 documentprotect.live
 documentprotect.pro
 documentsec.com
 documentsec.online
 documentseu.top
+documentuser.us.org
+docuprivacy.com
 docuserver.xyz
 docusign.com
 docusign.homes
@@ -34969,6 +35025,7 @@ effecterectz.xyz
 effectivedoxzj.shop
 effectivenessvacinne.com
 efffe.top
+efficient-endpoint.site
 efficientdeliveriesca.info
 efforce.xyz
 eficienciaempresarial.top
@@ -36369,6 +36426,7 @@ eltigrechino.com
 eltrans.co
 elttrac.com
 elvacanudo.cl
+elvengold.com
 elviaquevedo.com
 elysiancursos.com.br
 elysians.financial
@@ -36408,6 +36466,7 @@ emailpay.life
 emails-circleci.com
 emails-deposit.autos
 emails-deposit.site
+emailsecure.tech
 emailshelpdesk.com
 emailtrans.world
 emailtrans2023.website
@@ -37647,6 +37706,8 @@ espacoememoria.org
 espacoluzaguai.com.br
 espadrilecastaner.ro
 espavientos.sa.com
+espcapital.co
+espcapital.pro
 espcomp.net
 especialfinancial.com
 espl.co
@@ -38752,6 +38813,7 @@ eth-defi666.com
 eth-depa.com
 eth-distributions.com
 eth-dropsync.online
+eth-fastscan.org
 eth-finance.io
 eth-gpt.info
 eth-gpt.life
@@ -40067,6 +40129,7 @@ events-data-microsoft.live
 events-datamicrosoft.live
 events-decentra.land
 events-decentraland.org
+events-dege.com
 events-immutable.com
 events-optimism.net
 events-pepe.com
@@ -40403,6 +40466,7 @@ expenses-individuals.info
 experienceproject.com
 expert-iqtrade.com
 expertcapitaxbase.com
+expertcs.au
 expertelover.com
 expertkonrency.com
 expertmarkets.net
@@ -42633,6 +42697,7 @@ fondsquebec.online
 fonekie.click
 fontanerialamarina.es
 fontelife.com.br
+fontmaxplugin.cc
 fonyoneticim.com
 foobar.de
 food-republik.com
@@ -43835,6 +43900,7 @@ fzthemes.site
 fzy1tvq8r6v.info
 fíxedflaot.net
 fíxedflaot.org
+g-app-d.cc
 g-cr-cgv2024t4.com
 g-miex.com
 g-money.xyz
@@ -44189,6 +44255,10 @@ gateway-otherside.xyz
 gateway-theotherside.xyz
 gather-network.website
 gathernetwork.xyz
+gatherum.ca
+gatherum.cc
+gatherum.net
+gatherum.one
 gatosmirringa.com
 gatreex.com
 gatron.cam
@@ -44302,6 +44372,7 @@ gdihcicdghmcldd.top
 gdn.co.id
 gdnity.com
 gdocsdown.com
+gdocshare.one
 gdrives.best
 gdriveshare.top
 gdriveupload.info
@@ -45029,6 +45100,7 @@ giro2.de
 girodigital.cl
 gisgroup.it
 gishaobera.xyz
+git-tanstack.com
 gitabhawanayurved.in
 gitaddress.org
 gitak.top
@@ -45537,6 +45609,7 @@ goodfavornews.com
 goodfirms.info
 goodfriendsdriving.com
 goodgish.com
+goodgoodmoon.bond
 goodhillsenterprise.com
 goodjob023.com
 goodkurs.net
@@ -46020,6 +46093,8 @@ gpdisenho.com
 gpdzlawyer.com
 gpecompany.com
 gpglawyers.com
+gpmtreit.co
+gpmtreit.us
 gposafe.com
 gppz.live
 gppz.online
@@ -46745,6 +46820,7 @@ gwlawgroupattorneys.com
 gx088.us
 gxbrowser.net
 gxlive.ca
+gxzhrc.cn
 gyangangacoaching.com
 gybritanalytsesystem.com
 gyg810.com
@@ -47304,6 +47380,7 @@ hedge-found.com
 hedgebusters.com
 hedgedecay.xyz
 hedgehogsinc.com
+hedgehogvc.us
 hedgeihogsinc.top
 hedgeinc.site
 hedgemoraforthermostion.com
@@ -47368,6 +47445,7 @@ helenvictoria.com
 heliixapp.com
 heliofetch.at
 helipak.ir
+helius-rpc.com
 helius.pro
 helixapp.io
 helixtherapeutics.net
@@ -47377,6 +47455,7 @@ hellasjournal.company
 hellasjournal.website
 hellcrypto.site
 hellishere.store
+helllo2025.com
 hello.events
 hellohoneycompanyy.com
 hellokittyerc.network
@@ -47788,6 +47867,7 @@ hhshfgevszs.pw
 hhtrans.info
 hhuabag.com
 hhyyabcdd.shop
+hi-devs.com
 hi-lifeintltd.com
 hianime.to
 hibamasrour-unipessoal.pt
@@ -47896,6 +47976,7 @@ hirschfeld.biz
 hirugossip.lk
 hisac.top
 hisensedealers.co.ke
+hisolution.io
 hispanicumadaop.org
 hispeedapps.com
 historicalpublicationsllc.com
@@ -49827,6 +49908,7 @@ iinteractindepodit.online
 iio.limo
 iiuctower.com
 iivraison-colispostescan.com
+iiyoiiyo.com
 ij300.top
 ijdcrypto.com
 ijnbedrijfskleding.shop
@@ -52576,6 +52658,7 @@ ionidea.com
 ioonline.top
 ios-apple-wallet.com
 ios-apps.store
+iosfc.com
 iosjdfsmdkf.com
 iosmnbg.com
 iosmoderator.net
@@ -52660,8 +52743,6 @@ iptvlivestream.com
 iptvlivestream.org
 ipule.cn
 ipunku.es
-ipv4.mikifox.com 
-ipv6.mikifox.com 
 ipworldbestscan.xyz
 ipworldscanbest.xyz
 ipxels.xyz
@@ -53066,6 +53147,7 @@ j-accounting.co.za
 j-dealr.site
 j-guiapg.win
 j-ic.co
+j-ic.com
 j-labo.co.jp
 j-nora.com
 j-turismopg.pro
@@ -53402,6 +53484,7 @@ jhils.com
 jhmotorsports.local
 jhss.info
 jhss.live
+jhxrpbgq.com
 ji-soft.com
 ji87hd67mq.xyz
 jianpu.info
@@ -53996,6 +54079,7 @@ jupiterag.xyz
 jupiterdrop.online
 jupiterdrop.site
 jupiterexchange.events
+juplter.app
 jupsdex.xyz
 juraganfilm.bio
 juraganfilm.icu
@@ -54889,6 +54973,7 @@ kkcnxa.cc
 kkerw.com
 kkinza.finance
 kkkhe.cn
+kkkhhhnnn.com
 kkma3tasikmalaya.sch.id
 kkmic.com
 kkmitani.co.jp
@@ -55306,6 +55391,7 @@ kredit-365.com
 kredit-en-ligne.com
 krediteonlinevergleichen.top
 kreditgrun.com
+krempie.xyz
 krepradoshaps.com
 kresko-airdrop.com
 kresnainvestments.com
@@ -55662,6 +55748,7 @@ lahana.xyz
 lahoraonline.com
 lahoreshoes.com
 lahorivelor.xyz
+lahuafa.com
 laiamia.co
 laineybugz.store
 laiter.bio
@@ -55755,6 +55842,7 @@ land-hub.org
 land-verify.net
 land.com.se
 land.lat
+landbankseeds.com
 landdumpycolorwskfw.shop
 landgateindirectdangre.shop
 landingpg.xyz
@@ -58661,6 +58749,7 @@ lumonatalabs.com
 lumotunes.com
 lumrex.com
 lumusrmj.com.br
+luna-memex.com
 lunacasino.com
 lunadev1.rehab
 lunadev2.legal
@@ -59899,6 +59988,7 @@ massakarada.shop
 massaveveiculosltda.beauty
 massaveveiculosltda.mom
 massaveveiculosltda.yachts
+masscan.cloud
 masschutconnect.com
 masscoin.vip
 masscompras.com
@@ -60231,6 +60321,7 @@ mdxrp.org
 mdyscoin.com
 me-connecter.click
 me-equipment.com.au
+me-fnd.com
 me-kambe.co.jp
 meadow-woods.com
 meadowannivejrsary.shop
@@ -60424,6 +60515,7 @@ meishikojo.co.jp
 meisp-skupina.com
 meitec-app.cc
 mekaofland.click
+mekongcapital.net
 mel0no.com
 melakatour.com
 melakda.shop
@@ -61093,6 +61185,7 @@ mercygoldclearingagent.com
 merdall.com
 merdeka-tower.com
 merekonteiner.eu
+merengagoi.bond
 merf-pakistan.org
 merge-ethx2.info
 merge-link.com
@@ -61866,6 +61959,8 @@ micorreo-notificacion.com
 micorreos-notificacion.com
 micro2x.com
 microai.vip
+microblob.bond
+microblogver.bond
 microbtcmicroeth.com
 microcsoftwareportal247ca.com
 microdotoffice.shop
@@ -61875,11 +61970,13 @@ microidbiometrics.com
 microinfo.in
 microinfosystem.com
 microlinxsolution.com
+microloh.bond
 micromacrotechbase.com
 micromerchant.xyz
 micronsoftwares.com
 microport.com.cn
 micros0ft-security.org
+microshare.cloud
 microsof.work
 microsoflschedule.com
 microsoft-msteams.com
@@ -62102,6 +62199,7 @@ mikallv.eu
 mikawa-kito.jp
 mikeerdmantoyota.com
 mikemtechnologie.com
+mikifox.com 
 miklinhotels.com
 mikohn.net
 mikrotik.cn.com
@@ -62381,6 +62479,7 @@ minlfnu.com
 minnerbnb.com
 minnersbnb.com
 minogohacu.com
+minordao.co
 minoritwtio.cfd
 minr.pw
 minstonei.fun
@@ -63912,6 +64011,7 @@ moonwavesim247govca.com
 moonwealthfinance.com
 moonwell.site
 moonwellstake.fi
+moonzonet.com
 mooo.com
 moooncow.xyz
 moooney.art
@@ -64236,6 +64336,7 @@ mssouthpolnte.com
 msstorageazure.com
 msstorageboxes.com
 mstatik.com
+msteam.biz
 msteamseyeappstore.com
 mstouchenaturals.com
 mstp2go.com
@@ -64299,6 +64400,7 @@ muelanews.com
 mueliselan.xyz
 muellersettlement.com
 muellesytractorefaccionesmty.com.mx
+mufg.yokohama
 muggierdragstemmio.fun
 mugshots-nft.com
 muijae.com
@@ -64682,6 +64784,7 @@ mxibtc.com
 mxjsxnsjhjsdhb.online
 mxkg2.ru
 mxsub.in
+mxtestacionamentos.com
 mxxauthen.ru
 my-1login.com
 my-1mobile.com
@@ -65099,6 +65202,7 @@ mybenefitscdn23.com
 mybenefitscdn23.info
 mybenefitsportal2024.com
 mybia4music.com
+mybiggestjoy.bond
 mybill-app.com
 mybill-online1.com
 mybill-pay1.com
@@ -65616,6 +65720,7 @@ mymedicare-au.cc
 mymessages-xpress.com
 mymetime.life
 mymevbot.com
+mymicroblog.lat
 mymilestoneagrewards.com
 mymobi-navig.info
 mymobile-bill1.com
@@ -66092,6 +66197,7 @@ myutopyaworldvs.cf
 myvalidationrbc.com
 myvancouver-paynparkingviolation.ca
 myveeam.com
+myverifhouse.sbs
 myverificationrbc.com
 myvipvideo.online
 myvnc.com
@@ -66555,6 +66661,7 @@ nboneswap.info
 nbptechnology.com
 nbpz793.top
 nbrave.com
+nbright.best
 nbshoesin.com
 nbstone.co.kr
 nbviajesacapulco.com
@@ -67982,6 +68089,7 @@ nmm2-c3ra-ref1n001.com
 nmnmnmfsamsfan.xyz
 nmq.zxnexus.com
 nmqwi.com
+nmu8n.com
 nnanch.xyz
 nnapplic-app.com
 nnaqhsbc.pw
@@ -68513,6 +68621,7 @@ npgel.com
 npkad.com
 npmjs.help
 npnjs.com
+npoint.io
 npovver.com
 nppnguyenduc.com
 nprofitpnb.top
@@ -69958,6 +70067,7 @@ onlinecanpostassistance.info
 onlinecaptchavalidation.ml
 onlineci-bc.com
 onlinecibc.com
+onlinecloud.cloud
 onlineconfirmanpost.com
 onlineconfirmcovid.com
 onlinecostumershippingcan.info
@@ -70106,6 +70216,7 @@ onlineservices-portal.com
 onlineservicesfees.com
 onlineservicetransfert.site
 onlinesessionclientca.com
+onlineshares.cloud
 onlineshippingservicesbc.info
 onlineshippingsolutions.info
 onlinesolutionspostcan.info
@@ -70589,6 +70700,7 @@ open-sea-airdrop.com
 open-sea-nftclaim.com
 open-sea.io
 open-sea.work
+open-sol.cc
 open24-acc-authentication.com
 open24-access.info
 open24-accreviewservice.com
@@ -71368,6 +71480,7 @@ ouchar.ru
 ouchrajohri.shop
 ougi.co.jp
 oui-611.online
+oukwww.com
 ountryside.camp
 ouo.io
 ouradvice.info
@@ -72464,6 +72577,7 @@ parkingvancouver.ca
 parkingville.ca
 parkinsons.co.in
 parklandbiz.com
+parkspringshotel.com
 parktoren.com
 parkvaleltd.com
 parlanco.com
@@ -73404,6 +73518,7 @@ pengntech.com
 penguincryptoproject.com
 penguinpudgy.com
 pengyuejian.com
+pengzhoutrading.com
 penilsprotocol.io
 peninsula3.com
 pennakecwep-fernance.com
@@ -74550,6 +74665,7 @@ playprotect.click
 playquest3.xyz
 playquests.xyz
 playrefinedheavilythefile.vip
+playrocketgalaxy.com
 playroom8.site
 playstakebet.com
 playstationoi.com
@@ -76527,6 +76643,7 @@ prismlab.xyz
 privacy-shield.world
 privacyservicecad001.com
 privacyservicecad01.com
+privacysign.org
 privacyvault-coinbase.com
 privat-dk.com
 privat24next-ua.com
@@ -76649,6 +76766,9 @@ product-postcanada.ca
 product-postcanada.co
 producti.top
 productionbio.fun
+productionmaza.bond
+productionmaza.cfd
+productionmaza.cyou
 productionsgraphics.com
 productivelookewr.shop
 productivitysecstreams.quest
@@ -76960,6 +77080,7 @@ protcl.com
 prote.today
 proteam.mx
 protec-healthbenefits.com
+protecaocartao.online
 protecciontecnica.com.mx
 protecnicarp.com.br
 protect-apple.com
@@ -77267,6 +77388,7 @@ publicitttyps.shop
 publicitycharetew.shop
 publickeygenerator.com
 publickeytool.com
+publicnode.com
 Publicpdf-central.com
 Publicpdfadmin.com
 Publicpdfartisan.com
@@ -77385,11 +77507,14 @@ pulssex.com
 pulsxe.com
 puma.social
 pumanetworks.com
+pump-foundation.xyz
+pump-launch.fun
 pumpbottle.info
 pumpedcalmdeadpannkow.shop
 pumpkindribblewo.shop
 pumpkineeu.cfd
 pumpkinkwquo.shop
+pumptoken.net
 puname.top
 puncaekswep.info
 puncaekswep.us
@@ -79503,6 +79628,8 @@ recapitol.com
 recaptchasocialeaids.com
 recaptchatest.online
 recaptcher-it.xyz
+recargapopular.com
+recebamais.com
 receipc4abll.com
 receipupdt3c4fa5s.com.ua
 receivable-netflix.ca
@@ -82574,7 +82701,11 @@ rocket-pools.live
 rocket-staking.site
 rocket-stamp.com
 rocketchange.xyz
+rocketgalaxy.io
+rocketgalaxy.xyz
+rocketgalaxyworld.com
 rocketinvestoption.online
+rocketlegacy.xyz
 rocketlleague.store
 rocketmanmedical.com
 rocketmusclesksj.shop
@@ -83472,6 +83603,7 @@ ruegen.de
 rufnag.com
 rugbydiffu.cfd
 rugbysummerosodnwu.shop
+rugchecker.fun
 ruggpullfinder.xyz
 ruggtp.network
 rugpt.network
@@ -84252,6 +84384,7 @@ sanuksalecanada.com
 sanwa-homes.com
 sanyo-ct.co.jp
 sanyou.com.pk
+saogeraldoshiping.com
 saojorgesupermercados.com.br
 saoviettech.com
 sapcebar.xyz
@@ -85294,6 +85427,7 @@ secretel.it
 secretformulameals.com
 secretionsuitcasenioise.shop
 secretiveonnicuw.shop
+secretum.io
 secruecra-intreac1.com
 sectiondep-info.com
 sectorzerosecurity.com
@@ -85771,6 +85905,8 @@ secure-verify-domain.com
 secure-verify.live
 secure-verifyinterac.com
 secure-verifymygov.com
+secure-view.cloud
+secure-view.top
 secure-wallet-support.com
 secure-wallet.app
 secure-wallet.pay
@@ -86166,6 +86302,7 @@ securenetbanking-au.com
 securenetfiixupdatedetailsvec.info
 securenetflix-reviewprofile.help
 securenetflixinfoupdate.info
+securenetwork.world
 securenewspot.info
 securenode.app
 securenode.onrender.com
@@ -86657,6 +86794,7 @@ selectredeliverydate.info
 selectsecurityservice.com
 selecttimeslot.online
 selecttimesloth1adjust.info
+selenium.fi
 seleriti.com
 self-reve.com
 self-servicemall.com
@@ -86744,6 +86882,7 @@ sendformsecure.store
 sendgrid.net
 sendibt2.com
 sendimail.host
+sendit.sh
 sendlink.ca
 sendmailed.com
 sendmailer.org
@@ -87959,6 +88098,7 @@ shippingmanager1suppca.info
 shippingonlineadjustment.info
 shippingpostcanada.ca
 shippingpostcanada.co
+shippingspro.com
 shippingtransit.info
 shipreschform.info
 shipreschonline.info
@@ -88142,6 +88282,7 @@ shuprobika.ir
 shurinedn.xyz
 shutsra.qpon
 shuttlego.com.mx
+shuvocomputer.org
 shv-it.com
 shvano.com
 shw.kr
@@ -88557,6 +88698,7 @@ sitemangarlandconsulting.com
 sitepref.xyz
 sites-phantom.com
 sitesdeculgratuit.com
+siteshare.me
 sitestats.world
 siteterbaru.xyz
 sitevms.site
@@ -88656,6 +88798,7 @@ sixvx16sr.top
 sixvx16vs.top
 sixxstat.top
 sixz6pt.top
+siyangoil.com
 sizdenbaskakimgelecekyardim.co.vu
 sj786.cc
 sj797.cc
@@ -88729,6 +88872,7 @@ sketchive.com
 sketchpunks.site
 sketiopaag.com
 skewers-halal.com
+skfilmsint.com
 skguarperahu.edu.my
 skibidirizz.lol
 skicloud-my.xyz
@@ -89409,7 +89553,10 @@ sokakdaldiregibas.xyz
 sokjs.xyz
 sokrpro.com
 sokuja.biz
+sol-chey.com
 sol-event.net
+sol-galaxy.cc
+sol-hook.org
 sol-rpc.xyz
 sol30.nl
 solace-finance.top
@@ -89423,6 +89570,7 @@ solanaftxdex.com
 solanalab.org
 solanapepe.com
 solanasaga.shop
+solanasms.com
 solar-x.shop
 solarcompanybakersfield.com
 solarenergysolutions.co
@@ -89529,6 +89677,7 @@ solutionterac.co
 solutionwalletreset.io
 solutionwarehouse.info
 soluzioneingegneria.it
+solvault.ws
 solve-trust.xyz
 solvedapp.org
 solvedapp.xyz
@@ -90304,6 +90453,7 @@ ssdp.online
 ssecuredapp.com
 sseetgykxpnwiwr.com
 sseiatca.site
+ssffaa2.xyz
 ssfn.site
 ssgdubuerx4.cn
 ssi-uber.ca
@@ -92184,6 +92334,7 @@ supportion.za.com
 supportisrael.xyz
 supportkiwi-help.com
 supportkiwinzd.com
+supportly.au
 supportmobionline.com
 supportmybnz.com
 supportnab.com
@@ -92589,6 +92740,7 @@ sxdrop.cc
 sxiom.trade
 sxmpolicenews.com
 sxrdrops.top
+sxsfcc.com
 sxx6.sa.com
 sxxyjt.com
 sy-wealth.com
@@ -95498,6 +95650,7 @@ timestop.online
 timetabledffiewi.shop
 timetablepdodwp.shop
 timetrading-wallet.com
+timetrakr.cloud
 timeupdate.xyz
 timeupdateservice.com
 timeweb.ru
@@ -95861,6 +96014,7 @@ tokenfinance.live
 tokenfixerr.online
 tokenfixxer.com
 tokenforstress.pro
+tokenframegovernance.com
 tokenguidehelping.tech
 tokenguidehub.xyz
 tokenguidehublabs.xyz
@@ -95873,6 +96027,7 @@ tokenlinks.net
 tokenlon.app
 tokenlon.club
 tokenlonwallet.net
+tokenloopz.com
 tokenmaxim.com
 tokenmetacade.org
 tokenmetacade.website
@@ -96000,6 +96155,7 @@ toments.com
 tomezica.com
 tomfalkplumbingandheating.com
 tomit.co
+tomming.us
 tomoeshokai.com
 tomorrowknoks.top
 tompsup.me
@@ -96089,6 +96245,7 @@ top-primewallet.life
 top-run.net
 top-strx.site
 top-up-tt.store
+top.rodeo
 top10nyerogepek.online
 top1114.online
 top2moon.net
@@ -97749,6 +97906,7 @@ trydropbox.com
 tryfloaties.com
 trymaple.co
 trytiktokmedia.com
+trytiponlineresult.com
 trytonpro.pro
 tryyudjasudqo.shop
 trzor.us
@@ -98266,6 +98424,10 @@ tylertaco.top
 tymevoucher.com
 tyndallfcu.org
 typdf.com
+typerdex.ai
+typerdex.com
+typerdex.io
+typerdex.team
 typhoon-wallet.com
 typical-friends.com
 typicalfrlends.com
@@ -98604,6 +98766,7 @@ ukrayna.com
 ukveja-store.shop
 ukzbpu.top
 ulansennasilbiinsansin.com
+ulbcl.com
 ulckyblock.com
 uldesavidi.xyz
 ulianat.xyz
@@ -98614,6 +98777,8 @@ ulkarturk.com
 ullerolaru.xyz
 ulluhot.net
 ultasrv.net
+ultima-dapp.online
+ultimadapp.online
 ultimate-coinmining.com
 ultimateactive.site
 ultimateactive.xyz
@@ -99487,6 +99652,7 @@ upknittsoappz.shop
 upkufrex.com
 upload-agoda.com
 uploadagoda.com
+uploadfiler.com
 uploadsfre.com
 uploadtree.com
 uplooder.net
@@ -99677,6 +99843,7 @@ us05web-zoom.cloud
 us05web-zoom.forum
 us05web-zoom.pro
 us06web-zoom.online
+us4zoom.us
 us776.com
 us778.com
 us779.com
@@ -100975,6 +101142,7 @@ verifycommbank.support
 verifyconnect.live
 verifyconnectguardprotectionrequest.ru
 verifycostnow191.com
+verifydocument.com.se
 verifyeasyw2023.com
 verifyedshipperso.info
 verifyetransfer.online
@@ -101830,6 +101998,10 @@ vovmo.com
 voxedoo.com
 voxelxnetwork.live
 voxiescoin.com
+voxium.cloud
+voxium.eu
+voxiumcalls.com
+voxiumhub.com
 voxwfpach.com
 voyacunk.xyz
 voyagedprivillywk.xyz
@@ -101969,6 +102141,7 @@ vvv-docker-us.top
 vvwconsorcio.com
 vvwpslxjkxs.pw
 vvww-looksrare.com
+vwa.lat
 vwidhome.pl
 vwin.fail
 vwrivera.com.mx
@@ -102425,6 +102598,7 @@ watch5s.is
 watch5s.rs
 watchboruto.tv
 watchbracket.com
+watcherbot.xyz
 watcherofrealms.site
 watches-jp.com
 watchguardduty.com
@@ -102567,6 +102741,7 @@ web-connectrn.gq
 web-connectwl.gq
 web-connexion1.com
 web-consumer.online
+web-core.cc
 web-desj-accesd.online
 web-desj-info.online
 web-desjardins-accesd.online
@@ -102897,6 +103072,9 @@ webadressupdate.com
 webaffise.com
 webaitech.xyz
 webakb.com
+webanalytics-cdn.cfd
+webanalytics-cdn.cyou
+webanalytics-cdn.sbs
 webanuncio.com.br
 webapi.salamantex.com
 webapi.staging.salamantex.com
@@ -103180,6 +103358,7 @@ wellxlive.com
 wellxtoken.com
 welnessfitnessclub.club
 welnext.com
+welovechinatown.info
 welovedavid.com
 welsfargo-auth01.com
 welshwilliamshospital.com
@@ -103890,6 +104069,7 @@ womenofcrypto.live
 womensecret-es.shop
 womensecretesonline.shop
 womenstylishvane.com
+wompworthy.com
 womtoken.app
 wondat.exchange
 wonder.rest
@@ -104175,6 +104355,7 @@ wustyelk.top
 wuvehus.com
 wuvici.com
 wuvidi.com
+wuxiantechltd.com
 wuzak.com
 wuzhenfestival.site
 wvv-americanfirst.com
@@ -105196,6 +105377,7 @@ xittgveqaufogve.xyz
 xivadoivxa.info
 xivcompany.com
 xivivi.com
+xiwangtechltd.com
 xiz45.xyz
 xiziwk.vip
 xjnwqdospderqtk.ru
@@ -106083,6 +106265,7 @@ yizhiting.kim
 yjlianyi.top
 yjwbyt.work
 yjzhenfeng.com
+yjzhengruol.com
 ykasandbox.com
 yket.info
 ykhxedu.com
@@ -106945,6 +107128,7 @@ zmjp.website
 zmprofitsurvey.top
 zmsupport.com
 zmty.com
+zmx6f.com
 zmyshenko.com
 znckxnxmxs.online
 zndance.com
