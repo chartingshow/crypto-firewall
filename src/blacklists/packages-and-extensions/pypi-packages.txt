@@ -5,12 +5,16 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 May 2026
+# Last modified: 19 May 2026
 #
 
 apachelicense
-elementary:0.23.3
+elementary/0.23.3/
 fluxhttp
+guardrails-ai/0.10.1/
 license-utils-kit
+lightning/2.6.2/
+lightning/2.6.3/
 logutilkit
+mistralai/2.4.6/
 set-utils
