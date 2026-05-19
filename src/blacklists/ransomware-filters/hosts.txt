@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 26 January 2026
+# Last modified: 19 May 2026
 #
 
 ! Block I2P websites -----------------------------------------------------------
@@ -136,6 +136,7 @@
 0.0.0.0 hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion
 0.0.0.0 hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion
 0.0.0.0 hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion
+0.0.0.0 hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion
 0.0.0.0 htcltkjqoitnez5slo7fvhiou5lbno5bwczu7il2hmfpkowwdpj3q2yd.onion
 0.0.0.0 htmxyptur5wfjrd7uvg23snupub2pbtlfelk45n37b3augl2w4eearid.onion
 0.0.0.0 hunters33dootzzwybhxyh6xnmumopeoza6u4hkontdqu7awnhmix7ad.onion
