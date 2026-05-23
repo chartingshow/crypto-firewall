@@ -1,0 +1,12 @@
+# Title: Crypto Firewall IPv6 Blocklist
+# Description: Malicious IP addresses associated with
+# crypto malware, phishing, scams, and malicious automation.
+#
+# Project: https://github.com/chartingshow/crypto-firewall
+# Issues: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0
+#
+# Format: IPv6 Plain Text
+# Last modified: 14 May 2026
+# Expires: 24 hours
+#
