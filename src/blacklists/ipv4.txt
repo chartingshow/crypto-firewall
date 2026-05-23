@@ -1,11 +1,14 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# Title: Crypto Firewall IPv4 Blocklist
+# Description: Malicious IP addresses associated with
+# crypto malware, phishing, scams, and malicious automation.
 #
-# Homepage: https://github.com/chartingshow/crypto-firewall
-# Contribute: https://github.com/chartingshow/crypto-firewall/issues
-# License: GPL-3.0 license
+# Project: https://github.com/chartingshow/crypto-firewall
+# Issues: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0
 #
+# Format: IPv4 Plain Text
 # Last modified: 14 May 2026
+# Expires: 24 hours
 #
 
 1.234.2.232
