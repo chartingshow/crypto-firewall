@@ -407,21 +407,47 @@ There are two methods to install into your Adblocker:
 
 ## Core Infrastructure Blocking 🌐
 
-- **Free DNS / Hosting**
-  Blocks high-abuse hosting providers frequently used for malware.
-  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/free-dns-hosting/
+* **Free DNS / Hosting**
+  Blocks high-abuse hosting providers frequently used for malware, phishing, and scam infrastructure.
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/free-dns-hosting/
 
-- **ASN Blocking**
-  Blocks entire network ranges linked to malicious activity.
+* **ASN Blocking**
+  Blocks entire autonomous system networks associated with malicious activity.
   → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/asn.txt
 
-- **IP Blocking**
-  Blocks known malicious IPs (e.g. C2 servers, malware infrastructure).
-  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ip.txt
-  → https://github.com/chartingshow/crypto-firewall/blob/master/src/ip-adblock.txt
+* **IPv4 Blocking**
+  Blocks known malicious IPv4 addresses including:
 
-- **Custom IP Lists (Advanced)**
-  Targeted IP blocks that may overlap with shared infrastructure — review before use.
+  * command-and-control (C2) systems
+  * malicious automation networks
+  * malware infrastructure
+  * phishing servers
+
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ipv4.txt
+
+* **IPv6 Blocking**
+  Blocks known malicious IPv6 addresses associated with cyber threats and abusive infrastructure.
+
+  → https://github.com/chartingshow/crypto-firewall/blob/master/src/blacklists/ipv6.txt
+
+* **Server Filter Configurations**
+  Pre-generated server filter rules for popular web servers and reverse proxies.
+
+  Supported platforms:
+
+  * Apache HTTP Server
+  * Caddy
+  * Google App Engine
+  * HAProxy
+  * Lighttpd
+  * Microsoft IIS
+  * Nginx
+
+  → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/server-filters
+
+* **Custom IP Lists (Advanced)**
+  Targeted IP blocklists that may overlap with shared hosting or CDN infrastructure. Review carefully before deployment in production environments.
+
   → https://github.com/chartingshow/crypto-firewall/tree/master/src/blacklists/custom-ip-block-lists
 
 ## Application & User Threats 👨‍💻
