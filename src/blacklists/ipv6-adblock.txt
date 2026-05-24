@@ -1,0 +1,18 @@
+[Adblock Plus 3.0]
+
+! Title: Crypto Firewall - IPv6 Adblock List
+! Description: Blocks malicious IPv6 addresses associated with
+! crypto malware, phishing, scams, and malicious automation.
+!
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0
+!
+! Last modified: 24 May 2026
+! Expires: 7 days
+! Format: Adblock Plus
+!
+! Compatibility:
+! IP-based network filtering support varies by client.
+!
+!-------------------------------------------------------------------------------
