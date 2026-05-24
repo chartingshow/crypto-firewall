@@ -1,11 +1,20 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall
-! Expires: 7 days (update frequency)
-! Last modified: 14 May 2026
+
+! Title: Crypto Firewall - IPv4 Adblock List
+! Description: Blocks malicious IPv4 addresses associated with
+! crypto malware, phishing, scams, and malicious automation.
+!
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
-! License: GPL-3.0 license
-! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+! License: GPL-3.0
+!
+! Last modified: 24 May 2026
+! Expires: 7 days
+! Format: Adblock Plus
+!
+! Compatibility:
+! IP-based network filtering support varies by client.
+!
 !-------------------------------------------------------------------------------
 
 ||1.234.2.232^

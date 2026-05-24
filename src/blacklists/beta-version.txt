@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Beta Version)
 ! Expires: 1 days
-! Last modified: 15 May 2026
+! Last modified: 24 May 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -107458,7 +107458,8 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 @@||aptal.pro^$websocket
 
 ! IP modules ------------------------------------------------------------------
-!#include ip-adblock.txt
+!#include ipv4-adblock.txt
+!#include ipv6-adblock.txt
 
 ! URL modules ------------------------------------------------------------------
 !#include url-filters/apple.txt
