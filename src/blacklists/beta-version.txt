@@ -1,12 +1,25 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (Beta Version)
-! Expires: 1 days
-! Last modified: 24 May 2026
+
+! ------------------------------------------------------------------------------
+! Title: Crypto Firewall - Beta Version
+! Description: Experimental and pre-release indicators associated with
+! crypto malware, phishing, scams, malicious automation, and abuse activity.
+!
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
-! License: GPL-3.0 license
-! Description: Blocking Web Browser Crypto Malware and Phishing Websites
-!-------------------------------------------------------------------------------
+! License: GPL-3.0
+!
+! Format: Adblock Plus
+! Last modified: 25 May 2026
+! Expires: 24 hours
+!
+! Notes:
+! - Generated automatically
+! - Experimental feed
+! - May contain false positives
+! - Intended for testing and evaluation purposes
+!
+! ------------------------------------------------------------------------------
 
 ! Third Party blocking crypto domains ------------------------------------------
 ||0-de.fi^

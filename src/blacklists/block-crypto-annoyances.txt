@@ -1,12 +1,25 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (Block Crypto Annoyances)
-! Expires: 7 days (update frequency)
-! Last modified: 16 March 2026
+
+! ------------------------------------------------------------------------------
+! Title: Crypto Firewall - Block Crypto Annoyances
+! Description: Blocks cryptocurrency-related advertising, tracking,
+! popups, analytics, widgets, and other unwanted web annoyances.
+!
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
-! License: GPL-3.0 license
-! Description: Blocking Web Browser Crypto Malware and Phishing Websites
-!-------------------------------------------------------------------------------
+! License: GPL-3.0
+!
+! Format: Adblock Plus
+! Last modified: 25 May 2026
+! Expires: 7 days
+!
+! Notes:
+! - Generated automatically
+! - Focused on crypto-related web annoyances
+! - Includes advertising, tracking, analytics, and popup domains
+! - Intended for privacy and browsing experience improvements
+!
+! ------------------------------------------------------------------------------
 
 !------------------------------- GENERAL BLOCKS --------------------------------
 ! Blocks a wide range of common advertising, tracking, and analytics domains.

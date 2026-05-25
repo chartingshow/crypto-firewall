@@ -1,11 +1,20 @@
-# Crypto Firewall
+# ------------------------------------------------------------------------------
+# Title: Crypto Firewall - Domains
+# Description: Malicious domains associated with crypto malware, phishing, 
+# scams, malicious automation, and abuse.
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
-# License: GPL-3.0 license
+# License: GPL-3.0
 #
-# Last modified: 19 May 2026
+# Format: Plain Text
+# Last modified: 25 May 2026
+# Expires: 24 hours
 #
+# Notes:
+# - One indicator per line
+# - Intended for custom parsers, firewalls, and automation tooling
+# ------------------------------------------------------------------------------
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
 # These domains are known for frequent abuse (e.g., phishing, malware, scams).
