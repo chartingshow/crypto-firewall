@@ -1,12 +1,23 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# ------------------------------------------------------------------------------
+# Title: Crypto Firewall - ASN Blocklist
+# Description: Malicious Autonomous System Numbers (ASNs) associated with
+# crypto malware, phishing, scams, malicious automation, and abuse activity.
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
-# License: GPL-3.0 license
+# License: GPL-3.0
 #
-# Last modified: 13 January 2025
+# Format: Plain Text ASN List
+# Last modified: 25 May 2026
+# Expires: 24 hours
 #
+# Notes:
+# - Generated automatically
+# - One ASN per line
+# - Intended for firewall, routing, SIEM, and threat intelligence systems
+# - Supports ASN-based filtering and enrichment workflows
+#
+# ------------------------------------------------------------------------------
 
 200593
 210644

@@ -1,15 +1,26 @@
-# Crypto Firewall
+# ------------------------------------------------------------------------------
+# Title: Crypto Firewall - Hosts File
+# Description: Blocks malicious domains and IP addresses by redirecting them
+# to localhost (0.0.0.0).
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
-# License: GPL-3.0 license
+# License: GPL-3.0
 #
-# Last modified: 19 May 2026
+# Format: Plain Text
+# Last modified: 25 May 2026
+# Expires: 24 hours
 #
+# Notes:
+# - Compatible with most hosts-based blocking systems
+# - Supports IPv4 and IPv6 entries
+# - One rule per line
+# ------------------------------------------------------------------------------
 
-#---------------------------- BAD IP ADDRESSES ---------------------------------
-# Block malicious or unwanted IP address by redirecting to localhost (0.0.0.0)
-#-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# IPv4 ADDRESSES
+# Malicious IPv4 addresses associated with crypto abuse activity.
+# ------------------------------------------------------------------------------
 
 0.0.0.0 1.234.2.232
 0.0.0.0 1.234.21.73
@@ -3588,6 +3599,11 @@
 0.0.0.0 99.78.201.201
 0.0.0.0 99.79.9.18
 0.0.0.0 99.83.175.80
+
+# ------------------------------------------------------------------------------
+# IPv6 ADDRESSES
+# Malicious IPv6 addresses associated with crypto abuse activity.
+# ------------------------------------------------------------------------------
 
 #--------------------------- DEVELOPER LOCATIONS -------------------------------
 # These are default loopback and broadcast addresses.

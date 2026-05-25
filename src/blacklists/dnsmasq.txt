@@ -1,11 +1,23 @@
-# Crypto Firewall - Dnsmasq Blocklist
+# ------------------------------------------------------------------------------
+# Title: Crypto Firewall - Dnsmasq Blocklist
+# Description: Blocks malicious domains associated with crypto malware,
+# phishing, scams, malicious automation, and abuse activity.
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
-# License: GPL-3.0 license
+# License: GPL-3.0
 #
-# Last modified: 19 May 2026
+# Format: Dnsmasq Domain Blocklist
+# Last modified: 25 May 2026
+# Expires: 24 hours
 #
+# Notes:
+# - Generated automatically
+# - Domain-based blocking only
+# - IPv4 and IPv6 addresses are not included
+# - Compatible with Dnsmasq-based DNS filtering systems
+#
+# ------------------------------------------------------------------------------
 
 #----------------------------- ABUSED SUBDOMAINS --------------------------------
 # These domains are known for frequent abuse (e.g., phishing, malware, scams).
