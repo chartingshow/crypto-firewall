@@ -1833,6 +1833,9 @@ www.certik.com##.PulseHighlight_pulse__Vizye
 www.certik.com##[class^=AppHeader_announce-banner]
 www.certik.com##[class^=CookieConsent_cookie-consent]
 
+! chatgpt.com
+chatgpt.com##div[data-ad-card-root="true"]:has(p:has-text(Sponsored))
+
 ! coin360.com
 coin360.com##.marquee
 
