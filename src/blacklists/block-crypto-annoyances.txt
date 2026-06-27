@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 13 June 2026
+! Last modified: 27 June 2026
 ! Expires: 7 days
 !
 ! Notes:
@@ -1835,6 +1835,7 @@ www.certik.com##[class^=CookieConsent_cookie-consent]
 
 ! chatgpt.com
 chatgpt.com##div[data-ad-card-root="true"]:has(p:has-text(Sponsored))
+chatgpt.com##div[data-testid="image-card-v2"]:has(span:has-text(/^Ad$/))
 
 ! coin360.com
 coin360.com##.marquee
