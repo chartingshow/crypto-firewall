@@ -2285,20 +2285,11 @@ www.lookintobitcoin.com##.trading-tool
 lunarcrush.com##[href="https://lunarcrush.com/advertising"]
 
 ! mail.proton.me
-mail.proton.me##.button-promotion--bf-2025-free
-mail.proton.me##.button-promotion--blue
-mail.proton.me##.button-promotion--full-gradient
-mail.proton.me##.button-promotion--green
-mail.proton.me##.button-promotion--icon-gradient
-mail.proton.me##.button-promotion--orange
-mail.proton.me##.button-promotion--pink
-mail.proton.me##.button-promotion--purple
-mail.proton.me##.button-promotion--red
-mail.proton.me##.button-promotion--yellow
+mail.proton.me##[class^="button-promotion--"]
+mail.proton.me##[data-testid="cta:special-offer"]
 mail.proton.me##.modal-two-backdrop--in.modal-two-backdrop
 mail.proton.me##.offer-modal
 mail.proton.me##.tip-box
-mail.proton.me##[class^=button-promotion--]
 
 ! mempool.space
 mempool.space##.social-links
