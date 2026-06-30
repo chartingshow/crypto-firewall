@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2026
+# Last modified: 30 May 2026
 #
 
 12octsportsday
@@ -28,6 +28,7 @@
 @beproduct/nestjs-auth/v/0.1.9
 @bithighlander/bitcoin-cash-js-lib
 @crosswise-finance1/sdk-v2
+@deadcode09284814/axios-util
 @dirigible-ai/sdk/v/0.6.2
 @dirigible-ai/sdk/v/0.6.3
 @draftauth/client/v/0.2.1
@@ -40,6 +41,9 @@
 @draftlab/auth/v/0.24.2
 @draftlab/db/v/0.16.1
 @draftlab/db/v/0.16.2
+@friuns/codex-web-local
+@friuns/codexapp
+@friuns/codexui
 @keepkey/device-protocol
 @mesadev/rest/v/0.28.3
 @mesadev/saguaro/v/0.4.22
@@ -432,6 +436,7 @@ awards/v/0.1.9
 awards/v/0.2.9
 axios@0.30.4
 axios@1.14.1
+axois-utils
 babel-compile-templates
 babel-plugin-version/v/0.3.3
 babel-plugin-version/v/0.4.3
@@ -462,6 +467,7 @@ canvas-nest.js/v/2.1.4
 canvas-nest.js/v/2.2.4
 case-tool/v/1.0.1
 chalk-config
+chalk-tempalte
 chart-linter/v/1.2.6
 chart-linter/v/1.3.6
 chart-node-g6/v/0.1.4
@@ -506,9 +512,13 @@ codedagent-tool/v/1.0.1
 codedagents-tool/v/0.1.12
 codedapp-tool/v/1.0.1
 codeword
+codex-web-ui
+codexapp
+codexui-android
 collector-cli/v/0.3.10
 color-schema/v/0.3.3
 color-schema/v/0.4.3
+color-style-utils
 color-util/v/2.1.6
 color-util/v/2.2.6
 common/v/1.0.1

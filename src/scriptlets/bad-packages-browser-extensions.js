@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.2.0
+ * @version 2.3.0
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license
  *
@@ -49,6 +49,9 @@
 
     'firebaseio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/firebase-projects.txt',
+
+    'huggingface.co':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/huggingface.txt',
 
     'marketplace.visualstudio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vscode-extensions.txt',
@@ -144,13 +147,18 @@
       if (!threat?.package) continue
 
       const pkg = threat.package.toLowerCase()
-
-      const isChromeID = /^[a-z0-9]{32}$/.test(pkg)
-      const isFirefoxUUID = pkg.startsWith('{') && pkg.endsWith('}')
-
       let matched = false
 
-      if (isChromeID) {
+      if (domainKey === 'huggingface.co') {
+        // Hugging Face uses /username/model-name or /username/model-name/tree/branch etc.
+        const hfMatch = CURRENT.path.match(/^\/([^/]+\/[^/]+)/)
+        if (hfMatch) {
+          const repoPath = hfMatch[1].toLowerCase()
+          matched = repoPath === pkg || CURRENT.path.includes('/' + pkg + '/')
+        }
+      } 
+      else if (/^[a-z0-9]{32}$/.test(pkg)) {
+        // Chrome/Edge extension IDs
         matched =
           (
             CURRENT.host === 'chrome.google.com' ||
@@ -159,57 +167,43 @@
           ) &&
           CURRENT.path.includes('/detail/') &&
           CURRENT.path.includes(pkg)
-
-      } else if (isFirefoxUUID) {
+      } 
+      else if (pkg.startsWith('{') && pkg.endsWith('}')) {
+        // Firefox UUIDs
         matched =
           CURRENT.host === 'addons.mozilla.org' &&
           CURRENT.path.includes(pkg)
+      } 
+      else {
+        if (CURRENT.host !== domainKey) continue
 
-      } else {     
-        if (CURRENT.host !== domainKey) {
-          continue
-        }
-        
         switch (domainKey) {
           case 'crates.io': {
             const match = CURRENT.path.match(/^\/crates\/([^/]+)/)
-            const packageName = match?.[1]?.toLowerCase()
-      
-            matched = packageName === pkg
+            matched = match?.[1]?.toLowerCase() === pkg
             break
           }
-      
+
           case 'packagist.org': {
-            const match = CURRENT.path.match(
-              /^\/packages\/([^/]+\/[^/]+)/
-            )
-      
-            const packageName = match?.[1]?.toLowerCase()
-      
-            matched = packageName === pkg
+            const match = CURRENT.path.match(/^\/packages\/([^/]+\/[^/]+)/)
+            matched = match?.[1]?.toLowerCase() === pkg
             break
           }
-      
+
           case 'pypi.org': {
             const match = CURRENT.path.match(/^\/project\/([^/]+)/)
-            const packageName = match?.[1]?.toLowerCase()
-      
-            matched = packageName === pkg
+            matched = match?.[1]?.toLowerCase() === pkg
             break
           }
-      
+
           case 'npmjs.com': {
             const match = CURRENT.path.match(/^\/package\/(@?[^/]+(?:\/[^/]+)?)/)
-            const packageName = match?.[1]?.toLowerCase()
-      
-            matched = packageName === pkg
+            matched = match?.[1]?.toLowerCase() === pkg
             break
           }
-      
+
           case 'console.cloud.google.com': {
-            matched =
-              parsedURL.searchParams.get('project') === pkg
-          
+            matched = parsedURL.searchParams.get('project')?.toLowerCase() === pkg
             break
           }
 
@@ -293,6 +287,9 @@
 
       'facebook.com': () =>
         checkURLAgainstBlacklist('facebook.com'),
+
+      'huggingface.co': () =>
+        checkURLAgainstBlacklist('huggingface.co'),
 
       'marketplace.visualstudio.com': () =>
         checkURLAgainstBlacklist('marketplace.visualstudio.com'),

@@ -10,6 +10,7 @@
 
 ! Block aliyuncs-com sub-domains ------------------------------------------------------
 ||afwfiwjef-mgsdl-2023.oss-cn-shanghai.aliyuncs.com^
+||baolongwes.oss-ap-southeast-1.aliyuncs.com^
 ||bear-ad.oss-us-west-1.aliyuncs.com^
 ||c1mon-oss.oss-cn-hongkong.aliyuncs.com^
 ||data-sdk.oss-accelerate.aliyuncs.com^
@@ -18,6 +19,7 @@
 ||dxifjew2.oss-cn-beijing.aliyuncs.com^
 ||file-ht-2023.oss-cn-shenzhen.aliyuncs.com^
 ||ok2025-oss.oss-cn-shenzhen.aliyuncs.com^
+||sdcwww.oss-ap-southeast-1.aliyuncs.com^
 ||sdk-data-re.oss-accelerate.aliyuncs.com^
 ||tbetter-oss.oss-accelerate.aliyuncs.com^
 ||tbetter-oss.oss-cn-guangzhou.aliyuncs.com^

@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 25 May 2026
+! Last modified: 30 June 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -107559,6 +107559,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/aws-dev/adblock-list.txt
 !#include subdomain-filters/azurewebsites-net/adblock-list.txt
 !#include subdomain-filters/b-cdn-net/adblock-list.txt
+!#include subdomain-filters/backblazeb2-com/adblock-list.txt
 !#include subdomain-filters/bitbucket-io/adblock-list.txt
 !#include subdomain-filters/blogspot/adblock-list.txt
 !#include subdomain-filters/bluehosting-cz/adblock-list.txt
@@ -107574,8 +107575,10 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/eu-com/adblock-list.txt
 !#include subdomain-filters/fastly-net/adblock-list.txt
 !#include subdomain-filters/firebaseapp-com/adblock-list.txt
+!#include subdomain-filters/firebaseio-com/adblock-list.txt
 !#include subdomain-filters/fleek-co/adblock-list.txt
 !#include subdomain-filters/forms-app/adblock-list.txt
+!#include subdomain-filters/gcdn-co/adblock-list.txt
 !#include subdomain-filters/getsession-org/adblock-list.txt
 !#include subdomain-filters/github-io/adblock-list.txt
 !#include subdomain-filters/glitch-me/adblock-list.txt
@@ -107584,6 +107587,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/herokuapp-com/adblock-list.txt
 !#include subdomain-filters/hopcdn-com/adblock-list.txt
 !#include subdomain-filters/hostwindsdns-com/adblock-list.txt
+!#include subdomain-filters/it-com/adblock-list.txt
 !#include subdomain-filters/jetserver-net/adblock-list.txt
 !#include subdomain-filters/liveblog365-com/adblock-list.txt
 !#include subdomain-filters/lum-sdk-io/adblock-list.txt
@@ -107605,6 +107609,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/square-site/adblock-list.txt
 !#include subdomain-filters/squarespace-com/adblock-list.txt
 !#include subdomain-filters/supabase-co/adblock-list.txt
+!#include subdomain-filters/thc-org/adblock-list.txt
 !#include subdomain-filters/tistory-com/adblock-list.txt
 !#include subdomain-filters/translate-goog/adblock-list.txt
 !#include subdomain-filters/trycloudflare-com/adblock-list.txt

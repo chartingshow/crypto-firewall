@@ -14,3 +14,7 @@
 ||d32tpl7xt7175h.cloudfront.net^
 ||d3731p845gjiu3.cloudfront.net^
 ||dazqc4f140wtl.cloudfront.net^
+||d1jp293q9tvi92.cloudfront.net^
+||d23l50n6ubud7p.cloudfront.net^
+||d2g6dl71gua1qa.cloudfront.net^
+||d3nh8sl98s2554.cloudfront.net^

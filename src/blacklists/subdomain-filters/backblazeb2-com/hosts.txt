@@ -1,5 +1,4 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# Crypto Firewall (backblazeb2-com)
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
@@ -8,7 +7,6 @@
 # Last modified: 30 June 2026
 #
 
-golangorg/logkit
-laravel-lang/lang
-laravel-lang/http-statuses
-laravel-lang/attributes
+# Block backblazeb2-com sub-domains
+0.0.0.0 caiwuascw.s3.us-east-005.backblazeb2.com
+0.0.0.0 facaia.s3.us-east-005.backblazeb2.com
