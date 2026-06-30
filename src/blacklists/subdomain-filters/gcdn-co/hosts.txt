@@ -1,5 +1,4 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# Crypto Firewall (gcdn-co)
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
@@ -8,7 +7,6 @@
 # Last modified: 30 June 2026
 #
 
-golangorg/logkit
-laravel-lang/lang
-laravel-lang/http-statuses
-laravel-lang/attributes
+# Block gcdn-co sub-domains
+0.0.0.0 cl-9168a3cc.gcdn.co
+0.0.0.0 cl-glcb907925.gcdn.co

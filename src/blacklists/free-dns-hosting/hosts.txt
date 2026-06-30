@@ -6,7 +6,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 April 2026
+# Last modified: 30 June 2026
 #
 
 # Block Free dns and hosting
@@ -102,6 +102,7 @@
 0.0.0.0 keenetic.pro
 0.0.0.0 kozow.com
 0.0.0.0 kro.kr
+0.0.0.0 lhr.life
 0.0.0.0 linkpc.net
 0.0.0.0 loca.lt
 0.0.0.0 loseyourip.com

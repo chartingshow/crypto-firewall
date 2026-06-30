@@ -8,7 +8,10 @@
 # Last modified: 30 June 2026
 #
 
-golangorg/logkit
-laravel-lang/lang
-laravel-lang/http-statuses
-laravel-lang/attributes
+anthfu/Bonsai-8B-gguf
+anthfu/DeepSeek-V4-Pro
+anthfu/Qwen3.6-35B-A3B-APEX-GGUF
+anthfu/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF
+anthfu/Qwopus-GLM-18B-Merged-GGUF
+anthfu/supergemma4-26b-uncensored-gguf-v2
+Open-OSS/privacy-filter

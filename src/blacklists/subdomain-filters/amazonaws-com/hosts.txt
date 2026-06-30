@@ -4,10 +4,11 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 September 2025
+# Last modified: 30 June 2026
 #
 
 # Block amazonaws-com sub-domains
+0.0.0.0 baoyuw2s.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 ec2-13-215-227-78.ap-southeast-1.compute.amazonaws.com
 0.0.0.0 ec2-13-215-228-73.ap-southeast-1.compute.amazonaws.com
 0.0.0.0 ec2-13-59-168-154.us-east-2.compute.amazonaws.com
@@ -19,5 +20,10 @@
 0.0.0.0 ec2-35-173-202-104.compute-1.amazonaws.com
 0.0.0.0 ec2-44-215-108-109.compute-1.amazonaws.com
 0.0.0.0 ec2-54-193-91-232.us-west-1.compute.amazonaws.com
+0.0.0.0 hksha3.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 sjdkjj23.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
 0.0.0.0 trezwezxb.s3.us-east-2.amazonaws.com
+0.0.0.0 xijkwm2.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 xrpgive.s3.amazonaws.com
+0.0.0.0 yifubafu.s3.ap-southeast-1.amazonaws.com

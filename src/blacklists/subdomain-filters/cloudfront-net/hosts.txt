@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 December 2025
+# Last modified: 30 June 2026
 #
 
 # Block cloudfront.net sub-domains
@@ -13,3 +13,7 @@
 0.0.0.0 d32tpl7xt7175h.cloudfront.net
 0.0.0.0 d3731p845gjiu3.cloudfront.net
 0.0.0.0 dazqc4f140wtl.cloudfront.net
+0.0.0.0 d1jp293q9tvi92.cloudfront.net
+0.0.0.0 d23l50n6ubud7p.cloudfront.net
+0.0.0.0 d2g6dl71gua1qa.cloudfront.net
+0.0.0.0 d3nh8sl98s2554.cloudfront.net
