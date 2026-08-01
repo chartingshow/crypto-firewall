@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 25 May 2026
+! Last modified: 1 August 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -107236,6 +107236,7 @@
 ||phpmyadmin.xsunx.com^
 ||plt-descartes.googlecode.com^
 ||polavaramrr.ap.gov.in^
+||s2.adform.net^
 ||sas185.sas.edu.pk^
 ||saw4.playit.gg^
 ||scmm.netlify.app^
