@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 1 August 2026
+! Last modified: 6 August 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -107203,6 +107203,7 @@
 ||demo.techcloudltd.com^
 ||diskopumkm.bandung.go.id^
 ||efirma.sglwebs.com^
+||eth-mainnet.nodereal.io^
 ||fas.wyb.ac.lk^
 ||firco.gob.mx^
 ||fisika.uad.ac.id^
