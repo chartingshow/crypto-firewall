@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 5 July 2026
+! Last modified: 8 august 2026
 ! Expires: 7 days
 !
 ! Notes:
@@ -595,6 +595,7 @@ is-gateway.supersonicads.com
 ispot.tv
 itemslice.com
 ivykiosk.com
+messenger-assets.qualified.com
 phonecup.com
 photohints.com
 physicstees.com
