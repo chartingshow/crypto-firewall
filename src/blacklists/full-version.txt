@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 6 August 2026
+! Last modified: 12 August 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -107237,6 +107237,9 @@
 ||phpmyadmin.xsunx.com^
 ||plt-descartes.googlecode.com^
 ||polavaramrr.ap.gov.in^
+||polygon-bor-rpc.publicnode.com^
+||polygon-pokt.nodies.app^
+||polygon.drpc.org^
 ||s2.adform.net^
 ||sas185.sas.edu.pk^
 ||saw4.playit.gg^
@@ -107254,6 +107257,7 @@
 ||matt.ucc.asn.au/dropbear/^
 
 ! URL blocking -----------------------------------------------------------------
+||1rpc.io/matic*
 ||apps.apple.com/*/app/nivex/id6744414166*
 ||facebook.com/profile.php?id=61577263233088
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg
