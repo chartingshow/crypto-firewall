@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 8 august 2026
+! Last modified: 14 September 2026
 ! Expires: 7 days
 !
 ! Notes:
@@ -1441,6 +1441,7 @@ yolasite.com
 .eu-cookie-compliance-banner--categories
 .eu-cookie-compliance-banner-info
 .fc-consent-root
+.groovy-advert
 .implicit_privacy_prompt
 .js-consent-banner
 .js-cookie-notification__form
