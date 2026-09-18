@@ -8,7 +8,7 @@
 # License: GPL-3.0
 #
 # Format: Plain Text
-# Last modified: 25 May 2026
+# Last modified: 18 September 2026
 # Expires: 24 hours
 #
 # Notes:
@@ -3746,6 +3746,7 @@
 0.0.0.0 6v4q5w7di74grj2vtmikzgx2tnq5eagyg2cubpcnqrvvee2ijpmprzqd.onion
 0.0.0.0 6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion
 0.0.0.0 74racbmxqyyd5jbtmdk7zd2qvpmfcvdigao64bm6iyxfujgqpyirhpid.onion
+0.0.0.0 7goms4byw26kkbaanz5a5u5234gusot7rp5imzc3ozh66wwcvmcudjid.onion
 0.0.0.0 7puvv4qtcrigzbxshqibkpibzbmrs6thb7s6uf3tisqfp3t2ddpp66id.onion
 0.0.0.0 7tkffbh3qiumpfjfq77plcorjmfohmbj6nwq5je6herbpya6kmgoafid.onion
 0.0.0.0 a2dbso6dijaqsmut36r6y4nps4cwivmfog5bpzf6uojovce6f3gl36id.onion
@@ -3778,6 +3779,7 @@
 0.0.0.0 cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion
 0.0.0.0 cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion
 0.0.0.0 ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
+0.0.0.0 cgky6bn6ux5wvlybtmm3z255igt52ljml2ngnc5qp3cnw5jlglamisad.onion
 0.0.0.0 chatc46k7dqtvvrgfqjs6vxrwnmudko2ptiqvlb7doqxxqtjc22tsiad.onion
 0.0.0.0 cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion
 0.0.0.0 ciphbitbj4qxxhyzgzmwwjngwv4jw6sjltwalqitktrpayiusveawmqd.onion
@@ -3813,6 +3815,7 @@
 0.0.0.0 eghv5cpdsmuj5e6tpyjk5icgq642hqubildf6yrfnqlq3rmsqk2zanid.onion
 0.0.0.0 embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion
 0.0.0.0 et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion
+0.0.0.0 facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 0.0.0.0 fcjam663uvgid2xbar24kab2vt4hjzsn6o77glh35jscuo567b2mnyqd.onion
 0.0.0.0 fmtvvg3x5rs7tagzcytmfmffnihnte6gllkljufyz534hfpqhfyg2dad.onion
 0.0.0.0 fndqgtdkj4v6g4aq.onion
@@ -3823,12 +3826,14 @@
 0.0.0.0 gandcrabmfe6mnef.onion
 0.0.0.0 gb7ni5rgeexdcncj.onion
 0.0.0.0 gdbkvfe6g3whrzkdlbytksygk45zwgmnzh5i2xmqyo3mrpipysjagqyd.onion
+0.0.0.0 gfoqsewps57xcyxoedle2gd53o6jne6y5nq5eh25muksqwzutzq7b3ad.onion
 0.0.0.0 ghtyqipha6mcwxiz.onion
 0.0.0.0 gpiekd65jgshwp2p53igifv43aug2adacdebmuuri34hduvijr5pfjad.onion
 0.0.0.0 gunyhng6pabzcurl7ipx2pbmjxpvqnu6mxf2h3vdeenam34inj4ndryd.onion
 0.0.0.0 gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion
 0.0.0.0 gwisin4yznpdtzq424i3la6oqy5evublod4zbhddzuxcnr34kgfokwad.onion
 0.0.0.0 gwvueqclwkz3h7u75cks2wmrwymg3qemfyoyqs7vexkx7lhlteagmsyd.onion
+0.0.0.0 he5vnov645txpcv57el2theky2elesn24ebvgwfoewlpftksxp4fnxad.onion
 0.0.0.0 hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion
 0.0.0.0 hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion
 0.0.0.0 hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion
@@ -3851,6 +3856,7 @@
 0.0.0.0 ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion
 0.0.0.0 iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion
 0.0.0.0 izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion
+0.0.0.0 j3bv7g27oramhbxxuv6gl3dcyfmf44qnvju3offdyrap7hurfprq74qd.onion
 0.0.0.0 j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion
 0.0.0.0 j3qxmk6g5sk3zw62i2yhjnwmhm55rfz47fdyfkhaithlpelfjdokdxad.onion
 0.0.0.0 j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion
@@ -3926,6 +3932,7 @@
 0.0.0.0 lorenzezzwvtk3y24wfph4jpho27grrctqvf6yvld7256rnoz7yg2eid.onion
 0.0.0.0 lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion
 0.0.0.0 luckbit53sdne5yd5vdekadhwnbzjyqlbjkc4g33hs6faphfkvivaeid.onion
+0.0.0.0 lyhizqy2js2eh6ufngkbzntouiikdek5zsdj3qwa22b4z6knpqorgiad.onion
 0.0.0.0 lynxbllrfr5262yvbgtqoyq76s7mpztcqkv6tjjxgpilpma7nyoeohyd.onion
 0.0.0.0 lynxblogco7r37jt7p5wrmfxzqze7ghxw6rihzkqc455qluacwotciyd.onion
 0.0.0.0 lynxblogijy4jfoblgix2klxmkbgee4leoeuge7qt4fpfkj4zbi2sjyd.onion
@@ -3977,6 +3984,7 @@
 0.0.0.0 ohmva4gbywokzqso.onion.cab
 0.0.0.0 ohmva4gbywokzqso.tor2web.org
 0.0.0.0 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
+0.0.0.0 olrh4mibs62l6kkuvvjyc5lrercqg5tz543r4lsw3o6mh5qb7g7sneid.onion
 0.0.0.0 omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion
 0.0.0.0 onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion
 0.0.0.0 oxly5vxvvhi5fv5vsvj3kvlqeprbijitycqisylaxzf324bn7e4qr2ad.onion
@@ -4022,6 +4030,7 @@
 0.0.0.0 sdjf982lkjsdvcjlksaf2kjhlksvvnktyoiasuc92lf.onion
 0.0.0.0 secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion
 0.0.0.0 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
+0.0.0.0 shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion
 0.0.0.0 sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion
 0.0.0.0 sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion
 0.0.0.0 sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion
@@ -4071,6 +4080,7 @@
 0.0.0.0 wlh3dpptx2gt7nsxcor37a3kiyaiy6qwhdv7o6nl6iuniu5ycze5ydid.onion
 0.0.0.0 woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion
 0.0.0.0 wqmfzni2nvbbpk25.onion
+0.0.0.0 wt26llpl5k6gok3vnaxmucwgzv2wk3l7nuibbh25clghrtus3p5ctsid.onion
 0.0.0.0 wtxqf54djhp5pskv2lfyduub5ievxbyvlzjgjopk6hxge5umombr63ad.onion
 0.0.0.0 wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion
 0.0.0.0 wun2vkbns2ypyxfe7wffycdgbxsym564eamfk27py3pesqxikqpqfoyd.onion
