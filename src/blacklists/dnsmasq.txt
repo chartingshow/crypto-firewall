@@ -8,7 +8,7 @@
 # License: GPL-3.0
 #
 # Format: Dnsmasq Domain Blocklist
-# Last modified: 22 September 2026
+# Last modified: 23 September 2026
 # Expires: 24 hours
 #
 # Notes:
@@ -22420,6 +22420,7 @@ address=/certexprotocol.com/0.0.0.0
 address=/certifiedbk.com/0.0.0.0
 address=/certifiedequity.ca/0.0.0.0
 address=/certifiedfxtrade.com/0.0.0.0
+address=/certona.net/0.0.0.0
 address=/ceruloplasmini.org/0.0.0.0
 address=/cerus.zone/0.0.0.0
 address=/cesarcoins.com/0.0.0.0
@@ -68744,6 +68745,7 @@ address=/nodeblocks.net/0.0.0.0
 address=/nodeblocks.org/0.0.0.0
 address=/Nodecertify.com/0.0.0.0
 address=/nodechainnetwork.online/0.0.0.0
+address=/nodeclaim.com/0.0.0.0
 address=/nodecoiresolve.net/0.0.0.0
 address=/nodecoiresolver.com/0.0.0.0
 address=/nodelinks.net/0.0.0.0
@@ -69617,6 +69619,7 @@ address=/oblog.xyz/0.0.0.0
 address=/obodonri.com.ng/0.0.0.0
 address=/obol.store/0.0.0.0
 address=/obondon1.ru/0.0.0.0
+address=/obosnovano.su/0.0.0.0
 address=/obsidiancutter.top/0.0.0.0
 address=/obtain-gst.xyz/0.0.0.0
 address=/obtain-newtime.ws/0.0.0.0
@@ -70003,6 +70006,7 @@ address=/olmaz.tk/0.0.0.0
 address=/olmilllchi.xyz/0.0.0.0
 address=/olmsusszateyalama.shop/0.0.0.0
 address=/olocratim.ru/0.0.0.0
+address=/olopruy.com/0.0.0.0
 address=/olponetox.com/0.0.0.0
 address=/oltorarrar.xyz/0.0.0.0
 address=/olumolumnedikrigulum.co.vu/0.0.0.0
@@ -74737,6 +74741,7 @@ address=/phereramila.xyz/0.0.0.0
 address=/phetcwl.shop/0.0.0.0
 address=/phevkl.me/0.0.0.0
 address=/phfstaffing.com/0.0.0.0
+address=/phgotof2.com/0.0.0.0
 address=/phhantom.com/0.0.0.0
 address=/phil-wealth.com/0.0.0.0
 address=/phililoan.com/0.0.0.0

@@ -8,7 +8,7 @@
 # License: GPL-3.0
 #
 # Format: Plain Text
-# Last modified: 22 September 2026
+# Last modified: 23 September 2026
 # Expires: 24 hours
 #
 # Notes:
@@ -26151,6 +26151,7 @@
 0.0.0.0 certifiedbk.com
 0.0.0.0 certifiedequity.ca
 0.0.0.0 certifiedfxtrade.com
+0.0.0.0 certona.net
 0.0.0.0 ceruloplasmini.org
 0.0.0.0 cerus.zone
 0.0.0.0 cesarcoins.com
@@ -40114,7 +40115,7 @@
 0.0.0.0 eisx.xyz
 0.0.0.0 eisx2.xyz
 0.0.0.0 eisx3.xyz
-0.0.0.0 eisx4.xyz
+0.0.0.0 eisx4.xyz 
 0.0.0.0 eit-brt-barchanmawer.info
 0.0.0.0 eit-lnterac.info
 0.0.0.0 eitaimachinery.co.jp
@@ -47937,7 +47938,7 @@
 0.0.0.0 funextrade.com
 0.0.0.0 funflask.com
 0.0.0.0 funfoods.club
-0.0.0.0 funformathgame.com
+0.0.0.0 funformathgame.com 
 0.0.0.0 fungalaxyca.com
 0.0.0.0 fungible-token.club
 0.0.0.0 funhaus.com.br
@@ -54638,7 +54639,7 @@
 0.0.0.0 inboxalert-mygovlogin.com
 0.0.0.0 inboxally.agency
 0.0.0.0 inboxau-mygov.com
-0.0.0.0 inboxhub.net
+0.0.0.0 inboxhub.net 
 0.0.0.0 inboxlogin-mygov.com
 0.0.0.0 inboxly.top
 0.0.0.0 inboxsecure-mygov.com
@@ -66468,7 +66469,7 @@
 0.0.0.0 mikawa-kito.jp
 0.0.0.0 mikeerdmantoyota.com
 0.0.0.0 mikemtechnologie.com
-0.0.0.0 mikifox.com
+0.0.0.0 mikifox.com 
 0.0.0.0 miklinhotels.com
 0.0.0.0 mikohn.net
 0.0.0.0 mikrotik.cn.com
@@ -72475,6 +72476,7 @@
 0.0.0.0 nodeblocks.org
 0.0.0.0 Nodecertify.com
 0.0.0.0 nodechainnetwork.online
+0.0.0.0 nodeclaim.com
 0.0.0.0 nodecoiresolve.net
 0.0.0.0 nodecoiresolver.com
 0.0.0.0 nodelinks.net
@@ -73348,6 +73350,7 @@
 0.0.0.0 obodonri.com.ng
 0.0.0.0 obol.store
 0.0.0.0 obondon1.ru
+0.0.0.0 obosnovano.su
 0.0.0.0 obsidiancutter.top
 0.0.0.0 obtain-gst.xyz
 0.0.0.0 obtain-newtime.ws
@@ -73734,6 +73737,7 @@
 0.0.0.0 olmilllchi.xyz
 0.0.0.0 olmsusszateyalama.shop
 0.0.0.0 olocratim.ru
+0.0.0.0 olopruy.com
 0.0.0.0 olponetox.com
 0.0.0.0 oltorarrar.xyz
 0.0.0.0 olumolumnedikrigulum.co.vu
@@ -78468,6 +78472,7 @@
 0.0.0.0 phetcwl.shop
 0.0.0.0 phevkl.me
 0.0.0.0 phfstaffing.com
+0.0.0.0 phgotof2.com
 0.0.0.0 phhantom.com
 0.0.0.0 phil-wealth.com
 0.0.0.0 phililoan.com
@@ -108748,7 +108753,7 @@
 0.0.0.0 wriash.shop
 0.0.0.0 wrisstytenewj.shop
 0.0.0.0 writerospzm.shop
-0.0.0.0 writeup.live
+0.0.0.0 writeup.live 
 0.0.0.0 writtern.com
 0.0.0.0 wrlab.sbs
 0.0.0.0 wrldcoin.io
@@ -109814,7 +109819,7 @@
 0.0.0.0 xingzuovip.com
 0.0.0.0 xinjpwk.vip
 0.0.0.0 xinmoshiwang.com
-0.0.0.0 xinqianf38.top
+0.0.0.0 xinqianf38.top 
 0.0.0.0 xintagma.com
 0.0.0.0 xinyuhuang.com
 0.0.0.0 xiomi.co
