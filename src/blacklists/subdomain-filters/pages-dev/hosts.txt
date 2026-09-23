@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 16 April 2026
+# Last modified: 23 September 2026
 #
 
 # Block pages dev sub-domains
@@ -224,6 +224,7 @@
 0.0.0.0 btcwinone.pages.dev
 0.0.0.0 cake-airdrop.pages.dev
 0.0.0.0 callsync.pages.dev
+0.0.0.0 cdnweb3.pages.dev
 0.0.0.0 cealtis-paper-hand.pages.dev
 0.0.0.0 celestia-airdrop.pages.dev
 0.0.0.0 celestia-org-95s.pages.dev
