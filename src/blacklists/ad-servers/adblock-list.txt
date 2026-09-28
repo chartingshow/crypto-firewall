@@ -40412,8 +40412,6 @@ $script,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 $script,third-party,xmlhttprequest,domain=up-4ever.net
 $third-party,xmlhttprequest,domain=kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lat|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to
 $third-party,xmlhttprequest,domain=opensubtitles.org
-$webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlovers.com|csgolounge.com|dispatch.com|go4up.com|janjua.tv|jpost.com|megaup.net|netdna-storage.com|ouo.io|ouo.press|sourceforge.net|spanishdict.com|telegram.com|torlock2.com|uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|vidtodo.com|yts.gs|yts.mx
-$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org
 $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|imagefap.com|keepvid.com|megaup.net|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|powvideo.net|roadracerunner.com|shorte.st|tribune.com.pk|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com
 $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 %2Fevent.gif%3F
@@ -71553,7 +71551,6 @@ _WebVitalsReporter_
 ||deluxe-download.com^$document
 ||delveactivity.com^
 ||delvenetworks.com/player/plugins/analytics/
-||demand.supply^$script
 ||demandbase.com^
 ||demandbase.com^$third-party
 ||demandgen.ptc.com^
@@ -145154,7 +145151,6 @@ dell.com###mh-ext-signupemail-modal
 dell.com##body:style(overflow: auto !important; position: initial !important;)
 dell.com#@#.back-to-top-container
 delo-vcusa.ru,izpn.ru##.policy-popup
-delta.com##+js(trusted-set-cookie, dtPCB, true)
 delta.com##idp-dynamic-banner
 deltareading.com##.el-backtop
 deltatre.com##+js(set-cookie, cookie-preferences-analytics, no)
@@ -157843,7 +157839,6 @@ pornhub.com##+js(set-cookie, accessAgeDisclaimerPH, 1, , reload, 1)
 pornhub.com##a[href^="https://www.uviu.com"]
 pornhub.com##div[class="video-wrapper"] > .clear.hd:has(.adsbytrafficjunky)
 pornhub.com##img[srcset]
-pornhub.com#?#:-abp-properties(height: 300px; width: 315px;)
 pornhub.com#@#.share-link-container
 pornhub.com,pornhub.org###singleFeedSection > .emptyBlockSpace
 pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
@@ -157853,7 +157848,6 @@ pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youp
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]:not(video)
 pornhub.com,spankbang.com##a[href^="http://ads.trafficjunky.net/"]
 pornhub.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporngay.com##img[src*="blob:" i]:not(video)
-pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)
 pornhub.com,youporngay.com##div[onclick*="bp1.com"]
 pornhub-com.appspot.com,pornhub.com,pornhub.net,youporn.com###pb_template
 pornicom.com##.pre-ad
@@ -158905,10 +158899,6 @@ redtube.com##div[class*="display: block; height:"]
 redtube.com##svg
 redtube.com,redtube.com.br##+js(set-cookie, showAgeDisclaimer, 1)
 redtube.com,redtube.com.br,redtube.net,youporngay.com###pb_block
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(*data:image*)
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(base64)
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(data:)
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(image/)
 reebok.eu##+js(set-local-storage-item, SHOW_COOKIE_BANNER, no)
 reed.co.uk,thecourier.co.uk,thephuketnews.com##.notification
 reelcinemas.co.uk##+js(set-cookie, a1wcc, all)
