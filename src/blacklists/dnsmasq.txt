@@ -8,7 +8,7 @@
 # License: GPL-3.0
 #
 # Format: Dnsmasq Domain Blocklist
-# Last modified: 23 September 2026
+# Last modified: 4 October 2026
 # Expires: 24 hours
 #
 # Notes:
@@ -110,11 +110,11 @@ address=/mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.b32.i2p/0.0.0.0
 # Known malicious or abused IPFS gateway domains.
 #-------------------------------------------------------------------------------
 
-address=/bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.cf-ipfs.com/0.0.0.0
-address=/bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.dweb.link/0.0.0.0
-address=/bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io/0.0.0.0
-address=/bafybeiffhd5pqf5yb4r734sqw7j4cnjow3356m3tzrookkda6vhyrar4fi.ipfs.dweb.link/0.0.0.0
-address=/bafybeih66y422foovraku6twm2ajjxww4frb7rxlxu7zbqridm2xkszy2a.ipfs.dweb.link/0.0.0.0
+address=/cf-ipfs.com/0.0.0.0
+address=/infura-ipfs.io/0.0.0.0
+address=/ipfs.cyou/0.0.0.0
+address=/ipfs.dweb.link/0.0.0.0
+address=/ipfs.io/0.0.0.0
 
 #------------------------ TOR2WEB DOMAINS (BLOCKED) ----------------------------
 # Known Tor2web gateways used to access Tor (.onion) sites from the clearnet.
@@ -12664,8 +12664,6 @@ address=/badrgulf.com/0.0.0.0
 address=/badworldgama.top/0.0.0.0
 address=/baelmarketing.com/0.0.0.0
 address=/baenace.com/0.0.0.0
-address=/bafkreichwiorgyndjkuim53nhx2xblg6gmfmt2tspjby5anqjprkof46oq.ipfs.dweb.link/0.0.0.0
-address=/bafybeibvjl7udt5xstz75rj6jojoll6cbumjxucmkhsvul547abm7j5fdy.ipfs.dweb.link/0.0.0.0
 address=/bagat24.de/0.0.0.0
 address=/bagenne.top/0.0.0.0
 address=/baggagegoal.com/0.0.0.0
@@ -51400,7 +51398,6 @@ address=/infractionwarningtoronto.ca/0.0.0.0
 address=/infromationservice.com/0.0.0.0
 address=/infsec0.com/0.0.0.0
 address=/infura-api.com/0.0.0.0
-address=/infura-ipfs.io/0.0.0.0
 address=/infuraswap.app/0.0.0.0
 address=/infyfeeds.com/0.0.0.0
 address=/ing--au.com/0.0.0.0
@@ -53198,8 +53195,6 @@ address=/ipchain.store/0.0.0.0
 address=/ipchain.vip/0.0.0.0
 address=/ipdclub.com/0.0.0.0
 address=/ipfs-chainsafe.dev/0.0.0.0
-address=/ipfs.cyou/0.0.0.0
-address=/ipfs.io/0.0.0.0
 address=/ipgeo.at/0.0.0.0
 address=/iphimchilla.com/0.0.0.0
 address=/iphimchilly.com/0.0.0.0

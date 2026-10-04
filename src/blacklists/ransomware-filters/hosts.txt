@@ -4,19 +4,18 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 19 May 2026
+# Last modified: 4 October 2026
 #
 
 ! Block I2P websites -----------------------------------------------------------
 0.0.0.0 mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.b32.i2p
 
 ! Block IPFS websites ----------------------------------------------------------
-0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.cf-ipfs.com
-0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.dweb.link
-0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
-0.0.0.0 bafybeiffhd5pqf5yb4r734sqw7j4cnjow3356m3tzrookkda6vhyrar4fi.ipfs.dweb.link
-0.0.0.0 bafybeih66y422foovraku6twm2ajjxww4frb7rxlxu7zbqridm2xkszy2a.ipfs.dweb.link
-0.0.0.0 ipfs.io/ipfs/QmQBPuPxy3nZjK2yVspsUJVhutajAfRQpnjc58RAcUJFrh
+0.0.0.0 cf-ipfs.com
+0.0.0.0 infura-ipfs.io
+0.0.0.0 ipfs.cyou
+0.0.0.0 ipfs.dweb.link
+0.0.0.0 ipfs.io
 
 ! Block Tor2web domains --------------------------------------------------------
 0.0.0.0 6dtxgqam4crv6rr6.tor2web.org
