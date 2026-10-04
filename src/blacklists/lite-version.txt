@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 23 September 2026
+! Last modified: 4 October 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -12169,8 +12169,6 @@
 ||badworldgama.top^
 ||baelmarketing.com^
 ||baenace.com^
-||bafkreichwiorgyndjkuim53nhx2xblg6gmfmt2tspjby5anqjprkof46oq.ipfs.dweb.link^
-||bafybeibvjl7udt5xstz75rj6jojoll6cbumjxucmkhsvul547abm7j5fdy.ipfs.dweb.link^
 ||bagat24.de^
 ||bagenne.top^
 ||baggagegoal.com^
@@ -50905,7 +50903,6 @@
 ||infromationservice.com^
 ||infsec0.com^
 ||infura-api.com^
-||infura-ipfs.io^
 ||infuraswap.app^
 ||infyfeeds.com^
 ||ing--au.com^
@@ -52703,8 +52700,6 @@
 ||ipchain.vip^
 ||ipdclub.com^
 ||ipfs-chainsafe.dev^
-||ipfs.cyou^
-||ipfs.io^
 ||ipgeo.at^
 ||iphimchilla.com^
 ||iphimchilly.com^

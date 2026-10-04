@@ -8,7 +8,7 @@
 # License: GPL-3.0
 #
 # Format: Plain Text
-# Last modified: 23 September 2026
+# Last modified: 4 October 2026
 # Expires: 24 hours
 #
 # Notes:
@@ -3842,11 +3842,11 @@
 # Known malicious or abused IPFS gateway domains.
 #-------------------------------------------------------------------------------
 
-0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.cf-ipfs.com
-0.0.0.0 bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4.ipfs.dweb.link
-0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
-0.0.0.0 bafybeiffhd5pqf5yb4r734sqw7j4cnjow3356m3tzrookkda6vhyrar4fi.ipfs.dweb.link
-0.0.0.0 bafybeih66y422foovraku6twm2ajjxww4frb7rxlxu7zbqridm2xkszy2a.ipfs.dweb.link
+0.0.0.0 cf-ipfs.com
+0.0.0.0 infura-ipfs.io
+0.0.0.0 ipfs.cyou
+0.0.0.0 ipfs.dweb.link
+0.0.0.0 ipfs.io
 
 #------------------------ TOR2WEB DOMAINS (BLOCKED) ----------------------------
 # Known Tor2web gateways used to access Tor (.onion) sites from the clearnet.
@@ -16395,8 +16395,6 @@
 0.0.0.0 badworldgama.top
 0.0.0.0 baelmarketing.com
 0.0.0.0 baenace.com
-0.0.0.0 bafkreichwiorgyndjkuim53nhx2xblg6gmfmt2tspjby5anqjprkof46oq.ipfs.dweb.link
-0.0.0.0 bafybeibvjl7udt5xstz75rj6jojoll6cbumjxucmkhsvul547abm7j5fdy.ipfs.dweb.link
 0.0.0.0 bagat24.de
 0.0.0.0 bagenne.top
 0.0.0.0 baggagegoal.com
@@ -55131,7 +55129,6 @@
 0.0.0.0 infromationservice.com
 0.0.0.0 infsec0.com
 0.0.0.0 infura-api.com
-0.0.0.0 infura-ipfs.io
 0.0.0.0 infuraswap.app
 0.0.0.0 infyfeeds.com
 0.0.0.0 ing--au.com
@@ -56929,8 +56926,6 @@
 0.0.0.0 ipchain.vip
 0.0.0.0 ipdclub.com
 0.0.0.0 ipfs-chainsafe.dev
-0.0.0.0 ipfs.cyou
-0.0.0.0 ipfs.io
 0.0.0.0 ipgeo.at
 0.0.0.0 iphimchilla.com
 0.0.0.0 iphimchilly.com
