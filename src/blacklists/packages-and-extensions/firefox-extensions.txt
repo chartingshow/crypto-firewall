@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 22 August 2025
+# Last modified: 6 October 2026
 #
 
 1v1-lol
@@ -209,6 +209,7 @@ trust-for-extension-mozila
 trust-for-mozilla
 trust-wallet-mozilla-add
 trust-wаllet
+twitchenhancedviewer@example.com
 unisat-wallet-addon-extension
 unisat_wallet
 url-filter

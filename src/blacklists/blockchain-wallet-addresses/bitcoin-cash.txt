@@ -5,13 +5,14 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 September 2025
+# Last modified: 6 October 2026
 #
 
 qp79qg7np9mvr4mg78vz8vnx0xn8hlkp7sk0g86064
 qp7rhhk0gcusyj9fvl2ftr06ftt0pt8wgumd8ytssd
 qpcgcrjry0excx80zp8hn9vsn4cnmk57vylwa5mtz3
 qpgf3zrw4taxtvj87y5lcaku77qdhq7kqgdga5u6jz
+qphu2urfykunh5l42retl4aqw6xnfjkyjvcy6gjqrs
 qpjdcwld84wtd5lk00x8t7qp4eu3y0xhnsjjfgrs7
 qpjj6prm5menjatrmqaqx0h3zkuhdkfy75uauxz2sj
 qpjl9lkjjp4s6u654k3rz06rhqcap849jg8uwqmaad
@@ -30,6 +31,7 @@ qqdepnkh89dmfxyp4naluvhlc3ynej239sdu760y39
 qqe3qc9uk08kxnng0cznu9xqqluwfyemxym7w2e3xw
 qqgjn9yqtud5mle3e7zhmagtcap9jdmcg509q56ynt
 qqjqp8ayuky5hq4kgrarpu40eq6xjrneuurc43v9lf
+qqkmn6qq7k0wpa5x7qxze5c4lkcsjkrsvsy2ecll6y
 qqs4grdq56y5nnamu5d8tk450kzul3aulyz8u66mjc
 qqul8wuxs4ec8u4d6arkvetdmdh4ppwr0ggycetq97
 qqxu6a3f0240v0mwzhspm5zeneeyecggvufgz82w7u

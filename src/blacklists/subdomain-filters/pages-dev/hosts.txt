@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 23 September 2026
+# Last modified: 6 October 2026
 #
 
 # Block pages dev sub-domains
@@ -214,6 +214,7 @@
 0.0.0.0 boredapelive.pages.dev
 0.0.0.0 boredapeyachtclub-hvmtl.pages.dev
 0.0.0.0 bridge-plearnclub.pages.dev
+0.0.0.0 browser-update.pages.dev
 0.0.0.0 brp-real-estate.pages.dev
 0.0.0.0 brtstake.pages.dev
 0.0.0.0 btc-etftokens.pages.dev

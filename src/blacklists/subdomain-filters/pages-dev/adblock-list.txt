@@ -215,6 +215,7 @@
 ||boredapelive.pages.dev^
 ||boredapeyachtclub-hvmtl.pages.dev^
 ||bridge-plearnclub.pages.dev^
+||browser-update.pages.dev^
 ||brp-real-estate.pages.dev^
 ||brtstake.pages.dev^
 ||btc-etftokens.pages.dev^

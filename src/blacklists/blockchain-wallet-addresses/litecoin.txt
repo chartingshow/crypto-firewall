@@ -5,7 +5,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 18 September 2025
+# Last modified: 6 October 2026
 #
 
 LbBxnFaR1bZVN2CquNDXGe1xCuu9vUBAQw
@@ -29,6 +29,7 @@ LMAJo7CV5F5scxJsFW67UsY2RichJFfpP6
 LMhCVFq5fTmrwQyzgfp2MkhrgADRAVCGsk
 LNFWHeiSjb4QB4iSHMEvaZ8caPwtz4t6Ug
 LNmMqhqpyDwb1zzZReuA8aVUxkZSc4Ztqq
+LNt9qLwNeWNVuTshrRNMxsA2zGdDTjtzkT
 LPv1wSygi4vPp9UeW6EfWwepEeMFHgALmN
 LQ8bxHKMXfVpjXqobko1rKXXHgrraBkf7R
 LQfKhNis7ZKPRW6H3prbXz1FJd29b3jsmT
@@ -39,9 +40,12 @@ LRSZUeQb48cGojUrVsZr9eERjw4K1zAoyC
 LSihmvTbmQ9WZmq6Rjn35SKLUdBiDzcLBB
 ltc1q3mz97ldfuvjttf23allnmfm8lz88wzrqcdt9z7
 ltc1qcvt96u7ul76ha5m3rmy9ajn00avfkmsqpcfpsh
+ltc1qk437ykzdxms9k9wh5vhd7aalsv0tfx6r39rrtv
+ltc1qk8vtqkx8m8dds3t3kc7vttlgegecf4zc9mlt58
 LTyhWRAeCRcUC9Wd3zkmjz3AhgX6J18kxZ
 LUNKimRyxBVXLf9gp3FZo2iVp6D3yyzJL
 LUvPb1VhwsriAm3ni77i3otND2aYLZ8fHz
+LV9AYZKQEg891crnof7PFK6u77noVM4Y45
 LVnc1MLGDGKs2bmpNAH7zcHV51MJkGsuG9
 LVsGi1QVXucA6v9xsjwaAL8WYb7axdekAK
 LWWWPK2SZZKB3Nu8pHyq2yPscVKvex5v2X
@@ -51,4 +55,5 @@ LYcHJk7r9gRbg2z3hz9GGj91Po6TaXDK3k
 LYN4ESQuJ1TbPxQdRYNrghznN8mQt8WDJU
 LZMn8hLZ2kVjejmDZiSJzJhHZjuHq8Ekmr
 LZZPvXLt4BtMzEgddYnHpUWjDjeD61r5aQ
+MG1FerSxboiwjhvU2cv4n34pXz5FpC88p4
 MRrzfjX13QBV5DxnebbVcGux5izTdUEgmA

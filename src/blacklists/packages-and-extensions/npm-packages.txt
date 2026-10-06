@@ -5,10 +5,15 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 May 2026
+# Last modified: 6 October 2026
 #
 
 12octsportsday
+@asyncapi/generator-components@0.7.1
+@asyncapi/generator-helpers@1.1.1
+@asyncapi/generator@3.3.1
+@asyncapi/specs@6.11.2
+@asyncapi/specs@6.11.2-alpha.1
 @beproduct/nestjs-auth/v/0.1.10
 @beproduct/nestjs-auth/v/0.1.11
 @beproduct/nestjs-auth/v/0.1.12
@@ -44,7 +49,28 @@
 @friuns/codex-web-local
 @friuns/codexapp
 @friuns/codexui
+@injectivelabs/exceptions@1.20.21
+@injectivelabs/networks@1.20.21
+@injectivelabs/sdk-ts@1.20.21
+@injectivelabs/ts-types@1.20.21
+@injectivelabs/utils@1.20.21
+@injectivelabs/wallet-base@1.20.21
+@injectivelabs/wallet-core@1.20.21
+@injectivelabs/wallet-cosmos-strategy@1.20.21
+@injectivelabs/wallet-cosmos@1.20.21
+@injectivelabs/wallet-cosmostation@1.20.21
+@injectivelabs/wallet-evm@1.20.21
+@injectivelabs/wallet-ledger@1.20.21
+@injectivelabs/wallet-magic@1.20.21
+@injectivelabs/wallet-private-key@1.20.21
+@injectivelabs/wallet-strategy@1.20.21
+@injectivelabs/wallet-trezor@1.20.21
+@injectivelabs/wallet-turnkey@1.20.21
+@injectivelabs/wallet-wallet-connect@1.20.21
 @keepkey/device-protocol
+@memtensor/memos-cloud-openclaw-plugin@0.1.21
+@memtensor/memos-cloud-openclaw-plugin@0.1.23
+@memtensor/memos-cloud-openclaw-plugin@0.1.25
 @mesadev/rest/v/0.28.3
 @mesadev/saguaro/v/0.4.22
 @mesadev/sdk/v/0.28.3
@@ -459,6 +485,11 @@ bnb-javascript-sdk-nobroadcast
 boring-avatars-vanilla/v/1.1.2
 boring-avatars-vanilla/v/1.2.2
 bs58-basic
+btree-core
+btree-leaderboard
+btree-lru-cache
+btree-range-store
+btree-time-index
 byte-parser/v/1.1.0
 byte-parser/v/1.2.0
 calendar-heatmap/v/1.2.2
@@ -1022,6 +1053,7 @@ ignore-html-and-css-imports
 import-newlines
 import-zod
 index_patterns_test_plugin
+indexed-btree
 infographic/v/0.3.19
 infographic/v/0.4.19
 inhouse-root
@@ -1192,6 +1224,7 @@ mongo-errorlog
 monorepo-cop
 mshop2
 mui-path-imports
+mutex-forge
 my-f2-pc/v/0.2.1
 my-f2-pc/v/0.3.1
 my-f2/v/2.2.7
@@ -1213,6 +1246,7 @@ navaids/v/0.4.3
 navaids/v/0.4.4
 navaids/v/0.4.5
 navaids/v/0.4.6
+neighbor-key-map
 nestjs-auth/v/0.1.10
 nestjs-auth/v/0.1.11
 nestjs-auth/v/0.1.12
@@ -1261,6 +1295,7 @@ opensearch/v/3.6.2
 opensearch/v/3.7.0
 opensearch/v/3.8.0
 orchestrator-tool/v/1.0.1
+ordered-kv-index
 os-info-checker-es6
 osd_tp_custom_visualizations
 packager-tool-apiworkflow/v/0.0.19
@@ -1291,6 +1326,7 @@ prefer-let
 preprocessing/v/1.0.2
 preprocessing/v/1.0.3
 prior-config
+priority-slot-queue
 proc-watch
 procedure-data/v/0.7.3
 procedure-data/v/0.7.4
@@ -1411,6 +1447,7 @@ size-sensor/v/1.2.4
 skip-tot
 slice.js/v/1.2.1
 slice.js/v/1.3.1
+sliding-score-window
 smart-color/v/0.3.1
 smart-color/v/0.4.1
 solana-validator

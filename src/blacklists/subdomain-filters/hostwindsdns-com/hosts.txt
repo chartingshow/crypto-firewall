@@ -4,8 +4,9 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 7 June 2025
+# Last modified: 6 October 2026
 #
 
 # Block hostwindsdns-com sub-domains
 0.0.0.0 hwsrv-1091010.hostwindsdns.com
+0.0.0.0 hwsrv-798836.hostwindsdns.com

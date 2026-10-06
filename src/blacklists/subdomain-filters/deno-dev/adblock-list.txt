@@ -1,5 +1,5 @@
 [Adblock Plus 3.0]
-! Title: Crypto Firewall (hostwindsdns-com)
+! Title: Crypto Firewall (deno-dev)
 ! Expires: 7 days (update frequency)
 ! Last modified: [Adblock Plus 3.0]
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
@@ -8,6 +8,5 @@
 ! Description: Blocking Web Browser Crypto Malware and Phishing Websites
 !-------------------------------------------------------------------------------
 
-! Block hostwindsdns-com sub-domains ------------------------------------------------------
-||hwsrv-1091010.hostwindsdns.com^
-||hwsrv-798836.hostwindsdns.com^
+! Block deno-dev sub-domains ------------------------------------------------------
+||thebeholder-proxy.deno.dev^
