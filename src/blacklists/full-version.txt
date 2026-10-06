@@ -107657,6 +107657,7 @@
 ||linktr.ee/Nivex_Official*
 ||ln.run/supportcenterbusiness*
 ||play.google.com/store/apps/details?id=com.nx.app
+||sepolia.infura.io/v3/dc7257d09fab42eca2c354c32fec1938
 ||shorturl.at/dKOR6*
 ||tiktok.com/@nivex_lab*
 ||youtube.com/@Nivex_exchange*

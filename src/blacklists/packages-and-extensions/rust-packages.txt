@@ -5,7 +5,16 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 May 2026
+# Last modified: 6 October 2026
 #
 
+aovine
+append-only-vec
+arone
+aronenao
+arrayref
+internment
 logtrace
+proc-macro-en
+proc-macro1
+tinymember

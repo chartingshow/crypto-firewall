@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.3.0
+ * @version 2.3.1
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license
  *
@@ -34,6 +34,9 @@
 
     'chrome.google.com/webstore':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/chrome-extensions.txt',
+
+    'clawhub.ai':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/openclaw.txt',
 
     'console.cloud.google.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/google-cloud-projects.txt',
@@ -175,9 +178,44 @@
           CURRENT.path.includes(pkg)
       } 
       else {
-        if (CURRENT.host !== domainKey) continue
+        const domainMatches =
+          domainKey === 'clawhub.ai'
+            ? (
+                CURRENT.host === 'clawhub.ai' ||
+                CURRENT.host === 'hub.openclaw.ai'
+              )
+            : CURRENT.host === domainKey
+
+        if (!domainMatches) continue
 
         switch (domainKey) {
+          case 'clawhub.ai': {
+            // ClawHub skill URLs:
+            // /owner/skills/skill-name
+            // /skills/skill-name
+            // /s/skill-name
+
+            const canonicalMatch = CURRENT.path.match(
+              /^\/[^/]+\/skills\/([^/]+)/
+            )
+
+            const shortMatch =
+              CURRENT.path.match(/^\/skills\/([^/]+)/)
+
+            const legacyMatch =
+              CURRENT.path.match(/^\/s\/([^/]+)/)
+
+            const skillSlug = (
+              canonicalMatch?.[1] ||
+              shortMatch?.[1] ||
+              legacyMatch?.[1] ||
+              ''
+            ).toLowerCase()
+
+            matched = skillSlug === pkg
+            break
+          }
+
           case 'crates.io': {
             const match = CURRENT.path.match(/^\/crates\/([^/]+)/)
             matched = match?.[1]?.toLowerCase() === pkg
@@ -278,6 +316,12 @@
 
       'apps.apple.com': () =>
         checkURLAgainstBlacklist('apps.apple.com'),
+
+      'clawhub.ai': () =>
+        checkURLAgainstBlacklist('clawhub.ai'),
+
+      'hub.openclaw.ai': () =>
+        checkURLAgainstBlacklist('clawhub.ai'),
 
       'console.cloud.google.com': () =>
         checkURLAgainstBlacklist('console.cloud.google.com'),

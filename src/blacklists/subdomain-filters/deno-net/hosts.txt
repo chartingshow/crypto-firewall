@@ -1,5 +1,4 @@
-# Crypto Firewall
-# Blocking Web Browser Crypto Malware and Phishing Websites
+# Crypto Firewall (deno-net)
 #
 # Homepage: https://github.com/chartingshow/crypto-firewall
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
@@ -8,5 +7,5 @@
 # Last modified: 6 October 2026
 #
 
-0x2a4Ca7B6D5FEA094e02f152D712bFD49de6D3410
-X-avax1h9qxee0820ezfkgeeuc02gkc0c77xrypx8z6g2
+# Block deno-net sub-domains
+0.0.0.0 proxy.thebeholder.deno.net

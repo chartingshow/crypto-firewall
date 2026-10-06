@@ -1,0 +1,12 @@
+# Crypto Firewall (firebasedatabase-app)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 6 October 2026
+#
+
+# Block firebasedatabase-app sub-domains
+0.0.0.0 mantax-e0919-default-rtdb.asia-southeast1.firebasedatabase.app
+0.0.0.0 otax-ceada-default-rtdb.asia-southeast1.firebasedatabase.app

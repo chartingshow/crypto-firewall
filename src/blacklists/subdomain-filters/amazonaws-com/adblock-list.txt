@@ -21,10 +21,17 @@
 ||ec2-35-173-202-104.compute-1.amazonaws.com^
 ||ec2-44-215-108-109.compute-1.amazonaws.com^
 ||ec2-54-193-91-232.us-west-1.compute.amazonaws.com^
+||ejjsi5fbl.s3.ap-southeast-1.amazonaws.com^
+||execute-api.ap-southeast-2.amazonaws.com^
 ||hksha3.s3.ap-southeast-1.amazonaws.com^
+||osy4u8pmu.s3.ap-southeast-1.amazonaws.com^
 ||sjdkjj23.s3.ap-southeast-1.amazonaws.com^
 ||spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com^
+||svhc5arco.s3.ap-southeast-1.amazonaws.com^
 ||trezwezxb.s3.us-east-2.amazonaws.com^
+||ui920fht4m1.s3.mx-central-1.amazonaws.com^
+||x14hidgz0ez.s3.ap-south-1.amazonaws.com^
+||xcmtxc1oam1.s3.ap-south-1.amazonaws.com^
 ||xijkwm2.s3.ap-southeast-1.amazonaws.com^
 ||xrpgive.s3.amazonaws.com^
 ||yifubafu.s3.ap-southeast-1.amazonaws.com^

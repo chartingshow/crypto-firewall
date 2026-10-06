@@ -107657,6 +107657,7 @@
 ||linktr.ee/Nivex_Official*
 ||ln.run/supportcenterbusiness*
 ||play.google.com/store/apps/details?id=com.nx.app
+||sepolia.infura.io/v3/dc7257d09fab42eca2c354c32fec1938
 ||shorturl.at/dKOR6*
 ||tiktok.com/@nivex_lab*
 ||youtube.com/@Nivex_exchange*
@@ -107965,14 +107966,18 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/business-site/adblock-list.txt
 !#include subdomain-filters/cloud-ara-tyk-io/adblock-list.txt
 !#include subdomain-filters/cloudapp-azure-com/adblock-list.txt
+!#include subdomain-filters/cloudflarestorage-com/adblock-list.txt
 !#include subdomain-filters/cloudfront-net/adblock-list.txt
 !#include subdomain-filters/cprapid-com/adblock-list.txt
 !#include subdomain-filters/crazydomains-com/adblock-list.txt
+!#include subdomain-filters/deno-dev/adblock-list.txt
+!#include subdomain-filters/deno-net/adblock-list.txt
 !#include subdomain-filters/easterndns-com/adblock-list.txt
 !#include subdomain-filters/edgeone-app/adblock-list.txt
 !#include subdomain-filters/eu-com/adblock-list.txt
 !#include subdomain-filters/fastly-net/adblock-list.txt
 !#include subdomain-filters/firebaseapp-com/adblock-list.txt
+!#include subdomain-filters/firebasedatabase-app/adblock-list.txt
 !#include subdomain-filters/firebaseio-com/adblock-list.txt
 !#include subdomain-filters/fleek-co/adblock-list.txt
 !#include subdomain-filters/forms-app/adblock-list.txt

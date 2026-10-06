@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 25 July 2026
+# Last modified: 6 October 2026
 #
 
 # Block workers-dev sub-domains
@@ -25,18 +25,27 @@
 0.0.0.0 account.lbpiaccessph.workers.dev
 0.0.0.0 ad26ae67.b9a7bf12bb1d5bb03b8f658f.workers.dev
 0.0.0.0 b40d9440.90257743f86d9260ea5a8bbd.workers.dev
+0.0.0.0 centerfjdr658.workers.dev
+0.0.0.0 checkeligibitily.workers.dev
 0.0.0.0 client.nfcpay.workers.dev
 0.0.0.0 cloud.msapp.workers.dev
 0.0.0.0 ctfwiki.workers.dev
+0.0.0.0 daoahueb.workers.dev
 0.0.0.0 e1ccf4ff.c3eb584144cad711f0c479fc.workers.dev
+0.0.0.0 eduac.workers.dev
 0.0.0.0 ef971a42.workers.dev
 0.0.0.0 f2479fd7.36e00f36c88053ca03f275a0.workers.dev
 0.0.0.0 hello-world-sweet-poetry-ebb0.vpnserver-vps.workers.dev
 0.0.0.0 is-01-ast.ols-img-12.workers.dev
+0.0.0.0 kmjukilo-lkjh.workers.dev
+0.0.0.0 mailtbox.workers.dev
 0.0.0.0 mainnet.solana-rpc-pool.workers.dev
 0.0.0.0 npaautocare.zouxiaodong.workers.dev
 0.0.0.0 opra1.oprawh.workers.dev
 0.0.0.0 oprawh.workers.dev
+0.0.0.0 saghirmohamed19.workers.dev
 0.0.0.0 solana-rpc-pool.workers.dev
+0.0.0.0 v93xdd5g.workers.dev
 0.0.0.0 vittoriocas137.workers.dev
 0.0.0.0 word.msapp.workers.dev
+0.0.0.0 yhv41nji.workers.dev
