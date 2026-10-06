@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 4 October 2026
+! Last modified: 6 October 2026
 ! Expires: 24 hours
 !
 ! Notes:
