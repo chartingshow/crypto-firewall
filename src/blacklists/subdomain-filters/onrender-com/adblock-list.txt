@@ -9,4 +9,18 @@
 !-------------------------------------------------------------------------------
 
 ! Block onrender-com sub-domains --------------------------------------------------
+||anthropicadsback.onrender.com^
+||backend-j02u.onrender.com^
+||backend-tg0j.onrender.com^
+||chatgptadsback.onrender.com^
+||geminiback-5j1n.onrender.com^
 ||logkit.onrender.com^
+||mango-back.onrender.com^
+||manusback-bahk.onrender.com^
+||manusback.onrender.com^
+||mbackend-mdye.onrender.com^
+||nikear.onrender.com^
+||semrushback.onrender.com^
+||syncgadsback.onrender.com^
+||syncgoogleadsback.onrender.com^
+||zero39172-391920.onrender.com^
