@@ -1,0 +1,25 @@
+[Adblock Plus 3.0]
+! Title: Crypto Firewall (railway-app)
+! Expires: 7 days (update frequency)
+! Last modified: [Adblock Plus 3.0]
+! Homepage: https://github.com/chartingshow/crypto-firewall/
+! Contribute: https://github.com/chartingshow/crypto-firewall/issues
+! License: GPL-3.0 license
+! Description: Blocking Web Browser Crypto Malware and Phishing Websites
+!-------------------------------------------------------------------------------
+
+! Block railway-app sub-domains ------------------------------------------------------
+||adsclaudeback-production.up.railway.app^
+||backend-production-6d75.up.railway.app^
+||chatgptadsback-production.up.railway.app^
+||claudeadsback-production-67c1.up.railway.app^
+||claudeadsback-production.up.railway.app^
+||geminiback-production.up.railway.app^
+||just-cooperation-production-f159.up.railway.app^
+||manus2back-production.up.railway.app^
+||manusback-production.up.railway.app^
+||museadsback-production.up.railway.app^
+||syncgoogleadsback-production-6100.up.railway.app^
+||syncgoogleadsback-production-cde6.up.railway.app^
+||syncgoogleadsback-production.up.railway.app^
+||tbackend-production-39ca.up.railway.app^

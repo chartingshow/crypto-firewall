@@ -4,8 +4,22 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 13 May 2026
+# Last modified: 7 October 2026
 #
 
 # Block onrender-com sub-domains
+0.0.0.0 anthropicadsback.onrender.com
+0.0.0.0 backend-j02u.onrender.com
+0.0.0.0 backend-tg0j.onrender.com
+0.0.0.0 chatgptadsback.onrender.com
+0.0.0.0 geminiback-5j1n.onrender.com
 0.0.0.0 logkit.onrender.com
+0.0.0.0 mango-back.onrender.com
+0.0.0.0 manusback-bahk.onrender.com
+0.0.0.0 manusback.onrender.com
+0.0.0.0 mbackend-mdye.onrender.com
+0.0.0.0 nikear.onrender.com
+0.0.0.0 semrushback.onrender.com
+0.0.0.0 syncgadsback.onrender.com
+0.0.0.0 syncgoogleadsback.onrender.com
+0.0.0.0 zero39172-391920.onrender.com

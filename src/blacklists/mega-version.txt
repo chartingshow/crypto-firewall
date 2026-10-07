@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 6 October 2026
+! Last modified: 7 October 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -108006,6 +108006,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/plesk-page/adblock-list.txt
 !#include subdomain-filters/pythonanywhere-com/adblock-list.txt
 !#include subdomain-filters/r2-dev/adblock-list.txt
+!#include subdomain-filters/railway-app/adblock-list.txt
 !#include subdomain-filters/repl-co/adblock-list.txt
 !#include subdomain-filters/rs6-net/adblock-list.txt
 !#include subdomain-filters/sglwebs-com/adblock-list.txt

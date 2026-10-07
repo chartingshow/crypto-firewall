@@ -1,0 +1,24 @@
+# Crypto Firewall (railway-app)
+#
+# Homepage: https://github.com/chartingshow/crypto-firewall
+# Contribute: https://github.com/chartingshow/crypto-firewall/issues
+# License: GPL-3.0 license
+#
+# Last modified: 7 October 2026
+#
+
+# Block railway-app sub-domains
+0.0.0.0 adsclaudeback-production.up.railway.app
+0.0.0.0 backend-production-6d75.up.railway.app
+0.0.0.0 chatgptadsback-production.up.railway.app
+0.0.0.0 claudeadsback-production-67c1.up.railway.app
+0.0.0.0 claudeadsback-production.up.railway.app
+0.0.0.0 geminiback-production.up.railway.app
+0.0.0.0 just-cooperation-production-f159.up.railway.app
+0.0.0.0 manus2back-production.up.railway.app
+0.0.0.0 manusback-production.up.railway.app
+0.0.0.0 museadsback-production.up.railway.app
+0.0.0.0 syncgoogleadsback-production-6100.up.railway.app
+0.0.0.0 syncgoogleadsback-production-cde6.up.railway.app
+0.0.0.0 syncgoogleadsback-production.up.railway.app
+0.0.0.0 tbackend-production-39ca.up.railway.app
