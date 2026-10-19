@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 15 December 2025
+# Last modified: 19 October 2026
 #
 
 # Block solana-com sub-domains
@@ -310,7 +310,6 @@
 0.0.0.0 supportsolana.com
 0.0.0.0 swolana.com
 0.0.0.0 sxolana.com
-0.0.0.0 syolana.com
 0.0.0.0 szolana.com
 0.0.0.0 update-solana.com
 0.0.0.0 updatesolana.com
