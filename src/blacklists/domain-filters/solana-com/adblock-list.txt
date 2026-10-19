@@ -333,3 +333,6 @@
 ||ysolana.com^
 ||zolana.com^
 ||zsolana.com^
+
+! Issue: https://github.com/chartingshow/crypto-firewall/issues/1631
+! ||syolana.com^
