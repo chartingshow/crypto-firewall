@@ -331,3 +331,6 @@
 0.0.0.0 ysolana.com
 0.0.0.0 zolana.com
 0.0.0.0 zsolana.com
+
+# Issue: https://github.com/chartingshow/crypto-firewall/issues/1631
+# 0.0.0.0 syolana.com
