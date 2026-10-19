@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (solana-com)
 ! Expires: 7 days (update frequency)
-! Last modified: 15 December 2025
+! Last modified: 19 October 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -311,7 +311,6 @@
 ||supportsolana.com^
 ||swolana.com^
 ||sxolana.com^
-||syolana.com^
 ||szolana.com^
 ||update-solana.com^
 ||updatesolana.com^
