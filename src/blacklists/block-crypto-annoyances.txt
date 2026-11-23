@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 15 September 2026
+! Last modified: 23 November 2026
 ! Expires: 7 days
 !
 ! Notes:
@@ -1665,19 +1665,6 @@ www.msn.com##.intra-article-relatedcontent
 ! Enable or disable entries as needed.
 !--------------------------------------------------------------------------------
 
-www.tradingview.com###tv-toasts
-www.tradingview.com##.tv-toasts
-www.tradingview.com##:matches-path(/ideas) body.i-no-scroll:style(overflow: auto !important)
-www.tradingview.com##:matches-path(/scripts) body.i-no-scroll:style(overflow: auto !important)
-www.tradingview.com##[class^=backdrop]
-www.tradingview.com##[class^=counterRow-I]
-www.tradingview.com##[class^=notifications]
-www.tradingview.com##[class^=toast-wrapper]
-www.tradingview.com##[class^=toast]
-www.tradingview.com##[class^=toastCommon]
-www.tradingview.com##[class^=toastCommonBase]
-www.tradingview.com##[data-role*="toast-container"]
-www.tradingview.com##div[data-dialog-name=gopro]
 ||economic-calendar.tradingview.com^$xhr
 ||failover-telemetry-as.tradingview.com^
 ||failover-telemetry-eu.tradingview.com^
@@ -1695,6 +1682,20 @@ www.tradingview.com##div[data-dialog-name=gopro]
 ||telemetry-partial.tradingview.com^
 ||telemetry.tradingview.com^
 ||tradingview.com/ping
+www.tradingview.com##:matches-path(/ideas) body.i-no-scroll:style(overflow: auto !important)
+www.tradingview.com##:matches-path(/scripts) body.i-no-scroll:style(overflow: auto !important)
+www.tradingview.com##.tv-toasts
+www.tradingview.com##[class*="backdrop-"]
+www.tradingview.com##[class*="black_friday-"]
+www.tradingview.com##[class*="counterRow-I-"]
+www.tradingview.com##[class*="notifications-"]
+www.tradingview.com##[class*="toast-"]
+www.tradingview.com##[class*="toast-wrapper-"]
+www.tradingview.com##[class*="toastCommon-"]
+www.tradingview.com##[class*="toastCommonBase-"]
+www.tradingview.com##[data-role*="toast-container"]
+www.tradingview.com###tv-toasts
+www.tradingview.com##div[data-dialog-name=gopro]
 
 !--------------------------- EXCHANGE BLOCKS -----------------------------------
 ! Block elements and domains related to exchanges.
