@@ -5,13 +5,21 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 June 2026
+# Last modified: 24 November 2026
 #
 
-anthfu/Bonsai-8B-gguf
-anthfu/DeepSeek-V4-Pro
-anthfu/Qwen3.6-35B-A3B-APEX-GGUF
-anthfu/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF
-anthfu/Qwopus-GLM-18B-Merged-GGUF
-anthfu/supergemma4-26b-uncensored-gguf-v2
+andrew3d/
+anthfu/
+antwoinhjro654/
+dsxk4mr8tq/
+hhzz667/
+htt0118/
+KzuryHD/
+MENXIANGYU/
+MONIADF-2/
+oifewuheu/
 Open-OSS/privacy-filter
+r1r13/
+soumikmahato/
+vaishupv/
+wjsbg/

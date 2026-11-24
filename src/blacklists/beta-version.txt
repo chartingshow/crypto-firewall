@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 12 October 2026
+! Last modified: 24 November 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -108103,6 +108103,7 @@
 ||1rpc.io/matic*
 ||apps.apple.com/*/app/nivex/id6744414166*
 ||facebook.com/profile.php?id=61577263233088
+||github.com/peakminer/peakminer/releases/download/*
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg
 ||instagram.com/nivexlab*
 ||linktr.ee/Nivex_Official*

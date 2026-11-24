@@ -4,7 +4,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 June 2026
+# Last modified: 24 November 2026
 #
 
 # Block aliyuncs-com sub-domains
@@ -17,9 +17,11 @@
 0.0.0.0 dhoss-2023.oss-cn-beijing.aliyuncs.com
 0.0.0.0 dxifjew2.oss-cn-beijing.aliyuncs.com
 0.0.0.0 file-ht-2023.oss-cn-shenzhen.aliyuncs.com
+0.0.0.0 imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 0.0.0.0 ok2025-oss.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 sdcwww.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 sdk-data-re.oss-accelerate.aliyuncs.com
 0.0.0.0 tbetter-oss.oss-accelerate.aliyuncs.com
 0.0.0.0 tbetter-oss.oss-cn-guangzhou.aliyuncs.com
+0.0.0.0 terrtest.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 zx-afjweiofwe.oss-cn-beijing.aliyuncs.com

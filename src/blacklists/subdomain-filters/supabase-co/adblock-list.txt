@@ -9,5 +9,6 @@
 !-------------------------------------------------------------------------------
 
 ! Block supabase-co sub-domains ------------------------------------------------------
+||iymkjuzymkapovrntoxy.supabase.co^
 ||xepokbvwehkbjezrvhip.supabase.co^
-||zyqmpfcrijqmwyzbkubf.supabase.co ^
+||zyqmpfcrijqmwyzbkubf.supabase.co^

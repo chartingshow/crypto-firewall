@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall (Pages Dev)
 ! Expires: 7 days (update frequency)
-! Last modified: 23 September 2026
+! Last modified: 24 November 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -10,7 +10,6 @@
 
 ! Block pages dev sub-domains --------------------------------------------------
 ||0xclaim.pages.dev^
-||10ktfangel.pages.dev^
 ||1inch-7gf.pages.dev^
 ||1inch-airdrop.pages.dev^
 ||1inch-app.pages.dev^
@@ -19,7 +18,8 @@
 ||1inch-withdrawals.pages.dev^
 ||1inchs.pages.dev^
 ||1linch.pages.dev^
-||373747178231786-update-form-unitedairlines.pages.dev^
+||8pay-network.pages.dev^
+||10ktfangel.pages.dev^
 ||5141619375.pages.dev^
 ||5373782173.pages.dev^
 ||5570634148-3lb.pages.dev^
@@ -28,7 +28,7 @@
 ||6522490513.pages.dev^
 ||6711445124-78j.pages.dev^
 ||6965182285.pages.dev^
-||8pay-network.pages.dev^
+||373747178231786-update-form-unitedairlines.pages.dev^
 ||a0c8abc10abc01.pages.dev^
 ||aaaaaaaaaa32.pages.dev^
 ||aaaaaaaaaaaaaaaa1.pages.dev^
@@ -66,8 +66,8 @@
 ||allsupportconnect.pages.dev^
 ||allsync-dapps.pages.dev^
 ||ally-swap.pages.dev^
-||amlbot-502.pages.dev^
 ||amlbot-6b5.pages.dev^
+||amlbot-502.pages.dev^
 ||amlbot-checker.pages.dev^
 ||amlbot-eam.pages.dev^
 ||amlcheck.pages.dev^
@@ -249,8 +249,8 @@
 ||cladueall.pages.dev^
 ||claim-3ct.pages.dev^
 ||claim-3na.pages.dev^
-||claim-506.pages.dev^
 ||claim-5ex.pages.dev^
+||claim-506.pages.dev^
 ||claim-bigeyescoin.pages.dev^
 ||claim-bimeme.pages.dev^
 ||claim-bit-rock-e43.pages.dev^
@@ -365,8 +365,8 @@
 ||delegatecash.pages.dev^
 ||delysium.pages.dev^
 ||demo-catalyst-exchange.pages.dev^
-||demo777-14i.pages.dev^
 ||demo777-2va.pages.dev^
+||demo777-14i.pages.dev^
 ||dexonline.pages.dev^
 ||digitoadsnode.pages.dev^
 ||digitoadworld.pages.dev^
@@ -464,6 +464,7 @@
 ||kara-housing.pages.dev^
 ||kidcalledbeast.pages.dev^
 ||kishuta.pages.dev^
+||ksmgakajgpsals.pages.dev^
 ||kujira-network.pages.dev^
 ||kybernetwork-claim.pages.dev^
 ||kyberswap-network-protocol.pages.dev^
@@ -572,8 +573,8 @@
 ||oggyinu.pages.dev^
 ||okx-ru.pages.dev^
 ||op-airdrop.pages.dev^
-||opensea-61a.pages.dev^
 ||opensea-7vn.pages.dev^
+||opensea-61a.pages.dev^
 ||opensea-degods.pages.dev^
 ||openseapro.pages.dev^
 ||openseas.pages.dev^
@@ -586,8 +587,8 @@
 ||pallai.pages.dev^
 ||pancakegame.pages.dev^
 ||pancakenswap-1qu.pages.dev^
-||pancakeswap-21z.pages.dev^
 ||pancakeswap-8l0.pages.dev^
+||pancakeswap-21z.pages.dev^
 ||pancakeswap-aw3.pages.dev^
 ||pancakeswap-wallet.pages.dev^
 ||pancakeswap-web3.pages.dev^
@@ -864,8 +865,8 @@
 ||webtoken.pages.dev^
 ||webwalletchain.pages.dev^
 ||win-claim.pages.dev^
-||worldcoin-656.pages.dev^
 ||worldcoin-7yb.pages.dev^
+||worldcoin-656.pages.dev^
 ||worldcoin-d42.pages.dev^
 ||wxmoney.pages.dev^
 ||x-token.pages.dev^
