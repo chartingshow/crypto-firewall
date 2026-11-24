@@ -18,9 +18,11 @@
 ||dhoss-2023.oss-cn-beijing.aliyuncs.com^
 ||dxifjew2.oss-cn-beijing.aliyuncs.com^
 ||file-ht-2023.oss-cn-shenzhen.aliyuncs.com^
+||imagefiles-backup.oss-ap-southeast-7.aliyuncs.com^
 ||ok2025-oss.oss-cn-shenzhen.aliyuncs.com^
 ||sdcwww.oss-ap-southeast-1.aliyuncs.com^
 ||sdk-data-re.oss-accelerate.aliyuncs.com^
 ||tbetter-oss.oss-accelerate.aliyuncs.com^
 ||tbetter-oss.oss-cn-guangzhou.aliyuncs.com^
+||terrtest.oss-cn-hangzhou.aliyuncs.com^
 ||zx-afjweiofwe.oss-cn-beijing.aliyuncs.com^

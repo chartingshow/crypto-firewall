@@ -5,7 +5,7 @@
  *              malicious cryptocurrency-related packages, extensions, and projects.
  *              Checks URLs against curated blacklists (npm, PyPI, Chrome Store, etc.)
  *              and alerts users on detection.
- * @version 2.3.1
+ * @version 2.3.2
  * @copyright (c) The Charting Show
  * @license GPL-3.0 license
  *
@@ -58,6 +58,9 @@
 
     'marketplace.visualstudio.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/vscode-extensions.txt',
+
+    'modelscope.cn':
+      'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/modelscope.txt',
 
     'npmjs.com':
       'https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/packages-and-extensions/npm-packages.txt',
@@ -152,13 +155,55 @@
       const pkg = threat.package.toLowerCase()
       let matched = false
 
-      if (domainKey === 'huggingface.co') {
-        // Hugging Face uses /username/model-name or /username/model-name/tree/branch etc.
-        const hfMatch = CURRENT.path.match(/^\/([^/]+\/[^/]+)/)
-        if (hfMatch) {
-          const repoPath = hfMatch[1].toLowerCase()
-          matched = repoPath === pkg || CURRENT.path.includes('/' + pkg + '/')
+      if (domainKey === 'modelscope.cn') {
+        // ModelScope model pages, API endpoints and repository file URLs.
+        // Match complete path segments, never arbitrary substrings.
+        const segments = parsedURL.pathname.split('/').filter(Boolean)
+        let parts
+        try {
+          parts = segments.map((part) => decodeURIComponent(part).toLowerCase())
+        } catch {
+          continue
         }
+        if (parts.some((part) => /[\/\\]/.test(part))) continue
+
+        if (parts[0] === 'api' && parts[1] === 'v1' && parts[2] === 'models') {
+          parts = parts.slice(3)
+        } else if (parts[0] === 'models') {
+          parts = parts.slice(1)
+        } else if (['api', 'openapi', 'datasets', 'studios', 'skills', 'posts', 'docs', 'my'].includes(parts[0])) {
+          continue
+        }
+
+        const [account, model] = parts
+        const entry = pkg.replace(/\/+$/, '').split('/')
+        matched = Boolean(account) && account === entry[0] &&
+          (entry.length === 1 || (entry.length === 2 && model === entry[1]))
+      }
+      else if (domainKey === 'huggingface.co') {
+        // Hugging Face profiles, model repositories and scoped repository routes.
+        let parts
+        try {
+          parts = parsedURL.pathname.split('/').filter(Boolean)
+            .map((part) => decodeURIComponent(part).toLowerCase())
+        } catch {
+          continue
+        }
+        if (parts.some((part) => /[\/\\]/.test(part))) continue
+
+        if (parts[0] === 'api') {
+          if (!['models', 'datasets', 'spaces'].includes(parts[1])) continue
+          parts = parts.slice(2)
+        } else if (['datasets', 'spaces'].includes(parts[0])) {
+          parts = parts.slice(1)
+        } else if (['models', 'docs', 'blog', 'settings', 'organizations', 'collections'].includes(parts[0])) {
+          continue
+        }
+
+        const [account, repo] = parts
+        const entry = pkg.replace(/\/+$/, '').split('/')
+        matched = Boolean(account) && account === entry[0] &&
+          (entry.length === 1 || (entry.length === 2 && repo === entry[1]))
       } 
       else if (/^[a-z0-9]{32}$/.test(pkg)) {
         // Chrome/Edge extension IDs
@@ -332,11 +377,26 @@
       'facebook.com': () =>
         checkURLAgainstBlacklist('facebook.com'),
 
+      'www.huggingface.co': () =>
+        checkURLAgainstBlacklist('huggingface.co'),
+
       'huggingface.co': () =>
         checkURLAgainstBlacklist('huggingface.co'),
 
       'marketplace.visualstudio.com': () =>
         checkURLAgainstBlacklist('marketplace.visualstudio.com'),
+
+      'modelscope.cn': () =>
+        checkURLAgainstBlacklist('modelscope.cn'),
+
+      'www.modelscope.cn': () =>
+        checkURLAgainstBlacklist('modelscope.cn'),
+
+      'modelscope.ai': () =>
+        checkURLAgainstBlacklist('modelscope.cn'),
+
+      'www.modelscope.ai': () =>
+        checkURLAgainstBlacklist('modelscope.cn'),
 
       'npmjs.com': () =>
         checkURLAgainstBlacklist('npmjs.com'),

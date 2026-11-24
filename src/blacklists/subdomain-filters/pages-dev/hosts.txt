@@ -4,12 +4,11 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 6 October 2026
+# Last modified: 24 November 2026
 #
 
 # Block pages dev sub-domains
 0.0.0.0 0xclaim.pages.dev
-0.0.0.0 10ktfangel.pages.dev
 0.0.0.0 1inch-7gf.pages.dev
 0.0.0.0 1inch-airdrop.pages.dev
 0.0.0.0 1inch-app.pages.dev
@@ -18,7 +17,8 @@
 0.0.0.0 1inch-withdrawals.pages.dev
 0.0.0.0 1inchs.pages.dev
 0.0.0.0 1linch.pages.dev
-0.0.0.0 373747178231786-update-form-unitedairlines.pages.dev
+0.0.0.0 8pay-network.pages.dev
+0.0.0.0 10ktfangel.pages.dev
 0.0.0.0 5141619375.pages.dev
 0.0.0.0 5373782173.pages.dev
 0.0.0.0 5570634148-3lb.pages.dev
@@ -27,7 +27,7 @@
 0.0.0.0 6522490513.pages.dev
 0.0.0.0 6711445124-78j.pages.dev
 0.0.0.0 6965182285.pages.dev
-0.0.0.0 8pay-network.pages.dev
+0.0.0.0 373747178231786-update-form-unitedairlines.pages.dev
 0.0.0.0 a0c8abc10abc01.pages.dev
 0.0.0.0 aaaaaaaaaa32.pages.dev
 0.0.0.0 aaaaaaaaaaaaaaaa1.pages.dev
@@ -65,8 +65,8 @@
 0.0.0.0 allsupportconnect.pages.dev
 0.0.0.0 allsync-dapps.pages.dev
 0.0.0.0 ally-swap.pages.dev
-0.0.0.0 amlbot-502.pages.dev
 0.0.0.0 amlbot-6b5.pages.dev
+0.0.0.0 amlbot-502.pages.dev
 0.0.0.0 amlbot-checker.pages.dev
 0.0.0.0 amlbot-eam.pages.dev
 0.0.0.0 amlcheck.pages.dev
@@ -248,8 +248,8 @@
 0.0.0.0 cladueall.pages.dev
 0.0.0.0 claim-3ct.pages.dev
 0.0.0.0 claim-3na.pages.dev
-0.0.0.0 claim-506.pages.dev
 0.0.0.0 claim-5ex.pages.dev
+0.0.0.0 claim-506.pages.dev
 0.0.0.0 claim-bigeyescoin.pages.dev
 0.0.0.0 claim-bimeme.pages.dev
 0.0.0.0 claim-bit-rock-e43.pages.dev
@@ -364,8 +364,8 @@
 0.0.0.0 delegatecash.pages.dev
 0.0.0.0 delysium.pages.dev
 0.0.0.0 demo-catalyst-exchange.pages.dev
-0.0.0.0 demo777-14i.pages.dev
 0.0.0.0 demo777-2va.pages.dev
+0.0.0.0 demo777-14i.pages.dev
 0.0.0.0 dexonline.pages.dev
 0.0.0.0 digitoadsnode.pages.dev
 0.0.0.0 digitoadworld.pages.dev
@@ -463,6 +463,7 @@
 0.0.0.0 kara-housing.pages.dev
 0.0.0.0 kidcalledbeast.pages.dev
 0.0.0.0 kishuta.pages.dev
+0.0.0.0 ksmgakajgpsals.pages.dev
 0.0.0.0 kujira-network.pages.dev
 0.0.0.0 kybernetwork-claim.pages.dev
 0.0.0.0 kyberswap-network-protocol.pages.dev
@@ -571,8 +572,8 @@
 0.0.0.0 oggyinu.pages.dev
 0.0.0.0 okx-ru.pages.dev
 0.0.0.0 op-airdrop.pages.dev
-0.0.0.0 opensea-61a.pages.dev
 0.0.0.0 opensea-7vn.pages.dev
+0.0.0.0 opensea-61a.pages.dev
 0.0.0.0 opensea-degods.pages.dev
 0.0.0.0 openseapro.pages.dev
 0.0.0.0 openseas.pages.dev
@@ -585,8 +586,8 @@
 0.0.0.0 pallai.pages.dev
 0.0.0.0 pancakegame.pages.dev
 0.0.0.0 pancakenswap-1qu.pages.dev
-0.0.0.0 pancakeswap-21z.pages.dev
 0.0.0.0 pancakeswap-8l0.pages.dev
+0.0.0.0 pancakeswap-21z.pages.dev
 0.0.0.0 pancakeswap-aw3.pages.dev
 0.0.0.0 pancakeswap-wallet.pages.dev
 0.0.0.0 pancakeswap-web3.pages.dev
@@ -863,8 +864,8 @@
 0.0.0.0 webtoken.pages.dev
 0.0.0.0 webwalletchain.pages.dev
 0.0.0.0 win-claim.pages.dev
-0.0.0.0 worldcoin-656.pages.dev
 0.0.0.0 worldcoin-7yb.pages.dev
+0.0.0.0 worldcoin-656.pages.dev
 0.0.0.0 worldcoin-d42.pages.dev
 0.0.0.0 wxmoney.pages.dev
 0.0.0.0 x-token.pages.dev

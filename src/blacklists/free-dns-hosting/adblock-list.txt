@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: Crypto Firewall
 ! Expires: 7 days (update frequency)
-! Last modified: 30 June 2026
+! Last modified: 24 November 2026
 ! Homepage: https://github.com/chartingshow/crypto-firewall/
 ! Contribute: https://github.com/chartingshow/crypto-firewall/issues
 ! License: GPL-3.0 license
@@ -42,6 +42,7 @@
 ||ddnsgeek.com^
 ||ddnsguru.com^
 ||ddnsking.com^
+||desec.io^
 ||ditchyourip.com^
 ||dns-sl.info^
 ||dns.army^

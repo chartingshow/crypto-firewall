@@ -9,6 +9,7 @@
 !-------------------------------------------------------------------------------
 
 ! Block trycloudflare-com sub-domains ------------------------------------------------------
+||grows-stocks-vatican-flood.trycloudflare.com^
 ||sublime-tragedy-counties-sculpture.trycloudflare.com^
 ||term-restore-satisfied-hence.trycloudflare.com^
 ||tie-cent-orleans-arrival.trycloudflare.com^

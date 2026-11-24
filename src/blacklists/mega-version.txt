@@ -10,7 +10,7 @@
 ! License: GPL-3.0
 !
 ! Format: Adblock Plus
-! Last modified: 12 October 2026
+! Last modified: 24 November 2026
 ! Expires: 24 hours
 !
 ! Notes:
@@ -108103,6 +108103,7 @@
 ||1rpc.io/matic*
 ||apps.apple.com/*/app/nivex/id6744414166*
 ||facebook.com/profile.php?id=61577263233088
+||github.com/peakminer/peakminer/releases/download/*
 ||i.imgs.ovh/2025/07/17/DGlLc.jpeg
 ||instagram.com/nivexlab*
 ||linktr.ee/Nivex_Official*
@@ -108444,6 +108445,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 !#include subdomain-filters/it-com/adblock-list.txt
 !#include subdomain-filters/jetserver-net/adblock-list.txt
 !#include subdomain-filters/liveblog365-com/adblock-list.txt
+!#include subdomain-filters/lovable-app/adblock-list.txt
 !#include subdomain-filters/lum-sdk-io/adblock-list.txt
 !#include subdomain-filters/magentosite-cloud/adblock-list.txt
 !#include subdomain-filters/netlify-app/adblock-list.txt

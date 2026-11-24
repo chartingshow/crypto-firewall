@@ -7,7 +7,7 @@
 # Contribute: https://github.com/chartingshow/crypto-firewall/issues
 # License: GPL-3.0 license
 #
-# Last modified: 30 June 2026
+# Last modified: 24 November 2026
 
 # Domains
 2waky.com
@@ -43,6 +43,7 @@ ddnsfree.com
 ddnsgeek.com
 ddnsguru.com
 ddnsking.com
+desec.io
 ditchyourip.com
 dns-sl.info
 dns.army
@@ -124,13 +125,13 @@ neat-url.com
 nerdpol.ovh
 net-freaks.com
 ngrok.io
+no_ip.biz
 no-ip.biz
 no-ip.ca
 no-ip.com
 no-ip.info
 no-ip.net
 no-ip.org
-no_ip.biz
 noip.com
 noip.me
 noip.pl
